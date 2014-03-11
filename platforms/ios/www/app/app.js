@@ -1,7 +1,7 @@
 
-var Learn = angular.module("Learn", ["ngRoute"]).run(function() {
-    FastClick.attach(document.body);
-}); //add ngRoute ($routeProvider) as a dependency for the app, and init fastclick on body
+var Learn = angular.module("Learn", ["ngRoute"]);//.run(function() {
+    //FastClick.attach(document.body);
+//}); //add ngRoute ($routeProvider) as a dependency for the app, and init fastclick on body
 
 
 <!--Routing-->

@@ -612,3 +612,59 @@ Terminating in response to SpringBoard's termination.
 2014-03-10 18:08:51.326 Ping[21085:80b] [CDVTimer][TotalPluginStartup] 1.214027ms
 2014-03-10 18:08:51.488 Ping[21085:80b] Resetting plugins due to page load.
 2014-03-10 18:08:51.578 Ping[21085:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html#/
+2014-03-10 18:55:39.213 Ping[24916:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-10 18:55:39.235 Ping[24916:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-10 18:55:39.236 Ping[24916:80b] [CDVTimer][statusbar] 0.373006ms
+2014-03-10 18:55:39.236 Ping[24916:80b] [CDVTimer][ttsplugin] 0.038981ms
+2014-03-10 18:55:39.236 Ping[24916:80b] [CDVTimer][TotalPluginStartup] 1.003027ms
+2014-03-10 18:55:39.361 Ping[24916:80b] Resetting plugins due to page load.
+2014-03-10 18:55:39.454 Ping[24916:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html#/
+2014-03-10 18:57:00.858 Ping[25926:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-10 18:57:00.885 Ping[25926:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-10 18:57:00.885 Ping[25926:80b] [CDVTimer][statusbar] 0.455976ms
+2014-03-10 18:57:00.886 Ping[25926:80b] [CDVTimer][ttsplugin] 0.056982ms
+2014-03-10 18:57:00.886 Ping[25926:80b] [CDVTimer][TotalPluginStartup] 1.393974ms
+2014-03-10 18:57:00.981 Ping[25926:80b] Resetting plugins due to page load.
+2014-03-10 18:57:01.076 Ping[25926:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html#/
+2014-03-10 18:59:34.620 Ping[26579:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-10 18:59:34.641 Ping[26579:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-10 18:59:34.641 Ping[26579:80b] [CDVTimer][statusbar] 0.434995ms
+2014-03-10 18:59:34.642 Ping[26579:80b] [CDVTimer][ttsplugin] 0.041008ms
+2014-03-10 18:59:34.642 Ping[26579:80b] [CDVTimer][TotalPluginStartup] 1.146972ms
+2014-03-10 18:59:34.774 Ping[26579:80b] Resetting plugins due to page load.
+2014-03-10 18:59:34.871 Ping[26579:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html#/
+2014-03-10 19:10:02.899 Ping[27246:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-10 19:10:02.930 Ping[27246:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-10 19:10:02.930 Ping[27246:80b] [CDVTimer][statusbar] 0.483990ms
+2014-03-10 19:10:02.931 Ping[27246:80b] [CDVTimer][ttsplugin] 0.060022ms
+2014-03-10 19:10:02.931 Ping[27246:80b] [CDVTimer][TotalPluginStartup] 1.378953ms
+2014-03-10 19:10:03.016 Ping[27246:80b] Resetting plugins due to page load.
+2014-03-10 19:10:03.119 Ping[27246:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html#/
+2014-03-10 19:20:44.488 Ping[27806:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-10 19:20:45.662 Ping[27806:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-10 19:20:45.662 Ping[27806:80b] [CDVTimer][statusbar] 0.679016ms
+2014-03-10 19:20:45.663 Ping[27806:80b] [CDVTimer][ttsplugin] 0.380993ms
+2014-03-10 19:20:45.663 Ping[27806:80b] [CDVTimer][TotalPluginStartup] 1.677990ms
+2014-03-10 19:20:46.015 Ping[27806:80b] Resetting plugins due to page load.
+2014-03-10 19:20:46.798 Ping[27806:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html#/
+2014-03-10 19:35:31.937 Ping[28733:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-10 19:35:31.959 Ping[28733:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-10 19:35:31.960 Ping[28733:80b] [CDVTimer][statusbar] 0.415981ms
+2014-03-10 19:35:31.960 Ping[28733:80b] [CDVTimer][ttsplugin] 0.041008ms
+2014-03-10 19:35:31.960 Ping[28733:80b] [CDVTimer][TotalPluginStartup] 1.016021ms
+2014-03-10 19:35:32.091 Ping[28733:80b] Resetting plugins due to page load.
+2014-03-10 19:35:32.176 Ping[28733:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html#/
+2014-03-10 20:32:28.374 Ping[29764:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-10 20:32:28.636 Ping[29764:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-10 20:32:28.636 Ping[29764:80b] [CDVTimer][statusbar] 0.472963ms
+2014-03-10 20:32:28.636 Ping[29764:80b] [CDVTimer][ttsplugin] 0.043035ms
+2014-03-10 20:32:28.637 Ping[29764:80b] [CDVTimer][TotalPluginStartup] 1.132965ms
+2014-03-10 20:32:28.870 Ping[29764:80b] Resetting plugins due to page load.
+2014-03-10 20:32:29.074 Ping[29764:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html#/
+2014-03-10 21:04:08.467 Ping[30493:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-10 21:04:08.487 Ping[30493:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-10 21:04:08.488 Ping[30493:80b] [CDVTimer][statusbar] 0.401020ms
+2014-03-10 21:04:08.488 Ping[30493:80b] [CDVTimer][ttsplugin] 0.039995ms
+2014-03-10 21:04:08.488 Ping[30493:80b] [CDVTimer][TotalPluginStartup] 1.024008ms
+2014-03-10 21:04:08.618 Ping[30493:80b] Resetting plugins due to page load.
+2014-03-10 21:04:08.710 Ping[30493:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html#/
