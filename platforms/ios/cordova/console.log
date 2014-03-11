@@ -1,0 +1,33 @@
+2014-03-10 17:34:57.165 HelloWorld[13704:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-10 17:34:57.256 HelloWorld[13704:80b] Fix applied for database locations?: YES
+2014-03-10 17:34:57.764 HelloWorld[13704:80b] Resetting plugins due to page load.
+2014-03-10 17:34:57.911 HelloWorld[13704:80b] Finished load of: file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5797267D-38C3-4C07-A39B-378EA33C7168/HelloWorld.app/www/index.html
+2014-03-10 17:41:21.543 Ping[14199:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-10 17:41:21.583 Ping[14199:80b] Fix applied for database locations?: YES
+2014-03-10 17:41:21.634 Ping[14199:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-10 17:41:21.635 Ping[14199:80b] [CDVTimer][statusbar] 0.634968ms
+2014-03-10 17:41:21.635 Ping[14199:80b] CDVPlugin class TTSPlugin (pluginName: ttsplugin) does not exist.
+2014-03-10 17:41:21.636 Ping[14199:80b] [CDVTimer][ttsplugin] 0.504017ms
+2014-03-10 17:41:21.636 Ping[14199:80b] [CDVTimer][TotalPluginStartup] 2.195001ms
+2014-03-10 17:41:21.956 Ping[14199:80b] Resetting plugins due to page load.
+2014-03-10 17:41:22.217 Ping[14199:80b] Finished load of: file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/257E02A2-1F1F-46E9-893D-8EFDD8EA0DD8/Ping.app/www/index.html#/
+2014-03-10 17:41:30.253 Ping[14199:80b] CDVPlugin class TTSPlugin (pluginName: TTSPlugin) does not exist.
+2014-03-10 17:41:30.254 Ping[14199:80b] ERROR: Plugin 'TTSPlugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-03-10 17:41:30.255 Ping[14199:80b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "TTSPlugin1129277194",
+  "TTSPlugin",
+  "speakStuff",
+  [
+    "Hund"
+  ]
+]
+2014-03-10 17:41:36.373 Ping[14199:80b] CDVPlugin class TTSPlugin (pluginName: TTSPlugin) does not exist.
+2014-03-10 17:41:36.373 Ping[14199:80b] ERROR: Plugin 'TTSPlugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2014-03-10 17:41:36.374 Ping[14199:80b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "TTSPlugin1129277195",
+  "TTSPlugin",
+  "speakStuff",
+  [
+    "Hund"
+  ]
+]
