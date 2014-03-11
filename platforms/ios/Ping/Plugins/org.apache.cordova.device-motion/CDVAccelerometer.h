@@ -17,23 +17,23 @@
  under the License.
  */
 
-//
-//  MainViewController.h
-//  HelloWorld
-//
-//  Created by ___FULLUSERNAME___ on ___DATE___.
-//  Copyright ___ORGANIZATIONNAME___ ___YEAR___. All rights reserved.
-//
+#import <UIKit/UIKit.h>
+#import <Cordova/CDVPlugin.h>
 
-#import <Cordova/CDVViewController.h>
-#import <Cordova/CDVCommandDelegateImpl.h>
-#import <Cordova/CDVCommandQueue.h>
+@interface CDVAccelerometer : CDVPlugin
+{
+    double x;
+    double y;
+    double z;
+    NSTimeInterval timestamp;
+}
 
-@interface MainViewController : CDVViewController
-@end
+@property (readonly, assign) BOOL isRunning;
+@property (nonatomic, strong) NSString* callbackId;
 
-@interface MainCommandDelegate : CDVCommandDelegateImpl
-@end
+- (CDVAccelerometer*)init;
 
-@interface MainCommandQueue : CDVCommandQueue
+- (void)start:(CDVInvokedUrlCommand*)command;
+- (void)stop:(CDVInvokedUrlCommand*)command;
+
 @end
