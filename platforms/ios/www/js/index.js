@@ -37,6 +37,6 @@ var app = {
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
-        angular.bootstrap(document, ["Ping"]);
+        angular.bootstrap(document, ["Learn"]);
     }
 };

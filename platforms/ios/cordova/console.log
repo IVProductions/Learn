@@ -605,3 +605,10 @@ Terminating in response to SpringBoard's termination.
 2014-03-09 00:17:42.927 Ping[9016:6c07] 00:17:42.927 ERROR:     398: error -66680
 2014-03-09 00:17:42.927 Ping[9016:6c07] 00:17:42.927 ERROR:     >aq> 1608: failed (-66680); will stop (33075/0 frames)
 2014-03-09 00:17:44.840 Ping[9016:80b] OK button clicked
+2014-03-10 18:08:51.277 Ping[21085:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-10 18:08:51.324 Ping[21085:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-10 18:08:51.325 Ping[21085:80b] [CDVTimer][statusbar] 0.589013ms
+2014-03-10 18:08:51.325 Ping[21085:80b] [CDVTimer][ttsplugin] 0.038981ms
+2014-03-10 18:08:51.326 Ping[21085:80b] [CDVTimer][TotalPluginStartup] 1.214027ms
+2014-03-10 18:08:51.488 Ping[21085:80b] Resetting plugins due to page load.
+2014-03-10 18:08:51.578 Ping[21085:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html#/
