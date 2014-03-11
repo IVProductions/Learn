@@ -17,23 +17,14 @@
  under the License.
  */
 
-//
-//  MainViewController.h
-//  HelloWorld
-//
-//  Created by ___FULLUSERNAME___ on ___DATE___.
-//  Copyright ___ORGANIZATIONNAME___ ___YEAR___. All rights reserved.
-//
+#import <UIKit/UIKit.h>
+#import <Cordova/CDVPlugin.h>
 
-#import <Cordova/CDVViewController.h>
-#import <Cordova/CDVCommandDelegateImpl.h>
-#import <Cordova/CDVCommandQueue.h>
+@interface CDVDevice : CDVPlugin
+{}
 
-@interface MainViewController : CDVViewController
-@end
++ (NSString*)cordovaVersion;
 
-@interface MainCommandDelegate : CDVCommandDelegateImpl
-@end
+- (void)getDeviceInfo:(CDVInvokedUrlCommand*)command;
 
-@interface MainCommandQueue : CDVCommandQueue
 @end

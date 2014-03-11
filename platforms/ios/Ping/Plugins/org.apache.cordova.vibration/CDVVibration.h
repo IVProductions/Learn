@@ -17,23 +17,13 @@
  under the License.
  */
 
-//
-//  MainViewController.h
-//  HelloWorld
-//
-//  Created by ___FULLUSERNAME___ on ___DATE___.
-//  Copyright ___ORGANIZATIONNAME___ ___YEAR___. All rights reserved.
-//
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import <AudioToolbox/AudioServices.h>
+#import <Cordova/CDVPlugin.h>
 
-#import <Cordova/CDVViewController.h>
-#import <Cordova/CDVCommandDelegateImpl.h>
-#import <Cordova/CDVCommandQueue.h>
+@interface CDVVibration : CDVPlugin {}
 
-@interface MainViewController : CDVViewController
-@end
+- (void)vibrate:(CDVInvokedUrlCommand*)command;
 
-@interface MainCommandDelegate : CDVCommandDelegateImpl
-@end
-
-@interface MainCommandQueue : CDVCommandQueue
 @end
