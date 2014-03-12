@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1401a18-d68f-45ee-94ee-c1536ce4ee85" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/jquery.ui.touch-punch.min.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/www/lib/jquery/jquery-1.11.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/lib/jquery/jquery-1.11.0.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/www/js/jquery-2.0.3.min.js" afterPath="$PROJECT_DIR$/www/lib/jquery/jquery-2.0.3.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/www/js/jquery-ui-1.10.3.min.js" afterPath="$PROJECT_DIR$/www/lib/jquery/jquery-ui-1.10.3.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Ping.xcodeproj/project.xcworkspace/xcuserdata/simonhordvik.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/platforms/ios/Ping.xcodeproj/project.xcworkspace/xcuserdata/simonhordvik.xcuserdatad/UserInterfaceState.xcuserstate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/app/app.js" afterPath="$PROJECT_DIR$/platforms/ios/www/app/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/console.log" afterPath="$PROJECT_DIR$/platforms/ios/cordova/console.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/app/partials/drag.html" afterPath="$PROJECT_DIR$/platforms/ios/www/app/partials/drag.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/partials/drag.html" afterPath="$PROJECT_DIR$/www/app/partials/drag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/app/controllers/dragCtrl.js" afterPath="$PROJECT_DIR$/platforms/ios/www/app/controllers/dragCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/controllers/dragCtrl.js" afterPath="$PROJECT_DIR$/www/app/controllers/dragCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/css/index.css" afterPath="$PROJECT_DIR$/platforms/ios/www/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/index.html" afterPath="$PROJECT_DIR$/platforms/ios/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/index.js" afterPath="$PROJECT_DIR$/www/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/app/partials/main.html" afterPath="$PROJECT_DIR$/platforms/ios/www/app/partials/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/app/partials/splash.html" afterPath="$PROJECT_DIR$/platforms/ios/www/app/partials/splash.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/partials/splash.html" afterPath="$PROJECT_DIR$/www/app/partials/splash.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/css/style.css" afterPath="$PROJECT_DIR$/platforms/ios/www/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/style.css" afterPath="$PROJECT_DIR$/www/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Learn.iws" />
@@ -58,7 +39,7 @@
       <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/app/partials/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="12" selection-start="149" selection-end="149" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="600">
+            <state line="9" column="12" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1980">
               <folding />
             </state>
           </provider>
@@ -67,16 +48,25 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="70" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1485">
+            <state line="49" column="1" selection-start="878" selection-end="878" vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="2160">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="drag.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="drag.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/app/partials/drag.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+            <state line="9" column="76" selection-start="485" selection-end="485" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="285">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="18" selection-start="308" selection-end="308" vertical-scroll-proportion="-3.8701298" vertical-offset="1610" max-vertical-offset="1995">
               <folding />
             </state>
           </provider>
@@ -85,7 +75,7 @@
       <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="1" selection-start="1634" selection-end="1634" vertical-scroll-proportion="0.0" vertical-offset="262" max-vertical-offset="720">
+            <state line="47" column="1" selection-start="1634" selection-end="1634" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="975">
               <folding />
             </state>
           </provider>
@@ -112,7 +102,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="11" selection-start="1621" selection-end="1621" vertical-scroll-proportion="-3.875" vertical-offset="417" max-vertical-offset="1350">
+            <state line="34" column="11" selection-start="1621" selection-end="1621" vertical-scroll-proportion="0.0" vertical-offset="417" max-vertical-offset="1350">
               <folding />
             </state>
           </provider>
@@ -121,7 +111,7 @@
       <file leaf-file-name="splash.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/app/partials/splash.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="65" selection-start="530" selection-end="530" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="285">
+            <state line="11" column="65" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="285">
               <folding />
             </state>
           </provider>
@@ -155,6 +145,7 @@
         <option value="$PROJECT_DIR$/www/js/index.js" />
         <option value="$PROJECT_DIR$/www/app/controllers/dragCtrl.js" />
         <option value="$PROJECT_DIR$/www/app/partials/drag.html" />
+        <option value="$PROJECT_DIR$/www/config.xml" />
       </list>
     </option>
   </component>
@@ -189,7 +180,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -344,13 +334,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="restartRequiresConfirmation" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ping" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
@@ -359,6 +350,14 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.JSDebug">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -369,23 +368,15 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" uri="http://localhost:63342/www/">
@@ -438,7 +429,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.6002805" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.59915614" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.59915614" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4008439" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -446,8 +437,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -465,18 +456,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/app/controllers/dragCtrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="6" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/app/controllers/mainCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="26" selection-start="26" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-          <folding />
-        </state>
+        <state line="0" column="26" selection-start="26" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/app/app.js">
@@ -488,16 +470,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/app/controllers/mainCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="26" selection-start="26" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-          <folding />
-        </state>
+        <state line="0" column="26" selection-start="26" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.58912385" vertical-offset="390" max-vertical-offset="1860">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.58912385" vertical-offset="390" max-vertical-offset="1860" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/lib/jquery/jquery.ui.touch-punch.min.js">
@@ -509,51 +487,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/partials/word.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="9" selection-start="301" selection-end="301" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/lib/jquery/jquery-ui-1.10.3.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="210" selection-start="261" selection-end="269" vertical-scroll-proportion="0.088757396" vertical-offset="0" max-vertical-offset="338">
-          <folding />
-        </state>
+        <state line="2" column="210" selection-start="261" selection-end="269" vertical-scroll-proportion="0.088757396" vertical-offset="0" max-vertical-offset="338" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/app/partials/splash.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="65" selection-start="530" selection-end="530" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="285">
+        <state line="11" column="65" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="285">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="11" selection-start="1621" selection-end="1621" vertical-scroll-proportion="-3.875" vertical-offset="417" max-vertical-offset="1350">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+        <state line="34" column="11" selection-start="1621" selection-end="1621" vertical-scroll-proportion="0.0" vertical-offset="417" max-vertical-offset="1350">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="70" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="1485">
+        <state line="49" column="1" selection-start="878" selection-end="878" vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="2160">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/app/partials/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="12" selection-start="149" selection-end="149" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="600">
+        <state line="9" column="12" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1980">
           <folding />
         </state>
       </provider>
@@ -561,6 +523,20 @@
     <entry file="file://$PROJECT_DIR$/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="1" selection-start="1634" selection-end="1634" vertical-scroll-proportion="0.0" vertical-offset="262" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/partials/word.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="9" selection-start="301" selection-end="301" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="4" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
           <folding />
         </state>
       </provider>
@@ -574,7 +550,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/app/partials/drag.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+        <state line="9" column="76" selection-start="485" selection-end="485" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="18" selection-start="308" selection-end="308" vertical-scroll-proportion="-3.8701298" vertical-offset="1610" max-vertical-offset="1995">
           <folding />
         </state>
       </provider>
