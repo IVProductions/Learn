@@ -668,3 +668,101 @@ Terminating in response to SpringBoard's termination.
 2014-03-10 21:04:08.488 Ping[30493:80b] [CDVTimer][TotalPluginStartup] 1.024008ms
 2014-03-10 21:04:08.618 Ping[30493:80b] Resetting plugins due to page load.
 2014-03-10 21:04:08.710 Ping[30493:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/25E1A3E2-E466-49F3-95D2-EB0CE4C155DE/Ping.app/www/index.html#/
+2014-03-12 00:30:45.727 Learning[36755:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-12 00:30:45.788 Learning[36755:80b] Fix applied for database locations?: YES
+2014-03-12 00:30:45.979 Learning[36755:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-12 00:30:45.980 Learning[36755:80b] [CDVTimer][statusbar] 0.397027ms
+2014-03-12 00:30:45.980 Learning[36755:80b] [CDVTimer][ttsplugin] 0.037968ms
+2014-03-12 00:30:45.980 Learning[36755:80b] [CDVTimer][TotalPluginStartup] 1.020014ms
+2014-03-12 00:30:46.193 Learning[36755:80b] Resetting plugins due to page load.
+2014-03-12 00:30:46.398 Learning[36755:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/FC2119F9-2E8F-4685-ADD3-02163C1E81C4/Learning.app/www/index.html#/
+2014-03-12 00:58:59.517 Learning[37567:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-12 00:58:59.541 Learning[37567:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-12 00:58:59.542 Learning[37567:80b] [CDVTimer][statusbar] 0.414014ms
+2014-03-12 00:58:59.542 Learning[37567:80b] [CDVTimer][ttsplugin] 0.039995ms
+2014-03-12 00:58:59.543 Learning[37567:80b] [CDVTimer][TotalPluginStartup] 1.393020ms
+2014-03-12 00:58:59.707 Learning[37567:80b] Resetting plugins due to page load.
+2014-03-12 00:58:59.816 Learning[37567:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/FC2119F9-2E8F-4685-ADD3-02163C1E81C4/Learning.app/www/index.html#/
+2014-03-12 02:18:19.337 Learning[38705:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-12 02:18:19.586 Learning[38705:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-12 02:18:19.587 Learning[38705:80b] [CDVTimer][statusbar] 0.426948ms
+2014-03-12 02:18:19.587 Learning[38705:80b] [CDVTimer][ttsplugin] 0.042975ms
+2014-03-12 02:18:19.588 Learning[38705:80b] [CDVTimer][TotalPluginStartup] 1.098037ms
+2014-03-12 02:18:19.823 Learning[38705:80b] Resetting plugins due to page load.
+2014-03-12 02:18:20.028 Learning[38705:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/FC2119F9-2E8F-4685-ADD3-02163C1E81C4/Learning.app/www/index.html#/
+2014-03-12 02:59:15.236 Learning[39569:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-12 02:59:15.259 Learning[39569:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-12 02:59:15.260 Learning[39569:80b] [CDVTimer][statusbar] 0.429988ms
+2014-03-12 02:59:15.260 Learning[39569:80b] [CDVTimer][ttsplugin] 0.056982ms
+2014-03-12 02:59:15.261 Learning[39569:80b] [CDVTimer][TotalPluginStartup] 1.182020ms
+2014-03-12 02:59:15.361 Learning[39569:80b] Resetting plugins due to page load.
+2014-03-12 02:59:15.459 Learning[39569:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/FC2119F9-2E8F-4685-ADD3-02163C1E81C4/Learning.app/www/index.html#/
+2014-03-12 02:59:28.396 Learning[39569:80b] THREAD WARNING: ['TTSPlugin'] took '14.973877' ms. Plugin should use a background thread.
+2014-03-12 02:59:28.398 Learning[39569:2b0f] 02:59:28.398 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 02:59:41.832 Learning[39569:2c0b] 02:59:41.832 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:00:49.659 Learning[39569:c207] 03:00:49.659 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:00:50.489 Learning[39569:5e13] 03:00:50.489 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-12 03:01:18.720 Learning[40211:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-12 03:01:18.746 Learning[40211:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-12 03:01:18.747 Learning[40211:80b] [CDVTimer][statusbar] 0.373006ms
+2014-03-12 03:01:18.747 Learning[40211:80b] [CDVTimer][ttsplugin] 0.058949ms
+2014-03-12 03:01:18.747 Learning[40211:80b] [CDVTimer][TotalPluginStartup] 1.031041ms
+2014-03-12 03:01:18.826 Learning[40211:80b] Resetting plugins due to page load.
+2014-03-12 03:01:18.940 Learning[40211:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/FC2119F9-2E8F-4685-ADD3-02163C1E81C4/Learning.app/www/index.html#/
+2014-03-12 03:01:46.956 Learning[40211:80b] THREAD WARNING: ['TTSPlugin'] took '12.330078' ms. Plugin should use a background thread.
+2014-03-12 03:01:46.956 Learning[40211:6703] 03:01:46.956 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:01:48.589 Learning[40211:1207] 03:01:48.589 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-12 03:01:54.703 Learning[40211:bc03] 03:01:54.703 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:01:56.320 Learning[40211:1207] 03:01:56.320 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-12 03:02:03.382 Learning[40211:2c0b] 03:02:03.382 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:02:08.228 Learning[40211:b607] 03:02:08.228 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:02:09.810 Learning[40211:1207] 03:02:09.810 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-12 03:02:12.264 Learning[40211:cc03] 03:02:12.264 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:02:22.156 Learning[40211:ab07] 03:02:22.156 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:02:23.787 Learning[40211:1207] 03:02:23.787 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-12 03:14:13.434 Learning[40907:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-12 03:14:13.457 Learning[40907:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-12 03:14:13.458 Learning[40907:80b] [CDVTimer][statusbar] 0.499964ms
+2014-03-12 03:14:13.458 Learning[40907:80b] [CDVTimer][ttsplugin] 0.054955ms
+2014-03-12 03:14:13.459 Learning[40907:80b] [CDVTimer][TotalPluginStartup] 1.370013ms
+2014-03-12 03:14:13.549 Learning[40907:80b] Resetting plugins due to page load.
+2014-03-12 03:14:13.694 Learning[40907:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/FC2119F9-2E8F-4685-ADD3-02163C1E81C4/Learning.app/www/index.html#/
+2014-03-12 03:14:26.860 Learning[40907:360b] 03:14:26.860 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:14:26.861 Learning[40907:5b13] 03:14:26.861 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:14:26.865 Learning[40907:7703] 03:14:26.865 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:14:26.865 Learning[40907:7c07] 03:14:26.865 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:14:28.437 Learning[40907:1203] 03:14:28.437 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-12 03:14:28.983 Learning[40907:1203] 03:14:28.983 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-12 03:16:51.699 Learning[41554:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-12 03:16:51.722 Learning[41554:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-12 03:16:51.722 Learning[41554:80b] [CDVTimer][statusbar] 0.522971ms
+2014-03-12 03:16:51.723 Learning[41554:80b] [CDVTimer][ttsplugin] 0.059009ms
+2014-03-12 03:16:51.723 Learning[41554:80b] [CDVTimer][TotalPluginStartup] 1.372993ms
+2014-03-12 03:16:51.802 Learning[41554:80b] Resetting plugins due to page load.
+2014-03-12 03:16:51.918 Learning[41554:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/FC2119F9-2E8F-4685-ADD3-02163C1E81C4/Learning.app/www/index.html#/
+2014-03-12 03:16:58.030 Learning[41554:6903] 03:16:58.030 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:16:58.032 Learning[41554:7403] 03:16:58.032 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:16:59.558 Learning[41554:1203] 03:16:59.558 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-12 03:17:15.417 Learning[41554:2c1f] 03:17:15.417 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:17:15.417 Learning[41554:c307] 03:17:15.417 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:17:15.418 Learning[41554:c707] 03:17:15.418 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:17:16.113 Learning[41554:1203] 03:17:16.113 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-03-12 03:21:39.171 Learning[42263:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-12 03:21:39.192 Learning[42263:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-12 03:21:39.193 Learning[42263:80b] [CDVTimer][statusbar] 0.384033ms
+2014-03-12 03:21:39.193 Learning[42263:80b] [CDVTimer][ttsplugin] 0.038981ms
+2014-03-12 03:21:39.193 Learning[42263:80b] [CDVTimer][TotalPluginStartup] 0.995994ms
+2014-03-12 03:21:39.328 Learning[42263:80b] Resetting plugins due to page load.
+2014-03-12 03:21:39.439 Learning[42263:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3-64/Applications/FC2119F9-2E8F-4685-ADD3-02163C1E81C4/Learning.app/www/index.html#/
+2014-03-12 03:21:45.420 Learning[42263:620b] 03:21:45.420 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-03-12 03:21:45.421 Learning[42263:80b] THREAD WARNING: ['TTSPlugin'] took '29.016846' ms. Plugin should use a background thread.
+2014-03-12 03:21:47.125 Learning[42263:80b] OK button clicked
+Terminating in response to SpringBoard's termination.
+2014-03-12 04:47:02.053 Learning[44347:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-12 04:47:02.090 Learning[44347:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-03-12 04:47:02.090 Learning[44347:80b] [CDVTimer][statusbar] 0.401020ms
+2014-03-12 04:47:02.090 Learning[44347:80b] [CDVTimer][ttsplugin] 0.055015ms
+2014-03-12 04:47:02.090 Learning[44347:80b] [CDVTimer][TotalPluginStartup] 0.884950ms
+2014-03-12 04:47:02.211 Learning[44347:80b] Resetting plugins due to page load.
+2014-03-12 04:47:02.344 Learning[44347:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D07A8532-1A19-4CE9-B9F7-73BCEDBF1097/Learning.app/www/index.html#/
+Terminating in response to SpringBoard's termination.

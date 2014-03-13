@@ -27,8 +27,10 @@
         pluginResult = [CDVPluginResult resultWithStatus:CDVCommandStatus_ERROR];
         //[self addAlertView:@"failure! Input string is empty"];
     }
+    
     [self.commandDelegate sendPluginResult:pluginResult callbackId:speakString.callbackId];
 }
+
 
 -(void)addAlertView:(NSString *)message{
     UIAlertView *alertView = [[UIAlertView alloc]initWithTitle:

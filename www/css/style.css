@@ -92,7 +92,46 @@ html, body {
     background-color: white;
 }
 
-#div1 {width:350px;height:70px;padding:10px;border:1px solid #aaaaaa;}
+
+/*BEGIN DRAG N DROP*/
+
+.list {
+    background-color: green;
+    font-size: 30px;
+    text-align: center;
+    cursor: pointer;
+    font-family: Geneva,Arial,Helvetica,sans-serif;
+    /*border: 1px solid gray;*/
+    padding: 10px;
+}
+
+
+
+#items {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    padding-top: 8px;
+}
+
+#items li {
+    float: left;
+    width: auto;
+    height: 48px;
+    line-height: 48px;
+    padding: 3px;
+}
+
+.highlight {
+    border: 1px solid red;
+    width: auto;
+    background-color: blue;
+}
+
+/*END DRAG N DROP*/
+
+
 /*
 .center {
     text-align: center;
