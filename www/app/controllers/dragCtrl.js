@@ -12,7 +12,6 @@ function dragCtrl($scope, $location) {
     var sentence = "";
     var isDraggingGlobalWord = false;
     var dragCounter = 0;
-    //var elementIndex;
 
 
     setDraggable();
@@ -31,7 +30,7 @@ function dragCtrl($scope, $location) {
                     jQuery('<span/>', {
                         class: 'draggable',
                         text: dragWord
-                    }).click(function() {$scope.readWord($(this).html());}).appendTo(parent);
+                    }).click(function(){$scope.readWord($(this).html());}).appendTo(parent);
                     setDraggable();
                 }
                 console.log(elementBeingDragged.index("li"));

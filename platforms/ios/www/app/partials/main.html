@@ -1,117 +1,26 @@
-<div class="main">
+<div id="partialBody" class="main">
 	<div class="categories">
-		<div class="category">
-			<span class="categoryName">Category1</span>
-		</div>
-		<div class="category">
-			<span class="categoryName">Category2</span>
-		</div>
-		<div class="category">
-			<span class="categoryName">Category3</span>
-		</div>
-		<div class="category">
-			<span class="categoryName">Category4</span>
-		</div>
-		<div class="category">
-			<span class="categoryName">Category5</span>
-		</div>
-		<div class="category">
-			<span class="categoryName">Category6</span>
-		</div>
-		<div class="category">
-			<span class="categoryName">Category7</span>
-		</div>
-		<div class="category">
-			<span class="categoryName">Category8</span>
+		<div class="category" ng-repeat="category in categories" ng-click="changeCategory(category.id)">
+			<span class="categoryName">{{category.name}}</span>
 		</div>
 	</div>
 	<div class="background">
 		<div class="listOfWords">
-			<table>
-				<tr>
-					<td>Word1</td>
-					<td>Word2</td>
-					<td>Word3</td>
-					<td>Word4</td>
-					<td>Word5</td>
-				</tr>
-				<tr>
-					<td>Word6</td>
-					<td>Word7</td>
-					<td>Word8</td>
-					<td>Word9</td>
-					<td>Word10</td>
-				</tr>
-				<tr>
-					<td>Word11</td>
-					<td>Word12</td>
-					<td>Word13</td>
-					<td>Word14</td>
-					<td>Word15</td>
-				</tr>
-				<tr>
-					<td>Word16</td>
-					<td>Word17</td>
-					<td>Word18</td>
-					<td>Word19</td>
-					<td>Word20</td>
-				</tr>
-				<tr>
-					<td>Word21</td>
-					<td>Word22</td>
-					<td>Word23</td>
-					<td>Word24</td>
-					<td>Word25</td>
-				</tr>
-				<tr>
-					<td>Word21</td>
-					<td>Word22</td>
-					<td>Word23</td>
-					<td>Word24</td>
-					<td>Word25</td>
-				</tr>
-				<tr>
-					<td>Word21</td>
-					<td>Word22</td>
-					<td>Word23</td>
-					<td>Word24</td>
-					<td>Word25</td>
-				</tr>
-				<tr>
-					<td>Word21</td>
-					<td>Word22</td>
-					<td>Word23</td>
-					<td>Word24</td>
-					<td>Word25</td>
-				</tr>
-				<tr>
-					<td>Word21</td>
-					<td>Word22</td>
-					<td>Word23</td>
-					<td>Word24</td>
-					<td>Word25</td>
-				</tr>
-				<tr>
-					<td>Word21</td>
-					<td>Word22</td>
-					<td>Word23</td>
-					<td>Word24</td>
-					<td>Word25</td>
-				</tr>
-				<tr>
-					<td>Word21</td>
-					<td>Word22</td>
-					<td>Word23</td>
-					<td>Word24</td>
-					<td>Word25</td>
-				</tr>
-			</table>
+			<div class="backgroundWords">
+				<div class="word" ng-repeat="word in currentCategory.words" data-ng-init="setDraggable()" style=" background-image:url('{{word.imageURL}}'); background-size: 90px 90px; background-position: center; background-repeat: no-repeat;">
+					<div class="draggable" ng-click="readWord2($event.srcElement.innerHTML)" style="z-index: 1;">
+                        <span class="wordName">{{word.name}}</span>
+					</div>
+				</div>
+			</div>
 		</div>
-		<div class="inputBox">
-			
+		<div class="inputBox" data-ng-init="setDroppable()">
+			<ul id="items" data-ng-init="setSortable()"></ul>
 		</div>
 		<div class="play">
-			
+			<div ng-click="readSentence()">PLAY</div>
+            </br></br>
+            <div ng-click="removeSentence()">CLEAR</div>
 		</div>
 	</div>
 </div>
