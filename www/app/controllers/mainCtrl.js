@@ -1,9 +1,20 @@
-function mainCtrl($scope, $location, stateService) {
+function mainCtrl($scope, $location, stateService, learnFactory) {
+
+    var scrollHeight = $('.listOfWords').scrollHeight;
+    $('.backgroundWords').css("height",""+scrollHeight+"px");
 
     $scope.stateService=stateService;
 
-    $scope.message = "MONGO!";      //en test
+    $scope.categories = learnFactory.categories;
+    $scope.currentCategory = $scope.categories[0];
 
+    $scope.playSentence = function(){
+        // SPILL AV SETNING I DIV
+    }
+
+    $scope.changeCategory = function(id){
+        $scope.currentCategory = $scope.categories[id];
+    }
     $scope.redirect = function(path) {
         $location.path(path);
     };
