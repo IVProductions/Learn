@@ -10,14 +10,20 @@
 #import <AVFoundation/AVFoundation.h>
 
 @implementation TTSPlugin
+@synthesize speakStringGlobal;
+@synthesize pluginResultGlobal;
+@synthesize isDone;
 
 -(void)speakStuff:(CDVInvokedUrlCommand *)speakString {
+    //isDone = NO;
     CDVPluginResult* pluginResult = nil;
+    //speakStringGlobal = speakString;
     NSString* textToBeSpoken = [speakString.arguments objectAtIndex:0];  //take the incoming speakString object and extract the string
     if (textToBeSpoken != nil && [textToBeSpoken length] > 0) {
         pluginResult = [CDVPluginResult resultWithStatus:CDVCommandStatus_OK messageAsString:textToBeSpoken];
         //[self addAlertView:@"success!"];
         AVSpeechSynthesizer *synthesizer = [[AVSpeechSynthesizer alloc]init];
+        [synthesizer setDelegate:self];
         AVSpeechUtterance *utterance = [AVSpeechUtterance speechUtteranceWithString:textToBeSpoken];
         [utterance setRate:0.2f];
         utterance.voice = [AVSpeechSynthesisVoice voiceWithLanguage:@"no-NO"];
@@ -27,10 +33,27 @@
         pluginResult = [CDVPluginResult resultWithStatus:CDVCommandStatus_ERROR];
         //[self addAlertView:@"failure! Input string is empty"];
     }
-    
-    [self.commandDelegate sendPluginResult:pluginResult callbackId:speakString.callbackId];
+    //if (isDone) {
+        [self.commandDelegate sendPluginResult:pluginResult callbackId:speakString.callbackId];
+    //}
+
 }
 
+/*
+- (void)speechSynthesizer:(AVSpeechSynthesizer *)synthesizer didFinishSpeechUtterance:(AVSpeechUtterance *)utterance{
+    if(utteranceCounter < utterances.count){
+        AVSpeechUtterance *utterance = utterances[utteranceCounter];
+        [synthesizer speakUtterance:utterance];
+        utteranceCounter++;
+    }
+}
+*/
+
+- (void)speechSynthesizer:(AVSpeechSynthesizer *)synthesizer didStartSpeechUtterance:(AVSpeechUtterance *)utterance{
+    //isDone = YES;
+    //[self addAlertView:@"mongo"];
+    //[self.commandDelegate sendPluginResult:pluginResultGlobal callbackId:speakStringGlobal.callbackId];
+}
 
 -(void)addAlertView:(NSString *)message{
     UIAlertView *alertView = [[UIAlertView alloc]initWithTitle:

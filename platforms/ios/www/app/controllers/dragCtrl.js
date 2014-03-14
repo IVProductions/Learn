@@ -92,6 +92,7 @@ function dragCtrl($scope, $location) {
         $("#items li").each(function(index, value) {
             TTSPlugin.speak($(value).html(),function(){
                 //success, do something!
+                $("#items li").css("color","black");
                 $(value).css("color","red");
             }, function(){
                 alert("Plugin call failed");
@@ -140,7 +141,7 @@ function dragCtrl($scope, $location) {
                     elementBeingDragged.remove();
                 }
                 if (isDraggingGlobalWord) {
-                    if ((getLengthOfSentence()+dragWord.length+50) < $("#droppable2").width()) {           //make sure div doesn't overflow
+                    if ((getLengthOfSentence()+dragWord.length+80) < $("#droppable2").width()) {           //make sure div doesn't overflow
                         console.log("is creating new item");
                         jQuery('<li/>', {
                             class: 'list',
