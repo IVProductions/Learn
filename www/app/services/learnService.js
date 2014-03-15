@@ -92,6 +92,358 @@ Learn.factory('learnFactory', function() {
             {
             	"name": "Hoppe",
             	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Trene",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "img/category.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Trene",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "img/category.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Trene",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "img/category.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Trene",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "img/category.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Trene",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "img/category.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Trene",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "img/category.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Trene",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "img/category.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Trene",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "img/category.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Hoppe",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Leke",
+            	"imageURL": "res/img/animals/cat.png"
             }
             ]
         },
@@ -235,6 +587,22 @@ Learn.factory('learnFactory', function() {
             "words": [
             {
             	"name": "Fotball",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Håndball",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Svømming",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Håndball",
+            	"imageURL": "res/img/animals/cat.png"
+            },
+            {
+            	"name": "Svømming",
             	"imageURL": "res/img/animals/cat.png"
             },
             {

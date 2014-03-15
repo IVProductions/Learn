@@ -7,7 +7,7 @@
 	<div class="background">
 		<div class="listOfWords">
 			<div class="backgroundWords">
-				<div class="word" ng-repeat="word in currentCategory.words" data-ng-init="setDraggable()" style=" background-image:url('{{word.imageURL}}'); background-size: 90px 90px; background-position: center; background-repeat: no-repeat;">
+				<div class="word" ng-repeat="word in currentCategory.words" data-ng-init="setDraggable()" style=" background-image:url('{{word.imageURL}}');">
 					<div class="draggable" ng-click="readWord2($event.srcElement.innerHTML)" style="z-index: 1;">
                         <span class="wordName">{{word.name}}</span>
 					</div>
