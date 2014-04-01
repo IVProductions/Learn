@@ -766,36 +766,29 @@ Terminating in response to SpringBoard's termination.
 2014-03-12 04:47:02.211 Learning[44347:80b] Resetting plugins due to page load.
 2014-03-12 04:47:02.344 Learning[44347:80b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/D07A8532-1A19-4CE9-B9F7-73BCEDBF1097/Learning.app/www/index.html#/
 Terminating in response to SpringBoard's termination.
-2014-03-30 12:59:36.191 Learning[92170:70b] Multi-tasking -> Device: YES, App: YES
-2014-03-30 12:59:36.363 Learning[92170:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-03-30 12:59:36.363 Learning[92170:70b] [CDVTimer][statusbar] 0.415027ms
-2014-03-30 12:59:36.364 Learning[92170:70b] [CDVTimer][ttsplugin] 0.056982ms
-2014-03-30 12:59:36.364 Learning[92170:70b] [CDVTimer][TotalPluginStartup] 1.139998ms
-2014-03-30 12:59:36.500 Learning[92170:70b] Resetting plugins due to page load.
-2014-03-30 12:59:36.752 Learning[92170:70b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BD861618-5FB3-445C-8B5B-896F78EB102C/Learning.app/www/index.html#/
-2014-03-30 12:59:40.721 Learning[92170:70b] THREAD WARNING: ['TTSPlugin'] took '11.289062' ms. Plugin should use a background thread.
-2014-03-30 12:59:40.722 Learning[92170:6603] 12:59:40.722 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
-2014-03-30 12:59:43.911 Learning[92170:b307] 12:59:43.911 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
-2014-03-30 12:59:45.310 Learning[92170:be0b] 12:59:45.310 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
-2014-03-30 12:59:46.455 Learning[92170:c40b] 12:59:46.455 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
-2014-03-30 12:59:47.695 Learning[92170:c80b] 12:59:47.695 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
-2014-03-30 12:59:49.705 Learning[92170:1207] 12:59:49.705 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
-2014-03-30 12:59:50.784 Learning[92170:2b13] 12:59:50.784 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
-2014-03-30 12:59:53.180 Learning[92170:d90b] 12:59:53.180 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
-2014-03-30 12:59:53.181 Learning[92170:dc07] 12:59:53.181 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
-2014-03-30 12:59:59.287 Learning[92170:e20f] 12:59:59.287 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
-2014-03-30 12:59:59.287 Learning[92170:eb07] 12:59:59.287 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
-2014-03-30 13:00:02.227 Learning[92170:f20b] 13:00:02.227 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
-2014-03-30 13:05:41.453 Learning[93359:70b] Multi-tasking -> Device: YES, App: YES
-2014-03-30 13:05:41.473 Learning[93359:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-03-30 13:05:41.473 Learning[93359:70b] [CDVTimer][statusbar] 0.422001ms
-2014-03-30 13:05:41.473 Learning[93359:70b] [CDVTimer][ttsplugin] 0.037014ms
-2014-03-30 13:05:41.474 Learning[93359:70b] [CDVTimer][TotalPluginStartup] 1.056969ms
-2014-03-30 13:05:41.528 Learning[93359:70b] Resetting plugins due to page load.
-2014-03-30 13:06:00.050 Learning[93765:70b] Multi-tasking -> Device: YES, App: YES
-2014-03-30 13:06:00.069 Learning[93765:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-03-30 13:06:00.070 Learning[93765:70b] [CDVTimer][statusbar] 0.452995ms
-2014-03-30 13:06:00.070 Learning[93765:70b] [CDVTimer][ttsplugin] 0.041008ms
-2014-03-30 13:06:00.070 Learning[93765:70b] [CDVTimer][TotalPluginStartup] 1.105011ms
-2014-03-30 13:06:00.102 Learning[93765:70b] Resetting plugins due to page load.
-2014-03-30 13:17:29.857 Learning[93765:70b] Received memory warning.
+2014-04-01 12:55:05.675 Learning[99938:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-01 12:55:05.881 Learning[99938:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-04-01 12:55:05.882 Learning[99938:70b] [CDVTimer][statusbar] 0.465989ms
+2014-04-01 12:55:05.882 Learning[99938:70b] [CDVTimer][ttsplugin] 0.059009ms
+2014-04-01 12:55:05.882 Learning[99938:70b] [CDVTimer][TotalPluginStartup] 1.255035ms
+2014-04-01 12:55:06.010 Learning[99938:70b] Resetting plugins due to page load.
+2014-04-01 12:55:06.207 Learning[99938:70b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BD861618-5FB3-445C-8B5B-896F78EB102C/Learning.app/www/index.html#/
+2014-04-01 12:55:13.675 Learning[99938:70b] THREAD WARNING: ['TTSPlugin'] took '11.875000' ms. Plugin should use a background thread.
+2014-04-01 12:55:13.677 Learning[99938:6303] 12:55:13.677 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-01 12:55:17.841 Learning[99938:b903] 12:55:17.841 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-01 12:55:18.465 Learning[99938:c103] 12:55:18.465 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-01 13:07:42.269 Learning[2442:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-01 13:07:42.300 Learning[2442:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-04-01 13:07:42.300 Learning[2442:70b] [CDVTimer][statusbar] 0.358999ms
+2014-04-01 13:07:42.301 Learning[2442:70b] [CDVTimer][ttsplugin] 0.059009ms
+2014-04-01 13:07:42.301 Learning[2442:70b] [CDVTimer][TotalPluginStartup] 0.970960ms
+2014-04-01 13:07:42.413 Learning[2442:70b] Resetting plugins due to page load.
+2014-04-01 13:07:42.591 Learning[2442:70b] Finished load of: file:///Users/simonhordvik/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BD861618-5FB3-445C-8B5B-896F78EB102C/Learning.app/www/index.html#/
+2014-04-01 13:08:01.067 Learning[2442:5c0b] 13:08:01.067 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-01 13:08:01.795 Learning[2442:be03] 13:08:01.795 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-01 13:08:02.687 Learning[2442:c207] 13:08:02.687 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-01 13:08:02.689 Learning[2442:c50b] 13:08:02.689 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-01 13:08:05.371 Learning[2442:b813] 13:08:05.371 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-01 13:08:06.195 Learning[2442:d503] 13:08:06.195 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-01 13:08:06.961 Learning[2442:dc03] 13:08:06.961 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-01 13:08:07.743 Learning[2442:df07] 13:08:07.743 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
