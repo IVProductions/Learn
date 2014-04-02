@@ -1,5 +1,7 @@
 function mainCtrl($scope, $location, stateService, learnFactory) {
 
+    var height = $(window).height();
+    $('.main').css("height",""+height+"px");
     var scrollHeight = $('.listOfWords').scrollHeight;
     $('.backgroundWords').css("height",""+scrollHeight+"px");
 
