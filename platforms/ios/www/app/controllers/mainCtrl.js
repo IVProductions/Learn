@@ -76,6 +76,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                 console.log("Getting dragged");
                 dragCounter ++;
                 elementBeingDragged = $(this);
+                $(this).css("z-index",4);
                 parent = $(this).parent();
                 dragWord = $(this).find("span").html();
                 console.log(elementBeingDragged);
@@ -104,7 +105,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                 }
                 if (isDraggingGlobalWord) {
                     //if ((getLengthOfSentence()+dragWord.length+80) < $(".inputBox").width()) {           //make sure div doesn't overflow
-                    if ((getLengthOfSentence()+dragWord.length+80) < ($(".inputBox").width() * 2)) {
+                    if ((getLengthOfSentence()+dragWord.length+200) < ($(".inputBox").width() * 2)) {
                         console.log("is creating new item");
                         jQuery('<li/>', {
                             class: 'list',
