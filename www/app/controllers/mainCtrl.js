@@ -8,10 +8,8 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
     $scope.categories = learnFactory.categories;
     $scope.currentCategory = $scope.categories[0];
 
-<<<<<<< HEAD
     $scope.changeCategory = function(id){
         $scope.currentCategory = $scope.categories[id];
-=======
     /*
     var scrollHeight = 0;
     for (var i = 0; $scope.currentCategory.words.length; i+=5) {
@@ -22,14 +20,6 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
 
     console.log(scrollHeight);
     */
-    $scope.changeCategory = function(id){
-        $scope.currentCategory = $scope.categories[id];
-        /*for (var i = 0; $scope.currentCategory.words.length; i+=5) {
-            scrollHeight++;
-        };
-         $('.backgroundWords').css("height",""+(scrollHeight*200)+"px");
-    */
->>>>>>> FETCH_HEAD
     }
     $scope.redirect = function(path) {
         $location.path(path);
