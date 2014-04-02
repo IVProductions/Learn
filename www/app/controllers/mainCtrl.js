@@ -73,7 +73,6 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
     $scope.setDraggable = function() {
         $(".draggable").draggable({
             drag: function(even,ui) {
-                $(".listOfWords").css("overflow-y","hidden");
                 console.log("Getting dragged");
                 dragCounter ++;
                 elementBeingDragged = $(this);
@@ -100,7 +99,6 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
     $scope.setDroppable = function() {
         $(".inputBox").droppable({
             drop: function(even, ui) {
-                $(".listOfWords").css("overflow-y","scroll");
                 console.log("dropped in container");
                 if (elementBeingDragged!=0) {
                     elementBeingDragged.remove();
@@ -123,7 +121,6 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
         });
         $("#partialBody").droppable({
             drop: function(even, ui) {
-                $(".listOfWords").css("overflow-y","scroll");
                 if (elementBeingDragged!=0) {
                     elementBeingDragged.remove();
                 }
