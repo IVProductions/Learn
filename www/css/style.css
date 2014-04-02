@@ -101,7 +101,7 @@ html, body {
     position: absolute;
     bottom: 0;
     left: 15%;
-    width: 75%;
+    width: 80%;
     height: 20%;
     background-color: lightgrey;
     z-index: 2;
@@ -111,12 +111,26 @@ html, body {
     position: absolute;
     bottom: 0;
     right: 0;
-    width: 15%;
+    width: 10%;
     height: 20%;
     background-color: white;
     z-index: 2;
 }
 
+.main .play .playbtn {
+    height: 50%;
+    background-image: url("../img/play.png");
+    background-size: 70px 70px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.main .play .resetbtn {
+    height: 50%;
+    background-image: url("../img/clear.png");
+    background-size: 70px 70px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
 /*BEGIN DRAG N DROP*/
 
@@ -130,6 +144,17 @@ html, body {
     padding: 10px;
 }
 
+.main .scrollImg {
+    position: absolute;
+    right: 5%;
+    bottom: 25%;
+    top: 5%;
+    height: 70%;
+    width: 10%;
+    background-image: url("../img/scroll.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
 
 
 #items {
