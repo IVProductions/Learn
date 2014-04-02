@@ -2,8 +2,8 @@ Learn.factory('learnFactory', function() {
     var categories = [
         {
         	"id": 0,
-            "name": "Aktivitet / Verb",
-            "imageURL": "res/img/animals/dog.png",
+            "name": "Aktivitet",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "Leke",
@@ -55,7 +55,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -103,7 +103,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -147,7 +147,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -191,7 +191,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -235,7 +235,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -279,7 +279,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -323,7 +323,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -367,7 +367,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -411,7 +411,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -450,7 +450,7 @@ Learn.factory('learnFactory', function() {
         {
         	"id": 1,
             "name": "Alfabet",
-            "imageURL": "res/img/animals/dog.png",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "A",
@@ -468,8 +468,8 @@ Learn.factory('learnFactory', function() {
         },
         {
         	"id": 2,
-            "name": "Bær / Frukt / Grønnsaker",
-            "imageURL": "res/img/animals/dog.png",
+            "name": "Frukt",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "Jordbær",
@@ -488,7 +488,7 @@ Learn.factory('learnFactory', function() {
         {
         	"id": 3,
             "name": "Dyr",
-            "imageURL": "res/img/animals/dog.png",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "Katt",
@@ -507,7 +507,7 @@ Learn.factory('learnFactory', function() {
         {
         	"id": 4,
             "name": "Familie",
-            "imageURL": "res/img/animals/dog.png",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "Mamma",
@@ -526,7 +526,7 @@ Learn.factory('learnFactory', function() {
         {
         	"id": 5,
             "name": "Farge",
-            "imageURL": "res/img/animals/dog.png",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "Gul",
@@ -545,7 +545,7 @@ Learn.factory('learnFactory', function() {
         {
         	"id": 6,
             "name": "Geografi",
-            "imageURL": "res/img/animals/dog.png",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "Norge",
@@ -564,7 +564,7 @@ Learn.factory('learnFactory', function() {
         {
         	"id": 7,
             "name": "Høytider",
-            "imageURL": "res/img/animals/dog.png",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "Jul",
@@ -583,7 +583,7 @@ Learn.factory('learnFactory', function() {
         {
         	"id": 8,
             "name": "Idrett",
-            "imageURL": "res/img/animals/dog.png",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "Fotball",
@@ -618,7 +618,7 @@ Learn.factory('learnFactory', function() {
         {
         	"id": 9,
             "name": "Klær",
-            "imageURL": "res/img/animals/dog.png",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "Hatt",
@@ -636,8 +636,8 @@ Learn.factory('learnFactory', function() {
         },
         {
         	"id": 10,
-            "name": "Kropp / Sanser / Sykdom",
-            "imageURL": "res/img/animals/dog.png",
+            "name": "Kropp",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "Feber",
@@ -655,8 +655,8 @@ Learn.factory('learnFactory', function() {
         },
         {
         	"id": 11,
-            "name": "Mat / Drikke",
-            "imageURL": "res/img/animals/dog.png",
+            "name": "Mat",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "Juice",
@@ -675,7 +675,7 @@ Learn.factory('learnFactory', function() {
         {
         	"id": 12,
             "name": "Matematikk",
-            "imageURL": "res/img/animals/dog.png",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "Primtall",
@@ -694,7 +694,7 @@ Learn.factory('learnFactory', function() {
         {
         	"id": 13,
             "name": "Person",
-            "imageURL": "res/img/animals/dog.png",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "Kongen",
@@ -713,7 +713,7 @@ Learn.factory('learnFactory', function() {
         {
         	"id": 14,
             "name": "Læring",
-            "imageURL": "res/img/animals/dog.png",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "Historie",
@@ -732,7 +732,7 @@ Learn.factory('learnFactory', function() {
         {
         	"id": 15,
             "name": "Tall",
-            "imageURL": "res/img/animals/dog.png",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "5",
@@ -751,7 +751,7 @@ Learn.factory('learnFactory', function() {
         {
         	"id": 16,
             "name": "Teknologi",
-            "imageURL": "res/img/animals/dog.png",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "Datamaskin",
@@ -770,7 +770,7 @@ Learn.factory('learnFactory', function() {
         {
         	"id": 17,
             "name": "Tid",
-            "imageURL": "res/img/animals/dog.png",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "Sekund",
@@ -789,7 +789,7 @@ Learn.factory('learnFactory', function() {
         {
         	"id": 18,
             "name": "Transport",
-            "imageURL": "res/img/animals/dog.png",
+            "imageURL": "img/category.png",
             "words": [
             {
             	"name": "Bil",

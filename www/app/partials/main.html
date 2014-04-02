@@ -1,16 +1,20 @@
 <div id="partialBody" class="main">
 	<div class="categories">
 		<div class="category" ng-repeat="category in categories" ng-click="changeCategory(category.id)">
-			<span class="categoryName">{{category.name}}</span>
+            <img ng-src="{{category.imageURL}}" width="80" height="80">
+            <span class="categoryName">{{category.name}}</span>
 		</div>
 	</div>
 	<div class="background">
 		<div class="listOfWords">
 			<div class="backgroundWords">
-				<div class="word" ng-repeat="word in currentCategory.words" data-ng-init="setDraggable()" style=" background-image:url('{{word.imageURL}}');">
-					<div class="draggable" ng-click="readWord2($event.srcElement.innerHTML)" style="z-index: 1;">
+				<div class="word" ng-repeat="word in currentCategory.words" data-ng-init="setDraggable()">
+
+                    <div class="draggable" ng-click="readWord2($event.srcElement.innerHTML)" style="z-index: 1;">
+                        <img ng-src="{{word.imageURL}}" width="130" height="130" style="margin-top:20px">
                         <span class="wordName">{{word.name}}</span>
 					</div>
+
 				</div>
 			</div>
 		</div>
