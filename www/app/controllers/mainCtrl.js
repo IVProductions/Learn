@@ -72,11 +72,12 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
 
     $scope.setDraggable = function() {
         $(".draggable").draggable({
+            scroll: false,
+            containment: ".main",
             drag: function(even,ui) {
                 console.log("Getting dragged");
                 dragCounter ++;
                 elementBeingDragged = $(this);
-                $(this).css("z-index",4);
                 parent = $(this).parent();
                 dragWord = $(this).find("span").html();
                 console.log(elementBeingDragged);
@@ -136,6 +137,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
 
     $scope.setSortable = function() {
         $("#items").sortable({
+            scroll: false,
             placeholder: "highlight",
             start: function (event, ui) {
                 ui.item.toggleClass("highlight");

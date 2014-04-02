@@ -70,33 +70,14 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
     var dragCounter = 0;
     var newParent;
 
-    var lockScroll = function () {
-        var scrollPosition = [
-                self.pageXOffset || document.documentElement.scrollLeft || document.body.scrollLeft,
-                self.pageYOffset || document.documentElement.scrollTop  || document.body.scrollTop
-        ];
-        var html = jQuery('.listOfWords'); // it would make more sense to apply this to body, but IE7 won't have that
-        html.data('scroll-position', scrollPosition);
-        html.data('previous-overflow', html.css('overflow'));
-        html.css('overflow', 'hidden');
-        window.scrollTo(scrollPosition[0], scrollPosition[1]);
-
-    }
-
-    var unlockScroll = function() {
-        var html = jQuery('listOfWords');
-        var scrollPosition = html.data('scroll-position');
-        html.css('overflow', html.data('previous-overflow'));
-        window.scrollTo(scrollPosition[0], scrollPosition[1])
-    }
-
     $scope.setDraggable = function() {
         $(".draggable").draggable({
+            scroll: false,
+            containment: ".main",
             drag: function(even,ui) {
                 console.log("Getting dragged");
                 dragCounter ++;
                 elementBeingDragged = $(this);
-                $(this).css("z-index",4);
                 parent = $(this).parent();
                 dragWord = $(this).find("span").html();
                 console.log(elementBeingDragged);
@@ -141,7 +122,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                 dragCounter = 0;
             }
         });
-        $("#partialBody").droppable({
+        $("html").droppable({
             drop: function(even, ui) {
                 if (elementBeingDragged!=0) {
                     elementBeingDragged.remove();
@@ -156,6 +137,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
 
     $scope.setSortable = function() {
         $("#items").sortable({
+            scroll: false,
             placeholder: "highlight",
             start: function (event, ui) {
                 ui.item.toggleClass("highlight");

@@ -18,7 +18,7 @@
     //isDone = NO;
     CDVPluginResult* pluginResult = nil;
     //speakStringGlobal = speakString;
-    NSString* textToBeSpoken = [speakString.arguments objectAtIndex:0];  //take the incoming speakString object and extract the string
+    NSString* textToBeSpoken = [[speakString.arguments objectAtIndex:0] lowercaseString];  //take the incoming speakString object and extract the string
     if (textToBeSpoken != nil && [textToBeSpoken length] > 0) {
         pluginResult = [CDVPluginResult resultWithStatus:CDVCommandStatus_OK messageAsString:textToBeSpoken];
         //[self addAlertView:@"success!"];
