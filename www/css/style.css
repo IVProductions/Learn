@@ -176,7 +176,7 @@ html, body {
 }
 
 .highlight {
-    border-bottom: 4px solid red;
+    border: 2px #2288dd solid;
     width: auto;
     /*background-color: blue;*/
 }
