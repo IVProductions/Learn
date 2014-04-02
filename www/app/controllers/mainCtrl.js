@@ -1,8 +1,4 @@
 function mainCtrl($scope, $location, stateService, learnFactory) {
-
-    var height = $(window).height();
-    alert(height);
-    $('.main').css("height",""+height+"px");
     var scrollHeight = $('.listOfWords').scrollHeight;
     $('.backgroundWords').css("height",""+scrollHeight+"px");
 
@@ -27,6 +23,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
     $scope.redirect = function(path) {
         $location.path(path);
     };
+
 
     /*DRAG N DROP FUNCTIONALITY*/
 
