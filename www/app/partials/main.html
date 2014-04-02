@@ -1,7 +1,7 @@
 <div id="partialBody" class="main">
 	<div class="categories">
 		<div class="category" ng-repeat="category in categories" ng-click="changeCategory(category.id)">
-			<span class="categoryName">{{category.name}}</span>
+			<span class="categoryName" style="background-image: url({{category.imageURL}})">{{category.name}}</span>
 		</div>
 	</div>
 	<div class="background">
