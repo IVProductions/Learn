@@ -143,6 +143,7 @@ html, body {
     font-family: Geneva,Arial,Helvetica,sans-serif;
     /*border: 1px solid gray;*/
     padding: 10px;
+    margin-bottom: 5px;
 }
 
 .main .scrollImg {
@@ -164,7 +165,7 @@ html, body {
     padding: 0;
     overflow: hidden;
     padding-top: 8px;
-    padding: 20px;
+    padding: 18px;
 }
 
 #items li {
