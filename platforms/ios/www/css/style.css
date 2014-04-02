@@ -1,14 +1,17 @@
 html, body { 
-    height: 100%; 
+    height: 100%;
     -webkit-user-select: none;
     margin: 0!important;
+    overflow-y: hidden;
 }
 
 .main {
     width: 100%;
     height: 100%;
-    background-color: #ffbb11;
     overflow: hidden;
+    background-image: url("../img/beach2.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
 
 .main .categories {
@@ -42,6 +45,7 @@ html, body {
 }
 
 .main .background {
+    overflow-y: hidden;
     position: absolute;
     top: 0;
     right: 0;
@@ -54,7 +58,7 @@ html, body {
     position: relative;
     overflow-y: scroll;
     width: 90%;
-    height: 65%;
+    height: 90%;
     padding: 5%;
 }
 
@@ -67,14 +71,14 @@ html, body {
 .main .background .listOfWords .word {
     position: relative;
     float:left;
-    width: 19.5%;
+    width: 21%;
     height: 200px;  
     text-align: center;
-    background: -webkit-linear-gradient(#eeeeff, #bbccdd); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(#eeeeff, #bbccdd); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#eeeeff, #bbccdd); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#eeeeff, #bbccdd); /* Standard syntax */
-    border: 2px #bbccdd solid;
+    background-size: 120px 120px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #eeeeff;
+    /*border: 2px #bbccdd solid;*/
 }
 
 .main .background .listOfWords .word .wordName{
@@ -83,7 +87,7 @@ html, body {
     left: 10px;
     height: 30px;
     font-size: 25px;
-    border: 2px #44aa44 solid;
+    border: 2px #2288dd solid;
     width: 90%;
     background-color: white;
 }
@@ -93,24 +97,40 @@ html, body {
     height: 100%;
 }
 
-.main .background .inputBox {
+.main .inputBox {
     position: absolute;
     bottom: 0;
-    left: 0;
+    left: 15%;
     width: 80%;
     height: 20%;
-    background-color: yellow;
+    background-color: lightgrey;
+    z-index: 2;
 }
 
-.main .background .play {
+.main .play {
     position: absolute;
     bottom: 0;
     right: 0;
-    width: 20%;
+    width: 10%;
     height: 20%;
     background-color: white;
+    z-index: 2;
 }
 
+.main .play .playbtn {
+    height: 50%;
+    background-image: url("../img/play.png");
+    background-size: 70px 70px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.main .play .resetbtn {
+    height: 50%;
+    background-image: url("../img/clear.png");
+    background-size: 70px 70px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
 /*BEGIN DRAG N DROP*/
 
@@ -124,6 +144,17 @@ html, body {
     padding: 10px;
 }
 
+.main .scrollImg {
+    position: absolute;
+    right: 5%;
+    bottom: 25%;
+    top: 5%;
+    height: 70%;
+    width: 10%;
+    background-image: url("../img/scroll.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
 
 
 #items {

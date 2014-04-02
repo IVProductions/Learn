@@ -106,7 +106,8 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                     elementBeingDragged.remove();
                 }
                 if (isDraggingGlobalWord) {
-                    if ((getLengthOfSentence()+dragWord.length+80) < $(".inputBox").width()) {           //make sure div doesn't overflow
+                    //if ((getLengthOfSentence()+dragWord.length+80) < $(".inputBox").width()) {           //make sure div doesn't overflow
+                    if ((getLengthOfSentence()+dragWord.length+80) < ($(".inputBox").width() * 2)) {
                         console.log("is creating new item");
                         jQuery('<li/>', {
                             class: 'list',
