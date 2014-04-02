@@ -54,7 +54,7 @@ html, body {
     position: relative;
     overflow-y: scroll;
     width: 90%;
-    height: 65%;
+    height: 90%;
     padding: 5%;
 }
 
@@ -93,16 +93,16 @@ html, body {
     height: 100%;
 }
 
-.main .background .inputBox {
+.main .inputBox {
     position: absolute;
     bottom: 0;
-    left: 0;
-    width: 80%;
+    right: 20%;
+    width: 60%;
     height: 20%;
     background-color: yellow;
 }
 
-.main .background .play {
+.main .play {
     position: absolute;
     bottom: 0;
     right: 0;
