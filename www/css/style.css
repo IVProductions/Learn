@@ -9,10 +9,9 @@ html, body {
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background: -webkit-linear-gradient(#ddffff, #ffbb11); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(#ddffff, #ffbb11); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#ddffff, #ffbb11); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#ddffff, #ffbb11); /* Standard syntax */
+    background-image: url("../img/beach2.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
 
 .main .categories {
@@ -72,7 +71,7 @@ html, body {
 .main .background .listOfWords .word {
     position: relative;
     float:left;
-    width: 20%;
+    width: 21%;
     height: 200px;  
     text-align: center;
     background-size: 120px 120px;
@@ -88,7 +87,7 @@ html, body {
     left: 10px;
     height: 30px;
     font-size: 25px;
-    border: 2px #44aa44 solid;
+    border: 2px #2288dd solid;
     width: 90%;
     background-color: white;
 }
@@ -101,10 +100,10 @@ html, body {
 .main .inputBox {
     position: absolute;
     bottom: 0;
-    right: 20%;
-    width: 60%;
+    left: 15%;
+    width: 75%;
     height: 20%;
-    background-color: yellow;
+    background-color: lightgrey;
     z-index: 2;
 }
 
@@ -112,7 +111,7 @@ html, body {
     position: absolute;
     bottom: 0;
     right: 0;
-    width: 20%;
+    width: 15%;
     height: 20%;
     background-color: white;
     z-index: 2;
