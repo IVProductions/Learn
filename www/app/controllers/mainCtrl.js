@@ -53,8 +53,8 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
         $("#items li").each(function(index, value) {
             TTSPlugin.speak($(value).html(),function(){
                 //success, do something!
-                $("#items li").css("color","black");
-                $(value).css("color","red");
+                //$("#items li").css("color","black");
+                //$(value).css("color","red");
             }, function(){
                 alert("Plugin call failed");
             });
