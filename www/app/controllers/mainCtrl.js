@@ -141,7 +141,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                 dragCounter = 0;
             }
         });
-        $("#partialBody").droppable({
+        $("html").droppable({
             drop: function(even, ui) {
                 if (elementBeingDragged!=0) {
                     elementBeingDragged.remove();
