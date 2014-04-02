@@ -76,6 +76,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                 console.log("Getting dragged");
                 dragCounter ++;
                 elementBeingDragged = $(this);
+                $(this).css("z-index",4);
                 parent = $(this).parent();
                 dragWord = $(this).find("span").html();
                 console.log(elementBeingDragged);
