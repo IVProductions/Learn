@@ -2,6 +2,7 @@ html, body {
     height: 100%; 
     -webkit-user-select: none;
     margin: 0!important;
+    overflow-y: hidden;
 }
 
 .main {
@@ -67,14 +68,14 @@ html, body {
 .main .background .listOfWords .word {
     position: relative;
     float:left;
-    width: 19.5%;
+    width: 20%;
     height: 200px;  
     text-align: center;
     background-size: 120px 120px;
     background-repeat: no-repeat;
     background-position: center;
     background-color: #eeeeff;
-    border: 2px #bbccdd solid;
+    /*border: 2px #bbccdd solid;*/
 }
 
 .main .background .listOfWords .word .wordName{
