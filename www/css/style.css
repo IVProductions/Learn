@@ -43,6 +43,7 @@ html, body {
 }
 
 .main .background {
+    overflow-y: hidden;
     position: absolute;
     top: 0;
     right: 0;
