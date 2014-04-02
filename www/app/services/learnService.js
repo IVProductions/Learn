@@ -2,7 +2,7 @@ Learn.factory('learnFactory', function() {
     var categories = [
         {
         	"id": 0,
-            "name": "Aktivitet / Verb",
+            "name": "Aktivitet",
             "imageURL": "img/category.png",
             "words": [
             {
@@ -55,7 +55,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -103,7 +103,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -147,7 +147,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -191,7 +191,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -235,7 +235,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -279,7 +279,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -323,7 +323,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -367,7 +367,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -411,7 +411,7 @@ Learn.factory('learnFactory', function() {
             },
             {
             	"name": "Leke",
-            	"imageURL": "img/category.png"
+                "imageURL": "res/img/animals/cat.png"
             },
             {
             	"name": "Hoppe",
@@ -468,7 +468,7 @@ Learn.factory('learnFactory', function() {
         },
         {
         	"id": 2,
-            "name": "Bær / Frukt / Grønnsaker",
+            "name": "Frukt",
             "imageURL": "img/category.png",
             "words": [
             {
@@ -636,7 +636,7 @@ Learn.factory('learnFactory', function() {
         },
         {
         	"id": 10,
-            "name": "Kropp / Sanser / Sykdom",
+            "name": "Kropp",
             "imageURL": "img/category.png",
             "words": [
             {
@@ -655,7 +655,7 @@ Learn.factory('learnFactory', function() {
         },
         {
         	"id": 11,
-            "name": "Mat / Drikke",
+            "name": "Mat",
             "imageURL": "img/category.png",
             "words": [
             {
