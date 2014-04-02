@@ -8,8 +8,28 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
     $scope.categories = learnFactory.categories;
     $scope.currentCategory = $scope.categories[0];
 
+<<<<<<< HEAD
     $scope.changeCategory = function(id){
         $scope.currentCategory = $scope.categories[id];
+=======
+    /*
+    var scrollHeight = 0;
+    for (var i = 0; $scope.currentCategory.words.length; i+=5) {
+        scrollHeight++;
+    };
+
+    $('.backgroundWords').css("height",""+(scrollHeight*200)+"px");
+
+    console.log(scrollHeight);
+    */
+    $scope.changeCategory = function(id){
+        $scope.currentCategory = $scope.categories[id];
+        /*for (var i = 0; $scope.currentCategory.words.length; i+=5) {
+            scrollHeight++;
+        };
+         $('.backgroundWords').css("height",""+(scrollHeight*200)+"px");
+    */
+>>>>>>> FETCH_HEAD
     }
     $scope.redirect = function(path) {
         $location.path(path);
@@ -58,6 +78,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
     var dragWord;
     var isDraggingGlobalWord = false;
     var dragCounter = 0;
+    var newParent;
 
     $scope.setDraggable = function() {
         $(".draggable").draggable({
@@ -70,9 +91,10 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                 console.log(elementBeingDragged);
                 isDraggingGlobalWord = true;
                 if (dragCounter==1) {
-                    var newParent = jQuery('<div/>', {
-                        class: 'draggable'
-                    }).click(function(){$scope.readWord2($(this).html());}).appendTo(parent);
+                    newParent = jQuery('<div/>', {
+                        class: 'draggable',
+                        style: 'z-index: 1'
+                    }).click(function(){$scope.readWord2($(this).html());}).appendTo(parent).hide();
                     jQuery('<span/>', {
                         class: 'wordName',
                         text: dragWord
@@ -97,6 +119,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                             class: 'list',
                             text: dragWord
                         }).click(function() {$scope.readWord($(this).html());}).appendTo($("#items"));
+                        newParent.show();
                         $scope.setDroppable();
                     }
                 }
@@ -109,6 +132,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                 if (elementBeingDragged!=0) {
                     elementBeingDragged.remove();
                 }
+                newParent.show();
                 isDraggingGlobalWord = false;
                 dragCounter = 0;
                 console.log("dropped in body");
