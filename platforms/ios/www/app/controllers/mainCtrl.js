@@ -87,7 +87,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                 if (dragCounter==1) {
                     newParent = jQuery('<div/>', {
                         class: 'draggable',
-                        style: 'position: absolute; z-index: 0'
+                        style: 'position: absolute; z-index: 1'
                     }).click(function(){$scope.readWord2($(this).html());}).appendTo(parent).hide();
                     jQuery('<span/>', {
                         class: 'wordName',
@@ -120,7 +120,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                 }
                 if (isDraggingGlobalWord) {
                     //if ((getLengthOfSentence()+dragWord.length+80) < $(".inputBox").width()) {           //make sure div doesn't overflow
-                    if ((getLengthOfSentence()+dragWord.length+280) < ($(".inputBox").width() * 2)) {
+                    if ((getLengthOfSentence()+dragWord.length+290) < ($(".inputBox").width() * 2)) {
                         console.log("is creating new item");
                         jQuery('<li/>', {
                             class: 'list',
