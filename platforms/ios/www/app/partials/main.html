@@ -2,28 +2,28 @@
     <div class="scrollImg">
 
     </div>
-	<div class="categories">
-		<div class="category" ng-repeat="category in categories" ng-click="changeCategory(category.id)">
+    <div class="categories">
+        <div class="category" ng-repeat="category in categories" ng-click="changeCategory(category.id)">
             <img ng-src="{{category.imageURL}}" width="80" height="80">
             <span class="categoryName">{{category.name}}</span>
-		</div>
-	</div>
-	<div class="background">
-		<div class="listOfWords">
-			<div class="backgroundWords">
-				<div class="word" ng-repeat="word in currentCategory.words" data-ng-init="setDraggable()" style="background-image: url('{{word.imageURL}}')">
+        </div>
+    </div>
+    <div class="background">
+        <div class="listOfWords">
+            <div class="backgroundWords">
+                <div class="word" ng-repeat="word in currentCategory.words" data-ng-init="setDraggable()" style="background-image: url('{{word.imageURL}}')">
                     <!--<img ng-src="{{word.imageURL}}" width="130" height="130" style="margin-top:20px">-->
-                    <div class="draggable" ng-click="readWord2($event.srcElement.innerHTML)" style="z-index: 1; ">
+                    <div class="draggable" ng-click="readWord2($event.srcElement.innerHTML)" style="position: absolute; z-index: 1">
                         <span class="wordName">{{word.name}}</span>
-					</div>
+                    </div>
 
-				</div>
-			</div>
-		</div>
+                </div>
+            </div>
+        </div>
 
 
 
-	</div>
+    </div>
     <div class="inputBox" data-ng-init="setDroppable()">
         <ul id="items" data-ng-init="setSortable()"></ul>
     </div>

@@ -69,6 +69,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
     var isDraggingGlobalWord = false;
     var dragCounter = 0;
     var newParent;
+    var indexOfSortable = -1;
 
     $scope.setDraggable = function() {
         $(".draggable").draggable({
@@ -78,6 +79,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                 console.log("Getting dragged");
                 dragCounter ++;
                 elementBeingDragged = $(this);
+                elementBeingDragged.css("z-index", 2);
                 parent = $(this).parent();
                 dragWord = $(this).find("span").html();
                 console.log(elementBeingDragged);
@@ -85,7 +87,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                 if (dragCounter==1) {
                     newParent = jQuery('<div/>', {
                         class: 'draggable',
-                        style: 'z-index: 1'
+                        style: 'position: absolute; z-index: 0'
                     }).click(function(){$scope.readWord2($(this).html());}).appendTo(parent).hide();
                     jQuery('<span/>', {
                         class: 'wordName',
@@ -101,6 +103,16 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
 
     $scope.setDroppable = function() {
         $(".inputBox").droppable({
+            over: function(even, ui) {
+                if (isDraggingGlobalWord == true) {
+                    $(this).css("background-color", "lightgreen");
+                }
+            },
+            out: function(even, ui) {
+                if (isDraggingGlobalWord == true) {
+                    $(this).css("background-color", "lightgrey");
+                }
+            },
             drop: function(even, ui) {
                 console.log("dropped in container");
                 if (elementBeingDragged!=0) {
@@ -108,7 +120,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                 }
                 if (isDraggingGlobalWord) {
                     //if ((getLengthOfSentence()+dragWord.length+80) < $(".inputBox").width()) {           //make sure div doesn't overflow
-                    if ((getLengthOfSentence()+dragWord.length+250) < ($(".inputBox").width() * 2)) {
+                    if ((getLengthOfSentence()+dragWord.length+260) < ($(".inputBox").width() * 2)) {
                         console.log("is creating new item");
                         jQuery('<li/>', {
                             class: 'list',
@@ -120,12 +132,19 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                 }
                 isDraggingGlobalWord = false;
                 dragCounter = 0;
+                indexOfSortable = -1;
+                $(".inputBox").css("background-color", "lightgrey");
+                console.log(isDraggingGlobalWord);
             }
         });
         $("html").droppable({
             drop: function(even, ui) {
                 if (elementBeingDragged!=0) {
                     elementBeingDragged.remove();
+                }
+                if (indexOfSortable != -1) {
+                    $("#items li").eq(indexOfSortable).remove();
+                    indexOfSortable = -1;
                 }
                 newParent.show();
                 isDraggingGlobalWord = false;
@@ -140,10 +159,12 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
             scroll: false,
             placeholder: "highlight",
             start: function (event, ui) {
+                //sortableBeingDragged = $(this);
                 ui.item.toggleClass("highlight");
-                console.log(elementBeingDragged);
+                indexOfSortable = ui.item.index();
             },
             stop: function (event, ui) {
+                //sortableBeingDragged = 0;
                 ui.item.toggleClass("highlight");
             }
         });
@@ -154,10 +175,8 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
     function getLengthOfSentence() {
         var length=0;
         $("#items li").each(function(index, value) {
-            console.log(value.offsetWidth);
             length += value.offsetWidth;
         });
-        console.log("current length: "+length);
         return length;
     }
 
