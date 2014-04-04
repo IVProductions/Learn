@@ -7,51 +7,51 @@ Learn.factory('learnFactory', function() {
             "words": [
                 {
                     "name": "au",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/sound_effects/blood.jpg"
                 },
                 {
                     "name": "bææ",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/sound_effects/ewe.jpg"
                 },
                 {
                     "name": "drrr",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/sound_effects/ring_school_bell.jpg"
                 },
                 {
                     "name": "gakk gakk",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/sound_effects/quack.jpg"
                 },
                 {
                     "name": "grr",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/sound_effects/English_bulldog.jpg"
                 },
                 {
                     "name": "kykeliky",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/sound_effects/chicken.jpg"
                 },
                 {
                     "name": "mjau",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/sound_effects/meow.jpg"
                 },
                 {
-                    "name": "møø",
-                    "imageURL": "res/img/animals/cat.png"
+                    "name": "mø",
+                    "imageURL": "img/sound_effects/moo.jpg"
                 },
                 {
                     "name": "nam-nam",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/sound_effects/lick.jpg"
                 },
                 {
                     "name": "oi",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/sound_effects/surprised.jpg"
                 },
                 {
                     "name": "tøff-tøff",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
                     "name": "voff voff",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/sound_effects/woof.jpg"
                 }
             ]
         },

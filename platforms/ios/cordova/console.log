@@ -792,3 +792,130 @@ Terminating in response to SpringBoard's termination.
 2014-04-01 13:08:06.195 Learning[2442:d503] 13:08:06.195 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
 2014-04-01 13:08:06.961 Learning[2442:dc03] 13:08:06.961 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
 2014-04-01 13:08:07.743 Learning[2442:df07] 13:08:07.743 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:57:11.072 Learning[17348:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-04 12:57:11.300 Learning[17348:80b] Fix applied for database locations?: YES
+2014-04-04 12:57:11.461 Learning[17348:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-04-04 12:57:11.462 Learning[17348:80b] [CDVTimer][statusbar] 1.157045ms
+2014-04-04 12:57:11.463 Learning[17348:80b] [CDVTimer][ttsplugin] 0.088990ms
+2014-04-04 12:57:11.464 Learning[17348:80b] [CDVTimer][TotalPluginStartup] 2.730012ms
+2014-04-04 12:57:11.882 Learning[17348:80b] Resetting plugins due to page load.
+2014-04-04 12:57:12.235 Learning[17348:80b] Finished load of: file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/71D75016-1827-4BB5-B013-6D4D1DCFD66B/Learning.app/www/index.html#/
+2014-04-04 12:57:24.266 Learning[17348:80b] THREAD WARNING: ['TTSPlugin'] took '21.091064' ms. Plugin should use a background thread.
+2014-04-04 12:57:24.268 Learning[17348:2c0b] 12:57:24.268 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:57:24.807 Learning[17348:b203] 12:57:24.806 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:57:25.088 Learning[17348:b507] 12:57:25.088 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:57:25.371 Learning[17348:bd07] 12:57:25.371 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:57:25.641 Learning[17348:c503] 12:57:25.641 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:57:29.050 Learning[17348:7503] 12:57:29.050 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:57:30.665 Learning[17348:c907] 12:57:30.665 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:57:33.560 Learning[17348:b017] 12:57:33.560 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:57:35.296 Learning[17348:d70b] 12:57:35.296 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:57:36.462 Learning[17348:7503] 12:57:36.462 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:57:36.532 Learning[17348:e003] 12:57:36.532 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:57:43.755 Learning[17348:427] 12:57:43.755 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:57:44.310 Learning[17348:7503] 12:57:44.310 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:57:44.602 Learning[17348:ec03] 12:57:44.602 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:03.247 Learning[17348:2b0b] 12:58:03.247 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:04.267 Learning[17348:7503] 12:58:04.267 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:58:04.594 Learning[17348:f303] 12:58:04.594 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:05.625 Learning[17348:7503] 12:58:05.625 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:58:05.917 Learning[17348:f607] 12:58:05.917 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:06.948 Learning[17348:7503] 12:58:06.948 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:58:06.976 Learning[17348:fe07] 12:58:06.976 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:16.473 Learning[17348:e713] 12:58:16.473 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:17.530 Learning[17348:1060b] 12:58:17.530 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:18.631 Learning[17348:11103] 12:58:18.631 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:18.697 Learning[17348:7503] 12:58:18.697 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:58:19.905 Learning[17348:7503] 12:58:19.905 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:58:22.868 Learning[17348:11407] 12:58:22.868 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:23.864 Learning[17348:7503] 12:58:23.864 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:58:24.368 Learning[17348:11a07] 12:58:24.368 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:25.164 Learning[17348:7503] 12:58:25.164 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:58:34.990 Learning[17348:12007] 12:58:34.990 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:35.850 Learning[17348:10c0b] 12:58:35.850 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:36.619 Learning[17348:12c0b] 12:58:36.619 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:37.189 Learning[17348:13703] 12:58:37.189 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:37.855 Learning[17348:13c07] 12:58:37.855 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:38.657 Learning[17348:13313] 12:58:38.657 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:39.220 Learning[17348:14c03] 12:58:39.220 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:41.894 Learning[17348:1470f] 12:58:41.894 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:43.030 Learning[17348:1530b] 12:58:43.030 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:44.006 Learning[17348:7603] 12:58:44.006 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:58:44.042 Learning[17348:15e03] 12:58:44.042 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:45.390 Learning[17348:15b0b] 12:58:45.390 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:46.594 Learning[17348:1650b] 12:58:46.594 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:47.570 Learning[17348:7603] 12:58:47.570 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:58:47.813 Learning[17348:17003] 12:58:47.813 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:48.778 Learning[17348:17507] 12:58:48.778 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:48.812 Learning[17348:7603] 12:58:48.812 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:58:49.795 Learning[17348:17907] 12:58:49.795 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:52.839 Learning[17348:16c0f] 12:58:52.839 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:53.932 Learning[17348:7603] 12:58:53.932 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:58:54.019 Learning[17348:18803] 12:58:54.019 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:55.208 Learning[17348:1830b] 12:58:55.208 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:56.290 Learning[17348:19403] 12:58:56.290 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:57.583 Learning[17348:18f0f] 12:58:57.583 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:58:58.680 Learning[17348:7603] 12:58:58.680 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:59:00.227 Learning[17348:d94f] 12:59:00.227 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:01.454 Learning[17348:19b0b] 12:59:01.454 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:02.770 Learning[17348:1a70b] 12:59:02.770 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:04.082 Learning[17348:1ad0b] 12:59:04.082 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:05.332 Learning[17348:1a00b] 12:59:05.332 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:06.126 Learning[17348:1b80b] 12:59:06.126 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:06.904 Learning[17348:1c403] 12:59:06.904 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:06.923 Learning[17348:7603] 12:59:06.923 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:59:07.747 Learning[17348:7603] 12:59:07.747 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:59:07.764 Learning[17348:1250b] 12:59:07.764 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:08.518 Learning[17348:1cf03] 12:59:08.518 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:08.571 Learning[17348:7603] 12:59:08.571 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:59:09.376 Learning[17348:1d207] 12:59:09.376 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:15.400 Learning[17348:1bf0f] 12:59:15.400 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:16.419 Learning[17348:7603] 12:59:16.419 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:59:17.073 Learning[17348:1e103] 12:59:17.073 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:18.103 Learning[17348:7603] 12:59:18.103 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:59:19.085 Learning[17348:1e407] 12:59:19.085 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:20.123 Learning[17348:7603] 12:59:20.123 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:59:38.260 Learning[17348:7507] 12:59:38.260 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:39.290 Learning[17348:1cb0f] 12:59:39.290 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:59:39.490 Learning[17348:1f003] 12:59:39.490 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:40.532 Learning[17348:1cb0f] 12:59:40.532 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:59:40.700 Learning[17348:1f307] 12:59:40.700 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:41.693 Learning[17348:1f807] 12:59:41.693 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:41.751 Learning[17348:1cb0f] 12:59:41.751 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:59:44.488 Learning[17348:2000b] 12:59:44.488 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:45.385 Learning[17348:1cb0f] 12:59:45.385 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:59:45.595 Learning[17348:20b03] 12:59:45.595 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:46.503 Learning[17348:20e07] 12:59:46.503 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:47.633 Learning[17348:2060f] 12:59:47.633 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:48.531 Learning[17348:1cb0f] 12:59:48.531 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:59:50.096 Learning[17348:120f] 12:59:50.096 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:51.014 Learning[17348:1440b] 12:59:51.014 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:51.944 Learning[17348:1cb0f] 12:59:51.944 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:59:52.049 Learning[17348:22603] 12:59:52.049 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:52.966 Learning[17348:1cb0f] 12:59:52.966 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:59:54.262 Learning[17348:22a07] 12:59:54.262 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:55.473 Learning[17348:21a0f] 12:59:55.473 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 12:59:56.646 Learning[17348:1cb0f] 12:59:56.646 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 12:59:56.748 Learning[17348:23803] 12:59:56.748 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 13:00:01.272 Learning[17348:760b] 13:00:01.272 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 13:00:02.284 Learning[17348:24203] 13:00:02.284 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 13:00:02.335 Learning[17348:1cb0f] 13:00:02.335 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 13:00:04.908 Learning[17348:23b0f] 13:00:04.908 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 13:00:05.735 Learning[17348:24e03] 13:00:05.735 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 13:00:06.596 Learning[17348:1cb0f] 13:00:06.596 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 13:00:07.678 Learning[17348:25503] 13:00:07.678 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 13:00:08.447 Learning[17348:24d0b] 13:00:08.447 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 13:00:09.129 Learning[17348:25c0b] 13:00:09.129 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 13:00:10.405 Learning[17348:2640b] 13:00:10.405 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 13:00:11.023 Learning[17348:26d03] 13:00:11.023 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 13:00:11.625 Learning[17348:27007] 13:00:11.625 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 13:00:12.075 Learning[17348:1cb0f] 13:00:12.075 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 13:00:12.371 Learning[17348:27607] 13:00:12.371 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 13:00:13.703 Learning[17348:27d07] 13:00:13.703 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 13:00:14.129 Learning[17348:28207] 13:00:14.129 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 13:00:14.502 Learning[17348:1cb0f] 13:00:14.502 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 13:00:14.684 Learning[17348:28807] 13:00:14.684 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 13:00:15.309 Learning[17348:29007] 13:00:15.309 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 13:00:15.952 Learning[17348:1cb0f] 13:00:15.952 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-04 13:00:15.967 Learning[17348:29407] 13:00:15.967 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-04 13:00:17.404 Learning[17348:1cb0f] 13:00:17.404 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
