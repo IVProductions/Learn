@@ -194,7 +194,7 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "reinsdyr",
-                    "imageURL": "img/animals/raindeer.jpg"
+                    "imageURL": "img/animals/reindeer.jpg"
                 },
                 {
                     "name": "sau",
@@ -245,59 +245,59 @@ Learn.factory('learnFactory', function() {
             "words": [
                 {
                     "name": "akebrett",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/vehicles/sledding.jpg"
                 },
                 {
                     "name": "barnevogn",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/vehicles/baby_doll_stroller.jpg"
                 },
                 {
                     "name": "bil",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/vehicles/car.jpg"
                 },
                 {
                     "name": "brannbil",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/vehicles/fire_truck.jpg"
                 },
                 {
                     "name": "buss",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/vehicles/bus.jpg"
                 },
                 {
                     "name": "båt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/vehicles/boat.jpg"
                 },
                 {
                     "name": "fly",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/vehicles/Blue_Angel_plane.jpg"
                 },
                 {
                     "name": "helikopter",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/vehicles/helicopter.jpg"
                 },
                 {
                     "name": "lastebil",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/vehicles/truck.jpg"
                 },
                 {
                     "name": "motorsykkel",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/vehicles/motorbike.jpg"
                 },
                 {
                     "name": "sykkel",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/vehicles/bicycle.jpg"
                 },
                 {
                     "name": "tog",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/vehicles/bullet_train.jpg"
                 },
                 {
                     "name": "traktor",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/vehicles/tractor.jpg"
                 },
                 {
                     "name": "trehjulssykkel",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/vehicles/tricycle.jpg"
                 }
             ]
         },
