@@ -62,179 +62,179 @@ Learn.factory('learnFactory', function() {
             "words": [
                 {
                     "name": "mark",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/wiggle.jpg"
                 },
                 {
                     "name": "and",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/duck.jpg"
                 },
                 {
                     "name": "apekatt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/baby_monkey.jpg"
                 },
                 {
                     "name": "bjørn",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/brown_bear.jpg"
                 },
                 {
                     "name": "dyr",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/animal.jpg"
                 },
                 {
                     "name": "ekorn",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/squirrel.jpg"
                 },
                 {
                     "name": "elefant",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/elephant.jpg"
                 },
                 {
                     "name": "elg",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/moose.jpg"
                 },
                 {
                     "name": "esel",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/donkey.jpg"
                 },
                 {
                     "name": "fisk",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/clownfish.jpg"
                 },
                 {
                     "name": "flue",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/flies.jpg"
                 },
                 {
                     "name": "frosk",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/frog.jpg"
                 },
                 {
                     "name": "fugl",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/bird.jpg"
                 },
                 {
                     "name": "gås",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/goose.jpg"
                 },
                 {
                     "name": "gris",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/pig.jpg"
                 },
                 {
                     "name": "hane",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/rooster.jpg"
                 },
                 {
                     "name": "hest",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/horse.jpg"
                 },
                 {
                     "name": "høne",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/chicken.jpg"
                 },
                 {
                     "name": "hund",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/beagle.jpg"
                 },
                 {
                     "name": "kanin",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/rabbit.jpg"
                 },
                 {
                     "name": "katt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/cat.jpg"
                 },
                 {
                     "name": "kattunge",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/kitten.jpg"
                 },
                 {
                     "name": "krokodille",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/crocodile.jpg"
                 },
                 {
                     "name": "ku",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/cow.jpg"
                 },
                 {
                     "name": "kylling",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/chick.jpg"
                 },
                 {
                     "name": "lam",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/lamb.jpg"
                 },
                 {
                     "name": "lekebamse",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/Blush_Bear.jpg"
                 },
                 {
                     "name": "løve",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/lion.jpg"
                 },
                 {
                     "name": "maur",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/black_ant.jpg"
                 },
                 {
                     "name": "mus",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/mouse.jpg"
                 },
                 {
                     "name": "mygg",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/mosquito.jpg"
                 },
                 {
                     "name": "pingvin",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/penguin.jpg"
                 },
                 {
                     "name": "ponni",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/pony.jpg"
                 },
                 {
                     "name": "reinsdyr",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/raindeer.jpg"
                 },
                 {
                     "name": "sau",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/ewe.jpg"
                 },
                 {
                     "name": "sebra",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/zebra.jpg"
                 },
                 {
                     "name": "sjiraff",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/giraffe.jpg"
                 },
                 {
                     "name": "skilpadde",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/sea_turtle.jpg"
                 },
                 {
                     "name": "sommerfugl",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/butterfly.jpg"
                 },
                 {
                     "name": "tiger",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/tiger.jpg"
                 },
                 {
                     "name": "ugle",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/owl.jpg"
                 },
                 {
                     "name": "ulv",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/wolf.jpg"
                 },
                 {
                     "name": "valp",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/puppy.jpg"
                 },
                 {
                     "name": "veps",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/animals/wasp.jpg"
                 }
             ]
         },

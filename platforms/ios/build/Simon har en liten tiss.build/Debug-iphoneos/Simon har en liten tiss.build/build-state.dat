@@ -1,0 +1,874 @@
+TSimon har en liten tiss
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Info.plist /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Simon\ har\ en\ liten\ tiss-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/device/Simon\ har\ en\ liten\ tiss.app/ResourceRules.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Script-304B58A110DAC018002A0835.sh
+cCpResource Simon\ har\ en\ liten\ tiss/config.xml build/device/Simon\ har\ en\ liten\ tiss.app/config.xml
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-76.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-76.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-40@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-40@2x.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-72.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-72.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon@2x.png
+cCopyStringsFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/en.lproj/Localizable.strings Simon\ har\ en\ liten\ tiss/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Classes/MainViewController.xib
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-50.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-50.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-60@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-60@2x.png
+cCopyStringsFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/de.lproj/Localizable.strings Simon\ har\ en\ liten\ tiss/Resources/de.lproj/Localizable.strings
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-small.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-small.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default-Landscape@2x~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Landscape@2x~ipad.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default-Landscape~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Landscape~ipad.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default-Portrait@2x~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Portrait@2x~ipad.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-small@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-small@2x.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default-Portrait~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Portrait~ipad.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-40.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-40.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default@2x~iphone.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default@2x~iphone.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-60.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-60.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default~iphone.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default~iphone.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default-568h@2x~iphone.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-568h@2x~iphone.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-50@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-50@2x.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-76@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-76@2x.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-72@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-72@2x.png
+cProcessPCH /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Simon\ har\ en\ liten\ tiss-Prefix-emvofaiehmuoaugslteadlxiyhdd/Simon\ har\ en\ liten\ tiss-Prefix.pch.pch Simon\ har\ en\ liten\ tiss/Simon\ har\ en\ liten\ tiss-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/main.o /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/AppDelegate.o /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/MainViewController.o /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Simon\ har\ en\ liten\ tiss normal armv7
+cGenerateDSYMFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app.dSYM /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Simon\ har\ en\ liten\ tiss
+cProcessProductPackaging /Users/Kristoffer/Library/MobileDevice/Provisioning\ Profiles/E25BC116-A9BA-4343-AE88-735C38EF2F0C.mobileprovision /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/embedded.mobileprovision
+cTouch /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss.xcent
+cCodeSign /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+c00000000528AA23A0000000000000094
+t1384817210
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+c00000000528AA23A0000000000000096
+t1384817210
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000528AA23A000000000000036B
+t1384817210
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000528AA23A00000000000001A0
+t1384817210
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000528AA23B0000000000075BB0
+t1384817211
+s482224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000528AA23C00000000004D63C0
+t1384817212
+s5071808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000528AA23C0000000000146100
+t1384817212
+s1335552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000528AA23E0000000000210C80
+t1384817214
+s2165888
+
+N/Users/Kristoffer/Library/MobileDevice/Provisioning Profiles/E25BC116-A9BA-4343-AE88-735C38EF2F0C.mobileprovision
+c00000000526ECF670000000000001E83
+t1382993767
+s7811
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Classes/AppDelegate.m
+c0000000052FE769600000000000013AB
+t1392408214
+s5035
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Classes/MainViewController.m
+c0000000052FE7696000000000000126B
+t1392408214
+s4715
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Classes/MainViewController.xib
+c0000000052FE76960000000000001759
+t1392408214
+s5977
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/de.lproj/Localizable.strings
+c0000000052FE769600000000000004BF
+t1392408214
+s1215
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/en.lproj/Localizable.strings
+c0000000052FE769600000000000004AA
+t1392408214
+s1194
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/icons/icon-40.png
+c0000000052FE76960000000000000FF2
+t1392408214
+s4082
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/icons/icon-40@2x.png
+c0000000052FE76960000000000001CF3
+t1392408214
+s7411
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/icons/icon-50.png
+c0000000052FE7696000000000000130A
+t1392408214
+s4874
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/icons/icon-50@2x.png
+c0000000052FE7696000000000000258B
+t1392408214
+s9611
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/icons/icon-60.png
+c0000000052FE769600000000000016B3
+t1392408214
+s5811
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/icons/icon-60@2x.png
+c0000000052FE76960000000000002E94
+t1392408214
+s11924
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/icons/icon-72.png
+c0000000052FE76960000000000001350
+t1392408214
+s4944
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/icons/icon-72@2x.png
+c0000000052FE76960000000000002DBA
+t1392408214
+s11706
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/icons/icon-76.png
+c0000000052FE76960000000000001B71
+t1392408214
+s7025
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/icons/icon-76@2x.png
+c0000000052FE76960000000000003B9E
+t1392408214
+s15262
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/icons/icon-small.png
+c0000000052FE76960000000000000CDE
+t1392408214
+s3294
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/icons/icon-small@2x.png
+c0000000052FE769600000000000015E8
+t1392408214
+s5608
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/icons/icon.png
+c0000000052FE76960000000000000F3E
+t1392408214
+s3902
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/icons/icon@2x.png
+c0000000052FE76960000000000001EBD
+t1392408214
+s7869
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/splash/Default-568h@2x~iphone.png
+c0000000052FE769600000000000085B1
+t1392408214
+s34225
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/splash/Default-Landscape@2x~ipad.png
+c0000000052FE76960000000000012DF4
+t1392408214
+s77300
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/splash/Default-Landscape~ipad.png
+c0000000052FE76960000000000008877
+t1392408214
+s34935
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/splash/Default-Portrait@2x~ipad.png
+c0000000052FE76960000000000012B02
+t1392408214
+s76546
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/splash/Default-Portrait~ipad.png
+c0000000052FE769600000000000085E6
+t1392408214
+s34278
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/splash/Default@2x~iphone.png
+c0000000052FE76960000000000007323
+t1392408214
+s29475
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Resources/splash/Default~iphone.png
+c0000000052FE7696000000000000289A
+t1392408214
+s10394
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Simon har en liten tiss-Info.plist
+c000000005300005400000000000009D9
+t1392509012
+s2521
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Simon har en liten tiss-Prefix.pch
+c0000000052FE769600000000000003C5
+t1392408214
+s965
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/config.xml
+c000000005300005400000000000012FF
+t1392509012
+s4863
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/main.m
+c0000000052FE7696000000000000045C
+t1392408214
+s1116
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Objects-normal/armv7/AppDelegate.o
+t1392509018
+s78032
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Objects-normal/armv7/MainViewController.o
+t1392509018
+s53280
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Objects-normal/armv7/Simon har en liten tiss.LinkFileList
+c00000000530000590000000000000201
+t1392509017
+s513
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Objects-normal/armv7/main.o
+t1392509018
+s3136
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Script-304B58A110DAC018002A0835.sh
+c0000000053000059000000000000002D
+t1392509017
+s45
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Simon har en liten tiss.xcent
+t1392509019
+s420
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app
+t1392509019
+s1088
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app.dSYM
+t2
+s0
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Default-568h@2x~iphone.png
+t1392509018
+s61990
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Default-Landscape@2x~ipad.png
+t1392509018
+s143186
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Default-Landscape~ipad.png
+t1392509018
+s65305
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Default-Portrait@2x~ipad.png
+t1392509018
+s136924
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Default-Portrait~ipad.png
+t1392509018
+s63460
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Default@2x~iphone.png
+t1392509018
+s55319
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Default~iphone.png
+t1392509018
+s20021
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Info.plist
+t1392509017
+s1559
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/MainViewController.nib
+t1392509017
+s1332
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/PkgInfo
+t2
+s0
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/ResourceRules.plist
+t1392509017
+s150
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Simon har en liten tiss
+t1392509018
+s280868
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/config.xml
+t1392509017
+s4863
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/de.lproj/Localizable.strings
+t1392509017
+s280
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/embedded.mobileprovision
+t1392509019
+s7811
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/en.lproj/Localizable.strings
+t1392509017
+s166
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-40.png
+t1392509018
+s4450
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-40@2x.png
+t1392509017
+s8883
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-50.png
+t1392509017
+s5557
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-50@2x.png
+t1392509018
+s11331
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-60.png
+t1392509018
+s6838
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-60@2x.png
+t1392509017
+s14152
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-72.png
+t1392509017
+s8045
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-72@2x.png
+t1392509018
+s17926
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-76.png
+t1392509017
+s8463
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-76@2x.png
+t1392509018
+s16629
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-small.png
+t1392509017
+s3349
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-small@2x.png
+t1392509018
+s6585
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon.png
+t1392509017
+s5977
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon@2x.png
+t1392509017
+s13012
+
+N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/libCordova.a
+c000000005300005900000000001BBAB0
+t1392509017
+s1817264
+
+N/var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Simon har en liten tiss-Prefix-emvofaiehmuoaugslteadlxiyhdd/Simon har en liten tiss-Prefix.pch.pch
+t1392507055
+s5280584
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies709858d937b0b841^2bc259d937b0b841^---0#1#1#--18"Check dependencies36"A075A57A-C9AE-4CF2-B9F2-839104AFF22C-
+
+CCodeSign /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app
+s414201819.061507
+e414201819.841616
+r1
+xCodeSign
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"CodeSign build/device/Simon\ har\ en\ liten\ tiss.app53"CodeSign build/device/Simon\ har\ en\ liten\ tiss.app33e10fdb37b0b841^187bd7db37b0b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon%20har%20en%20liten%20tiss.app/0000000000000000^1690"CodeSign build/device/Simon\ har\ en\ liten\ tiss.app    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    Using code signing identity "iPhone Developer: Kristoffer Oeseth (C9VRX84SWR)" and provisioning profile "iOS Team Provisioning Profile: *" (E25BC116-A9BA-4343-AE88-735C38EF2F0C)    codesign --force --sign B988A28F7BDD11AC3E67C82FD1CBAF9C84A7489B --resource-rules=/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/ResourceRules.plist --entitlements /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss.xcent /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app36"2A104079-11F5-42BC-BF0D-6F123E53C034-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCompileC build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/AppDelegate.o /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414201818.808707
+e414201818.910153
+r1
+xCompileC
+xbuild/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Objects-normal/armv7/AppDelegate.o
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Classes/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Classes/AppDelegate.m
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Classes/AppDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVViewController.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Classes/MainViewController.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Classes/AppDelegate.m251"CompileC build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/AppDelegate.o Simon\ har\ en\ liten\ tiss/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2e3ccfda37b0b841^fcffe8da37b0b841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Classes/AppDelegate.m0000000000000000^4688"CompileC build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/AppDelegate.o Simon\ har\ en\ liten\ tiss/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss-generated-files.hmap -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss-own-target-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss-all-target-headers.hmap -iquote /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss-project-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/usr/local/lib/include -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/UninstalledProducts/include -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/DerivedSources/armv7 -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/DerivedSources -F/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device -include /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Simon\ har\ en\ liten\ tiss-Prefix-emvofaiehmuoaugslteadlxiyhdd/Simon\ har\ en\ liten\ tiss-Prefix.pch -MMD -MT dependencies -MF /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/AppDelegate.dia -c /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Classes/AppDelegate.m -o /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/AppDelegate.o36"93954089-BB95-4B2A-9F4F-1AD3974BC7F9-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCompileC build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/MainViewController.o /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414201818.833817
+e414201818.906611
+r1
+xCompileC
+xbuild/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Objects-normal/armv7/MainViewController.o
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Classes/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Classes/MainViewController.m
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Classes/MainViewController.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVViewController.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Classes/MainViewController.m265"CompileC build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/MainViewController.o Simon\ har\ en\ liten\ tiss/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler9696d5da37b0b841^1e18e8da37b0b841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Classes/MainViewController.m0000000000000000^4730"CompileC build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/MainViewController.o Simon\ har\ en\ liten\ tiss/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss-generated-files.hmap -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss-own-target-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss-all-target-headers.hmap -iquote /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss-project-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/usr/local/lib/include -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/UninstalledProducts/include -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/DerivedSources/armv7 -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/DerivedSources -F/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device -include /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Simon\ har\ en\ liten\ tiss-Prefix-emvofaiehmuoaugslteadlxiyhdd/Simon\ har\ en\ liten\ tiss-Prefix.pch -MMD -MT dependencies -MF /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/MainViewController.d --serialize-diagnostics /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/MainViewController.dia -c /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Classes/MainViewController.m -o /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/MainViewController.o36"FA57AC5C-057E-492A-8B03-40774F67732B-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCompileC build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/main.o /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414201818.808450
+e414201818.833469
+r1
+xCompileC
+xbuild/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Objects-normal/armv7/main.o
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/main.m229"CompileC build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/main.o Simon\ har\ en\ liten\ tiss/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerc022cfda37b0b841^145fd5da37b0b841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/main.m0000000000000000^4630"CompileC build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/main.o Simon\ har\ en\ liten\ tiss/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss-generated-files.hmap -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss-own-target-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss-all-target-headers.hmap -iquote /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss-project-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/usr/local/lib/include -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/UninstalledProducts/include -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/DerivedSources/armv7 -I/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/DerivedSources -F/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device -include /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Simon\ har\ en\ liten\ tiss-Prefix-emvofaiehmuoaugslteadlxiyhdd/Simon\ har\ en\ liten\ tiss-Prefix.pch -MMD -MT dependencies -MF /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/main.dia -c /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/main.m -o /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/main.o36"5AFA1FD9-7BDA-4BC9-B151-92314AFBB813-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCompileXIB /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Classes/MainViewController.xib
+s414201817.800074
+e414201817.830279
+r1
+xCompileXIB
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Classes/MainViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compiling /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Classes/MainViewController.xib69"CompileXIB Simon\ har\ en\ liten\ tiss/Classes/MainViewController.xib1d00cdd937b0b841^5ebbd4d937b0b841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Classes/MainViewController.xib0000000000000000^1388"CompileXIB Simon\ har\ en\ liten\ tiss/Classes/MainViewController.xib    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 5.0 --output-format human-readable-text --compile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/MainViewController.nib /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Classes/MainViewController.xib36"E4F8E03A-FAE1-4A36-A924-204D5DB20ACA-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default-568h@2x~iphone.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-568h@2x~iphone.png
+s414201818.663084
+e414201818.798823
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Default-568h@2x~iphone.png
+xSimon har en liten tiss/Resources/splash/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default-568h@2x~iphone.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-568h@2x~iphone.png155"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default-568h@2x~iphone.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-568h@2x~iphone.png84f3a9da37b0b841^1f80ccda37b0b841^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/splash/Default-568h@2x~iphone.png0000000000000000^1342"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default-568h@2x~iphone.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-568h@2x~iphone.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/splash/Default-568h@2x~iphone.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default-568h@2x~iphone.png36"4DCD42EA-EC4A-4CE4-93A3-1F906FD38F9A-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default-Landscape@2x~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Landscape@2x~ipad.png
+s414201817.891848
+e414201818.307494
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Default-Landscape@2x~ipad.png
+xSimon har en liten tiss/Resources/splash/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection161"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default-Landscape@2x~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Landscape@2x~ipad.png161"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default-Landscape@2x~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Landscape@2x~ipad.pngc076e4d937b0b841^73bc4eda37b0b841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/splash/Default-Landscape@2x~ipad.png0000000000000000^1354"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default-Landscape@2x~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Landscape@2x~ipad.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Landscape@2x~ipad.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default-Landscape@2x~ipad.png36"73321014-662D-4D03-A5F8-8E5A2F827978-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default-Landscape~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Landscape~ipad.png
+s414201817.919917
+e414201818.069166
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Default-Landscape~ipad.png
+xSimon har en liten tiss/Resources/splash/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default-Landscape~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Landscape~ipad.png155"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default-Landscape~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Landscape~ipad.pngdacaebd937b0b841^5abb11da37b0b841^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/splash/Default-Landscape~ipad.png0000000000000000^1342"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default-Landscape~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Landscape~ipad.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Landscape~ipad.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default-Landscape~ipad.png36"A2F8809E-3A1E-4063-A4FE-2FDEC6200CE6-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default-Portrait@2x~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Portrait@2x~ipad.png
+s414201818.069626
+e414201818.510014
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Default-Portrait@2x~ipad.png
+xSimon har en liten tiss/Resources/splash/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default-Portrait@2x~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Portrait@2x~ipad.png159"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default-Portrait@2x~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Portrait@2x~ipad.png72fb11da37b0b841^b56b82da37b0b841^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/splash/Default-Portrait@2x~ipad.png0000000000000000^1350"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default-Portrait@2x~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Portrait@2x~ipad.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Portrait@2x~ipad.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default-Portrait@2x~ipad.png36"F42D6709-BA35-4FFE-A9E4-15BF40DEBCC2-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default-Portrait~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Portrait~ipad.png
+s414201818.354368
+e414201818.526340
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Default-Portrait~ipad.png
+xSimon har en liten tiss/Resources/splash/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection153"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default-Portrait~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Portrait~ipad.png153"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default-Portrait~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Portrait~ipad.png8bdd5ada37b0b841^3ba686da37b0b841^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/splash/Default-Portrait~ipad.png0000000000000000^1338"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default-Portrait~ipad.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Portrait~ipad.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/splash/Default-Portrait~ipad.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default-Portrait~ipad.png36"C45053B4-B371-4EF5-BC34-F1B2FAE71D21-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default@2x~iphone.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default@2x~iphone.png
+s414201818.526709
+e414201818.670754
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Default@2x~iphone.png
+xSimon har en liten tiss/Resources/splash/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default@2x~iphone.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default@2x~iphone.png145"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default@2x~iphone.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default@2x~iphone.pngb5fe86da37b0b841^d9ceabda37b0b841^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/splash/Default@2x~iphone.png0000000000000000^1322"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default@2x~iphone.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default@2x~iphone.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/splash/Default@2x~iphone.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default@2x~iphone.png36"BD7670AC-F284-4ADB-B92D-05B4E72E5EBF-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default~iphone.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default~iphone.png
+s414201818.597924
+e414201818.662905
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Default~iphone.png
+xSimon har en liten tiss/Resources/splash/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default~iphone.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default~iphone.png139"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default~iphone.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default~iphone.png653599da37b0b841^b6b9a9da37b0b841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/splash/Default~iphone.png0000000000000000^1310"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/Default~iphone.png Simon\ har\ en\ liten\ tiss/Resources/splash/Default~iphone.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/splash/Default~iphone.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Default~iphone.png36"B2521778-D16A-48B7-9C52-F7CF51E023E2-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-40.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-40.png
+s414201818.510315
+e414201818.552646
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-40.png
+xSimon har en liten tiss/Resources/icons/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-40.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-40.png124"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-40.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-40.pnga5c082da37b0b841^35638dda37b0b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/icons/icon-40.png0000000000000000^1280"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-40.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-40.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/icons/icon-40.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-40.png36"EF39FA51-6AE1-4209-8E4E-84143F564EE8-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-40@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-40@2x.png
+s414201817.689393
+e414201817.756287
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-40@2x.png
+xSimon har en liten tiss/Resources/icons/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-40@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-40@2x.png130"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-40@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-40@2x.png24b5b0d937b0b841^bb9dc1d937b0b841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/icons/icon-40@2x.png0000000000000000^1292"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-40@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-40@2x.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/icons/icon-40@2x.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-40@2x.png36"785B2E2A-CE8A-4E72-91AD-2C71B6E3E69F-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-50.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-50.png
+s414201817.830661
+e414201817.877886
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-50.png
+xSimon har en liten tiss/Resources/icons/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-50.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-50.png124"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-50.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-50.png38dbd4d937b0b841^94dde0d937b0b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/icons/icon-50.png0000000000000000^1280"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-50.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-50.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/icons/icon-50.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-50.png36"3B77742E-F599-45BF-A6D9-413B7CCDF485-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-50@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-50@2x.png
+s414201818.671086
+e414201818.720596
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-50@2x.png
+xSimon har en liten tiss/Resources/icons/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-50@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-50@2x.png130"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-50@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-50@2x.pngda04acda37b0b841^0682b8da37b0b841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/icons/icon-50@2x.png0000000000000000^1292"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-50@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-50@2x.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/icons/icon-50@2x.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-50@2x.png36"A6915D46-D95E-4F94-BABA-01617126EFC5-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-60.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-60.png
+s414201818.552851
+e414201818.596121
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-60.png
+xSimon har en liten tiss/Resources/icons/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-60.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-60.png124"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-60.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-60.pngd2ab8dda37b0b841^9ab598da37b0b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/icons/icon-60.png0000000000000000^1280"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-60.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-60.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/icons/icon-60.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-60.png36"C348AB05-FBD6-4453-8FBF-E9EA32884C0E-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-60@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-60@2x.png
+s414201817.840400
+e414201817.891339
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-60@2x.png
+xSimon har en liten tiss/Resources/icons/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-60@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-60@2x.png130"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-60@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-60@2x.png0d53d7d937b0b841^3336e4d937b0b841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/icons/icon-60@2x.png0000000000000000^1292"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-60@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-60@2x.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/icons/icon-60@2x.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-60@2x.png36"C1F321AF-C95E-404B-8CB3-5DEE1BBE2715-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-72.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-72.png
+s414201817.756592
+e414201817.797416
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-72.png
+xSimon har en liten tiss/Resources/icons/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-72.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-72.png124"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-72.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-72.png65dfc1d937b0b841^2236ccd937b0b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/icons/icon-72.png0000000000000000^1280"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-72.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-72.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/icons/icon-72.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-72.png36"01464FA4-6B80-4DFF-A3B4-FE43930E8B71-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-72@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-72@2x.png
+s414201818.768094
+e414201818.807314
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-72@2x.png
+xSimon har en liten tiss/Resources/icons/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-72@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-72@2x.png130"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-72@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-72@2x.png21c9c4da37b0b841^92adceda37b0b841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/icons/icon-72@2x.png0000000000000000^1292"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-72@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-72@2x.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/icons/icon-72@2x.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-72@2x.png36"4286BB87-E923-4996-A44A-46238875A84B-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-76.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-76.png
+s414201817.687696
+e414201817.756434
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-76.png
+xSimon har en liten tiss/Resources/icons/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-76.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-76.png124"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-76.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-76.pngdf35b0d937b0b841^7ea7c1d937b0b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/icons/icon-76.png0000000000000000^1280"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-76.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-76.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/icons/icon-76.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-76.png36"6DEF38D9-BEEB-4709-8FEE-188A9498D675-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-76@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-76@2x.png
+s414201818.720823
+e414201818.767858
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-76@2x.png
+xSimon har en liten tiss/Resources/icons/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-76@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-76@2x.png130"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-76@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-76@2x.png71afb8da37b0b841^b797c4da37b0b841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/icons/icon-76@2x.png0000000000000000^1292"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-76@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-76@2x.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/icons/icon-76@2x.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-76@2x.png36"7220DC9F-22B5-48A1-BB60-7C2C7499D92A-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-small.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-small.png
+s414201817.880090
+e414201817.919333
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-small.png
+xSimon har en liten tiss/Resources/icons/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-small.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-small.png130"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-small.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-small.png3b71e1d937b0b841^ed61ebd937b0b841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/icons/icon-small.png0000000000000000^1292"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-small.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-small.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/icons/icon-small.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-small.png36"338645D7-2A3D-4720-A124-72825BD9A140-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-small@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-small@2x.png
+s414201818.308517
+e414201818.354109
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon-small@2x.png
+xSimon har en liten tiss/Resources/icons/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-small@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-small@2x.png136"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-small@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-small@2x.pngba2f4fda37b0b841^15ab5ada37b0b841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/icons/icon-small@2x.png0000000000000000^1304"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon-small@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon-small@2x.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/icons/icon-small@2x.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon-small@2x.png36"A8554213-A2F8-4635-A384-CF3AE282E7A2-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon.png
+s414201817.756980
+e414201817.792970
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon.png
+xSimon har en liten tiss/Resources/icons/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon.png118"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon.png30f3c1d937b0b841^d107cbd937b0b841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/icons/icon.png0000000000000000^1268"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/icons/icon.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon.png36"EAE2D261-3823-4FB1-9E6E-3339EA896A20-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon@2x.png
+s414201817.793168
+e414201817.838758
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/icon@2x.png
+xSimon har en liten tiss/Resources/icons/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon@2x.png124"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon@2x.png2b31cbd937b0b841^38bed6d937b0b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/icons/icon@2x.png0000000000000000^1280"CopyPNGFile build/device/Simon\ har\ en\ liten\ tiss.app/icon@2x.png Simon\ har\ en\ liten\ tiss/Resources/icons/icon@2x.png    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Resources/icons/icon@2x.png /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/icon@2x.png36"510EEEBE-EA8F-48C7-9161-619FFC08D7E0-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyStringsFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/de.lproj/Localizable.strings Simon\ har\ en\ liten\ tiss/Resources/de.lproj/Localizable.strings
+s414201817.878107
+e414201817.879949
+r1
+xCopyStringsFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/de.lproj/Localizable.strings
+xSimon har en liten tiss/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy Simon har en liten tiss/Resources/de.lproj/Localizable.strings156"CopyStringsFile build/device/Simon\ har\ en\ liten\ tiss.app/de.lproj/Localizable.strings Simon\ har\ en\ liten\ tiss/Resources/de.lproj/Localizable.strings7100e1d937b0b841^dd44e1d937b0b841^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/de.lproj/Localizable.strings0000000000000000^1247"CopyStringsFile build/device/Simon\ har\ en\ liten\ tiss.app/de.lproj/Localizable.strings Simon\ har\ en\ liten\ tiss/Resources/de.lproj/Localizable.strings    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/de.lproj -- Simon\ har\ en\ liten\ tiss/Resources/de.lproj/Localizable.strings36"ECB7E95B-8A89-4976-A65F-D6A74EE9D7B1-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCopyStringsFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/en.lproj/Localizable.strings Simon\ har\ en\ liten\ tiss/Resources/en.lproj/Localizable.strings
+s414201817.797906
+e414201817.799783
+r1
+xCopyStringsFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/en.lproj/Localizable.strings
+xSimon har en liten tiss/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy Simon har en liten tiss/Resources/en.lproj/Localizable.strings156"CopyStringsFile build/device/Simon\ har\ en\ liten\ tiss.app/en.lproj/Localizable.strings Simon\ har\ en\ liten\ tiss/Resources/en.lproj/Localizable.stringsef73ccd937b0b841^f9beccd937b0b841^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Resources/en.lproj/Localizable.strings0000000000000000^1247"CopyStringsFile build/device/Simon\ har\ en\ liten\ tiss.app/en.lproj/Localizable.strings Simon\ har\ en\ liten\ tiss/Resources/en.lproj/Localizable.strings    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/en.lproj -- Simon\ har\ en\ liten\ tiss/Resources/en.lproj/Localizable.strings36"80FCB118-1FA1-4668-BC53-389273FEC0FB-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/device/Simon\ har\ en\ liten\ tiss.app/ResourceRules.plist
+s414201817.355729
+e414201817.357123
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+xbuild/device/Simon har en liten tiss.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/device/Simon har en liten tiss.app/ResourceRules.plist197"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/device/Simon\ har\ en\ liten\ tiss.app/ResourceRules.plist37365bd937b0b841^db6d5bd937b0b841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon%20har%20en%20liten%20tiss.app/ResourceRules.plist0034b8dedeffdf42^1353"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/device/Simon\ har\ en\ liten\ tiss.app/ResourceRules.plist    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app36"E95E6623-A1AB-4DB5-A551-19B07CBDCAA0-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CCpResource Simon\ har\ en\ liten\ tiss/config.xml build/device/Simon\ har\ en\ liten\ tiss.app/config.xml
+s414201817.687445
+e414201817.689233
+r1
+xCpResource
+xSimon har en liten tiss/config.xml
+xbuild/device/Simon har en liten tiss.app/config.xml
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/device/Simon har en liten tiss.app/config.xml105"CpResource Simon\ har\ en\ liten\ tiss/config.xml build/device/Simon\ har\ en\ liten\ tiss.app/config.xml3925b0d937b0b841^aa7fb0d937b0b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon%20har%20en%20liten%20tiss.app/config.xml0034b8dedeffdf42^1233"CpResource Simon\ har\ en\ liten\ tiss/config.xml build/device/Simon\ har\ en\ liten\ tiss.app/config.xml    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/config.xml /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app36"B1271E2D-7A96-4C4B-8397-F046A57D3AE0-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CGenerateDSYMFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app.dSYM /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Simon\ har\ en\ liten\ tiss
+s414201818.991790
+e414201819.046605
+r1
+xGenerateDSYMFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app.dSYM
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Simon har en liten tiss
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Generate /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app.dSYM139"GenerateDSYMFile build/device/Simon\ har\ en\ liten\ tiss.app.dSYM build/device/Simon\ har\ en\ liten\ tiss.app/Simon\ har\ en\ liten\ tissbd01feda37b0b841^30f10bdb37b0b841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon%20har%20en%20liten%20tiss.app.dSYM0034b8dedeffdf42^1297"GenerateDSYMFile build/device/Simon\ har\ en\ liten\ tiss.app.dSYM build/device/Simon\ har\ en\ liten\ tiss.app/Simon\ har\ en\ liten\ tiss    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Simon\ har\ en\ liten\ tiss -o /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app.dSYM36"7126C5B9-9526-43BB-85F0-C3195EF51043-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CLd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Simon\ har\ en\ liten\ tiss normal armv7
+s414201818.911051
+e414201818.990580
+r1
+xLd
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Simon har en liten tiss
+xnormal
+xarmv7
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Objects-normal/armv7/Simon har en liten tiss.LinkFileList
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/crt1.3.1.o
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Objects-normal/armv7/main.o
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Objects-normal/armv7/AppDelegate.o
+d/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Objects-normal/armv7/MainViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphoneos.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Link /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Simon har en liten tiss88"Ld build/device/Simon\ har\ en\ liten\ tiss.app/Simon\ har\ en\ liten\ tiss normal armv72b69e9da37b0b841^5f97fdda37b0b841^---0#0#1#--2383"Ld build/device/Simon\ har\ en\ liten\ tiss.app/Simon\ har\ en\ liten\ tiss normal armv7    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device -F/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device -filelist /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/Simon\ har\ en\ liten\ tiss.LinkFileList -dead_strip -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=5.0 -framework AssetsLibrary /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Objects-normal/armv7/Simon\ har\ en\ liten\ tiss_dependency_info.dat -o /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Simon\ har\ en\ liten\ tiss36"EC941BD2-3A23-475A-AFAF-958E24976441-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CPhaseScriptExecution Copy\ www\ directory /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Script-304B58A110DAC018002A0835.sh
+s414201817.359045
+e414201817.686922
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.283s
+ouser	0m0.108s
+osys	0m0.171s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'165"PhaseScriptExecution Copy\ www\ directory build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Script-304B58A110DAC018002A0835.sh766f5dd937b0b841^0adbafd937b0b841^-42"real	0m0.283suser	0m0.108ssys	0m0.171s3(21%IDEActivityLogMessage2@14"real	0m0.283s-414201817#1#14#-0#-----2@14"user	0m0.108s-414201817#15#14#-0#-----2@13"sys	0m0.171s-414201817#29#13#-0#-----0#0#1#--24266"PhaseScriptExecution Copy\ www\ directory build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Script-304B58A110DAC018002A0835.sh    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER Kristoffer    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv ALWAYS_USE_SEPARATE_HEADERMAPS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS armv7    setenv ARCHS_STANDARD "armv7 armv7s"    setenv ARCHS_STANDARD_32_64_BIT "armv7 armv7s"    setenv ARCHS_STANDARD_32_BIT "armv7 armv7s"    setenv ARCHS_STANDARD_64_BIT arm64    setenv ARCHS_STANDARD_INCLUDING_64_BIT "armv7 armv7s arm64"    setenv ARCHS_UNIVERSAL_IPHONE_OS "armv7 armv7s"    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build    setenv BUILD_ROOT /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device    setenv CACHE_ROOT /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode    setenv CCHROOT /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC YES    setenv CLANG_WARN_BOOL_CONVERSION YES    setenv CLANG_WARN_CONSTANT_CONVERSION YES    setenv CLANG_WARN_EMPTY_BODY YES    setenv CLANG_WARN_ENUM_CONVERSION YES    setenv CLANG_WARN_INT_CONVERSION YES    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/JavaClasses"    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app"    setenv CODE_SIGNING_ALLOWED YES    setenv CODE_SIGNING_REQUIRED YES    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneOSCodeSignContext    setenv CODE_SIGN_IDENTITY "iPhone Developer"    setenv COLOR_DIAGNOSTICS NO    setenv COMBINE_HIDPI_IMAGES NO    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device    setenv CONFIGURATION_TEMP_DIR "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos"    setenv CONTENTS_FOLDER_PATH "Simon har en liten tiss.app"    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CREATE_INFOPLIST_SECTION_IN_BINARY NO    setenv CURRENT_ARCH armv7    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEFAULT_KEXT_INSTALL_PATH /System/Library/Extensions    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/DerivedSources"    setenv DERIVED_FILE_DIR "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/DerivedSources"    setenv DERIVED_SOURCES_DIR "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/DerivedSources"    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH "Simon har en liten tiss.app/English.lproj/Documentation"    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT "/tmp/Simon har en liten tiss.dst"    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME "Simon har en liten tiss.app.dSYM"    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENTITLEMENTS_ALLOWED YES    setenv ENTITLEMENTS_REQUIRED YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH "Simon har en liten tiss.app/Executables"    setenv EXECUTABLE_FOLDER_PATH "Simon har en liten tiss.app"    setenv EXECUTABLE_NAME "Simon har en liten tiss"    setenv EXECUTABLE_PATH "Simon har en liten tiss.app/Simon har en liten tiss"    setenv FILE_LIST "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Objects/LinkFileList"    setenv FIXED_FILES_DIR "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/FixedFiles"    setenv FRAMEWORKS_FOLDER_PATH "Simon har en liten tiss.app/Frameworks"    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME "Simon har en liten tiss.app"    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER "Simon har en liten tiss/Simon har en liten tiss-Prefix.pch"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNDECLARED_SELECTOR YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_FUNCTION YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/include \"/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/usr/local/lib/include\" \"/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/UninstalledProducts/include\" \"/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE "Simon har en liten tiss/Simon har en liten tiss-Info.plist"    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH "Simon har en liten tiss.app/Info.plist"    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH "Simon har en liten tiss.app/English.lproj/InfoPlist.strings"    setenv INSTALL_DIR "/tmp/Simon har en liten tiss.dst/Applications"    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER Kristoffer    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT "/tmp/Simon har en liten tiss.dst"    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH "Simon har en liten tiss.app/Java"    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_DEPENDENCY_INFO_FILE "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Objects-normal/armv7/Simon har en liten tiss_dependency_info.dat"    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Simon har en liten tiss-LinkMap-normal-armv7.txt"    setenv LD_NO_PIE NO    setenv LD_QUOTE_LINKER_ARGUMENTS_FOR_COMPILER_DRIVER YES    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_KEXT_INSTALL_PATH /Library/Extensions    setenv LIBRARY_SEARCH_PATHS "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv7 "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Objects-normal/armv7/Simon har en liten tiss.LinkFileList"    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH "Simon har en liten tiss.app/English.lproj"    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 13A603    setenv MAC_OS_X_VERSION_ACTUAL 1090    setenv MAC_OS_X_VERSION_MAJOR 1090    setenv MAC_OS_X_VERSION_MINOR 0900    setenv MODULE_CACHE_DIR /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache    setenv NATIVE_ARCH armv7    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Objects"    setenv OBJECT_FILE_DIR_normal "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Objects-normal"    setenv OBJROOT /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load \"/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/libCordova.a\" -ObjC"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH "Simon har en liten tiss.app/pbdevelopment.plist"    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/PkgInfo"    setenv PKGINFO_PATH "Simon har en liten tiss.app/PkgInfo"    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLATFORM_PREFERRED_ARCH arm64    setenv PLATFORM_PRODUCT_BUILD_VERSION 11B508    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH "Simon har en liten tiss.app/PlugIns"    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/PrefixHeaders"    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH "Simon har en liten tiss.app/PrivateHeaders"    setenv PRODUCT_NAME "Simon har en liten tiss"    setenv PRODUCT_SETTINGS_PATH "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Simon har en liten tiss-Info.plist"    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT "Simon har en liten tiss"    setenv PROJECT_DERIVED_FILE_DIR "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/DerivedSources"    setenv PROJECT_DIR /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PROJECT_FILE_PATH "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss.xcodeproj"    setenv PROJECT_NAME "Simon har en liten tiss"    setenv PROJECT_TEMP_DIR "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build"    setenv PROJECT_TEMP_ROOT /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build    setenv PROVISIONING_PROFILE_REQUIRED YES    setenv PUBLIC_HEADERS_FOLDER_PATH "Simon har en liten tiss.app/Headers"    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv RESOURCE_RULES_REQUIRED YES    setenv REZ_COLLECTOR_DIR "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/ResourceManagerResources"    setenv REZ_OBJECTS_DIR "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/ResourceManagerResources/Objects"    setenv REZ_SEARCH_PATHS "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device "    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH "Simon har en liten tiss.app/Scripts"    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk    setenv SDK_NAME iphoneos7.0    setenv SDK_PRODUCT_BUILD_VERSION 11B508    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH "Simon har en liten tiss.app/SharedFrameworks"    setenv SHARED_PRECOMPS_DIR /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH "Simon har en liten tiss.app/SharedSupport"    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv SRCROOT /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES 1,2    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_KEXT_INSTALL_PATH /System/Library/Extensions    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME "Simon har en liten tiss"    setenv TARGET_BUILD_DIR /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device    setenv TARGET_NAME "Simon har en liten tiss"    setenv TARGET_TEMP_DIR "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build"    setenv TEMP_DIR "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build"    setenv TEMP_FILES_DIR "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build"    setenv TEMP_FILE_DIR "/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build"    setenv TEMP_ROOT /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH "Simon har en liten tiss.app"    setenv UNSTRIPPED_PRODUCT NO    setenv USER Kristoffer    setenv USER_APPS_DIR /Users/Kristoffer/Applications    setenv USER_LIBRARY_DIR /Users/Kristoffer/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "armv7 armv7s"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH "Simon har en liten tiss.app/version.plist"    setenv VERSION_INFO_BUILDER Kristoffer    setenv VERSION_INFO_FILE "Simon har en liten tiss_vers.c"    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:Simon har en liten tiss  PROJECT:Simon har en liten tiss-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME "Simon har en liten tiss.app"    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 5A3005    setenv XCODE_VERSION_ACTUAL 0502    setenv XCODE_VERSION_MAJOR 0500    setenv XCODE_VERSION_MINOR 0500    setenv XPCSERVICES_FOLDER_PATH "Simon har en liten tiss.app/XPCServices"    setenv YACC yacc    setenv arch armv7    setenv variant normal    /bin/sh -c \"/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Script-304B58A110DAC018002A0835.sh\"36"AE6C6666-4B0C-4B73-8BB6-2F8422115F00-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CProcessInfoPlistFile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Info.plist /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Simon\ har\ en\ liten\ tiss-Info.plist
+s414201817.351772
+e414201817.355086
+r1
+xProcessInfoPlistFile
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/Info.plist
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Simon har en liten tiss-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Process /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon har en liten tiss/Simon har en liten tiss-Info.plist143"ProcessInfoPlistFile build/device/Simon\ har\ en\ liten\ tiss.app/Info.plist Simon\ har\ en\ liten\ tiss/Simon\ har\ en\ liten\ tiss-Info.plist60395ad937b0b841^f7e75ad937b0b841^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon%20har%20en%20liten%20tiss/Simon%20har%20en%20liten%20tiss-Info.plist0000000000000000^1544"ProcessInfoPlistFile build/device/Simon\ har\ en\ liten\ tiss.app/Info.plist Simon\ har\ en\ liten\ tiss/Simon\ har\ en\ liten\ tiss-Info.plist    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    builtin-infoPlistUtility /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/Simon\ har\ en\ liten\ tiss/Simon\ har\ en\ liten\ tiss-Info.plist -genpkginfo /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/ResourceRules.plist -o /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/Info.plist36"2CF76438-E399-4481-AE8B-0C7D83AF9A2C-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CProcessPCH /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Simon\ har\ en\ liten\ tiss-Prefix-emvofaiehmuoaugslteadlxiyhdd/Simon\ har\ en\ liten\ tiss-Prefix.pch.pch Simon\ har\ en\ liten\ tiss/Simon\ har\ en\ liten\ tiss-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss.xcent
+s414201819.058883
+e414201819.061000
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon har en liten tiss.build/Debug-iphoneos/Simon har en liten tiss.build/Simon har en liten tiss.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection267"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss.xcent267"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss.xcentca370fdb37b0b841^179e0fdb37b0b841^---0#0#1#-19%DVTDocumentLocation2@196"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon%20har%20en%20liten%20tiss.build/Debug-iphoneos/Simon%20har%20en%20liten%20tiss.build/Simon%20har%20en%20liten%20tiss.xcent0034b8dedeffdf42^1453"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss.xcent    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/Simon\ har\ en\ liten\ tiss.build/Debug-iphoneos/Simon\ har\ en\ liten\ tiss.build/Simon\ har\ en\ liten\ tiss.xcent36"31E168C5-A934-4DC1-9FBF-4045365F9F5E-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CProcessProductPackaging /Users/Kristoffer/Library/MobileDevice/Provisioning\ Profiles/E25BC116-A9BA-4343-AE88-735C38EF2F0C.mobileprovision /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/embedded.mobileprovision
+s414201819.047128
+e414201819.048834
+r1
+xProcessProductPackaging
+x/Users/Kristoffer/Library/MobileDevice/Provisioning Profiles/E25BC116-A9BA-4343-AE88-735C38EF2F0C.mobileprovision
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection208"ProcessProductPackaging /Users/Kristoffer/Library/MobileDevice/Provisioning\ Profiles/E25BC116-A9BA-4343-AE88-735C38EF2F0C.mobileprovision build/device/Simon\ har\ en\ liten\ tiss.app/embedded.mobileprovision208"ProcessProductPackaging /Users/Kristoffer/Library/MobileDevice/Provisioning\ Profiles/E25BC116-A9BA-4343-AE88-735C38EF2F0C.mobileprovision build/device/Simon\ har\ en\ liten\ tiss.app/embedded.mobileprovision952b0cdb37b0b841^0a810cdb37b0b841^---0#0#1#-19%DVTDocumentLocation2@135"file:///Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon%20har%20en%20liten%20tiss.app/embedded.mobileprovision0034b8dedeffdf42^1309"ProcessProductPackaging /Users/Kristoffer/Library/MobileDevice/Provisioning\ Profiles/E25BC116-A9BA-4343-AE88-735C38EF2F0C.mobileprovision build/device/Simon\ har\ en\ liten\ tiss.app/embedded.mobileprovision    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    builtin-productPackagingUtility /Users/Kristoffer/Library/MobileDevice/Provisioning\ Profiles/E25BC116-A9BA-4343-AE88-735C38EF2F0C.mobileprovision -o /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app/embedded.mobileprovision36"E6571CEB-ACE1-4923-9AA2-D9D644E352C3-
+bC990959D-132B-4B27-992E-8160A569DC21
+
+CTouch /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app
+s414201819.051197
+e414201819.057896
+r1
+xTouch
+x/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Touch /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon har en liten tiss.app50"Touch build/device/Simon\ har\ en\ liten\ tiss.app43390ddb37b0b841^edd20edb37b0b841^---0#0#1#--994"Touch build/device/Simon\ har\ en\ liten\ tiss.app    cd /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/usr/share/ant/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /usr/bin/touch -c /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/device/Simon\ har\ en\ liten\ tiss.app36"9B7C025E-74EA-4C96-888A-3743CE72FD92-
+bC990959D-132B-4B27-992E-8160A569DC21
+

@@ -1,0 +1,33 @@
+<div id="partialBody">
+    </br>
+    <div ng-click="redirect('splash')" style="border: 2px solid black">Main Menu</div>
+    </br>
+    <div ng-click="readSentence()" style="border: 2px solid black">Read Text</div>
+    </br>
+    <div ng-click="removeWords()" style="border: 2px solid black">Remove Words</div>
+
+    </br></br>
+    <ul id="availableWords" style="list-style-type: none">
+        <li><span class="draggable" style="width: 1px; z-index: 1" ng-click="readWord($event.srcElement.innerHTML)">Hei</span></li>
+        <li><span class="draggable" style="width: 1px; z-index: 1" ng-click="readWord($event.srcElement.innerHTML)">på</span></li>
+        <li><span class="draggable" style="width: 1px; z-index: 1" ng-click="readWord($event.srcElement.innerHTML)">deg</span></li>
+        <li><span class="draggable" style="width: 1px; z-index: 1" ng-click="readWord($event.srcElement.innerHTML)">din</span></li>
+        <li><span class="draggable" style="width: 1px; z-index: 1" ng-click="readWord($event.srcElement.innerHTML)">gamle</span></li>
+        <li><span class="draggable" style="width: 1px; z-index: 1" ng-click="readWord($event.srcElement.innerHTML)">rompeball</span></li>
+        <li><span class="draggable" style="width: 1px; z-index: 1" ng-click="readWord($event.srcElement.innerHTML)">pikk</span></li>
+    </ul>
+    <!--
+    <div id="container" style="width: 500px; height: 500px; border: 2px; background: greenyellow">
+        <div id="droppable" style="width: 200px; height: 70px; background: orange; position: relative; left: 100px">
+            <ul id ="sortableSentence" style="list-style-type: none; padding-top: 20px"></ul>
+        </div>
+    </div>
+    -->
+    </br>
+    </br>
+    <div id="droppable2" style="width: 100%; height: 70px; background: orange; position: relative">
+        <ul id="items">
+        </ul>
+    </div>
+    </br></br>
+</div>
