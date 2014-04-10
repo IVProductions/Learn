@@ -3,7 +3,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 0,
             "name": "Lydeffekter",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/sounds.jpg",
             "words": [
                 {
                     "name": "au",
@@ -58,7 +58,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 1,
             "name": "Dyr",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/farm_animals.jpg",
             "words": [
                 {
                     "name": "mark",
@@ -241,7 +241,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 2,
             "name": "Kjøretøy",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/vehicles.jpg",
             "words": [
                 {
                     "name": "akebrett",
@@ -304,7 +304,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 3,
             "name": "Leker",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/toys.jpg",
             "words": [
                 {
                     "name": "ball",
@@ -383,7 +383,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 4,
             "name": "Mat og drikke",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/apple_juice.jpg",
             "words": [
                 {
                     "name": "brødskive",
@@ -662,7 +662,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 5,
             "name": "Klær og tilbehør",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/clothes.jpg",
             "words": [
                 {
                     "name": "belte",
@@ -789,7 +789,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 6,
             "name": "Kroppsdeler",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/human_body.jpg",
             "words": [
                 {
                     "name": "ankel",
@@ -904,7 +904,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 7,
             "name": "Små gjenstander i huset",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/lamp.jpg",
             "words": [
                 {
                     "name": "bilde",
@@ -1111,7 +1111,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 8,
             "name": "Rom og møbler",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/furniture.jpg",
             "words": [
                 {
                     "name": "bad",
@@ -1254,7 +1254,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 9,
             "name": "Ting utendørs",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/outdoors.jpg",
             "words": [
                 {
                     "name": "badebasseng",
@@ -1385,7 +1385,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 10,
             "name": "Steder å dra til",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/playground.jpg",
             "words": [
                 {
                     "name": "bensinstasjon",
@@ -1480,7 +1480,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 11,
             "name": "Mennesker",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/doctor.jpg",
             "words": [
                 {
                     "name": "baby",
@@ -1631,7 +1631,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 12,
             "name": "Leker og rutiner",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/bathe.jpg",
             "words": [
                 {
                     "name": "bade",
@@ -1738,7 +1738,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 13,
             "name": "Verb",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/jump.jpg",
             "words": [
                 {
                     "name": "jobbe",
@@ -2181,7 +2181,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 14,
             "name": "Beskrivende ord",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/describe.jpg",
             "words": [
                 {
                     "name": "bedre",
@@ -2436,7 +2436,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 15,
             "name": "Ord om tid",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/today.jpg",
             "words": [
                 {
                     "name": "dag",
@@ -2507,7 +2507,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 16,
             "name": "Pronomen",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/pronouns.jpg",
             "words": [
                 {
                     "name": "de",
@@ -2638,42 +2638,42 @@ Learn.factory('learnFactory', function() {
         {
             "id": 17,
             "name": "Spørreord",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/ask.jpg",
             "words": [
                 {
                     "name": "hva",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/ask.jpg"
                 },
                 {
                     "name": "hvem",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/ask.jpg"
                 },
                 {
                     "name": "hvilken",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/ask.jpg"
                 },
                 {
                     "name": "hvor",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/ask.jpg"
                 },
                 {
                     "name": "hvordan",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/ask.jpg"
                 },
                 {
                     "name": "hvorfor",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/ask.jpg"
                 },
                 {
                     "name": "når",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/ask.jpg"
                 }
             ]
         },
         {
             "id": 18,
             "name": "Preposisjoner og stedsangivelser",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/behind.jpg",
             "words": [
                 {
                     "name": "av",
@@ -2842,9 +2842,9 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 20,
+            "id": 19,
             "name": "Mengdeord",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/few.jpg",
             "words": [
                 {
                     "name": "alle",
@@ -2937,140 +2937,140 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 21,
+            "id": 20,
             "name": "Hjelpeverb",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/talk.jpg",
             "words": [
                 {
                     "name": "bli",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "bør",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "burde",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "er",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "få",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "gjør",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "gjorde",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "gjøre",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "ha",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "hadde",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "har",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "kan",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "kunne",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "la",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "må",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "måtte",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "skal",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "skulle",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "være",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "var",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "vil",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "ville",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 }
             ]
         },
         {
-            "id": 22,
+            "id": 21,
             "name": "Bindeord",
-            "imageURL": "img/category.png",
+            "imageURL": "img/categories/talk.jpg",
             "words": [
                 {
                     "name": "at",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "eller",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "for",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "fordi",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "hvis",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "men",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "og",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "så",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "som",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/categories/talk.jpg"
                 }
             ]
         }

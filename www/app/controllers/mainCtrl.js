@@ -110,7 +110,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
             },
             out: function(even, ui) {
                 if (isDraggingGlobalWord == true) {
-                    $(this).css("background-color", "lightgrey");
+                    $(this).css("background-color", "grey");
                 }
             },
             drop: function(even, ui) {
@@ -133,7 +133,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                 isDraggingGlobalWord = false;
                 dragCounter = 0;
                 indexOfSortable = -1;
-                $(".inputBox").css("background-color", "lightgrey");
+                $(".inputBox").css("background-color", "grey");
                 console.log(isDraggingGlobalWord);
             }
         });
