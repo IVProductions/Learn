@@ -63,7 +63,11 @@ html, body {
 }
 
 .main .background .listOfWords .backgroundWords {
+<<<<<<< HEAD
     background-color: lightblue;
+=======
+    background-color: white;
+>>>>>>> FETCH_HEAD
     width: 100%;
     border-radius: 5px;
 }
@@ -77,7 +81,11 @@ html, body {
     background-size: 120px 120px;
     background-repeat: no-repeat;
     background-position: center;
+<<<<<<< HEAD
     background-color: #eeeeff;
+=======
+    background-color: white;
+>>>>>>> FETCH_HEAD
     /*border: 2px #bbccdd solid;*/
 }
 
