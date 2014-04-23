@@ -793,111 +793,111 @@ Learn.factory('learnFactory', function() {
             "words": [
                 {
                     "name": "ankel",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/ankle.jpg"
                 },
                 {
                     "name": "ansikt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/face.jpg"
                 },
                 {
                     "name": "arm",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/arm.jpg"
                 },
                 {
                     "name": "bein",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/leg.jpg"
                 },
                 {
                     "name": "finger",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/finger.jpg"
                 },
                 {
                     "name": "fot",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/foot.jpg"
                 },
                 {
                     "name": "hake",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/chin.jpg"
                 },
                 {
                     "name": "hånd",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/hand.jpg"
                 },
                 {
                     "name": "hår",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/hair.jpg"
                 },
                 {
                     "name": "hode",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/head.jpg"
                 },
                 {
                     "name": "kinn",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/cheeks.jpg"
                 },
                 {
                     "name": "kne",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/knee.jpg"
                 },
                 {
                     "name": "lepper",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/lips.jpg"
                 },
                 {
                     "name": "mage",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/stomach.jpg"
                 },
                 {
                     "name": "munn",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/mouth.jpg"
                 },
                 {
                     "name": "navle",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/belly_button.jpg"
                 },
                 {
                     "name": "nese",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/nose.jpg"
                 },
                 {
                     "name": "øre",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/ear.jpg"
                 },
                 {
                     "name": "øye",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/eye.jpg"
                 },
                 {
                     "name": "pupp",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/breast.jpg"
                 },
                 {
                     "name": "rumpe",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/butt.jpg"
                 },
                 {
                     "name": "rygg",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/back.jpg"
                 },
                 {
                     "name": "skulder",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/shoulder.jpg"
                 },
                 {
                     "name": "tenner",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/teeth.jpg"
                 },
                 {
                     "name": "tiss",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/penis.jpg"
                 },
                 {
                     "name": "tunge",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/tongue.jpg"
                 },
                 {
                     "name": "tå",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/toenail.jpg"
                 }
             ]
         },
