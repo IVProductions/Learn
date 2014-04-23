@@ -387,275 +387,275 @@ Learn.factory('learnFactory', function() {
             "words": [
                 {
                     "name": "brødskive",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/bread.jpg"
                 },
                 {
                     "name": "agurk",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/cucumber.jpg"
                 },
                 {
                     "name": "appelsin",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/orange.jpg"
                 },
                 {
                     "name": "banan",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/banana.jpg"
                 },
                 {
                     "name": "boller",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/cinnamon_bun.jpg"
                 },
                 {
                     "name": "bønner",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/baked_beans.jpg"
                 },
                 {
                     "name": "brød",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/bread1.jpg"
                 },
                 {
                     "name": "brus",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/orange_soda.jpg"
                 },
                 {
                     "name": "cola",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/Coke.jpg"
                 },
                 {
                     "name": "corn flakes",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/corn_flakes_cereal.jpg"
                 },
                 {
                     "name": "dessert",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/dessert.jpg"
                 },
                 {
                     "name": "drikke",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/drink1.jpg"
                 },
                 {
                     "name": "druer",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/grapes.jpg"
                 },
                 {
                     "name": "egg",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/egg.jpg"
                 },
                 {
                     "name": "eple",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/apple.jpg"
                 },
                 {
                     "name": "erter",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/peas.jpg"
                 },
                 {
                     "name": "fisk",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/salmon.jpg"
                 },
                 {
                     "name": "frokostblanding",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/cereal.jpg"
                 },
                 {
                     "name": "frukt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/fruit.jpg"
                 },
                 {
                     "name": "godteri",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/candy.jpg"
                 },
                 {
                     "name": "grøt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/porridge.jpg"
                 },
                 {
                     "name": "gulrot",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/carrot.jpg"
                 },
                 {
                     "name": "hamburger",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/hamburger.jpg"
                 },
                 {
                     "name": "is",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/sundae.jpg"
                 },
                 {
                     "name": "jordbær",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/strawberry.jpg"
                 },
                 {
                     "name": "juice",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/orange_juice.jpg"
                 },
                 {
                     "name": "kaffe",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/coffee.jpg"
                 },
                 {
                     "name": "kake",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/cake_candles.jpg"
                 },
                 {
                     "name": "kjeks",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/cookies.jpg"
                 },
                 {
                     "name": "kjøtt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/meat.jpg"
                 },
                 {
                     "name": "kjøttkaker",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/meatballs.jpg"
                 },
                 {
                     "name": "knekkebrød",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/toaster_pastry.jpg"
                 },
                 {
                     "name": "kylling",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/chicken_drumstick.jpg"
                 },
                 {
                     "name": "leverpostei",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/liverwurst.jpg"
                 },
                 {
                     "name": "mat",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/food.jpg"
                 },
                 {
                     "name": "matpakke",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/lunch_box.jpg"
                 },
                 {
                     "name": "melk",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/milk.jpg"
                 },
                 {
                     "name": "melon",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/watermelon.jpg"
                 },
                 {
                     "name": "nøtter",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/nuts.jpg"
                 },
                 {
                     "name": "Nugatti",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/Nutella.jpg"
                 },
                 {
                     "name": "ost",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/Swiss_cheese.jpg"
                 },
                 {
                     "name": "pannekake",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/pancakes.jpg"
                 },
                 {
                     "name": "pasta",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/penne_pasta.jpg"
                 },
                 {
                     "name": "pizza",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/pizza.jpg"
                 },
                 {
                     "name": "pølser",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/hot_dog.jpg"
                 },
                 {
                     "name": "pommes frites",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/french_fries.jpg"
                 },
                 {
                     "name": "popcorn",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/popcorn.jpg"
                 },
                 {
                     "name": "poteter",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/potatoes.jpg"
                 },
                 {
                     "name": "potetgull",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/chips.jpg"
                 },
                 {
                     "name": "ris",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/rice.jpg"
                 },
                 {
                     "name": "ristet brød",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/put_in_toaster.jpg"
                 },
                 {
                     "name": "rosiner",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/raisins.jpg"
                 },
                 {
                     "name": "saft",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/drink.jpg"
                 },
                 {
                     "name": "salami",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/salami.jpg"
                 },
                 {
                     "name": "salt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/salt.jpg"
                 },
                 {
                     "name": "saus",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/hot_sauce.jpg"
                 },
                 {
                     "name": "sjokolade",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/chocolate_bar.jpg"
                 },
                 {
                     "name": "smør",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/margarine.jpg"
                 },
                 {
                     "name": "spagetti",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/spaghetti_with_sauce.jpg"
                 },
                 {
                     "name": "sukkertøy",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/lollipops.jpg"
                 },
                 {
                     "name": "suppe",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/soup.jpg"
                 },
                 {
                     "name": "syltetøy",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/strawberry_jam.jpg"
                 },
                 {
                     "name": "te",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/tea.jpg"
                 },
                 {
                     "name": "tran",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/vegetable_oil.jpg"
                 },
                 {
                     "name": "tyggegummi",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/gum.jpg"
                 },
                 {
                     "name": "vafler",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/waffles.jpg"
                 },
                 {
                     "name": "vann",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/full.jpg"
                 },
                 {
                     "name": "yoghurt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/yogurt.jpg"
                 }
             ]
         },
@@ -908,203 +908,203 @@ Learn.factory('learnFactory', function() {
             "words": [
                 {
                     "name": "bilde",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/picture.jpg"
                 },
                 {
                     "name": "boks",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/box.jpg"
                 },
                 {
                     "name": "børste",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/hairbrush.jpg"
                 },
                 {
                     "name": "bøtte",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/bucket.jpg"
                 },
                 {
                     "name": "brett",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/sheet.jpg"
                 },
                 {
                     "name": "briller",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/glasses.jpg"
                 },
                 {
                     "name": "dopapir",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/toilet_paper.jpg"
                 },
                 {
                     "name": "dyne",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/blanket.jpg"
                 },
                 {
                     "name": "eske",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/container.jpg"
                 },
                 {
                     "name": "fat",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/paper_plate.jpg"
                 },
                 {
                     "name": "flaske",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/bottled_water.jpg"
                 },
                 {
                     "name": "gåbil",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/walker.jpg"
                 },
                 {
                     "name": "gaffel",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/fork.jpg"
                 },
                 {
                     "name": "glass",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/glass.jpg"
                 },
                 {
                     "name": "hammer",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/hammer.jpg"
                 },
                 {
                     "name": "håndkle",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/towel.jpg"
                 },
                 {
                     "name": "kam",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/comb.jpg"
                 },
                 {
                     "name": "kamera",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/camera.jpg"
                 },
                 {
                     "name": "kasse",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/case.jpg"
                 },
                 {
                     "name": "kjøkkenrull",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/paper_towels.jpg"
                 },
                 {
                     "name": "klokke",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/time.jpg"
                 },
                 {
                     "name": "kniv",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/knife.jpg"
                 },
                 {
                     "name": "kopp",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/cup.jpg"
                 },
                 {
                     "name": "kost",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/sweep.jpg"
                 },
                 {
                     "name": "krukke",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/urn.jpg"
                 },
                 {
                     "name": "krus",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/mug.jpg"
                 },
                 {
                     "name": "lampe",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/lamp.jpg"
                 },
                 {
                     "name": "lommebok",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/wallet.jpg"
                 },
                 {
                     "name": "lys",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/turn_on.jpg"
                 },
                 {
                     "name": "medisin",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/medicine.jpg"
                 },
                 {
                     "name": "nøkler",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/set_of_keys.jpg"
                 },
                 {
                     "name": "papir",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/paper.jpg"
                 },
                 {
                     "name": "penger",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/money.jpg"
                 },
                 {
                     "name": "plante",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/plant.jpg"
                 },
                 {
                     "name": "pute",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/pillow.jpg"
                 },
                 {
                     "name": "radio",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/radio.jpg"
                 },
                 {
                     "name": "saks",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/scissors.jpg"
                 },
                 {
                     "name": "såpe",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/soap_bar.jpg"
                 },
                 {
                     "name": "sekk",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/backpack.jpg"
                 },
                 {
                     "name": "serviett",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/napkin.jpg"
                 },
                 {
                     "name": "skål",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/bowl.jpg"
                 },
                 {
                     "name": "skje",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/spoon.jpg"
                 },
                 {
                     "name": "søppel",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/trash_bag.jpg"
                 },
                 {
                     "name": "søppelbøtte",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/trash_can.jpg"
                 },
                 {
                     "name": "støvsuger",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/vacuum_cleaner.jpg"
                 },
                 {
                     "name": "tallerken",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/Styrofoam_plate.jpg"
                 },
                 {
                     "name": "tannbørste",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/toothbrush.jpg"
                 },
                 {
                     "name": "telefon",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/cordless_phone.jpg"
                 },
                 {
                     "name": "teppe",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/red_carpet.jpg"
                 },
                 {
                     "name": "veske",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/house_items/purse.jpg"
                 }
             ]
         },
