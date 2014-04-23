@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-0c6d126167f1a0252cd3de87a2df35c4 26acc599f5cc4131a1612f58a81fdafe ffffffffffffffffffffffffffffffff 863488 /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a
+0c6d12616792f43b2cd3de87a2df35c4 26acc599f5cc4131a1612f58a81fdafe ffffffffffffffffffffffffffffffff 863488 /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a
 e8d8137c465d8f647155f504279bbd13 9eecab37bdc890d4fbbdf80653a9ef35 ffffffffffffffffffffffffffffffff 9072 /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
 e8d8137c465d8f647155f504279bb107 61f3a6f01bbaf4a9be2ba5d87fd72dd5 ffffffffffffffffffffffffffffffff 22632 /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
 e8d8137c465d8f647155f504279b8cc1 4d362549a0e9536ae85e1ca7069c31cc ffffffffffffffffffffffffffffffff 67916 /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
@@ -20,7 +19,7 @@ e8d8137c465d8f647155f504279ba08c fe31d13a3184716fa9389ce519e79956 ffffffffffffff
 e8d8137c465d8f647155f504279b9969 7745ad3b4c38f53ad07574d2d1468340 ffffffffffffffffffffffffffffffff 10936 /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
 e8d8137c465d8f647155f504279bb67b 3887c8ced6c58494027c5bed494cc156 ffffffffffffffffffffffffffffffff 18272 /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
 e8d8137c465d8f647155f504279babfc 5ba811f2ee3bebf688a8599edef7aed8 ffffffffffffffffffffffffffffffff 17356 /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
-00000000003c59f400000000000002d8 e8d8137c15430df67155f504279bb97d ffffffffffffffffffffffffffffffff 3239348 /var/folders/7v/_4m3y54x52q7fsr6mwndl0qw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cfqqyafaxhefekervnypfquiyawp/CordovaLib_Prefix.pch.pch
+00000000003c59f400000000000002d8 e8d8137c15430df67155f504279bb97d ffffffffffffffffffffffffffffffff 3239344 /var/folders/7v/_4m3y54x52q7fsr6mwndl0qw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cfqqyafaxhefekervnypfquiyawp/CordovaLib_Prefix.pch.pch
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 909 /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 1057 /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 1442 /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
@@ -94,7 +93,6 @@ d988b5554086ff7704a4e0739d9901a3 f4054d70148ea1f20f775b221389b8eb ffffffffffffff
 000000005322db66000000000000037d e548507d8823139698729ceeec3ef296 ffffffffffffffffffffffffffffffff 893 /Users/simonhordvik/Documents/Cordova_Apps/Learn2/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
 000000005322db6600000000000007e6 b40dbe62c1194c92ecd8cb52537ba63f ffffffffffffffffffffffffffffffff 2022 /Users/simonhordvik/Documents/Cordova_Apps/Learn2/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
 000000005322db6600000000000005da 0bb05d250f6750b8fd9d80b2eab16ff6 ffffffffffffffffffffffffffffffff 1498 /Users/simonhordvik/Documents/Cordova_Apps/Learn2/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
-=======
 f41777d81a39779b597b9a9efb1306be 58b6c4bbb59abfb521cc357dd89edaa1 ffffffffffffffffffffffffffffffff 889688 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/libCordova.a
 6833ad1cf70533e086d4c3c2cff83ab2 83349d6e00465d2709221fbaa040bc1f ffffffffffffffffffffffffffffffff 9408 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
 6833ad1cf70533e086d4c3c2cff836a6 0c093e3036d6ffe9e0fa5d2a64409d5d ffffffffffffffffffffffffffffffff 22956 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
@@ -189,4 +187,3 @@ b0ca206f82a794c4e457fece6183ed83 9664c3efb7adb4c2ad5d79fed9a8fcd7 ffffffffffffff
 0000000052fe769600000000000005da abae30d501edefb863ced012d7742768 ffffffffffffffffffffffffffffffff 0 /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
 0000000052fe769600000000000007e6 aa189ec3e82f4b43595eef76c0b27612 ffffffffffffffffffffffffffffffff 0 /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
 0000000052fe7696000000000000037d c789ac7e826de1acb4438bfa7ac5a856 ffffffffffffffffffffffffffffffff 0 /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
->>>>>>> FETCH_HEAD

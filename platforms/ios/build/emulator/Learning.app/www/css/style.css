@@ -9,9 +9,12 @@ html, body {
     width: 100%;
     height: 100%;
     overflow: hidden;
+    background-color: lightgrey;
+    /*
     background-image: url("../img/beach2.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
+    */
 }
 
 .main .categories {
@@ -19,17 +22,20 @@ html, body {
     overflow-y: scroll;
     position: absolute;
     top: 0;
-    left: 3%;
-    width: 12%;
+    left: 0%;
+    width: 15%;
     height: 100%;
 }
 
 .main .category {
     position: relative;
-    background: -webkit-linear-gradient(#ddffff, #aadddd); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(#ddffff, #aadddd); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#ddffff, #aadddd); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#ddffff, #aadddd); /* Standard syntax */
+    background-color: white;
+    /*
+    background: -webkit-linear-gradient(#ddffff, #aadddd); /* For Safari 5.1 to 6.0 
+    background: -o-linear-gradient(#ddffff, #aadddd); /* For Opera 11.1 to 12.0 
+    background: -moz-linear-gradient(#ddffff, #aadddd); /* For Firefox 3.6 to 15 
+    background: linear-gradient(#ddffff, #aadddd); /* Standard syntax 
+    */
     width: 100%;
     height: 15%;
     text-align: center;
@@ -63,11 +69,7 @@ html, body {
 }
 
 .main .background .listOfWords .backgroundWords {
-<<<<<<< HEAD
-    background-color: lightblue;
-=======
     background-color: white;
->>>>>>> FETCH_HEAD
     width: 100%;
     border-radius: 5px;
 }
@@ -81,11 +83,7 @@ html, body {
     background-size: 120px 120px;
     background-repeat: no-repeat;
     background-position: center;
-<<<<<<< HEAD
-    background-color: #eeeeff;
-=======
     background-color: white;
->>>>>>> FETCH_HEAD
     /*border: 2px #bbccdd solid;*/
 }
 
@@ -111,7 +109,7 @@ html, body {
     left: 14.9%;
     width: 75.2%;
     height: 20%;
-    background-color: lightgrey;
+    background-color: grey;
     z-index: 2;
 }
 

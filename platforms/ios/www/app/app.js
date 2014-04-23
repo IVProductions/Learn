@@ -7,7 +7,7 @@ var Learn = angular.module("Learn", ["ngRoute"]).run(function() {
 <!--Routing-->
 Learn.config(function ($routeProvider){
     $routeProvider.when("/", {
-        templateUrl:"app/partials/splash.html",
+        templateUrl:"app/partials/main.html",
         controller:"mainCtrl"
     }).when("/main",{
             templateUrl:"app/partials/main.html",

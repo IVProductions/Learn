@@ -308,75 +308,75 @@ Learn.factory('learnFactory', function() {
             "words": [
                 {
                     "name": "ball",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/ball.jpg"
                 },
                 {
                     "name": "ballong",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/balloon.jpg"
                 },
                 {
                     "name": "blyant",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/pencil.jpg"
                 },
                 {
                     "name": "bok",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/book.jpg"
                 },
                 {
                     "name": "klosser",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/blocks.jpg"
                 },
                 {
                     "name": "dukke",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/doll_baby.jpg"
                 },
                 {
                     "name": "lego",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/Legos.jpg"
                 },
                 {
                     "name": "eventyr",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/adventure.jpg"
                 },
                 {
                     "name": "fargeblyant",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/colored_pencils.jpg"
                 },
                 {
                     "name": "presang",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/gift.jpg"
                 },
                 {
                     "name": "kritt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/chalkboard.jpg"
                 },
                 {
                     "name": "leke",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/toy.jpg"
                 },
                 {
                     "name": "lim",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/glue.jpg"
                 },
                 {
                     "name": "penn",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/pen.jpg"
                 },
                 {
                     "name": "plastilina",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/plastilina.jpg"
                 },
                 {
                     "name": "puslespill",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/puzzle.jpg"
                 },
                 {
                     "name": "spill",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/game.jpg"
                 },
                 {
                     "name": "såpebobler",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/toys/bubbles.jpg"
                 }
             ]
         },
