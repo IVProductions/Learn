@@ -666,123 +666,123 @@ Learn.factory('learnFactory', function() {
             "words": [
                 {
                     "name": "belte",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/belt.jpg"
                 },
                 {
                     "name": "bleier",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/diaper.jpg"
                 },
                 {
                     "name": "bukse",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/jeans.jpg"
                 },
                 {
                     "name": "dress",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/suit.jpg"
                 },
                 {
                     "name": "genser",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/sweater.jpg"
                 },
                 {
                     "name": "glidelås",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/zipper.jpg"
                 },
                 {
                     "name": "halskjede",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/necklace.jpg"
                 },
                 {
                     "name": "hansker",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/gloves.jpg"
                 },
                 {
                     "name": "jakke",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/jacket.jpg"
                 },
                 {
                     "name": "joggesko",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/running_shoes.jpg"
                 },
                 {
                     "name": "kjole",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/dress.jpg"
                 },
                 {
                     "name": "knapper",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/buttons.jpg"
                 },
                 {
                     "name": "lue",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/earflap_hat.jpg"
                 },
                 {
                     "name": "pysjamas",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/nightgown.jpg"
                 },
                 {
                     "name": "regntøy",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/raincoat.jpg"
                 },
                 {
                     "name": "sandaler",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/sandals.jpg"
                 },
                 {
                     "name": "shorts",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/shorts.jpg"
                 },
                 {
                     "name": "skjerf",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/scarf.jpg"
                 },
                 {
                     "name": "skjorte",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/shirt.jpg"
                 },
                 {
                     "name": "sko",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/tied_shoes.jpg"
                 },
                 {
                     "name": "smekke",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/bib.jpg"
                 },
                 {
                     "name": "smokk",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/pacifier.jpg"
                 },
                 {
                     "name": "sokker",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/socks.jpg"
                 },
                 {
                     "name": "støvler",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/rain_boots.jpg"
                 },
                 {
                     "name": "strømpebukse",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/pantyhose.jpg"
                 },
                 {
                     "name": "strømper",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/stockings.jpg"
                 },
                 {
                     "name": "t-skjorte",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/T-shirt.jpg"
                 },
                 {
                     "name": "tøfler",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/slippers.jpg"
                 },
                 {
                     "name": "underbukse",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/underwear.jpg"
                 },
                 {
                     "name": "votter",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/clothing/mittens.jpg"
                 }
             ]
         },
