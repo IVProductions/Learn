@@ -387,275 +387,275 @@ Learn.factory('learnFactory', function() {
             "words": [
                 {
                     "name": "brødskive",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/bread.jpg"
                 },
                 {
                     "name": "agurk",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/cucumber.jpg"
                 },
                 {
                     "name": "appelsin",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/orange.jpg"
                 },
                 {
                     "name": "banan",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/banana.jpg"
                 },
                 {
                     "name": "boller",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/cinnamon_bun.jpg"
                 },
                 {
                     "name": "bønner",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/baked_beans.jpg"
                 },
                 {
                     "name": "brød",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/bread1.jpg"
                 },
                 {
                     "name": "brus",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/orange_soda.jpg"
                 },
                 {
                     "name": "cola",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/Coke.jpg"
                 },
                 {
                     "name": "corn flakes",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/corn_flakes_cereal.jpg"
                 },
                 {
                     "name": "dessert",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/dessert.jpg"
                 },
                 {
                     "name": "drikke",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/drink1.jpg"
                 },
                 {
                     "name": "druer",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/grapes.jpg"
                 },
                 {
                     "name": "egg",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/egg.jpg"
                 },
                 {
                     "name": "eple",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/apple.jpg"
                 },
                 {
                     "name": "erter",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/peas.jpg"
                 },
                 {
                     "name": "fisk",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/salmon.jpg"
                 },
                 {
                     "name": "frokostblanding",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/cereal.jpg"
                 },
                 {
                     "name": "frukt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/fruit.jpg"
                 },
                 {
                     "name": "godteri",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/candy.jpg"
                 },
                 {
                     "name": "grøt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/porridge.jpg"
                 },
                 {
                     "name": "gulrot",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/carrot.jpg"
                 },
                 {
                     "name": "hamburger",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/hamburger.jpg"
                 },
                 {
                     "name": "is",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/sundae.jpg"
                 },
                 {
                     "name": "jordbær",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/strawberry.jpg"
                 },
                 {
                     "name": "juice",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/orange_juice.jpg"
                 },
                 {
                     "name": "kaffe",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/coffee.jpg"
                 },
                 {
                     "name": "kake",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/cake_candles.jpg"
                 },
                 {
                     "name": "kjeks",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/cookies.jpg"
                 },
                 {
                     "name": "kjøtt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/meat.jpg"
                 },
                 {
                     "name": "kjøttkaker",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/meatballs.jpg"
                 },
                 {
                     "name": "knekkebrød",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/toaster_pastry.jpg"
                 },
                 {
                     "name": "kylling",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/chicken_drumstick.jpg"
                 },
                 {
                     "name": "leverpostei",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/liverwurst.jpg"
                 },
                 {
                     "name": "mat",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/food.jpg"
                 },
                 {
                     "name": "matpakke",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/lunch_box.jpg"
                 },
                 {
                     "name": "melk",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/milk.jpg"
                 },
                 {
                     "name": "melon",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/watermelon.jpg"
                 },
                 {
                     "name": "nøtter",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/nuts.jpg"
                 },
                 {
                     "name": "Nugatti",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/Nutella.jpg"
                 },
                 {
                     "name": "ost",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/Swiss_cheese.jpg"
                 },
                 {
                     "name": "pannekake",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/pancakes.jpg"
                 },
                 {
                     "name": "pasta",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/penne_pasta.jpg"
                 },
                 {
                     "name": "pizza",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/pizza.jpg"
                 },
                 {
                     "name": "pølser",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/hot_dog.jpg"
                 },
                 {
                     "name": "pommes frites",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/french_fries.jpg"
                 },
                 {
                     "name": "popcorn",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/popcorn.jpg"
                 },
                 {
                     "name": "poteter",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/potatoes.jpg"
                 },
                 {
                     "name": "potetgull",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/chips.jpg"
                 },
                 {
                     "name": "ris",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/rice.jpg"
                 },
                 {
                     "name": "ristet brød",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/put_in_toaster.jpg"
                 },
                 {
                     "name": "rosiner",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/raisins.jpg"
                 },
                 {
                     "name": "saft",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/drink.jpg"
                 },
                 {
                     "name": "salami",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/salami.jpg"
                 },
                 {
                     "name": "salt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/salt.jpg"
                 },
                 {
                     "name": "saus",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/hot_sauce.jpg"
                 },
                 {
                     "name": "sjokolade",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/chocolate_bar.jpg"
                 },
                 {
                     "name": "smør",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/margarine.jpg"
                 },
                 {
                     "name": "spagetti",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/spaghetti_with_sauce.jpg"
                 },
                 {
                     "name": "sukkertøy",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/lollipops.jpg"
                 },
                 {
                     "name": "suppe",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/soup.jpg"
                 },
                 {
                     "name": "syltetøy",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/strawberry_jam.jpg"
                 },
                 {
                     "name": "te",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/tea.jpg"
                 },
                 {
                     "name": "tran",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/vegetable_oil.jpg"
                 },
                 {
                     "name": "tyggegummi",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/gum.jpg"
                 },
                 {
                     "name": "vafler",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/waffles.jpg"
                 },
                 {
                     "name": "vann",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/full.jpg"
                 },
                 {
                     "name": "yoghurt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/food/yogurt.jpg"
                 }
             ]
         },
