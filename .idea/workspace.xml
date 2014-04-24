@@ -2,49 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1401a18-d68f-45ee-94ee-c1536ce4ee85" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/app/controllers/dragCtrl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/app/controllers/wordCtrl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/app/partials/drag.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/app/partials/word.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/www/app/controllers/dragCtrl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/www/app/controllers/wordCtrl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/www/app/partials/drag.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/ios/www/app/partials/word.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/app/controllers/dragCtrl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/app/controllers/wordCtrl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/app/partials/drag.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/app/partials/word.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/Learning" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/Learning" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app.dSYM/Contents/Resources/DWARF/Learning" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app.dSYM/Contents/Resources/DWARF/Learning" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/TTSPlugin.o" afterPath="$PROJECT_DIR$/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/TTSPlugin.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Learning.xcodeproj/project.xcworkspace/xcuserdata/simonhordvik.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/platforms/ios/Learning.xcodeproj/project.xcworkspace/xcuserdata/simonhordvik.xcuserdatad/UserInterfaceState.xcuserstate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Learning.xcodeproj/xcuserdata/simonhordvik.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterPath="$PROJECT_DIR$/platforms/ios/Learning.xcodeproj/xcuserdata/simonhordvik.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Learning.dep" afterPath="$PROJECT_DIR$/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Learning.dep" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/Learning_dependency_info.dat" afterPath="$PROJECT_DIR$/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/Learning_dependency_info.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Learning/Classes/TTSPlugin.h" afterPath="$PROJECT_DIR$/platforms/ios/Learning/Classes/TTSPlugin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/js/TTSPlugin.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/js/TTSPlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/js/TTSPlugin.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/TTSPlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/TTSPlugin.js" afterPath="$PROJECT_DIR$/www/js/TTSPlugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Learning/Classes/TTSPlugin.m" afterPath="$PROJECT_DIR$/platforms/ios/Learning/Classes/TTSPlugin.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/app/app.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/app/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/app/app.js" afterPath="$PROJECT_DIR$/platforms/ios/www/app/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/app.js" afterPath="$PROJECT_DIR$/www/app/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/build-state.dat" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/build-state.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/build-state.dat" afterPath="$PROJECT_DIR$/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/build-state.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/index.html" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/index.html" afterPath="$PROJECT_DIR$/platforms/ios/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/js/index.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/js/index.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/index.js" afterPath="$PROJECT_DIR$/www/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/app/services/learnService.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/app/services/learnService.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/app/services/learnService.js" afterPath="$PROJECT_DIR$/platforms/ios/www/app/services/learnService.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/app/partials/main.html" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/app/partials/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/app/partials/main.html" afterPath="$PROJECT_DIR$/platforms/ios/www/app/partials/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/partials/main.html" afterPath="$PROJECT_DIR$/www/app/partials/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/app/controllers/mainCtrl.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/app/controllers/mainCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/app/controllers/mainCtrl.js" afterPath="$PROJECT_DIR$/platforms/ios/www/app/controllers/mainCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/controllers/mainCtrl.js" afterPath="$PROJECT_DIR$/www/app/controllers/mainCtrl.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Learn.iws" />
@@ -111,8 +72,8 @@
       <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38071066" vertical-offset="375" max-vertical-offset="855">
-              <caret line="52" column="74" selection-start-line="52" selection-start-column="74" selection-end-line="52" selection-end-column="74" />
+            <state vertical-scroll-proportion="0.83756346" vertical-offset="375" max-vertical-offset="855">
+              <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -718,8 +679,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38071066" vertical-offset="375" max-vertical-offset="855">
-          <caret line="52" column="74" selection-start-line="52" selection-start-column="74" selection-end-line="52" selection-end-column="74" />
+        <state vertical-scroll-proportion="0.83756346" vertical-offset="375" max-vertical-offset="855">
+          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
           <folding />
         </state>
       </provider>
