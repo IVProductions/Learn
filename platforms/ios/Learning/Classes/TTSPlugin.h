@@ -12,9 +12,5 @@
 @interface TTSPlugin : CDVPlugin <AVSpeechSynthesizerDelegate>
 
 -(void)speakStuff:(CDVInvokedUrlCommand *)speakString;
-@property (nonatomic, assign) CDVInvokedUrlCommand *speakStringGlobal;
-@property (nonatomic, assign) CDVPluginResult *pluginResultGlobal;
-@property (nonatomic, assign) BOOL *isDone;
-
 
 @end

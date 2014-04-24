@@ -41,21 +41,28 @@ var app = {
     }
 };
 
+/*START -- logic for highlighting sentences being read by TTS*/
 
-function allowDrop(ev)
-{
-    ev.preventDefault();
+var lengthOfSentence = -1;
+var indexOfSentence = 0;
+var isReadingSentence = false;
+
+function highlightWord() {
+    if (isReadingSentence) {
+        $("#items li").css({"color" : "black", "font-weight" : "normal"});
+        $("#items").children("li").eq(indexOfSentence).css({"color" : "red", "font-weight" : "bold"});
+        indexOfSentence++;
+    }
 }
 
-function drag(ev)
-{
-    ev.dataTransfer.setData("Text",ev.target.id);
+function doneReadingWord() {
+    if (indexOfSentence == lengthOfSentence) {
+        $("#items li").css({"color" : "black", "font-weight" : "normal"});
+        indexOfSentence = 0;
+        lengthOfSentence = -1;
+        isReadingSentence = false;
+    }
 }
 
-function drop(ev)
-{
-    ev.preventDefault();
-    var data=ev.dataTransfer.getData("Text");
-    ev.target.appendChild(document.getElementById(data));
-}
+/*END -- logic for highlighting sentences being read by TTS*/
 

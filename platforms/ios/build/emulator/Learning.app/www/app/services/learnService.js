@@ -793,111 +793,111 @@ Learn.factory('learnFactory', function() {
             "words": [
                 {
                     "name": "ankel",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/ankle.jpg"
                 },
                 {
                     "name": "ansikt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/face.jpg"
                 },
                 {
                     "name": "arm",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/arm.jpg"
                 },
                 {
                     "name": "bein",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/leg.jpg"
                 },
                 {
                     "name": "finger",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/finger.jpg"
                 },
                 {
                     "name": "fot",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/foot.jpg"
                 },
                 {
                     "name": "hake",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/chin.jpg"
                 },
                 {
                     "name": "hånd",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/hand.jpg"
                 },
                 {
                     "name": "hår",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/hair.jpg"
                 },
                 {
                     "name": "hode",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/head.jpg"
                 },
                 {
                     "name": "kinn",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/cheeks.jpg"
                 },
                 {
                     "name": "kne",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/knee.jpg"
                 },
                 {
                     "name": "lepper",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/lips.jpg"
                 },
                 {
                     "name": "mage",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/stomach.jpg"
                 },
                 {
                     "name": "munn",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/mouth.jpg"
                 },
                 {
                     "name": "navle",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/belly_button.jpg"
                 },
                 {
                     "name": "nese",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/nose.jpg"
                 },
                 {
                     "name": "øre",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/ear.jpg"
                 },
                 {
                     "name": "øye",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/eye.jpg"
                 },
                 {
                     "name": "pupp",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/breast.jpg"
                 },
                 {
                     "name": "rumpe",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/butt.jpg"
                 },
                 {
                     "name": "rygg",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/back.jpg"
                 },
                 {
                     "name": "skulder",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/shoulder.jpg"
                 },
                 {
                     "name": "tenner",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/teeth.jpg"
                 },
                 {
                     "name": "tiss",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/penis.jpg"
                 },
                 {
                     "name": "tunge",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/tongue.jpg"
                 },
                 {
                     "name": "tå",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/body/toenail.jpg"
                 }
             ]
         },
@@ -1115,139 +1115,139 @@ Learn.factory('learnFactory', function() {
             "words": [
                 {
                     "name": "bad",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/public_bathroom.jpg"
                 },
                 {
                     "name": "badekar",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/bathroom.jpg"
                 },
                 {
                     "name": "balkong",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/balcony.jpg"
                 },
                 {
                     "name": "barneseng",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/crib.jpg"
                 },
                 {
                     "name": "barnestol",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/high_chair.jpg"
                 },
                 {
                     "name": "bord",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/table.jpg"
                 },
                 {
                     "name": "do",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/use_toilet.jpg"
                 },
                 {
                     "name": "dør",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/open_door.jpg"
                 },
                 {
                     "name": "dusj",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/shower.jpg"
                 },
                 {
                     "name": "garasje",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/garage.jpg"
                 },
                 {
                     "name": "gyngestol",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/rocking_chari.jpg"
                 },
                 {
                     "name": "kjeller",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/basement.jpg"
                 },
                 {
                     "name": "kjøkken",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/kitchen.jpg"
                 },
                 {
                     "name": "kjøleskap",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/refrigerator.jpg"
                 },
                 {
                     "name": "komfyr",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/heat.jpg"
                 },
                 {
                     "name": "lekegrind",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/sand_fence.jpg"
                 },
                 {
                     "name": "ovn",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/oven.jpg"
                 },
                 {
                     "name": "PC",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/computer.jpg"
                 },
                 {
                     "name": "potte",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/pot.jpg"
                 },
                 {
                     "name": "rom",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/empty_room.jpg"
                 },
                 {
                     "name": "seng",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/bed.jpg"
                 },
                 {
                     "name": "skap",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/closet.jpg"
                 },
                 {
                     "name": "skuff",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/drawer.jpg"
                 },
                 {
                     "name": "sofa",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/chair.jpg"
                 },
                 {
                     "name": "soverom",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/bedroom.jpg"
                 },
                 {
                     "name": "stol",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/chair.jpg" 
                 },
                 {
                     "name": "stue",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/living_room.jpg"
                 },
                 {
                     "name": "terrasse",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/balcony.jpg"
                 },
                 {
                     "name": "tørketrommel",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/dryer.jpg"
                 },
                 {
                     "name": "trapper",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/step_up.jpg"
                 },
                 {
                     "name": "TV",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/flat_screen_television.jpg"
                 },
                 {
                     "name": "vask",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/bathroom_sink.jpg"
                 },
                 {
                     "name": "vaskemaskin",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/wash_clothes.jpg"
                 },
                 {
                     "name": "vindu",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/room/window.jpg"
                 }
             ]
         },

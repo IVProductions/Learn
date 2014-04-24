@@ -15,12 +15,6 @@ Learn.config(function ($routeProvider){
         }).when("/splash",{
             templateUrl:"app/partials/splash.html",
             controller:"mainCtrl"
-        }).when("/word",{
-            templateUrl:"app/partials/word.html",
-            controller:"wordCtrl"
-        }).when("/drag",{
-            templateUrl:"app/partials/drag.html",
-            controller:"dragCtrl"
         }).otherwise({
             redirectTo:"/"
         })

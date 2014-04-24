@@ -49,19 +49,18 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
     }
 
     $scope.readSentence = function() {
+        lengthOfSentence = $("#items li").size();
         var sentence = "";
         $("#items li").each(function(index, value) {
             TTSPlugin.speak($(value).html(),function(){
+                isReadingSentence = true;
                 //success, do something!
-                //$("#items li").css("color","black");
-                //$(value).css("color","red");
             }, function(){
                 alert("Plugin call failed");
             });
             sentence += $(value).html()+" ";
         });
     }
-
 
     var elementBeingDragged=0;
     var parent;
