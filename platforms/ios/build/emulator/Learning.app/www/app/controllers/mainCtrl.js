@@ -52,14 +52,23 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
         lengthOfSentence = $("#items li").size();
         var sentence = "";
         $("#items li").each(function(index, value) {
+
             TTSPlugin.speak($(value).html(),function(){
                 isReadingSentence = true;
                 //success, do something!
             }, function(){
                 alert("Plugin call failed");
             });
-            sentence += $(value).html()+" ";
+            sentence += $(value).html()+", ";
         });
+        /*
+        TTSPlugin.speak(sentence,function(){
+            isReadingSentence = true;
+            //success, do something!
+        }, function(){
+            alert("Plugin call failed");
+        });
+            */
     }
 
     var elementBeingDragged=0;
@@ -118,8 +127,8 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                     elementBeingDragged.remove();
                 }
                 if (isDraggingGlobalWord) {
-                    //if ((getLengthOfSentence()+dragWord.length+80) < $(".inputBox").width()) {           //make sure div doesn't overflow
-                    if ((getLengthOfSentence()+dragWord.length+290) < ($(".inputBox").width() * 2)) {
+                    if (getNewLength(dragWord) < (($(".inputBox").width() - 23) * 2)) {
+                    //if ((getLengthOfSentence()+dragWord.length+250) < (($(".inputBox").width() - 23) * 2)) {
                         console.log("is creating new item");
                         jQuery('<li/>', {
                             class: 'list',
@@ -153,6 +162,25 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
         });
     }
 
+    function getNewLength(newWord) {
+        var newEl = jQuery('<li/>', {
+            class: 'list',
+            text: dragWord
+        }).click(function() {$scope.readWord($(this).html());}).appendTo($("#items"));
+
+        var length = 0;
+        //var length += (value.offsetWidth + 5);
+
+        $("#items li").each(function(index, value) {
+            length += (value.offsetWidth + 5);
+            console.log("Length of element: "+value.offsetWidth);
+        });
+        newEl.remove();
+        console.log("New Length will be: "+length);
+        console.log("Length of input box: "+$(".inputBox").width());
+        return (length + 170);
+    }
+
     $scope.setSortable = function() {
         $("#items").sortable({
             scroll: false,
@@ -172,9 +200,11 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
 
 
     function getLengthOfSentence() {
+        console.log("Length of input box: "+$(".inputBox").width());
         var length=0;
         $("#items li").each(function(index, value) {
-            length += value.offsetWidth;
+            length += (value.offsetWidth + 5);
+            console.log("Length of element: "+value.offsetWidth);
         });
         return length;
     }
