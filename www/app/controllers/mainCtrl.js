@@ -25,14 +25,12 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
     };
 
 
-    /*DRAG N DROP FUNCTIONALITY*/
+    /*DRAG N DROP FUNCTIONALITY  /  TTS FUNCTIONALITY*/
 
     $scope.readWord = function(word) {
         console.log(word);
         TTSPlugin.speak(word,function(){
-            //success, do something!
         }, function(){
-            alert("Plugin call failed");
         });
     }
 
@@ -42,33 +40,23 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
         var word = list1[1].split("<");
         console.log(word[0]);
         TTSPlugin.speak(word[0],function(){
-            //success, do something!
         }, function(){
-            alert("Plugin call failed");
         });
     }
 
     $scope.readSentence = function() {
         lengthOfSentence = $("#items li").size();
-        var sentence = "";
+        //console.log($(".playbtn"));
+        //$(".playbtn").disable();
+        //$(".playbtn").prop('disabled', true);
         $("#items li").each(function(index, value) {
-
             TTSPlugin.speak($(value).html(),function(){
+                //success callback function
                 isReadingSentence = true;
-                //success, do something!
             }, function(){
-                alert("Plugin call failed");
+                //failure callback function
             });
-            sentence += $(value).html()+", ";
         });
-        /*
-        TTSPlugin.speak(sentence,function(){
-            isReadingSentence = true;
-            //success, do something!
-        }, function(){
-            alert("Plugin call failed");
-        });
-            */
     }
 
     var elementBeingDragged=0;
@@ -127,7 +115,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                     elementBeingDragged.remove();
                 }
                 if (isDraggingGlobalWord) {
-                    if (getNewLength(dragWord) < (($(".inputBox").width() - 23) * 2)) {
+                    if (getNewLengthOfSentence(dragWord) < (($(".inputBox").width() - 23) * 2)) {
                     //if ((getLengthOfSentence()+dragWord.length+250) < (($(".inputBox").width() - 23) * 2)) {
                         console.log("is creating new item");
                         jQuery('<li/>', {
@@ -146,13 +134,14 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
             }
         });
         $("html").droppable({
-            drop: function(even, ui) {
+            drop: function(even, ui) {          //user drags word from list of words and drops it before reaching sentence box
                 if (elementBeingDragged!=0) {
                     elementBeingDragged.remove();
                 }
-                if (indexOfSortable != -1) {
+                if (indexOfSortable != -1) {    //user drags word from sentence out of sentence box and drops it
                     $("#items li").eq(indexOfSortable).remove();
                     indexOfSortable = -1;
+                    playAudio("audio/fast_zing.wav");
                 }
                 newParent.show();
                 isDraggingGlobalWord = false;
@@ -162,7 +151,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
         });
     }
 
-    function getNewLength(newWord) {
+    function getNewLengthOfSentence(newWord) {
         var newEl = jQuery('<li/>', {
             class: 'list',
             text: dragWord
@@ -198,7 +187,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
         $("#items").disableSelection();
     }
 
-
+/*
     function getLengthOfSentence() {
         console.log("Length of input box: "+$(".inputBox").width());
         var length=0;
@@ -208,11 +197,28 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
         });
         return length;
     }
-
+*/
 
     $scope.removeSentence = function() {
         $("#items li").each(function(index, value) {
             value.remove();
         });
+        playAudio("audio/fast_zing.wav");
+    }
+
+    function playAudio(audioPath) {
+        // Play the audio file at audioPath
+        var audio = new Media(audioPath,
+            // success callback
+            function () {
+                console.log("playAudio():Audio Success");
+            },
+            // error callback
+            function (err) {
+                console.log("playAudio():Audio Error: " + err);
+            }
+        );
+        // Play audio
+        audio.play({numberOfLoops: 1});
     }
 }

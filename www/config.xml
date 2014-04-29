@@ -73,6 +73,9 @@
         <param name="ios-package" value="TTSPlugin"/>
         <param name="onload" value="true" />
     </feature>
+    <feature name="Media">
+        <param name="ios-package" value="CDVSound" />
+    </feature>
 
 
     <!--
