@@ -47,6 +47,7 @@ var lengthOfSentence = -1;
 var indexOfSentence = 0;
 var isReadingSentence = false;
 
+//Methods being called from the native code (Objective-C) asynchronously:
 function highlightWord() {
     if (isReadingSentence) {
         $("#items li").css({"color" : "black", "font-weight" : "normal"});
