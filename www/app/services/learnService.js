@@ -2193,7 +2193,7 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "bløt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/describe/wet_hands.jpg"
                 },
                 {
                     "name": "borte",

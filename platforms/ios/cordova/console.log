@@ -930,3 +930,18 @@ Terminating in response to SpringBoard's termination.
 2014-04-04 13:00:15.967 Learning[17348:29407] 13:00:15.967 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
 2014-04-04 13:00:17.404 Learning[17348:1cb0f] 13:00:17.404 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
 >>>>>>> FETCH_HEAD
+2014-04-28 16:41:41.434 Learning[45832:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-28 16:41:41.721 Learning[45832:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-04-28 16:41:41.722 Learning[45832:80b] [CDVTimer][statusbar] 12.022018ms
+2014-04-28 16:41:41.722 Learning[45832:80b] [CDVTimer][ttsplugin] 0.088036ms
+2014-04-28 16:41:41.723 Learning[45832:80b] [CDVTimer][TotalPluginStartup] 13.145983ms
+2014-04-28 16:41:42.021 Learning[45832:80b] Resetting plugins due to page load.
+2014-04-28 16:41:42.567 Learning[45832:80b] Finished load of: file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/71D75016-1827-4BB5-B013-6D4D1DCFD66B/Learning.app/www/index.html#/
+2014-04-28 16:41:45.337 Learning[45832:80b] THREAD WARNING: ['TTSPlugin'] took '43.510986' ms. Plugin should use a background thread.
+2014-04-28 16:41:45.339 Learning[45832:5c03] 16:41:45.339 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-28 16:41:48.304 Learning[45832:ad07] 16:41:48.304 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-28 16:41:52.816 Learning[45832:b903] 16:41:52.816 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-28 16:41:53.537 Learning[45832:5b07] 16:41:53.537 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-28 16:41:54.747 Learning[45832:c103] 16:41:54.747 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'
+2014-04-28 16:41:55.529 Learning[45832:5b07] 16:41:55.529 ERROR:     >aqsrv> 65: Exception caught in (null) - error -66634
+2014-04-28 16:41:56.355 Learning[45832:4a17] 16:41:56.355 ERROR:     AVAudioSessionUtilities.h:88: GetProperty_DefaultToZero: AudioSessionGetProperty ('disa') failed with error: '?ytp'

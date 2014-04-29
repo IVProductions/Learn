@@ -1,0 +1,1164 @@
+TLearning
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Info.plist /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/device/Learning.app/ResourceRules.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Script-304B58A110DAC018002A0835.sh
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-76.png Learning/Resources/icons/icon-76.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-40@2x.png Learning/Resources/icons/icon-40@2x.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-72.png Learning/Resources/icons/icon-72.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon.png Learning/Resources/icons/icon.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon@2x.png Learning/Resources/icons/icon@2x.png
+cCopyStringsFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/en.lproj/Localizable.strings Learning/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.xib
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-50.png Learning/Resources/icons/icon-50.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-60@2x.png Learning/Resources/icons/icon-60@2x.png
+cCopyStringsFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/de.lproj/Localizable.strings Learning/Resources/de.lproj/Localizable.strings
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-small.png Learning/Resources/icons/icon-small.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Landscape@2x~ipad.png Learning/Resources/splash/Default-Landscape@2x~ipad.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Landscape~ipad.png Learning/Resources/splash/Default-Landscape~ipad.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Portrait@2x~ipad.png Learning/Resources/splash/Default-Portrait@2x~ipad.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-small@2x.png Learning/Resources/icons/icon-small@2x.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Portrait~ipad.png Learning/Resources/splash/Default-Portrait~ipad.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-40.png Learning/Resources/icons/icon-40.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default@2x~iphone.png Learning/Resources/splash/Default@2x~iphone.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-60.png Learning/Resources/icons/icon-60.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default~iphone.png Learning/Resources/splash/Default~iphone.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-568h@2x~iphone.png Learning/Resources/splash/Default-568h@2x~iphone.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-50@2x.png Learning/Resources/icons/icon-50@2x.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-76@2x.png Learning/Resources/icons/icon-76@2x.png
+cCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-72@2x.png Learning/Resources/icons/icon-72@2x.png
+cCpResource Learning/Resources/CDVNotification.bundle build/device/Learning.app/CDVNotification.bundle
+cProcessPCH /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch.pch Learning/Learning-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/main.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/AppDelegate.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/MainViewController.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVDevice.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device/CDVDevice.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVConnection.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVConnection.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVReachability.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVReachability.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/TTSPlugin.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/TTSPlugin.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVAccelerometer.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device-motion/CDVAccelerometer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVNotification.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.dialogs/CDVNotification.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVVibration.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.vibration/CDVVibration.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Learning normal armv7
+cGenerateDSYMFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app.dSYM /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Learning
+cProcessProductPackaging /Users/Kristoffer/Library/MobileDevice/Provisioning\ Profiles/40393C8F-13DB-4B2A-A30C-09C29E16F2A4.mobileprovision /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/embedded.mobileprovision
+cTouch /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning.xcent
+cCodeSign /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+c00000000528AA23A0000000000000094
+t1384817210
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+c00000000528AA23A0000000000000096
+t1384817210
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000528AA23A000000000000036B
+t1384817210
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000528AA23A00000000000001A0
+t1384817210
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000528AA23C00000000006279A0
+t1384817212
+s6453664
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000528AA23B0000000000075BB0
+t1384817211
+s482224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000528AA23D0000000000CF72E0
+t1384817213
+s13595360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000528AA23C00000000004D63C0
+t1384817212
+s5071808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000528AA23C0000000000146100
+t1384817212
+s1335552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c00000000528AA23D000000000027C450
+t1384817213
+s2606160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000528AA23E0000000000210C80
+t1384817214
+s2165888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000528AA23F00000000001A2270
+t1384817215
+s1712752
+
+N/Users/Kristoffer/Library/MobileDevice/Provisioning Profiles/40393C8F-13DB-4B2A-A30C-09C29E16F2A4.mobileprovision
+c00000000531A79F700000000000027AD
+t1394244087
+s10157
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/AppDelegate.m
+c00000000533B4DEF00000000000013AB
+t1396395503
+s5035
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.m
+c00000000533B4DEF000000000000126C
+t1396395503
+s4716
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.xib
+c00000000533B4DEF0000000000001759
+t1396395503
+s5977
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/TTSPlugin.m
+c00000000535EDD63000000000000088B
+t1398725987
+s2187
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Info.plist
+c00000000535EE6EF0000000000000A13
+t1398728431
+s2579
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Prefix.pch
+c00000000533B4DEF00000000000003C5
+t1396395503
+s965
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device-motion/CDVAccelerometer.m
+c00000000533B4DEF00000000000012E0
+t1396395503
+s4832
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device/CDVDevice.m
+c00000000533B4DEF0000000000000C22
+t1396395503
+s3106
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.dialogs/CDVNotification.m
+c00000000533B4DEF000000000000166C
+t1396395503
+s5740
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVConnection.m
+c00000000533B4DEF0000000000000FC5
+t1396395503
+s4037
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVReachability.m
+c00000000533B4DEF00000000000026F6
+t1396395503
+s9974
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.vibration/CDVVibration.m
+c00000000533B4DEF00000000000003B2
+t1396395503
+s946
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/CDVNotification.bundle
+c00000000532264050000000000000066
+t1394762757
+s102
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/de.lproj/Localizable.strings
+c00000000533B4DEF00000000000004C0
+t1396395503
+s1216
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/en.lproj/Localizable.strings
+c00000000533B4DEF00000000000004AB
+t1396395503
+s1195
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-40.png
+c00000000533B4DEF0000000000000FF2
+t1396395503
+s4082
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-40@2x.png
+c00000000533B4DEF0000000000001CF3
+t1396395503
+s7411
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-50.png
+c00000000533B4DEF000000000000130A
+t1396395503
+s4874
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-50@2x.png
+c00000000533B4DEF000000000000258B
+t1396395503
+s9611
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-60.png
+c00000000533B4DEF00000000000016B3
+t1396395503
+s5811
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-60@2x.png
+c00000000533B4DEF0000000000002E94
+t1396395503
+s11924
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-72.png
+c00000000533B4DEF0000000000001350
+t1396395503
+s4944
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-72@2x.png
+c00000000533B4DEF0000000000002DBA
+t1396395503
+s11706
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-76.png
+c00000000533B4DEF0000000000001B71
+t1396395503
+s7025
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-76@2x.png
+c00000000533B4DEF0000000000003B9E
+t1396395503
+s15262
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-small.png
+c00000000533B4DEF0000000000000CDE
+t1396395503
+s3294
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-small@2x.png
+c00000000533B4DEF00000000000015E8
+t1396395503
+s5608
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon.png
+c00000000533B4DEF0000000000000F3E
+t1396395503
+s3902
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon@2x.png
+c00000000533B4DEF0000000000001EBD
+t1396395503
+s7869
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default-568h@2x~iphone.png
+c00000000533B4DEF00000000000085B1
+t1396395503
+s34225
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000533B4DEF0000000000033D0A
+t1396395503
+s212234
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default-Landscape~ipad.png
+c00000000533B4DEF00000000000166A2
+t1396395503
+s91810
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default-Portrait@2x~ipad.png
+c00000000533B4DEF0000000000033F7C
+t1396395503
+s212860
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default-Portrait~ipad.png
+c00000000533B4DEF0000000000016641
+t1396395503
+s91713
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default@2x~iphone.png
+c00000000533B4DEF0000000000007323
+t1396395503
+s29475
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default~iphone.png
+c00000000533B4DEF000000000000289A
+t1396395503
+s10394
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/main.m
+c00000000533B4DEF000000000000045C
+t1396395503
+s1116
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning.xcent
+t1398728440
+s420
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/AppDelegate.o
+t1398728440
+s77996
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVAccelerometer.o
+t1398728440
+s67428
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVConnection.o
+t1398728440
+s59560
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVDevice.o
+t1398728440
+s53492
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVNotification.o
+t1398728440
+s72104
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVReachability.o
+t1398728440
+s21348
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVVibration.o
+t1398728440
+s42852
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/Learning.LinkFileList
+c00000000535EE6F20000000000000584
+t1398728434
+s1412
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/MainViewController.o
+t1398728440
+s53276
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/TTSPlugin.o
+t1398728440
+s61344
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/main.o
+t1398728440
+s3104
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Script-304B58A110DAC018002A0835.sh
+c00000000535EE6F2000000000000002D
+t1398728434
+s45
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app
+t1398728440
+s1122
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app.dSYM
+t2
+s0
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/CDVNotification.bundle
+t1398728436
+s102
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-568h@2x~iphone.png
+t1398728436
+s61990
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Landscape@2x~ipad.png
+t1398728436
+s161722
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Landscape~ipad.png
+t1398728436
+s76512
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Portrait@2x~ipad.png
+t1398728436
+s154923
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Portrait~ipad.png
+t1398728436
+s74890
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default@2x~iphone.png
+t1398728436
+s55319
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default~iphone.png
+t1398728436
+s20021
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Info.plist
+t1398728434
+s1563
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Learning
+t1398728440
+s310148
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/MainViewController.nib
+t1398728439
+s836
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/PkgInfo
+t2
+s0
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/ResourceRules.plist
+t1398728434
+s150
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/de.lproj/Localizable.strings
+t1398728436
+s280
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/embedded.mobileprovision
+t1398728440
+s10157
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/en.lproj/Localizable.strings
+t1398728436
+s166
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-40.png
+t1398728436
+s4450
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-40@2x.png
+t1398728436
+s8883
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-50.png
+t1398728436
+s5557
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-50@2x.png
+t1398728436
+s11331
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-60.png
+t1398728436
+s6838
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-60@2x.png
+t1398728436
+s14152
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-72.png
+t1398728436
+s8045
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-72@2x.png
+t1398728436
+s17926
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-76.png
+t1398728436
+s8463
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-76@2x.png
+t1398728436
+s16629
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-small.png
+t1398728436
+s3349
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-small@2x.png
+t1398728436
+s6585
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon.png
+t1398728436
+s5977
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon@2x.png
+t1398728436
+s13012
+
+N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/libCordova.a
+c00000000535EE6F200000000001C0408
+t1398728434
+s1836040
+
+N/var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch.pch
+t1398728440
+s5283584
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesac5686721e0fb941^564a87721e0fb941^-138"iOS deployment target '7.1' for architecture 'armv7' and variant 'normal' is greater than the maximum value '7.0.99' for the iOS 7.0 SDK.1(21%IDEActivityLogMessage2@137"IOS deployment target '7.1' for architecture 'armv7' and variant 'normal' is greater than the maximum value '7.0.99' for the iOS 7.0 SDK.-420421234#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"FC85533F-D586-4F06-A0E1-A42B8C111EB1-
+
+CCodeSign /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app
+s420421240.848322
+e420421253.308233
+r1
+xCodeSign
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"[1mCodeSign[0m [1mbuild/device/Learning.app[0m50"[1mCodeSign[0m [1mbuild/device/Learning.app[0mf390d9781e0fb941^a7ea4e851e0fb941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/0000000000000000^1439"[1mCodeSign[0m [1mbuild/device/Learning.app[0m    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    Using code signing identity "iPhone Developer: Kristoffer Oeseth (C9VRX84SWR)" and provisioning profile "iOS Team Provisioning Profile: *" (40393C8F-13DB-4B2A-A30C-09C29E16F2A4)    codesign --force --sign A02A1ABC877D12FB22CD5C664DA960FDE935AD6D --resource-rules=/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/ResourceRules.plist --entitlements /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning.xcent /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app36"46AEEC1A-6026-498E-B713-EAEB4BAC18DB-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/AppDelegate.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420421240.162222
+e420421240.263782
+r1
+xCompileC
+xbuild/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/AppDelegate.o
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/AppDelegate.m
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/AppDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVViewController.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/AppDelegate.m210"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/AppDelegate.o [1mLearning/Classes/AppDelegate.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere8bd29781e0fb941^8b8743781e0fb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/AppDelegate.m0000000000000000^4028"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/AppDelegate.o [1mLearning/Classes/AppDelegate.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-generated-files.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-own-target-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-all-target-headers.hmap -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-project-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/usr/local/lib/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/UninstalledProducts/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources/armv7 -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources -F/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -include /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch -MMD -MT dependencies -MF /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/AppDelegate.dia -c /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/AppDelegate.m -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/AppDelegate.o36"DBA46EAA-784F-4E0E-BE4E-0FB99426F8E4-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVAccelerometer.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device-motion/CDVAccelerometer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420421240.418126
+e420421240.501172
+r1
+xCompileC
+xbuild/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVAccelerometer.o
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device-motion/CDVAccelerometer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device-motion/CDVAccelerometer.m
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device-motion/CDVAccelerometer.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device-motion/CDVAccelerometer.m253"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVAccelerometer.o [1mLearning/Plugins/org.apache.cordova.device-motion/CDVAccelerometer.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler043a6b781e0fb941^ec4d80781e0fb941^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device-motion/CDVAccelerometer.m0000000000000000^4124"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVAccelerometer.o [1mLearning/Plugins/org.apache.cordova.device-motion/CDVAccelerometer.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-generated-files.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-own-target-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-all-target-headers.hmap -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-project-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/usr/local/lib/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/UninstalledProducts/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources/armv7 -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources -F/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -include /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch -MMD -MT dependencies -MF /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVAccelerometer.d --serialize-diagnostics /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVAccelerometer.dia -c /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device-motion/CDVAccelerometer.m -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVAccelerometer.o36"CF81BDB5-22B3-4C24-A910-B98F44B1AA4C-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVConnection.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVConnection.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420421240.264139
+e420421240.367803
+r1
+xCompileC
+xbuild/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVConnection.o
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVConnection.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVConnection.m
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVConnection.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVReachability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Compile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVConnection.m253"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVConnection.o [1mLearning/Plugins/org.apache.cordova.network-information/CDVConnection.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler10ce43781e0fb941^13285e781e0fb941^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVConnection.m0000000000000000^4118"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVConnection.o [1mLearning/Plugins/org.apache.cordova.network-information/CDVConnection.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-generated-files.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-own-target-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-all-target-headers.hmap -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-project-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/usr/local/lib/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/UninstalledProducts/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources/armv7 -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources -F/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -include /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch -MMD -MT dependencies -MF /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVConnection.d --serialize-diagnostics /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVConnection.dia -c /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVConnection.m -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVConnection.o36"80D50BB4-CEC1-43D6-B1FC-02D678777E0A-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVDevice.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device/CDVDevice.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420421240.263361
+e420421240.351507
+r1
+xCompileC
+xbuild/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVDevice.o
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device/CDVDevice.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device/CDVDevice.m
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDV.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVViewController.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVDebug.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVTimer.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/NSData+Base64.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVJSON.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device/CDVDevice.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device/CDVDevice.m232"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVDevice.o [1mLearning/Plugins/org.apache.cordova.device/CDVDevice.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler47aa43781e0fb941^05fd59781e0fb941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device/CDVDevice.m0000000000000000^4068"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVDevice.o [1mLearning/Plugins/org.apache.cordova.device/CDVDevice.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-generated-files.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-own-target-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-all-target-headers.hmap -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-project-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/usr/local/lib/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/UninstalledProducts/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources/armv7 -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources -F/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -include /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch -MMD -MT dependencies -MF /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVDevice.d --serialize-diagnostics /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVDevice.dia -c /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device/CDVDevice.m -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVDevice.o36"B8987E21-494A-4616-8CD6-802FB82E6DEB-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVNotification.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.dialogs/CDVNotification.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420421240.501575
+e420421240.591147
+r1
+xCompileC
+xbuild/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVNotification.o
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.dialogs/CDVNotification.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.dialogs/CDVNotification.m
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.dialogs/CDVNotification.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.dialogs/CDVNotification.m245"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVNotification.o [1mLearning/Plugins/org.apache.cordova.dialogs/CDVNotification.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2e9080781e0fb941^4b5c97781e0fb941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.dialogs/CDVNotification.m0000000000000000^4106"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVNotification.o [1mLearning/Plugins/org.apache.cordova.dialogs/CDVNotification.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-generated-files.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-own-target-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-all-target-headers.hmap -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-project-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/usr/local/lib/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/UninstalledProducts/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources/armv7 -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources -F/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -include /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch -MMD -MT dependencies -MF /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVNotification.d --serialize-diagnostics /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVNotification.dia -c /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.dialogs/CDVNotification.m -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVNotification.o36"9DA1AB1B-2A2F-4A74-AA24-5A3096051E76-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVReachability.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVReachability.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420421240.352003
+e420421240.417692
+r1
+xCompileC
+xbuild/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVReachability.o
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVReachability.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVReachability.m
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVReachability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Compile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVReachability.m257"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVReachability.o [1mLearning/Plugins/org.apache.cordova.network-information/CDVReachability.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler9a5e5a781e0fb941^dded6a781e0fb941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVReachability.m0000000000000000^4130"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVReachability.o [1mLearning/Plugins/org.apache.cordova.network-information/CDVReachability.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-generated-files.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-own-target-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-all-target-headers.hmap -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-project-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/usr/local/lib/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/UninstalledProducts/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources/armv7 -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources -F/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -include /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch -MMD -MT dependencies -MF /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVReachability.d --serialize-diagnostics /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVReachability.dia -c /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVReachability.m -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVReachability.o36"9ED1ABF4-A243-4D24-A120-5F63FDA5ADC0-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVVibration.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.vibration/CDVVibration.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420421240.529307
+e420421240.591128
+r1
+xCompileC
+xbuild/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVVibration.o
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.vibration/CDVVibration.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.vibration/CDVVibration.m
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.vibration/CDVVibration.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.vibration/CDVVibration.m241"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVVibration.o [1mLearning/Plugins/org.apache.cordova.vibration/CDVVibration.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerddb687781e0fb941^3b5497781e0fb941^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.vibration/CDVVibration.m0000000000000000^4092"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVVibration.o [1mLearning/Plugins/org.apache.cordova.vibration/CDVVibration.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-generated-files.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-own-target-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-all-target-headers.hmap -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-project-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/usr/local/lib/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/UninstalledProducts/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources/armv7 -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources -F/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -include /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch -MMD -MT dependencies -MF /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVVibration.d --serialize-diagnostics /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVVibration.dia -c /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.vibration/CDVVibration.m -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVVibration.o36"9197A9BA-C447-4579-9B74-A01AFB0A0605-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/MainViewController.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420421240.191535
+e420421240.262823
+r1
+xCompileC
+xbuild/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/MainViewController.o
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.m
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVViewController.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.m224"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/MainViewController.o [1mLearning/Classes/MainViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerac3c31781e0fb941^494943781e0fb941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.m0000000000000000^4070"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/MainViewController.o [1mLearning/Classes/MainViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-generated-files.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-own-target-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-all-target-headers.hmap -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-project-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/usr/local/lib/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/UninstalledProducts/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources/armv7 -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources -F/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -include /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch -MMD -MT dependencies -MF /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/MainViewController.d --serialize-diagnostics /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/MainViewController.dia -c /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.m -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/MainViewController.o36"E5894D6D-6F0A-43BE-AFEE-9A4C024B59C2-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/TTSPlugin.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/TTSPlugin.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420421240.368141
+e420421240.528925
+r1
+xCompileC
+xbuild/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/TTSPlugin.o
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/TTSPlugin.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/TTSPlugin.m
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/TTSPlugin.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDV.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVViewController.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVDebug.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVTimer.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/NSData+Base64.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/TTSPlugin.m206"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/TTSPlugin.o [1mLearning/Classes/TTSPlugin.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler19745e781e0fb941^c36787781e0fb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/TTSPlugin.m0000000000000000^4016"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/TTSPlugin.o [1mLearning/Classes/TTSPlugin.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-generated-files.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-own-target-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-all-target-headers.hmap -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-project-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/usr/local/lib/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/UninstalledProducts/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources/armv7 -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources -F/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -include /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch -MMD -MT dependencies -MF /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/TTSPlugin.d --serialize-diagnostics /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/TTSPlugin.dia -c /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/TTSPlugin.m -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/TTSPlugin.o36"1063CDC1-1287-4DCF-B3FB-187298CFC1DB-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCompileC build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/main.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420421240.161790
+e420421240.191042
+r1
+xCompileC
+xbuild/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/main.o
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/main.m188"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/main.o [1mLearning/main.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler9a9929781e0fb941^4aee30781e0fb941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/main.m0000000000000000^3970"[1mCompileC[0m build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/main.o [1mLearning/main.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-generated-files.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-own-target-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-all-target-headers.hmap -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-project-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/usr/local/lib/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/UninstalledProducts/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources/armv7 -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources -F/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -include /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch -MMD -MT dependencies -MF /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/main.dia -c /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/main.m -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/main.o36"5F8B1A15-C681-4CDC-B410-C2AC6559618A-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCompileXIB /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.xib
+s420421236.115015
+e420421239.749233
+r1
+xCompileXIB
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.xib
+o2014-04-28 16:40:38.939 Interface Builder Cocoa Touch Tool[44566:303] CFPreferences: user home directory at file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compiling /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.xib66"[1mCompileXIB[0m [1mLearning/Classes/MainViewController.xib[0m65df1d741e0fb941^3ecfbf771e0fb941^-235"2014-04-28 16:40:38.939 Interface Builder Cocoa Touch Tool[44566:303] CFPreferences: user home directory at file:///Users/Kristoffer/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.xib0000000000000000^1195"[1mCompileXIB[0m [1mLearning/Classes/MainViewController.xib[0m    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/MainViewController.nib /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.xib36"9CEE1085-B88A-4C99-B32F-59E998798054-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-568h@2x~iphone.png Learning/Resources/splash/Default-568h@2x~iphone.png
+s420421236.754079
+e420421236.910598
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-568h@2x~iphone.png
+xLearning/Resources/splash/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"[1mCopyPNGFile[0m build/device/Learning.app/Default-568h@2x~iphone.png Learning/Resources/splash/Default-568h@2x~iphone.png125"[1mCopyPNGFile[0m build/device/Learning.app/Default-568h@2x~iphone.png Learning/Resources/splash/Default-568h@2x~iphone.pngf12cc1741e0fb941^f71fe9741e0fb941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default-568h@2x~iphone.png0000000000000000^1122"[1mCopyPNGFile[0m build/device/Learning.app/Default-568h@2x~iphone.png Learning/Resources/splash/Default-568h@2x~iphone.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default-568h@2x~iphone.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-568h@2x~iphone.png36"4C19613F-8EDC-4670-92B3-A354DC0EBFB1-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Landscape@2x~ipad.png Learning/Resources/splash/Default-Landscape@2x~ipad.png
+s420421236.165409
+e420421236.698480
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Landscape@2x~ipad.png
+xLearning/Resources/splash/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"[1mCopyPNGFile[0m build/device/Learning.app/Default-Landscape@2x~ipad.png Learning/Resources/splash/Default-Landscape@2x~ipad.png131"[1mCopyPNGFile[0m build/device/Learning.app/Default-Landscape@2x~ipad.png Learning/Resources/splash/Default-Landscape@2x~ipad.pngf7772a741e0fb941^d40eb3741e0fb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default-Landscape@2x~ipad.png0000000000000000^1134"[1mCopyPNGFile[0m build/device/Learning.app/Default-Landscape@2x~ipad.png Learning/Resources/splash/Default-Landscape@2x~ipad.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default-Landscape@2x~ipad.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Landscape@2x~ipad.png36"E314DDE5-2246-49C1-84AF-E3BB42A3EA6A-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Landscape~ipad.png Learning/Resources/splash/Default-Landscape~ipad.png
+s420421236.172404
+e420421236.371494
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Landscape~ipad.png
+xLearning/Resources/splash/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"[1mCopyPNGFile[0m build/device/Learning.app/Default-Landscape~ipad.png Learning/Resources/splash/Default-Landscape~ipad.png125"[1mCopyPNGFile[0m build/device/Learning.app/Default-Landscape~ipad.png Learning/Resources/splash/Default-Landscape~ipad.png15582c741e0fb941^36235f741e0fb941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default-Landscape~ipad.png0000000000000000^1122"[1mCopyPNGFile[0m build/device/Learning.app/Default-Landscape~ipad.png Learning/Resources/splash/Default-Landscape~ipad.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default-Landscape~ipad.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Landscape~ipad.png36"CE2DC0A2-EF18-4F9F-A626-EFE121FBA0C4-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Portrait@2x~ipad.png Learning/Resources/splash/Default-Portrait@2x~ipad.png
+s420421236.215477
+e420421236.753732
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Portrait@2x~ipad.png
+xLearning/Resources/splash/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"[1mCopyPNGFile[0m build/device/Learning.app/Default-Portrait@2x~ipad.png Learning/Resources/splash/Default-Portrait@2x~ipad.png129"[1mCopyPNGFile[0m build/device/Learning.app/Default-Portrait@2x~ipad.png Learning/Resources/splash/Default-Portrait@2x~ipad.png7b4d37741e0fb941^624dc1741e0fb941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default-Portrait@2x~ipad.png0000000000000000^1130"[1mCopyPNGFile[0m build/device/Learning.app/Default-Portrait@2x~ipad.png Learning/Resources/splash/Default-Portrait@2x~ipad.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default-Portrait@2x~ipad.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Portrait@2x~ipad.png36"BCDB9697-BD0C-41FA-BBC6-AD3721CE030C-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Portrait~ipad.png Learning/Resources/splash/Default-Portrait~ipad.png
+s420421236.418228
+e420421236.610360
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Portrait~ipad.png
+xLearning/Resources/splash/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"[1mCopyPNGFile[0m build/device/Learning.app/Default-Portrait~ipad.png Learning/Resources/splash/Default-Portrait~ipad.png123"[1mCopyPNGFile[0m build/device/Learning.app/Default-Portrait~ipad.png Learning/Resources/splash/Default-Portrait~ipad.png2c446b741e0fb941^874d9c741e0fb941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default-Portrait~ipad.png0000000000000000^1118"[1mCopyPNGFile[0m build/device/Learning.app/Default-Portrait~ipad.png Learning/Resources/splash/Default-Portrait~ipad.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default-Portrait~ipad.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default-Portrait~ipad.png36"7C96E291-09C8-4210-A17B-E191B188007B-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default@2x~iphone.png Learning/Resources/splash/Default@2x~iphone.png
+s420421236.655398
+e420421236.811071
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default@2x~iphone.png
+xLearning/Resources/splash/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"[1mCopyPNGFile[0m build/device/Learning.app/Default@2x~iphone.png Learning/Resources/splash/Default@2x~iphone.png115"[1mCopyPNGFile[0m build/device/Learning.app/Default@2x~iphone.png Learning/Resources/splash/Default@2x~iphone.png2e01a8741e0fb941^22abcf741e0fb941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default@2x~iphone.png0000000000000000^1102"[1mCopyPNGFile[0m build/device/Learning.app/Default@2x~iphone.png Learning/Resources/splash/Default@2x~iphone.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default@2x~iphone.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default@2x~iphone.png36"205F5C24-2D4F-4DA7-A775-DA9B4CCF5C6E-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default~iphone.png Learning/Resources/splash/Default~iphone.png
+s420421236.745869
+e420421236.825926
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default~iphone.png
+xLearning/Resources/splash/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"[1mCopyPNGFile[0m build/device/Learning.app/Default~iphone.png Learning/Resources/splash/Default~iphone.png109"[1mCopyPNGFile[0m build/device/Learning.app/Default~iphone.png Learning/Resources/splash/Default~iphone.pngd715bf741e0fb941^7e73d3741e0fb941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default~iphone.png0000000000000000^1090"[1mCopyPNGFile[0m build/device/Learning.app/Default~iphone.png Learning/Resources/splash/Default~iphone.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/splash/Default~iphone.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Default~iphone.png36"E24115A2-5733-49BD-8A9A-CD77AF038F67-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-40.png Learning/Resources/icons/icon-40.png
+s420421236.610897
+e420421236.655030
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-40.png
+xLearning/Resources/icons/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"[1mCopyPNGFile[0m build/device/Learning.app/icon-40.png Learning/Resources/icons/icon-40.png94"[1mCopyPNGFile[0m build/device/Learning.app/icon-40.png Learning/Resources/icons/icon-40.png12879c741e0fb941^bdc5a7741e0fb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-40.png0000000000000000^1060"[1mCopyPNGFile[0m build/device/Learning.app/icon-40.png Learning/Resources/icons/icon-40.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-40.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-40.png36"36E070BF-A9B9-4158-93A7-25308744FAB8-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-40@2x.png Learning/Resources/icons/icon-40@2x.png
+s420421235.865984
+e420421236.115093
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-40@2x.png
+xLearning/Resources/icons/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"[1mCopyPNGFile[0m build/device/Learning.app/icon-40@2x.png Learning/Resources/icons/icon-40@2x.png100"[1mCopyPNGFile[0m build/device/Learning.app/icon-40@2x.png Learning/Resources/icons/icon-40@2x.png19e5dd731e0fb941^e6781d741e0fb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-40@2x.png0000000000000000^1072"[1mCopyPNGFile[0m build/device/Learning.app/icon-40@2x.png Learning/Resources/icons/icon-40@2x.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-40@2x.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-40@2x.png36"E91CAF9E-AEDD-4C15-8E3E-B209C9A5236C-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-50.png Learning/Resources/icons/icon-50.png
+s420421236.115762
+e420421236.164738
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-50.png
+xLearning/Resources/icons/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"[1mCopyPNGFile[0m build/device/Learning.app/icon-50.png Learning/Resources/icons/icon-50.png94"[1mCopyPNGFile[0m build/device/Learning.app/icon-50.png Learning/Resources/icons/icon-50.png3e031e741e0fb941^9e232a741e0fb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-50.png0000000000000000^1060"[1mCopyPNGFile[0m build/device/Learning.app/icon-50.png Learning/Resources/icons/icon-50.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-50.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-50.png36"A41A21DF-AB06-4D1E-89E2-65C5613C6373-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-50@2x.png Learning/Resources/icons/icon-50@2x.png
+s420421236.811281
+e420421236.859651
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-50@2x.png
+xLearning/Resources/icons/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"[1mCopyPNGFile[0m build/device/Learning.app/icon-50@2x.png Learning/Resources/icons/icon-50@2x.png100"[1mCopyPNGFile[0m build/device/Learning.app/icon-50@2x.png Learning/Resources/icons/icon-50@2x.pngccd1cf741e0fb941^2313dc741e0fb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-50@2x.png0000000000000000^1072"[1mCopyPNGFile[0m build/device/Learning.app/icon-50@2x.png Learning/Resources/icons/icon-50@2x.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-50@2x.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-50@2x.png36"1E97CD95-2C94-4DAC-AC41-9781B2E1BA22-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-60.png Learning/Resources/icons/icon-60.png
+s420421236.698812
+e420421236.745310
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-60.png
+xLearning/Resources/icons/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"[1mCopyPNGFile[0m build/device/Learning.app/icon-60.png Learning/Resources/icons/icon-60.png94"[1mCopyPNGFile[0m build/device/Learning.app/icon-60.png Learning/Resources/icons/icon-60.png3e06b3741e0fb941^10cfbe741e0fb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-60.png0000000000000000^1060"[1mCopyPNGFile[0m build/device/Learning.app/icon-60.png Learning/Resources/icons/icon-60.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-60.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-60.png36"BA195200-B148-4FF8-9B5F-E31288F75036-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-60@2x.png Learning/Resources/icons/icon-60@2x.png
+s420421236.117147
+e420421236.172058
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-60@2x.png
+xLearning/Resources/icons/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"[1mCopyPNGFile[0m build/device/Learning.app/icon-60@2x.png Learning/Resources/icons/icon-60@2x.png100"[1mCopyPNGFile[0m build/device/Learning.app/icon-60@2x.png Learning/Resources/icons/icon-60@2x.pngd8291e741e0fb941^ed2a2c741e0fb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-60@2x.png0000000000000000^1072"[1mCopyPNGFile[0m build/device/Learning.app/icon-60@2x.png Learning/Resources/icons/icon-60@2x.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-60@2x.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-60@2x.png36"1E12E1A7-A3EC-4F0B-A93B-B7F2284D4BF0-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-72.png Learning/Resources/icons/icon-72.png
+s420421235.866196
+e420421236.111371
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-72.png
+xLearning/Resources/icons/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"[1mCopyPNGFile[0m build/device/Learning.app/icon-72.png Learning/Resources/icons/icon-72.png94"[1mCopyPNGFile[0m build/device/Learning.app/icon-72.png Learning/Resources/icons/icon-72.png11e3dd731e0fb941^207c1c741e0fb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-72.png0000000000000000^1060"[1mCopyPNGFile[0m build/device/Learning.app/icon-72.png Learning/Resources/icons/icon-72.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-72.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-72.png36"D0800173-FE20-4704-B1B5-981AAD956A4C-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-72@2x.png Learning/Resources/icons/icon-72@2x.png
+s420421236.859846
+e420421236.910184
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-72@2x.png
+xLearning/Resources/icons/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"[1mCopyPNGFile[0m build/device/Learning.app/icon-72@2x.png Learning/Resources/icons/icon-72@2x.png100"[1mCopyPNGFile[0m build/device/Learning.app/icon-72@2x.png Learning/Resources/icons/icon-72@2x.png575cdc741e0fb941^a304e9741e0fb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-72@2x.png0000000000000000^1072"[1mCopyPNGFile[0m build/device/Learning.app/icon-72@2x.png Learning/Resources/icons/icon-72@2x.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-72@2x.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-72@2x.png36"F891F7D3-828F-498A-80C7-7E079740B1D7-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-76.png Learning/Resources/icons/icon-76.png
+s420421235.865711
+e420421236.114037
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-76.png
+xLearning/Resources/icons/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"[1mCopyPNGFile[0m build/device/Learning.app/icon-76.png Learning/Resources/icons/icon-76.png94"[1mCopyPNGFile[0m build/device/Learning.app/icon-76.png Learning/Resources/icons/icon-76.pnga8c8dd731e0fb941^ee401d741e0fb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-76.png0000000000000000^1060"[1mCopyPNGFile[0m build/device/Learning.app/icon-76.png Learning/Resources/icons/icon-76.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-76.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-76.png36"9A946F5A-024B-4412-9C93-DB114B59C105-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-76@2x.png Learning/Resources/icons/icon-76@2x.png
+s420421236.826602
+e420421236.885209
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-76@2x.png
+xLearning/Resources/icons/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"[1mCopyPNGFile[0m build/device/Learning.app/icon-76@2x.png Learning/Resources/icons/icon-76@2x.png100"[1mCopyPNGFile[0m build/device/Learning.app/icon-76@2x.png Learning/Resources/icons/icon-76@2x.png84bbd3741e0fb941^3fe3e2741e0fb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-76@2x.png0000000000000000^1072"[1mCopyPNGFile[0m build/device/Learning.app/icon-76@2x.png Learning/Resources/icons/icon-76@2x.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-76@2x.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-76@2x.png36"E1BE1227-F95B-45D2-B1FA-5321FA465045-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-small.png Learning/Resources/icons/icon-small.png
+s420421236.165056
+e420421236.215139
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-small.png
+xLearning/Resources/icons/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"[1mCopyPNGFile[0m build/device/Learning.app/icon-small.png Learning/Resources/icons/icon-small.png100"[1mCopyPNGFile[0m build/device/Learning.app/icon-small.png Learning/Resources/icons/icon-small.png1d772a741e0fb941^fb5a37741e0fb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-small.png0000000000000000^1072"[1mCopyPNGFile[0m build/device/Learning.app/icon-small.png Learning/Resources/icons/icon-small.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-small.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-small.png36"ACCBFCD9-C972-469B-A0C3-748E470F8C5A-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-small@2x.png Learning/Resources/icons/icon-small@2x.png
+s420421236.371742
+e420421236.417813
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-small@2x.png
+xLearning/Resources/icons/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"[1mCopyPNGFile[0m build/device/Learning.app/icon-small@2x.png Learning/Resources/icons/icon-small@2x.png106"[1mCopyPNGFile[0m build/device/Learning.app/icon-small@2x.png Learning/Resources/icons/icon-small@2x.pnga14c5f741e0fb941^be136b741e0fb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-small@2x.png0000000000000000^1084"[1mCopyPNGFile[0m build/device/Learning.app/icon-small@2x.png Learning/Resources/icons/icon-small@2x.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon-small@2x.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon-small@2x.png36"D9B4317B-2697-488F-9239-DF1174387788-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon.png Learning/Resources/icons/icon.png
+s420421235.866958
+e420421236.110304
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon.png
+xLearning/Resources/icons/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"[1mCopyPNGFile[0m build/device/Learning.app/icon.png Learning/Resources/icons/icon.png88"[1mCopyPNGFile[0m build/device/Learning.app/icon.png Learning/Resources/icons/icon.pngdd28de731e0fb941^043d1c741e0fb941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon.png0000000000000000^1048"[1mCopyPNGFile[0m build/device/Learning.app/icon.png Learning/Resources/icons/icon.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon.png36"BDCB10DC-08F7-415D-A68F-8926A91D8F78-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyPNGFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon@2x.png Learning/Resources/icons/icon@2x.png
+s420421236.110513
+e420421236.162160
+r1
+xCopyPNGFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon@2x.png
+xLearning/Resources/icons/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"[1mCopyPNGFile[0m build/device/Learning.app/icon@2x.png Learning/Resources/icons/icon@2x.png94"[1mCopyPNGFile[0m build/device/Learning.app/icon@2x.png Learning/Resources/icons/icon@2x.png876c1c741e0fb941^2bbe29741e0fb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon@2x.png0000000000000000^1060"[1mCopyPNGFile[0m build/device/Learning.app/icon@2x.png Learning/Resources/icons/icon@2x.png    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/icons/icon@2x.png /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/icon@2x.png36"4E2F66A4-5789-441B-A1C9-DEBF5EE8E0BE-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyStringsFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/de.lproj/Localizable.strings Learning/Resources/de.lproj/Localizable.strings
+s420421236.162403
+e420421236.164869
+r1
+xCopyStringsFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/de.lproj/Localizable.strings
+xLearning/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy Learning/Resources/de.lproj/Localizable.strings126"[1mCopyStringsFile[0m build/device/Learning.app/de.lproj/Localizable.strings Learning/Resources/de.lproj/Localizable.strings56b829741e0fb941^5d362a741e0fb941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/de.lproj/Localizable.strings0000000000000000^1028"[1mCopyStringsFile[0m build/device/Learning.app/de.lproj/Localizable.strings Learning/Resources/de.lproj/Localizable.strings    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/de.lproj -- Learning/Resources/de.lproj/Localizable.strings36"5A593DD8-8DA2-435E-9F6F-5C56E8EF59BB-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCopyStringsFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/en.lproj/Localizable.strings Learning/Resources/en.lproj/Localizable.strings
+s420421236.111968
+e420421236.115975
+r1
+xCopyStringsFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/en.lproj/Localizable.strings
+xLearning/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy Learning/Resources/en.lproj/Localizable.strings126"[1mCopyStringsFile[0m build/device/Learning.app/en.lproj/Localizable.strings Learning/Resources/en.lproj/Localizable.strings42d11c741e0fb941^ccd31d741e0fb941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/en.lproj/Localizable.strings0000000000000000^1028"[1mCopyStringsFile[0m build/device/Learning.app/en.lproj/Localizable.strings Learning/Resources/en.lproj/Localizable.strings    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/en.lproj -- Learning/Resources/en.lproj/Localizable.strings36"219469C9-0FF1-4176-A8A1-97A138A0A009-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/device/Learning.app/ResourceRules.plist
+s420421234.532440
+e420421234.533590
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+xbuild/device/Learning.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/device/Learning.app/ResourceRules.plist186"[1mCpResource[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/device/Learning.app/ResourceRules.plistbf6388721e0fb941^029a88721e0fb941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/ResourceRules.plist00343060deffdf42^1172"[1mCpResource[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/device/Learning.app/ResourceRules.plist    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app36"C9550DFD-7CF4-4AF5-96EE-F553B475AAA7-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CCpResource Learning/Resources/CDVNotification.bundle build/device/Learning.app/CDVNotification.bundle
+s420421236.885526
+e420421236.887800
+r1
+xCpResource
+xLearning/Resources/CDVNotification.bundle
+xbuild/device/Learning.app/CDVNotification.bundle
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/device/Learning.app/CDVNotification.bundle109"[1mCpResource[0m Learning/Resources/CDVNotification.bundle build/device/Learning.app/CDVNotification.bundlefed6e2741e0fb941^8447e3741e0fb941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/CDVNotification.bundle00343060deffdf42^1069"[1mCpResource[0m Learning/Resources/CDVNotification.bundle build/device/Learning.app/CDVNotification.bundle    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Resources/CDVNotification.bundle /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app36"4C52E751-0686-4D39-B024-A12578625075-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CGenerateDSYMFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app.dSYM /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Learning
+s420421240.753303
+e420421240.823644
+r1
+xGenerateDSYMFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app.dSYM
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Learning
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Generate /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app.dSYM98"[1mGenerateDSYMFile[0m [1mbuild/device/Learning.app.dSYM[0m build/device/Learning.app/Learning84f0c0781e0fb941^ecdad2781e0fb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app.dSYM00343060deffdf42^1047"[1mGenerateDSYMFile[0m [1mbuild/device/Learning.app.dSYM[0m build/device/Learning.app/Learning    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Learning -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app.dSYM36"1F5C2326-C170-49E2-B2D2-7B6EAB78972D-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CLd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Learning normal armv7
+s420421240.593157
+e420421240.752115
+r1
+xLd
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Learning
+xnormal
+xarmv7
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/Learning.LinkFileList
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/libCordova.a
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/main.o
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/AppDelegate.o
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/MainViewController.o
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVDevice.o
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVConnection.o
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVReachability.o
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/TTSPlugin.o
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVAccelerometer.o
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVNotification.o
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/CDVVibration.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Link /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Learning58"[1mLd[0m build/device/Learning.app/Learning normal armv780f297781e0fb941^d68cc0781e0fb941^---0#0#1#--2155"[1mLd[0m build/device/Learning.app/Learning normal armv7    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv IPHONEOS_DEPLOYMENT_TARGET 7.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -F/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -filelist /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/Learning.LinkFileList -dead_strip -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.1 -framework AVFoundation -weak_framework AudioToolbox -framework AssetsLibrary /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -weak_framework SystemConfiguration -framework CoreMotion -Xlinker -dependency_info -Xlinker /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Objects-normal/armv7/Learning_dependency_info.dat -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Learning36"555A6609-C583-46AC-951B-14C2E04A2DF5-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CPhaseScriptExecution Copy\ www\ directory /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Script-304B58A110DAC018002A0835.sh
+s420421234.534746
+e420421235.864948
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m1.306s
+ouser	0m0.494s
+osys	0m0.790s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'135"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Learning.build/Debug-iphoneos/Learning.build/Script-304B58A110DAC018002A0835.sh2f4d89721e0fb941^467add731e0fb941^-42"real	0m1.306suser	0m0.494ssys	0m0.790s3(21%IDEActivityLogMessage2@14"real	0m1.306s-420421235#1#14#-0#-----2@14"user	0m0.494s-420421235#15#14#-0#-----2@13"sys	0m0.790s-420421235#29#13#-0#-----0#0#1#--352"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Learning.build/Debug-iphoneos/Learning.build/Script-304B58A110DAC018002A0835.sh    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    /bin/sh -c /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Script-304B58A110DAC018002A0835.sh36"2F9B074C-29CE-484D-8514-E13F13CFE5CE-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CProcessInfoPlistFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Info.plist /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Info.plist
+s420421234.529410
+e420421234.531896
+r1
+xProcessInfoPlistFile
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Info.plist
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Process /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Info.plist102"[1mProcessInfoPlistFile[0m build/device/Learning.app/Info.plist [1mLearning/Learning-Info.plist[0mf0a287721e0fb941^001b88721e0fb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Info.plist0000000000000000^1254"[1mProcessInfoPlistFile[0m build/device/Learning.app/Info.plist [1mLearning/Learning-Info.plist[0m    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    builtin-infoPlistUtility /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Info.plist -genpkginfo /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/ResourceRules.plist -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/Info.plist36"B91359E0-6B60-485F-B8C6-48E5A2B11973-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CProcessPCH /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch.pch Learning/Learning-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420421239.750248
+e420421240.160515
+r1
+xProcessPCH
+x/var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch.pch
+xLearning/Learning-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Learning/Learning-Prefix.pch303"[1mProcessPCH[0m /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch.pch Learning/Learning-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerab41c0771e0fb941^7e1829781e0fb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Prefix.pch0000000000000000^4071"[1mProcessPCH[0m /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch.pch Learning/Learning-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-generated-files.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-own-target-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-all-target-headers.hmap -iquote /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning-project-headers.hmap -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/usr/local/lib/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/UninstalledProducts/include -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources/armv7 -I/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/DerivedSources -F/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device --serialize-diagnostics /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch.d -c /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Prefix.pch -o /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-ewnyhupdequdkrhbaanjlqnivwiz/Learning-Prefix.pch.pch36"E963BD2D-85FE-4857-8C5A-3B8B4CEC0F55-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning.xcent
+s420421240.839413
+e420421240.847742
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection226"[1mProcessProductPackaging[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist [1mbuild/Learning.build/Debug-iphoneos/Learning.build/Learning.xcent[0m226"[1mProcessProductPackaging[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist [1mbuild/Learning.build/Debug-iphoneos/Learning.build/Learning.xcent[0m0c06d7781e0fb941^5f08d9781e0fb941^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning.xcent00343060deffdf42^1204"[1mProcessProductPackaging[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist [1mbuild/Learning.build/Debug-iphoneos/Learning.build/Learning.xcent[0m    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphoneos/Learning.build/Learning.xcent36"67312EEA-F02C-47B9-A67C-A3E6F6909BA6-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CProcessProductPackaging /Users/Kristoffer/Library/MobileDevice/Provisioning\ Profiles/40393C8F-13DB-4B2A-A30C-09C29E16F2A4.mobileprovision /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/embedded.mobileprovision
+s420421240.824150
+e420421240.827417
+r1
+xProcessProductPackaging
+x/Users/Kristoffer/Library/MobileDevice/Provisioning Profiles/40393C8F-13DB-4B2A-A30C-09C29E16F2A4.mobileprovision
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection205"[1mProcessProductPackaging[0m /Users/Kristoffer/Library/MobileDevice/Provisioning\ Profiles/40393C8F-13DB-4B2A-A30C-09C29E16F2A4.mobileprovision [1mbuild/device/Learning.app/embedded.mobileprovision[0m205"[1mProcessProductPackaging[0m /Users/Kristoffer/Library/MobileDevice/Provisioning\ Profiles/40393C8F-13DB-4B2A-A30C-09C29E16F2A4.mobileprovision [1mbuild/device/Learning.app/embedded.mobileprovision[0m2f15d3781e0fb941^20d2d3781e0fb941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/embedded.mobileprovision00343060deffdf42^1136"[1mProcessProductPackaging[0m /Users/Kristoffer/Library/MobileDevice/Provisioning\ Profiles/40393C8F-13DB-4B2A-A30C-09C29E16F2A4.mobileprovision [1mbuild/device/Learning.app/embedded.mobileprovision[0m    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    builtin-productPackagingUtility /Users/Kristoffer/Library/MobileDevice/Provisioning\ Profiles/40393C8F-13DB-4B2A-A30C-09C29E16F2A4.mobileprovision -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app/embedded.mobileprovision36"61756DFA-C74B-4987-9053-CB944C443A79-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+
+CTouch /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app
+s420421240.828971
+e420421240.838765
+r1
+xTouch
+x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Touch /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app39"[1mTouch[0m build/device/Learning.appba4dd4781e0fb941^91b9d6781e0fb941^---0#0#1#--813"[1mTouch[0m build/device/Learning.app    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /usr/bin/touch -c /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/device/Learning.app36"EE743404-9EF7-4E93-83C0-61D397122FC1-
+b967AF1B6-3B4E-40A2-996B-59B3BC857F7D
+

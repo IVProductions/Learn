@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/CordovaLib/Classes/CDVWhitelist.m \
-  /Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+  /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVWhitelist.m \
+  /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
