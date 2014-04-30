@@ -1480,147 +1480,147 @@ Learn.factory('learnFactory', function() {
             "words": [
                 {
                     "name": "baby",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/baby.jpg"
                 },
                 {
                     "name": "barn",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/children.jpg"
                 },
                 {
                     "name": "barnets navn",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/name.jpg"
                 },
                 {
                     "name": "barnevaktens navn",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/babysitter.jpg"
                 },
                 {
                     "name": "bestefar",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/grandfather.jpg"
                 },
                 {
                     "name": "bestemor",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/grandmother.jpg"
                 },
                 {
                     "name": "bonde",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/farmer.jpg"
                 },
                 {
                     "name": "brannmann",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/fireman.jpg"
                 },
                 {
                     "name": "bror",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/brother.jpg"
                 },
                 {
                     "name": "cowboy",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/cowboy.jpg"
                 },
                 {
                     "name": "dame",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/woman.jpg"
                 },
                 {
                     "name": "doktor",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/doctor.jpg"
                 },
                 {
                     "name": "farfar",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/grandfather.jpg"
                 },
                 {
                     "name": "farmor",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/grandmother.jpg"
                 },
                 {
                     "name": "folk",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL":"img/people/people.jpg"
                 },
                 {
                     "name": "gutt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/boy.jpg"
                 },
                 {
                     "name": "helsesøster",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/nurse.jpg"
                 },
                 {
                     "name": "jente",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/girl.jpg"
                 },
                 {
                     "name": "klovn",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/clown.jpg"
                 },
                 {
                     "name": "lærer",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/teacher.jpg"
                 },
                 {
                     "name": "mamma",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/mother.jpg"
                 },
                 {
                     "name": "mann",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/man_4.jpg"
                 },
                 {
                     "name": "mennesker",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/people.jpg"
                 },
                 {
                     "name": "morfar",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/grandfather.jpg"
                 },
                 {
                     "name": "mormor",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/grandmother.jpg"
                 },
                 {
                     "name": "navn på kjæledyr",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/dog.jpg"
                 },
                 {
                     "name": "oldefar",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/grandfather.jpg"
                 },
                 {
                     "name": "oldemor",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/grandmother.jpg"
                 },
                 {
                     "name": "onkel",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/uncle.jpg"
                 },
                 {
                     "name": "pappa",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/father.jpg"
                 },
                 {
                     "name": "politi",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/police_officer.jpg"
                 },
                 {
                     "name": "postbud",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/mail_carrier.jpg"
                 },
                 {
                     "name": "søster",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/sister.jpg"
                 },
                 {
                     "name": "tante",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/aunt.jpg"
                 },
                 {
                     "name": "venn",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/friend.jpg"
                 },
                 {
                     "name": "venninne",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/people/friends.jpg"
                 }
             ]
         },
