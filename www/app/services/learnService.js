@@ -1631,103 +1631,103 @@ Learn.factory('learnFactory', function() {
             "words": [
                 {
                     "name": "bade",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/bathe.jpg"
                 },
                 {
                     "name": "frokost",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/breakfast.jpg"
                 },
                 {
                     "name": "gå på do",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/go_to_bathroom.jpg"
                 },
                 {
                     "name": "god natt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/Good_night.jpg"
                 },
                 {
                     "name": "ha det",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/Bye.jpg"
                 },
                 {
                     "name": "hallo",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/Hi.jpg"
                 },
                 {
                     "name": "handle",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/shop.jpg"
                 },
                 {
                     "name": "hei",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/Hi.jpg"
                 },
                 {
                     "name": "hysj",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/hush.jpg"
                 },
                 {
                     "name": "ikke",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/disagree.jpg"
                 },
                 {
                     "name": "ja",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/agree.jpg"
                 },
                 {
                     "name": "jo",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/agree.jpg"
                 },
                 {
                     "name": "klappe kake",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/clap.jpg"
                 },
                 {
                     "name": "kveldsmat",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/lunch.jpg"
                 },
                 {
                     "name": "lunsj",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/lunch.jpg"
                 },
                 {
                     "name": "middag",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/dinner.jpg"
                 },
                 {
                     "name": "nei",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/disagree.jpg"
                 },
                 {
                     "name": "ringe",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/call.jpg"
                 },
                 {
                     "name": "snurre rundt",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/spinning_top.jpg"
                 },
                 {
                     "name": "sovetid",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/sleep.jpg"
                 },
                 {
                     "name": "sååå stor",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/big_arm_circles.jpg"
                 },
                 {
                     "name": "takk",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/tnx.jpg"
                 },
                 {
                     "name": "vær så snill",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/please.jpg"
                 },
                 {
                     "name": "vent",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/wait.jpg"
                 },
                 {
                     "name": "vil",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/routines/want.jpg"
                 }
             ]
         },
