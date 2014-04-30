@@ -1209,8 +1209,8 @@ t1398876558
 s43332
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
-c00000000536129A80000000000000DA7
-t1398876584
+c0000000053615D9D0000000000000DA7
+t1398889885
 s3495
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
@@ -1334,7 +1334,7 @@ t1396382080
 s1142
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a
-t1398876584
+t1398889885
 s889688
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn2/platforms/ios/CordovaLib/Classes/CDV.h
@@ -1778,11 +1778,7 @@ s3202300
 
 CCheck dependencies
 r0
-<<<<<<< HEAD
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6615c2d99411b941^7521d2d99411b941^---0#1#1#--18"Check dependencies36"CAB7869D-B448-49FF-AA0D-0BEC1D2991AE-
-=======
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies76e1039e4e0fb941^c938529e4e0fb941^---0#1#1#--18"Check dependencies36"BCE2FD7A-36F7-479B-8812-9CE0E7D90671-
->>>>>>> FETCH_HEAD
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesfcc7ca6fa711b941^14e9da6fa711b941^---0#1#1#--18"Check dependencies36"D17C26FF-C899-4043-8680-2FCD555B3335-
 
 CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420421227.624615

@@ -9,11 +9,18 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
 
     $scope.changeCategory = function(id){
         $scope.currentCategory = $scope.categories[id];
-
+        for (var i=0;i<$scope.categories.length;i++) {
+            //$("#"+i).css("background-color", "white");
+            $("#"+i).css("border-bottom", "2px solid lightgrey");
+        }
+        //$("#"+id).css("background-color", "red");
+        $("#"+(id-1)).css("border-bottom", "2px solid red");
+        $("#"+id).css("border-bottom", "2px solid red");
     }
     $scope.redirect = function(path) {
         $location.path(path);
     };
+
 
     /*DRAG N DROP FUNCTIONALITY  /  TTS FUNCTIONALITY*/
 

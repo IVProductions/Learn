@@ -42,7 +42,9 @@ html, body {
     border-bottom: 2px solid lightgrey;
     padding-top: 6px;
 }
-
+.category:first-child {
+    border-bottom: 2px solid red;
+}
 
 .main .category .categoryName {
     position:absolute;
@@ -191,6 +193,13 @@ html, body {
     border: 2px #2288dd solid;
     width: auto;
     /*background-color: blue;*/
+}
+
+.categoryTitle {
+    position: absolute;
+    top: 1%;
+    left: 20%;
+    font-size: 30px;
 }
 
 /*END DRAG N DROP*/

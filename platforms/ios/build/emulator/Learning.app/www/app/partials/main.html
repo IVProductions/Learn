@@ -3,7 +3,7 @@
 
     </div>
     <div class="categories">
-        <div class="category" ng-repeat="category in categories" ng-click="changeCategory(category.id)">
+        <div class="category" id="{{category.id}}" ng-repeat="category in categories" ng-click="changeCategory(category.id)">
             <img ng-src="{{category.imageURL}}" width="80" height="80">
             <span class="categoryName">{{category.name}}</span>
         </div>
@@ -31,5 +31,7 @@
         <div class="playbtn" ng-click="readSentence()"></div>
         <div class="resetbtn" ng-click="removeSentence()"></div>
     </div>
+
+    <div class="categoryTitle">{{currentCategory.name}}</div>
 
 </div>
