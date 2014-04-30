@@ -1389,91 +1389,87 @@ Learn.factory('learnFactory', function() {
             "words": [
                 {
                     "name": "bensinstasjon",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/gas_station.jpg"
                 },
                 {
                     "name": "bondegård",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/farm.jpg"
                 },
                 {
                     "name": "butikk",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/store.jpg"
                 },
                 {
                     "name": "byen",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/city.jpg"
                 },
                 {
                     "name": "campingplass",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/camping.jpg"
                 },
                 {
                     "name": "dyrehage",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/zoo.jpg"
                 },
                 {
                     "name": "fest",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/street_party.jpg"
                 },
                 {
                     "name": "hage",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/backyard_birds.jpg"
                 },
                 {
                     "name": "hjem",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/home.jpg"
                 },
                 {
                     "name": "hus",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/home1.jpg"
                 },
                 {
                     "name": "jobb",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/work.jpg"
                 },
                 {
                     "name": "kino",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/movie_theater.jpg"
                 },
                 {
                     "name": "kirke",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/church.jpg"
                 },
                 {
                     "name": "landet",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/summer_camp.jpg"
                 },
                 {
                     "name": "lekeplass",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/playground.jpg"
                 },
                 {
                     "name": "park",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/park.jpg"
                 },
                 {
                     "name": "sirkus",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/circus.jpg"
                 },
                 {
                     "name": "skogen",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/forest.jpg"
                 },
                 {
                     "name": "strand",
-                    "imageURL": "res/img/animals/cat.png"
-                },
-                {
-                    "name": "strand",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/beach.jpg"
                 },
                 {
                     "name": "svømmehall",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/swimming_race.jpg"
                 },
                 {
                     "name": "ut",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/places/outside.jpg"
                 }
             ]
         },
