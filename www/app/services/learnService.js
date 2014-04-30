@@ -1258,127 +1258,127 @@ Learn.factory('learnFactory', function() {
             "words": [
                 {
                     "name": "badebasseng",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/swimming_pool.jpg"
                 },
                 {
                     "name": "bakgård",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/patio.jpg"
                 },
                 {
                     "name": "blomst",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/flower.jpg"
                 },
                 {
                     "name": "fjell",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/mountain.jpg"
                 },
                 {
                     "name": "flagg",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/flag.jpg"
                 },
                 {
                     "name": "fortau",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/sidewalk.jpg"
                 },
                 {
                     "name": "gress",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/grass.jpg"
                 },
                 {
                     "name": "gressklipper",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/mow.jpg"
                 },
                 {
                     "name": "himmel",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/sky.jpg"
                 },
                 {
                     "name": "huske",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/swing.jpg"
                 },
                 {
                     "name": "kjelke",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/sled.jpg"
                 },
                 {
                     "name": "måne",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/starry_night_sky.jpg"
                 },
                 {
                     "name": "pinne",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/stick.jpg"
                 },
                 {
                     "name": "regn",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/freezing_rain.jpg"
                 },
                 {
                     "name": "sandkasse",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/sandbox.jpg"
                 },
                 {
                     "name": "sklie",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/slide.jpg"
                 },
                 {
                     "name": "skyer",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/clouds.jpg"
                 },
                 {
                     "name": "snø",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/snow.jpg"
                 },
                 {
                     "name": "snømann",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/snowman.jpg"
                 },
                 {
                     "name": "sol",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/Sun.jpg"
                 },
                 {
                     "name": "spade",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/shovel.jpg"
                 },
                 {
                     "name": "steiner",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/stones.jpg"
                 },
                 {
                     "name": "stige",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/ladder.jpg"
                 },
                 {
                     "name": "stjerner",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/stars.jpg"
                 },
                 {
                     "name": "tak",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/roof.jpg"
                 },
                 {
                     "name": "trampoline",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/trampoline.jpg"
                 },
                 {
                     "name": "tre",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/tree.jpg"
                 },
                 {
                     "name": "vann",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/water.jpg"
                 },
                 {
                     "name": "vannslange",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/hose.jpg"
                 },
                 {
                     "name": "vei",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/road.jpg"
                 },
                 {
                     "name": "vind",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/outdoor/wind.jpg"
                 }
             ]
         },
