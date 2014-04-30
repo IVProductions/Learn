@@ -903,7 +903,7 @@ Learn.factory('learnFactory', function() {
         },
         {
             "id": 7,
-            "name": "Små gjenstander i huset",
+            "name": "Husgjenstander",
             "imageURL": "img/categories/lamp.jpg",
             "words": [
                 {
@@ -1155,7 +1155,7 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "gyngestol",
-                    "imageURL": "img/room/rocking_chari.jpg"
+                    "imageURL": "img/room/rocking_chair.jpg"
                 },
                 {
                     "name": "kjeller",
@@ -2672,7 +2672,7 @@ Learn.factory('learnFactory', function() {
         },
         {
             "id": 18,
-            "name": "Preposisjoner og stedsangivelser",
+            "name": "Stedsangivelser",
             "imageURL": "img/categories/behind.jpg",
             "words": [
                 {

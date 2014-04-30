@@ -2,53 +2,53 @@ TCordovaLib
 v6
 r1
 cCheck dependencies
-cCpHeader Classes/NSDictionary+Extensions.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
-cCpHeader Classes/CDVInvokedUrlCommand.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
-cCpHeader Classes/NSData+Base64.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
-cCpHeader Classes/CDVPluginResult.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
-cCpHeader Classes/CDVPlugin.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
-cCpHeader Classes/CDVDebug.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
-cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
-cCpHeader Classes/CDVWhitelist.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
-cCpHeader Classes/CDVURLProtocol.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
-cCpHeader Classes/CDVViewController.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
-cCpHeader Classes/CDVCommandDelegate.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
-cCpHeader Classes/CDV.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDV.h
-cCpHeader Classes/CDVAvailability.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
-cCpHeader Classes/CDVLocalStorage.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
-cCpHeader Classes/UIDevice+Extensions.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
-cCpHeader Classes/NSArray+Comparisons.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
-cCpHeader Classes/CDVCommandQueue.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
-cCpHeader Classes/CDVCommandDelegateImpl.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
-cCpHeader Classes/CDVShared.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVShared.h
-cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
-cCpHeader Classes/CDVConfigParser.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
-cCpHeader Classes/CDVJSON.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
-cCpHeader Classes/CDVWebViewDelegate.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
-cCpHeader Classes/CDVUserAgentUtil.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
-cCpHeader Classes/CDVTimer.h /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
-cProcessPCH /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-eveckbxibfoceaetxymtocditojk/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/libCordova.a normal i386
+cCpHeader Classes/NSDictionary+Extensions.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSData+Base64.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVPluginResult.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVPlugin.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVDebug.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVWhitelist.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVCommandQueue.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/7v/_4m3y54x52q7fsr6mwndl0qw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-cfqqyafaxhefekervnypfquiyawp/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a normal i386
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
 c00000000525642F10000000000000176
@@ -919,229 +919,229 @@ t2
 s0
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDV.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000516
+t1394793318
+s1302
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVAvailability.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000CDD
+t1394793318
+s3293
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000008BA
+t1394793318
+s2234
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000004B5
+t1394793318
+s1205
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000001491
+t1394793318
+s5265
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000503
+t1394793318
+s1283
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000001EB7
+t1394793318
+s7863
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000004CB
+t1394793318
+s1227
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000EB2
+t1394793318
+s3762
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVDebug.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000401
+t1394793318
+s1025
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000007E6
+t1394793318
+s2022
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000DDE
+t1394793318
+s3550
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVJSON.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000003DA
+t1394793318
+s986
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVJSON.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000009A1
+t1394793318
+s2465
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000006CF
+t1394793318
+s1743
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000004C7E
+t1394793318
+s19582
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVPlugin.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000892
+t1394793318
+s2194
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVPlugin.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000016AE
+t1394793318
+s5806
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000C13
+t1394793318
+s3091
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000001B29
+t1394793318
+s6953
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000408
+t1394793318
+s1032
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVShared.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000003E6
+t1394793318
+s998
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVShared.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000006B6
+t1394793318
+s1718
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVTimer.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB66000000000000038D
+t1394793318
+s909
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVTimer.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000AA2
+t1394793318
+s2722
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB66000000000000041C
+t1394793318
+s1052
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB66000000000000259E
+t1394793318
+s9630
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000421
+t1394793318
+s1057
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB66000000000000133E
+t1394793318
+s4926
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVViewController.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000ACC
+t1394793318
+s2764
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVViewController.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000008FB3
+t1394793318
+s36787
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000005A2
+t1394793318
+s1442
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000003764
+t1394793318
+s14180
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000004B4
+t1394793318
+s1204
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000002814
+t1394793318
+s10260
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000392
+t1394793318
+s914
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000004D8
+t1394793318
+s1240
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/NSData+Base64.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB66000000000000037D
+t1394793318
+s893
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/NSData+Base64.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000022CC
+t1394793318
+s8908
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000005DA
+t1394793318
+s1498
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000001059
+t1394793318
+s4185
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000003A0
+t1394793318
+s928
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000584
+t1394793318
+s1412
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000476
+t1394793318
+s1142
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000620
+t1394793318
+s1568
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
 c000000005322DB660000000000000346
@@ -1149,89 +1149,89 @@ t1394793318
 s838
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
-t1398290435
-s61408
+t1398876558
+s64256
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
-t1398290435
-s61380
+t1398876558
+s64092
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
-t1398290435
-s27488
+t1398876558
+s27772
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
-t1398290435
-s18272
+t1398876558
+s18728
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
-t1398290435
-s10600
+t1398876558
+s10892
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
-t1398290435
-s106468
+t1398876558
+s109656
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
-t1398290435
-s57144
+t1398876558
+s59532
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
-t1398290435
-s36664
+t1398876558
+s37244
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
-t1398290435
-s9072
+t1398876558
+s9408
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
-t1398290435
-s22632
+t1398876558
+s22956
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
-t1398290435
-s68912
+t1398876558
+s71492
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
-t1398290435
-s50792
+t1398876558
+s53000
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
-t1398290435
-s163032
+t1398876558
+s166200
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
-t1398290435
-s67916
+t1398876558
+s70292
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
-t1398290435
-s42452
+t1398876558
+s43332
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
-c00000000535838030000000000000DA7
-t1398290435
+c00000000536129A80000000000000DA7
+t1398876584
 s3495
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
-t1398290435
-s7244
+t1398876558
+s7488
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
-t1398290435
-s10936
+t1398876558
+s11152
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
-t1398290435
-s17356
+t1398876558
+s17864
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
-t1398290435
-s6800
+t1398876558
+s7000
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
-t1398290435
-s9220
+t1398876558
+s9620
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDV.h
 t1396382080
@@ -1334,8 +1334,8 @@ t1396382080
 s1142
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a
-t1398290435
-s863488
+t1398876584
+s889688
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn2/platforms/ios/CordovaLib/Classes/CDV.h
 c000000005322DB660000000000000516
@@ -1778,11 +1778,7 @@ s3202300
 
 CCheck dependencies
 r0
-<<<<<<< HEAD
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8e3e6ab34d0fb941^8961bbb34d0fb941^---0#1#1#--18"Check dependencies36"058F6679-7F3D-4620-8450-1AAAE28CD5E9-
-=======
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesfc0078bb4d0fb941^7f34a4bb4d0fb941^---0#1#1#--18"Check dependencies36"F4C662FD-A8E2-4239-A9B8-9A336567EDA4-
->>>>>>> FETCH_HEAD
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6615c2d99411b941^7521d2d99411b941^---0#1#1#--18"Check dependencies36"CAB7869D-B448-49FF-AA0D-0BEC1D2991AE-
 
 CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420421227.624615
@@ -4208,15 +4204,15 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Libtoo
 b4E5F2349-5BD8-4DFE-A5B7-770ECB1CE3BC
 
 CLibtool /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a normal i386
-s419983235.620857
-e419983235.631083
+s420569384.370236
+e420569384.408226
 r1
 xLibtool
 x/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a
 xnormal
 xi386
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"[1mLibtool[0m /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a normal i386118"[1mLibtool[0m /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a normal i38664059f836f08b941^3f8fa1836f08b941^---0#0#1#--1320"[1mLibtool[0m /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a normal i386    cd /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib    export IPHONEOS_DEPLOYMENT_TARGET=5.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@rails-3.2.14/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/simonhordvik/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/simonhordvik/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/MacGPG2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator -filelist /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a36"3F04603B-EEFD-4402-A37C-05F1392BEC02-
-b3B4F60ED-C180-458F-8198-E22D73F16FCC
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"[1mLibtool[0m /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a normal i386118"[1mLibtool[0m /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a normal i3863f8d5f286111b941^3d8168286111b941^---0#0#1#--1320"[1mLibtool[0m /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a normal i386    cd /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib    export IPHONEOS_DEPLOYMENT_TARGET=5.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@rails-3.2.14/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/simonhordvik/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/simonhordvik/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/MacGPG2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator -filelist /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a36"F3E6AD7F-14A3-42C6-9FC0-C693D7534941-
+bF41716CE-191A-4CB2-9E30-9AB1BAFA6E6F
 
 CLibtool /Users/simonhordvik/Documents/Cordova_Apps/Learn2/platforms/ios/build/emulator/libCordova.a normal i386
 s418074881.508954

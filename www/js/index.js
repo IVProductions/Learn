@@ -50,15 +50,15 @@ var isReadingSentence = false;
 //Methods being called from the native code (Objective-C) asynchronously:
 function highlightWord() {
     if (isReadingSentence) {
-        $("#items li").css({"color" : "black", "font-weight" : "normal"});
-        $("#items").children("li").eq(indexOfSentence).css({"color" : "red", "font-weight" : "bold"});
+        $("#items li").css("color", "black");
+        $("#items").children("li").eq(indexOfSentence).css("color", "red");
         indexOfSentence++;
     }
 }
 
 function doneReadingWord() {
     if (indexOfSentence == lengthOfSentence) {
-        $("#items li").css({"color" : "black", "font-weight" : "normal"});
+        $("#items li").css("color", "black");
         indexOfSentence = 0;
         lengthOfSentence = -1;
         isReadingSentence = false;

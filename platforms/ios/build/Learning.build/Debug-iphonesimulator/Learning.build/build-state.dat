@@ -2,18 +2,18 @@ TLearning
 v6
 r1
 cCheck dependencies
-cProcessInfoPlistFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/Info.plist /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Info.plist
-cPhaseScriptExecution Copy\ www\ directory /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh
+cProcessInfoPlistFile /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Info.plist /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Learning-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh
 cCpResource Learning/Resources/icons/icon-76.png build/emulator/Learning.app/icon-76.png
 cCpResource Learning/Resources/icons/icon-40@2x.png build/emulator/Learning.app/icon-40@2x.png
 cCpResource Learning/Resources/icons/icon-72.png build/emulator/Learning.app/icon-72.png
 cCpResource Learning/Resources/icons/icon.png build/emulator/Learning.app/icon.png
 cCpResource Learning/Resources/icons/icon@2x.png build/emulator/Learning.app/icon@2x.png
-cCopyStringsFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/en.lproj/Localizable.strings Learning/Resources/en.lproj/Localizable.strings
-cCompileXIB /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.xib
+cCopyStringsFile /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/en.lproj/Localizable.strings Learning/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Classes/MainViewController.xib
 cCpResource Learning/Resources/icons/icon-50.png build/emulator/Learning.app/icon-50.png
 cCpResource Learning/Resources/icons/icon-60@2x.png build/emulator/Learning.app/icon-60@2x.png
-cCopyStringsFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/de.lproj/Localizable.strings Learning/Resources/de.lproj/Localizable.strings
+cCopyStringsFile /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/de.lproj/Localizable.strings Learning/Resources/de.lproj/Localizable.strings
 cCpResource Learning/Resources/icons/icon-small.png build/emulator/Learning.app/icon-small.png
 cCpResource Learning/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/Learning.app/Default-Landscape@2x~ipad.png
 cCpResource Learning/Resources/splash/Default-Landscape~ipad.png build/emulator/Learning.app/Default-Landscape~ipad.png
@@ -29,22 +29,6 @@ cCpResource Learning/Resources/icons/icon-50@2x.png build/emulator/Learning.app/
 cCpResource Learning/Resources/icons/icon-76@2x.png build/emulator/Learning.app/icon-76@2x.png
 cCpResource Learning/Resources/icons/icon-72@2x.png build/emulator/Learning.app/icon-72@2x.png
 cCpResource Learning/Resources/CDVNotification.bundle build/emulator/Learning.app/CDVNotification.bundle
-<<<<<<< HEAD
-cProcessPCH /var/folders/fm/j96x550j2_d5y_vt3_gxjfnw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Learning-Prefix-cupbvzbmxuavqvgdwfvhwemrbntl/Learning-Prefix.pch.pch Learning/Learning-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/AppDelegate.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/MainViewController.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVDevice.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVConnection.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVConnection.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVReachability.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVReachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/TTSPlugin.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/TTSPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVAccelerometer.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device-motion/CDVAccelerometer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVNotification.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.dialogs/CDVNotification.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVVibration.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.vibration/CDVVibration.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/Learning normal i386
-cGenerateDSYMFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app.dSYM /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/Learning
-cTouch /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app
-=======
 cProcessPCH /var/folders/7v/_4m3y54x52q7fsr6mwndl0qw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Learning-Prefix-bagcdvgqhlmlucgweyvxsigrcgcr/Learning-Prefix.pch.pch Learning/Learning-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/AppDelegate.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
@@ -63,7 +47,6 @@ cCompileC build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-norm
 cLd /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Learning normal i386
 cGenerateDSYMFile /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app.dSYM /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Learning
 cTouch /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app
->>>>>>> FETCH_HEAD
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
 c00000000525642F10000000000000176
@@ -1016,14 +999,14 @@ t1394793318
 s5035
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Classes/MainViewController.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000004CF
+t1394793318
+s1231
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Classes/MainViewController.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB66000000000000126C
+t1394793318
+s4716
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Classes/MainViewController.xib
 c000000005322DB660000000000001759
@@ -1031,18 +1014,18 @@ t1394793318
 s5977
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Classes/TTSPlugin.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005358BECC000000000000010A
+t1398324940
+s266
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Classes/TTSPlugin.m
-c00000000000000000000000000000000
-t2
-s0
+c0000000053597E71000000000000088B
+t1398374001
+s2187
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Learning-Info.plist
-c00000000535F163A0000000000000A13
-t1398740538
+c0000000053615D590000000000000A13
+t1398889817
 s2579
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Learning-Prefix.pch
@@ -1051,14 +1034,14 @@ t1394793318
 s965
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device-motion/CDVAccelerometer.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000492
+t1394793318
+s1170
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device-motion/CDVAccelerometer.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000012E0
+t1394793318
+s4832
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.device/CDVDevice.h
 c000000005322DB6600000000000003BD
@@ -1071,53 +1054,53 @@ t1394793318
 s3106
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.dialogs/CDVNotification.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000004E9
+t1394793318
+s1257
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.dialogs/CDVNotification.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB66000000000000166C
+t1394793318
+s5740
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.h
-c00000000535EEE4700000000000003ED
-t1398730311
+c00000000535F167300000000000003ED
+t1398740595
 s1005
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.m
-c00000000535EEE470000000000003142
-t1398730311
+c00000000535F16730000000000003142
+t1398740595
 s12610
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.file/CDVFile.h
-c00000000535EEE470000000000001881
-t1398730311
+c00000000535F16730000000000001881
+t1398740595
 s6273
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.file/CDVFile.m
-c00000000535EEE47000000000000A03E
-t1398730311
+c00000000535F1673000000000000A03E
+t1398740595
 s41022
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.file/CDVLocalFilesystem.h
-c00000000535EEE47000000000000042F
-t1398730311
+c00000000535F1673000000000000042F
+t1398740595
 s1071
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.file/CDVLocalFilesystem.m
-c00000000535EEE470000000000007C6C
-t1398730311
+c00000000535F16730000000000007C6C
+t1398740595
 s31852
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.media/CDVSound.h
-c00000000535EEE470000000000000E14
-t1398730311
+c00000000535F16730000000000000E14
+t1398740595
 s3604
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.media/CDVSound.m
-c00000000535EEE47000000000000800B
-t1398730311
+c00000000535F1673000000000000800B
+t1398740595
 s32779
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVConnection.h
@@ -1131,14 +1114,14 @@ t1394793318
 s4037
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVReachability.h
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB660000000000000FF4
+t1394793318
+s4084
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.network-information/CDVReachability.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB6600000000000026F6
+t1394793318
+s9974
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Plugins/org.apache.cordova.vibration/CDVVibration.h
 c000000005322DB6600000000000003E5
@@ -1271,69 +1254,69 @@ t1394793318
 s10394
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/main.m
-c00000000000000000000000000000000
-t2
-s0
+c000000005322DB66000000000000045C
+t1394793318
+s1116
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/AppDelegate.o
-t1398290370
-s74012
+t1398876558
+s77580
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVAccelerometer.o
-t1398290436
-s63688
+t1398876558
+s66612
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVAssetLibraryFilesystem.o
-t1398730410
+t1398740595
 s55204
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVConnection.o
-t1398290370
-s55972
+t1398876558
+s58540
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVDevice.o
-t1398290370
-s50360
+t1398876558
+s53156
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVFile.o
-t1398730411
+t1398740595
 s185340
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVLocalFilesystem.o
-t1398730411
+t1398740595
 s81228
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVNotification.o
-t1398290436
-s68448
+t1398876558
+s71576
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVReachability.o
-t1398290436
-s20636
+t1398876558
+s21168
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVSound.o
-t1398730411
+t1398740595
 s141348
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVVibration.o
-t1398290370
-s40572
+t1398876558
+s42920
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/Learning.LinkFileList
-c00000000535EEEA90000000000000894
-t1398730409
+c00000000536129A80000000000000894
+t1398876584
 s2196
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/MainViewController.o
-t1398290436
-s50820
+t1398876558
+s53572
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/TTSPlugin.o
-t1398374016
-s57976
+t1398876558
+s60936
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.o
-t1398290436
+t1398876585
 s3004
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh
@@ -1342,11 +1325,11 @@ t1396382081
 s45
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app
-t1398740540
+t1398889818
 s1054
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app.dSYM
-t1398736405
+t1398889539
 s102
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/CDVNotification.bundle
@@ -1382,12 +1365,12 @@ t1396403229
 s10394
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Info.plist
-t1398740539
+t1398889817
 s1283
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Learning
-t1398730411
-s506604
+t1398876586
+s506664
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/MainViewController.nib
 t1398290370
@@ -1462,114 +1445,114 @@ t1396403229
 s7869
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDV.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B19800000000000000516
+t1396382080
+s1302
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B19800000000000000CDD
+t1396382080
+s3293
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B198000000000000008BA
+t1396382080
+s2234
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B198000000000000004B5
+t1396382080
+s1205
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B19800000000000000503
+t1396382080
+s1283
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B19800000000000000401
+t1396382080
+s1025
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B198000000000000007E6
+t1396382080
+s2022
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B198000000000000003DA
+t1396382080
+s986
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B198000000000000006CF
+t1396382080
+s1743
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B19800000000000000892
+t1396382080
+s2194
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B19800000000000000C13
+t1396382080
+s3091
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B19800000000000000408
+t1396382080
+s1032
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B1980000000000000038D
+t1396382080
+s909
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B1980000000000000041C
+t1396382080
+s1052
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B19800000000000000ACC
+t1396382080
+s2764
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B198000000000000004B4
+t1396382080
+s1204
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B19800000000000000392
+t1396382080
+s914
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B1980000000000000037D
+t1396382080
+s893
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B198000000000000005DA
+t1396382080
+s1498
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B198000000000000003A0
+t1396382080
+s928
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
-c00000000000000000000000000000000
-t2
-s0
+c00000000533B19800000000000000476
+t1396382080
+s1142
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a
-c000000005358380300000000000D2D00
-t1398290435
-s863488
+c00000000536129A800000000000D9358
+t1398876584
+s889688
 
 N/Users/simonhordvik/Documents/Cordova_Apps/Learn2/platforms/ios/Learning/Classes/AppDelegate.h
 c00000000000000000000000000000000
@@ -2082,33 +2065,33 @@ t1396382081
 s863552
 
 N/usr/lib/libSystem.B.dylib
-c0000000052685B11000000000000E6D0
-t1382570769
+c00000000526789C1000000000000E6D0
+t1382517185
 s59088
 
 N/usr/lib/system/libcache.dylib
-c0000000052685B230000000000012A00
-t1382570787
+c00000000526789CC0000000000012A00
+t1382517196
 s76288
 
 N/usr/lib/system/libcommonCrypto.dylib
-c0000000052685B01000000000002E320
-t1382570753
+c00000000526789B5000000000002E320
+t1382517173
 s189216
 
 N/usr/lib/system/libcompiler_rt.dylib
-c0000000052685B110000000000021860
-t1382570769
+c00000000526789C00000000000021860
+t1382517184
 s137312
 
 N/usr/lib/system/libcopyfile.dylib
-c0000000052685B22000000000001B620
-t1382570786
+c00000000526789CC000000000001B620
+t1382517196
 s112160
 
 N/usr/lib/system/libcorecrypto.dylib
-c0000000052685B2200000000000BD920
-t1382570786
+c00000000526789CC00000000000BD920
+t1382517196
 s776480
 
 N/usr/lib/system/libdyld.dylib
@@ -2117,103 +2100,103 @@ t1393453342
 s82416
 
 N/usr/lib/system/libkeymgr.dylib
-c0000000052685B23000000000000A120
-t1382570787
+c00000000526789CC000000000000A120
+t1382517196
 s41248
 
 N/usr/lib/system/liblaunch.dylib
-c00000000531A2727000000000001D550
-t1394222887
+c00000000530E691E000000000001D550
+t1393453342
 s120144
 
 N/usr/lib/system/libmacho.dylib
-c0000000052685B220000000000014EE0
-t1382570786
+c00000000526789CC0000000000014EE0
+t1382517196
 s85728
 
 N/usr/lib/system/libquarantine.dylib
-c0000000052685B250000000000010380
-t1382570789
+c00000000526789CE0000000000010380
+t1382517198
 s66432
 
 N/usr/lib/system/libremovefile.dylib
-c0000000052685B25000000000000C4C0
-t1382570789
+c00000000526789CE000000000000C4C0
+t1382517198
 s50368
 
 N/usr/lib/system/libsystem_asl.dylib
-c0000000052685B2300000000000357A0
-t1382570787
+c00000000526789CC00000000000357A0
+t1382517196
 s219040
 
 N/usr/lib/system/libsystem_blocks.dylib
-c0000000052685B23000000000000C070
-t1382570787
+c00000000526789CC000000000000C070
+t1382517196
 s49264
 
 N/usr/lib/system/libsystem_c.dylib
-c00000000531A26EE0000000000168D00
-t1394222830
+c00000000530299D10000000000168D00
+t1392679377
 s1477888
 
 N/usr/lib/system/libsystem_configuration.dylib
-c00000000531A27210000000000010630
-t1394222881
+c00000000530E691E0000000000010630
+t1393453342
 s67120
 
 N/usr/lib/system/libsystem_dnssd.dylib
-c00000000531A2727000000000001DF10
-t1394222887
+c00000000530E691E000000000001DF10
+t1393453342
 s122640
 
 N/usr/lib/system/libsystem_info.dylib
-c0000000052685B110000000000075B00
-t1382570769
+c00000000526789C00000000000075B00
+t1382517184
 s482048
 
 N/usr/lib/system/libsystem_kernel.dylib
-c00000000531A26EE000000000007CCE0
-t1394222830
-s511200
+c000000005356B2F0000000000007CC70
+t1398190832
+s511088
 
 N/usr/lib/system/libsystem_m.dylib
-c0000000052685B1100000000000766C0
-t1382570769
+c00000000526789C100000000000766C0
+t1382517185
 s485056
 
 N/usr/lib/system/libsystem_malloc.dylib
-c00000000531A27270000000000044DC0
-t1394222887
+c00000000530299D00000000000044DC0
+t1392679376
 s282048
 
 N/usr/lib/system/libsystem_notify.dylib
-c0000000052685B110000000000021FA0
-t1382570769
+c00000000526789C10000000000021FA0
+t1382517185
 s139168
 
 N/usr/lib/system/libsystem_platform.dylib
-c00000000531A2727000000000002D920
-t1394222887
+c00000000530E691E000000000002D920
+t1393453342
 s186656
 
 N/usr/lib/system/libsystem_pthread.dylib
-c0000000052685B23000000000001E570
-t1382570787
+c00000000526789CD000000000001E570
+t1382517197
 s124272
 
 N/usr/lib/system/libsystem_sandbox.dylib
-c00000000531A270E000000000000CC70
-t1394222862
+c00000000530E691E000000000000CC70
+t1393453342
 s52336
 
 N/usr/lib/system/libunc.dylib
-c0000000052685B1C000000000000C3F0
-t1382570780
+c00000000526789C8000000000000C3F0
+t1382517192
 s50160
 
 N/usr/lib/system/libunwind.dylib
-c0000000052685B2300000000000199F0
-t1382570787
+c00000000526789CD00000000000199F0
+t1382517197
 s104944
 
 N/var/folders/7v/_4m3y54x52q7fsr6mwndl0qw0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Learning-Prefix-gkkexvwktlfslcaqgyxpgaccvmxf/Learning-Prefix.pch.pch
@@ -2234,11 +2217,7 @@ s5345872
 
 CCheck dependencies
 r0
-<<<<<<< HEAD
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2ae3c3b34d0fb941^1ea8cbb34d0fb941^---0#1#1#--18"Check dependencies36"B1C70996-C544-43ED-82A6-96551496EFBD-
-=======
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf9a2a9bb4d0fb941^2a1bb6bb4d0fb941^---0#1#1#--18"Check dependencies36"FE40DC87-E7EA-4AA7-8D68-983618098829-
->>>>>>> FETCH_HEAD
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies56bcd5d99411b941^19e5d5d99411b941^---0#1#1#--18"Check dependencies36"79240B41-D60B-4A97-86BE-46D514B761D2-
 
 CCompileC build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/AppDelegate.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420421229.833682
@@ -3061,8 +3040,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile
 bAC5B9956-0F24-4262-AD5E-EA3968AD909B
 
 CCompileC build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s419983236.141719
-e419983236.162115
+s420569385.550641
+e420569385.837055
 r1
 xCompileC
 xbuild/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.o
@@ -3072,8 +3051,8 @@ xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/main.m
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/main.m193"[1mCompileC[0m build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.o [1mLearning/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd55e24846f08b941^6b8129846f08b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/main.m0000000000000000^4130"[1mCompileC[0m build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.o [1mLearning/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@rails-3.2.14/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/simonhordvik/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/simonhordvik/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/MacGPG2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Learning-generated-files.hmap -I/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Learning-own-target-headers.hmap -I/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Learning-all-target-headers.hmap -iquote /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Learning-project-headers.hmap -I/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include -I/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/usr/local/lib/include -I/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/UninstalledProducts/include -I/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator -I/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/DerivedSources/i386 -I/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/DerivedSources -F/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator -include /var/folders/7v/_4m3y54x52q7fsr6mwndl0qw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Learning-Prefix-bagcdvgqhlmlucgweyvxsigrcgcr/Learning-Prefix.pch -MMD -MT dependencies -MF /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.dia -c /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/main.m -o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.o36"977230DC-9E61-405C-A322-E6A5793071B0-
-b94D64E53-79B5-43DE-A5A8-9B20D160C379
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/main.m193"[1mCompileC[0m build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.o [1mLearning/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler90108d296111b941^344bd6296111b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/main.m0000000000000000^4130"[1mCompileC[0m build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.o [1mLearning/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@rails-3.2.14/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/simonhordvik/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/simonhordvik/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/MacGPG2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Learning-generated-files.hmap -I/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Learning-own-target-headers.hmap -I/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Learning-all-target-headers.hmap -iquote /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Learning-project-headers.hmap -I/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/include -I/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/usr/local/lib/include -I/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/UninstalledProducts/include -I/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator -I/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/DerivedSources/i386 -I/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/DerivedSources -F/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator -include /var/folders/7v/_4m3y54x52q7fsr6mwndl0qw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Learning-Prefix-bagcdvgqhlmlucgweyvxsigrcgcr/Learning-Prefix.pch -MMD -MT dependencies -MF /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.dia -c /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/main.m -o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.o36"19BFBE64-7BD7-403D-973A-19B0784CDD08-
+bB5DB01BB-B067-47B5-A8E1-1FD8A8453B07
 
 CCompileC build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.o /Users/simonhordvik/Documents/Cordova_Apps/Learn2/platforms/ios/Learning/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s418074884.771453
@@ -3411,14 +3390,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Generat
 bF3271B70-0F84-4EC6-97C9-1348AC24AC2B
 
 CGenerateDSYMFile /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app.dSYM /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Learning
-s420433340.717422
-e420433340.797351
+s420582618.859974
+e420582618.903996
 r1
 xGenerateDSYMFile
 x/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app.dSYM
 x/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Learning
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Generate /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app.dSYM102"[1mGenerateDSYMFile[0m [1mbuild/emulator/Learning.app.dSYM[0m build/emulator/Learning.app/Learningf5b8b7bc4d0fb941^641fccbc4d0fb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app.dSYM/0000000000000000^938"[1mGenerateDSYMFile[0m [1mbuild/emulator/Learning.app.dSYM[0m build/emulator/Learning.app/Learning    cd /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@rails-3.2.14/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/simonhordvik/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/simonhordvik/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/MacGPG2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Learning -o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app.dSYM36"3EC01255-DD76-43B6-8561-DBDBAE6B19AE-
-b9F0DCC4D-BB96-49AD-BD61-9251EA853AB6
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Generate /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app.dSYM102"[1mGenerateDSYMFile[0m [1mbuild/emulator/Learning.app.dSYM[0m build/emulator/Learning.app/Learning8a39dcda9411b941^9c6ce7da9411b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app.dSYM/0000000000000000^938"[1mGenerateDSYMFile[0m [1mbuild/emulator/Learning.app.dSYM[0m build/emulator/Learning.app/Learning    cd /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@rails-3.2.14/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/simonhordvik/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/simonhordvik/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/MacGPG2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Learning -o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app.dSYM36"1A2ABFD7-8662-4087-BABF-4572CE18435D-
+b7F203974-2BE4-404C-88E5-54039016E907
 
 CGenerateDSYMFile /Users/simonhordvik/Documents/Cordova_Apps/Learn2/platforms/ios/build/emulator/Learning.app.dSYM /Users/simonhordvik/Documents/Cordova_Apps/Learn2/platforms/ios/build/emulator/Learning.app/Learning
 s418075658.199367
@@ -3519,8 +3498,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Link /U
 bAC5B9956-0F24-4262-AD5E-EA3968AD909B
 
 CLd /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Learning normal i386
-s420423211.039634
-e420423211.197674
+s420569385.849577
+e420569386.020669
 r1
 xLd
 x/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Learning
@@ -3558,8 +3537,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/D
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
@@ -3609,8 +3588,8 @@ d/usr/lib/system/libsystem_sandbox.dylib
 d/usr/lib/system/libunc.dylib
 d/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Learning59"[1mLd[0m build/emulator/Learning.app/Learning normal i386eb380a2b260fb941^399b322b260fb941^---0#0#1#--2179"[1mLd[0m build/emulator/Learning.app/Learning normal i386    cd /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@rails-3.2.14/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/simonhordvik/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/simonhordvik/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/MacGPG2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator -F/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator -filelist /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/Learning.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework AVFoundation -weak_framework AudioToolbox -framework AssetsLibrary /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -weak_framework SystemConfiguration -framework CoreMotion -Xlinker -dependency_info -Xlinker /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/Learning_dependency_info.dat -o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Learning36"0BD48FC1-8562-4827-A1AA-23648D88DC4C-
-bC124C128-87A7-4187-A89E-7145A64A3DA3
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Learning59"[1mLd[0m build/emulator/Learning.app/Learning normal i3864392d9296111b941^064b052a6111b941^---0#0#1#--2179"[1mLd[0m build/emulator/Learning.app/Learning normal i386    cd /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@rails-3.2.14/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/simonhordvik/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/simonhordvik/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/MacGPG2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator -F/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator -filelist /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/Learning.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework AVFoundation -weak_framework AudioToolbox -framework AssetsLibrary /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -weak_framework SystemConfiguration -framework CoreMotion -Xlinker -dependency_info -Xlinker /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/Learning_dependency_info.dat -o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Learning36"0A8B1AE9-E5C8-41B3-9590-0B30C725C7B8-
+bB5DB01BB-B067-47B5-A8E1-1FD8A8453B07
 
 CLd /Users/simonhordvik/Documents/Cordova_Apps/Learn2/platforms/ios/build/emulator/Learning.app/Learning normal i386
 s418074885.077579
@@ -3692,18 +3671,18 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run cus
 bF3271B70-0F84-4EC6-97C9-1348AC24AC2B
 
 CPhaseScriptExecution Copy\ www\ directory /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh
-s420433339.718852
-e420433340.697768
+s420582617.838447
+e420582618.852772
 r1
 xPhaseScriptExecution
 xCopy www directory
 x/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh
 o
-oreal	0m0.950s
-ouser	0m0.354s
-osys	0m0.557s
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'142"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh9275b8bb4d0fb941^66a0b2bc4d0fb941^-42"real	0m0.950suser	0m0.354ssys	0m0.557s3(21%IDEActivityLogMessage2@14"real	0m0.950s-420433340#1#14#-0#-----2@14"user	0m0.354s-420433340#15#14#-0#-----2@13"sys	0m0.557s-420433340#29#13#-0#-----0#0#1#--384"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh    cd /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios    /bin/sh -c /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh36"194350DA-4F15-45FC-9065-F2F17D832748-
-b9F0DCC4D-BB96-49AD-BD61-9251EA853AB6
+oreal	0m0.998s
+ouser	0m0.385s
+osys	0m0.596s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'142"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh1bf3d6d99411b941^554fdada9411b941^-42"real	0m0.998suser	0m0.385ssys	0m0.596s3(21%IDEActivityLogMessage2@14"real	0m0.998s-420582618#1#14#-0#-----2@14"user	0m0.385s-420582618#15#14#-0#-----2@13"sys	0m0.596s-420582618#29#13#-0#-----0#0#1#--384"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh    cd /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios    /bin/sh -c /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh36"D8185710-AA1E-4341-B236-7E9CA6152B47-
+b7F203974-2BE4-404C-88E5-54039016E907
 
 CPhaseScriptExecution Copy\ www\ directory /Users/simonhordvik/Documents/Cordova_Apps/Learn2/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh
 s418075657.864060
@@ -3730,14 +3709,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Process
 bF3271B70-0F84-4EC6-97C9-1348AC24AC2B
 
 CProcessInfoPlistFile /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Info.plist /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Learning-Info.plist
-s420433339.712703
-e420433339.718038
+s420582617.836109
+e420582617.837584
 r1
 xProcessInfoPlistFile
 x/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Info.plist
 x/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Learning-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Process /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Learning-Info.plist104"[1mProcessInfoPlistFile[0m build/emulator/Learning.app/Info.plist [1mLearning/Learning-Info.plist[0m2c29b7bb4d0fb941^78d1b7bb4d0fb941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Learning-Info.plist0000000000000000^1040"[1mProcessInfoPlistFile[0m build/emulator/Learning.app/Info.plist [1mLearning/Learning-Info.plist[0m    cd /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@rails-3.2.14/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/simonhordvik/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/simonhordvik/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/MacGPG2/bin"    builtin-infoPlistUtility /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Learning-Info.plist -genpkginfo /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Info.plist36"A42DF8D3-D171-488C-898F-31736C63AD68-
-b9F0DCC4D-BB96-49AD-BD61-9251EA853AB6
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Process /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Learning-Info.plist104"[1mProcessInfoPlistFile[0m build/emulator/Learning.app/Info.plist [1mLearning/Learning-Info.plist[0m4221d6d99411b941^6e6cd6d99411b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Learning-Info.plist0000000000000000^1040"[1mProcessInfoPlistFile[0m build/emulator/Learning.app/Info.plist [1mLearning/Learning-Info.plist[0m    cd /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@rails-3.2.14/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/simonhordvik/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/simonhordvik/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/MacGPG2/bin"    builtin-infoPlistUtility /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Learning-Info.plist -genpkginfo /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Info.plist36"2D3ACB83-AA35-4E8A-A16C-82F1E06DCA3B-
+b7F203974-2BE4-404C-88E5-54039016E907
 
 CProcessInfoPlistFile /Users/simonhordvik/Documents/Cordova_Apps/Learn2/platforms/ios/build/emulator/Learning.app/Info.plist /Users/simonhordvik/Documents/Cordova_Apps/Learn2/platforms/ios/Learning/Learning-Info.plist
 s418075657.861726
@@ -3813,13 +3792,13 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Touch /
 bF3271B70-0F84-4EC6-97C9-1348AC24AC2B
 
 CTouch /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app
-s420433340.798100
-e420433340.802569
+s420582618.904796
+e420582618.908074
 r1
 xTouch
 x/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Touch /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app41"[1mTouch[0m build/emulator/Learning.app5760ccbc4d0fb941^6d75cdbc4d0fb941^---0#0#1#--691"[1mTouch[0m build/emulator/Learning.app    cd /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@rails-3.2.14/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/simonhordvik/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/simonhordvik/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/MacGPG2/bin"    /usr/bin/touch -c /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app36"A4150DEC-8F55-4171-BBD0-5236C841BC18-
-b9F0DCC4D-BB96-49AD-BD61-9251EA853AB6
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Touch /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app41"[1mTouch[0m build/emulator/Learning.app3eb0e7da9411b941^2178e8da9411b941^---0#0#1#--691"[1mTouch[0m build/emulator/Learning.app    cd /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@rails-3.2.14/bin:/Users/simonhordvik/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/simonhordvik/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/simonhordvik/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/local/MacGPG2/bin"    /usr/bin/touch -c /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app36"62FE76A3-AB68-4680-AAE5-C0445FB8D7BB-
+b7F203974-2BE4-404C-88E5-54039016E907
 
 CTouch /Users/simonhordvik/Documents/Cordova_Apps/Learn2/platforms/ios/build/emulator/Learning.app
 s418075658.237355

@@ -9,21 +9,11 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
 
     $scope.changeCategory = function(id){
         $scope.currentCategory = $scope.categories[id];
-    /*
-    var scrollHeight = 0;
-    for (var i = 0; $scope.currentCategory.words.length; i+=5) {
-        scrollHeight++;
-    };
 
-    $('.backgroundWords').css("height",""+(scrollHeight*200)+"px");
-
-    console.log(scrollHeight);
-    */
     }
     $scope.redirect = function(path) {
         $location.path(path);
     };
-
 
     /*DRAG N DROP FUNCTIONALITY  /  TTS FUNCTIONALITY*/
 
@@ -35,7 +25,7 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
     }
 
     $scope.readWord2 = function(element) {
-        console.log(element);
+        console.log("read2: "+element);
         var list1 = element.split(">");
         var word = list1[1].split("<");
         console.log(word[0]);
@@ -124,6 +114,10 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                         }).click(function() {$scope.readWord($(this).html());}).appendTo($("#items"));
                         newParent.show();
                         $scope.setDroppable();
+                        playAudio("audio/bop_success.mp3")
+                    }
+                    else {
+                        playAudio("audio/bop_negative.mp3");
                     }
                 }
                 isDraggingGlobalWord = false;
