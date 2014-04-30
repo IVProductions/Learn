@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.o
 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/AppDelegate.o
 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/MainViewController.o
@@ -9,19 +8,7 @@
 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVAccelerometer.o
 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVNotification.o
 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVVibration.o
-=======
-/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/main.o
-/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/AppDelegate.o
-/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/MainViewController.o
-/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVDevice.o
-/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVConnection.o
-/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVReachability.o
-/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/TTSPlugin.o
-/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVAccelerometer.o
-/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVNotification.o
-/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVVibration.o
-/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVFile.o
-/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVLocalFilesystem.o
-/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVAssetLibraryFilesystem.o
-/Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVSound.o
->>>>>>> FETCH_HEAD
+/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVFile.o
+/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVLocalFilesystem.o
+/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVAssetLibraryFilesystem.o
+/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVSound.o
