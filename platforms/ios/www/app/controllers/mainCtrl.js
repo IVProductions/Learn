@@ -6,16 +6,16 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
 
     $scope.categories = learnFactory.categories;
     $scope.currentCategory = $scope.categories[0];
+    $scope.currentWord = $scope.categories[0].words[0];
 
     $scope.changeCategory = function(id){
         $scope.currentCategory = $scope.categories[id];
         for (var i=0;i<$scope.categories.length;i++) {
             //$("#"+i).css("background-color", "white");
-            $("#"+i).css("border-bottom", "2px solid lightgrey");
+            $("#"+i).css("border-bottom", "4px solid lightgrey");
         }
-        //$("#"+id).css("background-color", "red");
-        $("#"+(id-1)).css("border-bottom", "2px solid red");
-        $("#"+id).css("border-bottom", "2px solid red");
+        $("#"+(id-1)).css("border-bottom", "4px solid red");
+        $("#"+id).css("border-bottom", "4px solid red");
     }
     $scope.redirect = function(path) {
         $location.path(path);
@@ -25,8 +25,8 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
     /*DRAG N DROP FUNCTIONALITY  /  TTS FUNCTIONALITY*/
 
     $scope.readWord = function(word) {
-        console.log(word);
-        TTSPlugin.speak(word,function(){
+        var list = word.split("<br>");
+        TTSPlugin.speak(list[0],function(){
         }, function(){
         });
     }
@@ -47,7 +47,8 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
         //$(".playbtn").disable();
         //$(".playbtn").prop('disabled', true);
         $("#items li").each(function(index, value) {
-            TTSPlugin.speak($(value).html(),function(){
+            var list = $(value).html().split("<br>");
+            TTSPlugin.speak(list[0],function(){
                 //success callback function
                 isReadingSentence = true;
             }, function(){
@@ -74,6 +75,8 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                 elementBeingDragged = $(this);
                 elementBeingDragged.css("z-index", 2);
                 parent = $(this).parent();
+                $scope.currentWord = parent.index();
+                console.log("Index of word being dragged: "+$scope.currentWord);
                 dragWord = $(this).find("span").html();
                 console.log(elementBeingDragged);
                 isDraggingGlobalWord = true;
@@ -112,13 +115,21 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
                     elementBeingDragged.remove();
                 }
                 if (isDraggingGlobalWord) {
-                    if (getNewLengthOfSentence(dragWord) < (($(".inputBox").width() - 23) * 2)) {
+                    if(getNewLengthOfSentence(dragWord) < ($(".inputBox").width()-23)) {
+                    //if (getNewLengthOfSentence(dragWord) < (($(".inputBox").width() - 23) * 2)) {
                     //if ((getLengthOfSentence()+dragWord.length+250) < (($(".inputBox").width() - 23) * 2)) {
                         console.log("is creating new item");
-                        jQuery('<li/>', {
+                        var sortableWord = jQuery('<li/>', {
                             class: 'list',
                             text: dragWord
                         }).click(function() {$scope.readWord($(this).html());}).appendTo($("#items"));
+                        sortableWord.append('<br/>');
+                        var sortableWordImg = jQuery('<img/>', {
+                            src: $scope.currentCategory.words[$scope.currentWord].imageURL,
+                            width: "55px",
+                            height: "55px"
+                        }).appendTo(sortableWord);
+                        sortableWordImg.css({borderBottomLeftRadius: 13, borderBottomRightRadius: 13});
                         newParent.show();
                         $scope.setDroppable();
                         playAudio("audio/bop_success.mp3")
@@ -168,7 +179,8 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
         newEl.remove();
         console.log("New Length will be: "+length);
         console.log("Length of input box: "+$(".inputBox").width());
-        return (length + 170);
+        //return (length + 170);
+        return (length + 20);
     }
 
     $scope.setSortable = function() {
