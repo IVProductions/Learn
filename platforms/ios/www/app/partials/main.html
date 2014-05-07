@@ -3,7 +3,7 @@
 
     </div>
     <div class="categories">
-        <div class="category" ng-click="changeCategory(0)" id="0"><img src="img/categories/sounds.jpg" width="80" height="80"/><span class="categoryName">Favoritter</span></div>
+        <div class="category" ng-click="changeCategory(0)" id="0"><img src="img/star.png" width="80" height="80"/><span class="categoryName">Favoritter</span></div>
         <div class="category" id="{{category.id}}" ng-repeat="category in categories" ng-click="changeCategory(category.id)">
             <img ng-src="{{category.imageURL}}" width="80" height="80">
             <span class="categoryName">{{category.name}}</span>
@@ -21,9 +21,9 @@
                 </div>
             </div>
             <div class="backgroundSentences">
-                <div class="sentence" ng-repeat="sentence in sentences track by $index" ng-click="seeSentence(sentence)">
+                <div class="sentence" ng-repeat="sentence in sentences" ng-click="seeSentence(sentence)">
                     <div  class="wordInSentence" ng-repeat="word in sentence.words">
-                            <img ng-src="{{word.imageURL}}" height="60" width="60">
+                            <img ng-src="{{word.imageURL}}" height="37" width="37">
                             <div class="wordText">{{word.name}}</div>
                     </div>
                 </div>

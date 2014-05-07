@@ -22,6 +22,7 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
     console.log(window.localStorage.getItem("sentences"));
         $scope.changeCategory = function(id){
         if (id == 0) {
+            $(".categoryTitle").html("Favoritter");
             $(".backgroundWords").hide();
             $(".backgroundSentences").show();
         }
@@ -29,10 +30,11 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
             $(".backgroundWords").show();
             $(".backgroundSentences").hide();
             $scope.currentCategory = $scope.categories[id-1];
+            $(".categoryTitle").html($scope.currentCategory.name);
         }
         for (var i=0;i<$scope.categories.length;i++) {
             //$("#"+i).css("background-color", "white");
-            $("#"+i).css("border-bottom", "4px solid lightgrey");
+            $("#"+i).css("border-bottom", "4px solid lightblue");
         }
         $("#"+(id-1)).css("border-bottom", "4px solid red");
         $("#"+id).css("border-bottom", "4px solid red");
@@ -60,8 +62,7 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
         isDraggingGlobalWord = false;
         dragCounter = 0;
         indexOfSortable = -1;
-        $(".inputBox").css("background-color", "grey");
-        console.log(isDraggingGlobalWord);
+        $(".inputBox").css("background-color", "cornflowerblue");
     }
 
     $scope.redirect = function(path) {
@@ -156,7 +157,7 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
             },
             out: function(even, ui) {
                 if (isDraggingGlobalWord == true) {
-                    $(this).css("background-color", "grey");
+                    $(this).css("background-color", "cornflowerblue");
                 }
             },
             drop: function(even, ui) {
@@ -191,7 +192,7 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
                 isDraggingGlobalWord = false;
                 dragCounter = 0;
                 indexOfSortable = -1;
-                $(".inputBox").css("background-color", "grey");
+                $(".inputBox").css("background-color", "cornflowerblue");
                 console.log(isDraggingGlobalWord);
             }
         });
