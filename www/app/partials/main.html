@@ -3,6 +3,7 @@
 
     </div>
     <div class="categories">
+        <div class="category" ng-click="changeCategory(0)" id="0"><img src="img/categories/sounds.jpg" width="80" height="80"/><span class="categoryName">Favoritter</span></div>
         <div class="category" id="{{category.id}}" ng-repeat="category in categories" ng-click="changeCategory(category.id)">
             <img ng-src="{{category.imageURL}}" width="80" height="80">
             <span class="categoryName">{{category.name}}</span>
@@ -10,13 +11,21 @@
     </div>
     <div class="background">
         <div class="listOfWords">
+            <div class="categoryTitle">{{currentCategory.name}}</div>
             <div class="backgroundWords">
                 <div class="word" ng-repeat="word in currentCategory.words" data-ng-init="setDraggable()" style="background-image: url('{{word.imageURL}}')">
                     <!--<img ng-src="{{word.imageURL}}" width="130" height="130" style="margin-top:20px">-->
                     <div class="draggable" ng-click="readWord2($event.srcElement.innerHTML)" style="position: absolute; z-index: 1">
                         <span class="wordName">{{word.name}}</span>
                     </div>
-
+                </div>
+            </div>
+            <div class="backgroundSentences">
+                <div class="sentence" ng-repeat="sentence in sentences track by $index" ng-click="seeSentence(sentence)">
+                    <div  class="wordInSentence" ng-repeat="word in sentence.words">
+                            <img ng-src="{{word.imageURL}}" height="60" width="60">
+                            <div class="wordText">{{word.name}}</div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -29,9 +38,10 @@
     </div>
     <div class="play">
         <div class="playbtn" ng-click="readSentence()"></div>
+        <div class="resetbtn" ng-click="setAsFavorite()"></div>
         <div class="resetbtn" ng-click="removeSentence()"></div>
     </div>
 
-    <div class="categoryTitle">{{currentCategory.name}}</div>
+
 
 </div>

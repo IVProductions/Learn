@@ -46,6 +46,7 @@ var app = {
 var lengthOfSentence = -1;
 var indexOfSentence = 0;
 var isReadingSentence = false;
+var buttonDisabled = false;
 
 //Methods being called from the native code (Objective-C) asynchronously:
 function highlightWord() {
@@ -62,6 +63,7 @@ function doneReadingWord() {
         indexOfSentence = 0;
         lengthOfSentence = -1;
         isReadingSentence = false;
+        buttonDisabled = false;
     }
 }
 

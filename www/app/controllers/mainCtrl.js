@@ -1,15 +1,35 @@
-function mainCtrl($scope, $location, stateService, learnFactory) {
+function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
     var scrollHeight = $('.listOfWords').scrollHeight;
     $('.backgroundWords').css("height",""+scrollHeight+"px");
 
-    $scope.stateService=stateService;
+    $(".backgroundSentences").hide();
 
+    //$scope.sentencesFactory=sentencesFactory;
+    //window.localStorage.clear();
+    $scope.sentences = sentencesFactory.sentences; //JSON.parse(window.localStorage.getItem("sentences"));
     $scope.categories = learnFactory.categories;
     $scope.currentCategory = $scope.categories[0];
     $scope.currentWord = $scope.categories[0].words[0];
-
-    $scope.changeCategory = function(id){
-        $scope.currentCategory = $scope.categories[id];
+    if (window.localStorage.getItem("sentences") != null) {
+        $scope.sentences = window.localStorage.getItem("sentences");
+        /*JSON.stringify($scope.sentences, function(key, val) {
+            if (key == '$$hashKey') {
+                return undefined;
+            }
+            return val;
+        })*/
+    }
+    console.log(window.localStorage.getItem("sentences"));
+        $scope.changeCategory = function(id){
+        if (id == 0) {
+            $(".backgroundWords").hide();
+            $(".backgroundSentences").show();
+        }
+        else {
+            $(".backgroundWords").show();
+            $(".backgroundSentences").hide();
+            $scope.currentCategory = $scope.categories[id-1];
+        }
         for (var i=0;i<$scope.categories.length;i++) {
             //$("#"+i).css("background-color", "white");
             $("#"+i).css("border-bottom", "4px solid lightgrey");
@@ -17,6 +37,33 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
         $("#"+(id-1)).css("border-bottom", "4px solid red");
         $("#"+id).css("border-bottom", "4px solid red");
     }
+
+    $scope.seeSentence = function(sentence){
+        $("#items li").each(function(index, value) {
+            value.remove();
+        });
+        for (var i = 0; i <sentence.words.length; i++){
+            var sortableWord = jQuery('<li/>', {
+                class: 'list',
+                text: sentence.words[i].name
+            }).click(function() {$scope.readWord($(this).html());}).appendTo($("#items"));
+            sortableWord.append('<br/>');
+            var sortableWordImg = jQuery('<img/>', {
+                src: sentence.words[i].imageURL,
+                width: "55px",
+                height: "55px"
+            }).appendTo(sortableWord);
+            sortableWordImg.css({borderBottomLeftRadius: 13, borderBottomRightRadius: 13});
+        }
+        playAudio("audio/bop_success.mp3")
+        $scope.setDroppable();
+        isDraggingGlobalWord = false;
+        dragCounter = 0;
+        indexOfSortable = -1;
+        $(".inputBox").css("background-color", "grey");
+        console.log(isDraggingGlobalWord);
+    }
+
     $scope.redirect = function(path) {
         $location.path(path);
     };
@@ -25,36 +72,39 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
     /*DRAG N DROP FUNCTIONALITY  /  TTS FUNCTIONALITY*/
 
     $scope.readWord = function(word) {
-        var list = word.split("<br>");
-        TTSPlugin.speak(list[0],function(){
-        }, function(){
-        });
+        if (buttonDisabled==false) {
+            var list = word.split("<br>");
+            TTSPlugin.speak(list[0],function(){
+            }, function(){
+            });
+        }
     }
 
     $scope.readWord2 = function(element) {
-        console.log("read2: "+element);
-        var list1 = element.split(">");
-        var word = list1[1].split("<");
-        console.log(word[0]);
-        TTSPlugin.speak(word[0],function(){
-        }, function(){
-        });
+        if (buttonDisabled==false) {
+            var list1 = element.split(">");
+            var word = list1[1].split("<");
+            console.log(word[0]);
+            TTSPlugin.speak(word[0],function(){
+            }, function(){
+            });
+        }
     }
 
     $scope.readSentence = function() {
-        lengthOfSentence = $("#items li").size();
-        //console.log($(".playbtn"));
-        //$(".playbtn").disable();
-        //$(".playbtn").prop('disabled', true);
-        $("#items li").each(function(index, value) {
-            var list = $(value).html().split("<br>");
-            TTSPlugin.speak(list[0],function(){
-                //success callback function
-                isReadingSentence = true;
-            }, function(){
-                //failure callback function
+        if (buttonDisabled==false) {
+            lengthOfSentence = $("#items li").size();
+            buttonDisabled = (lengthOfSentence>0) ? true: false;
+            $("#items li").each(function(index, value) {
+                var list = $(value).html().split("<br>");
+                TTSPlugin.speak(list[0],function(){
+                    //success callback function
+                    isReadingSentence = true;
+                }, function(){
+                    //failure callback function
+                });
             });
-        });
+        }
     }
 
     var elementBeingDragged=0;
@@ -211,12 +261,33 @@ function mainCtrl($scope, $location, stateService, learnFactory) {
         return length;
     }
 */
+    $scope.setAsFavorite = function() {
+        var str = '{"words": [';
+        //var listOfWords = [];
+        $("#items li").each(function(index, value) {
+            var list = $(value).html().split("<br>");
+            var word = list[0];
+            var imageURL = list[1].split('"')[1];
+            str += '{"name": "'+word+'", "imageURL": "'+imageURL+'"},'
+        });
+        str = str.substring(0, str.length-1);
+        str += ']}';
+        var object = JSON.parse(str);
+        $scope.sentences.push(object);
+        console.log($scope.sentences);
+        //$scope.sentences.push({"words":listOfWords});
+        window.localStorage.setItem("sentences", JSON.stringify($scope.sentences));
+        //jsonStr = JSON.stringify(obj);
+        //alert($scope.sentences);
+    }
 
     $scope.removeSentence = function() {
-        $("#items li").each(function(index, value) {
-            value.remove();
-        });
-        playAudio("audio/fast_zing.wav");
+        if (buttonDisabled==false) {
+            $("#items li").each(function(index, value) {
+                value.remove();
+            });
+            playAudio("audio/fast_zing.wav");
+        }
     }
 
     function playAudio(audioPath) {

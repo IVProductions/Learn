@@ -1,7 +1,7 @@
 Learn.factory('learnFactory', function() {
     var categories = [
         {
-            "id": 0,
+            "id": 1,
             "name": "Lydeffekter",
             "imageURL": "img/categories/sounds.jpg",
             "words": [
@@ -56,7 +56,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "Dyr",
             "imageURL": "img/categories/farm_animals.jpg",
             "words": [
@@ -239,7 +239,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "Kjøretøy",
             "imageURL": "img/categories/vehicles.jpg",
             "words": [
@@ -302,7 +302,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "Leker",
             "imageURL": "img/categories/toys.jpg",
             "words": [
@@ -381,7 +381,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Mat og drikke",
             "imageURL": "img/categories/apple_juice.jpg",
             "words": [
@@ -660,7 +660,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "Klær og tilbehør",
             "imageURL": "img/categories/clothes.jpg",
             "words": [
@@ -787,7 +787,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "Kroppsdeler",
             "imageURL": "img/categories/human_body.jpg",
             "words": [
@@ -902,7 +902,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 7,
+            "id": 8,
             "name": "Husgjenstander",
             "imageURL": "img/categories/lamp.jpg",
             "words": [
@@ -1109,7 +1109,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 8,
+            "id": 9,
             "name": "Rom og møbler",
             "imageURL": "img/categories/furniture.jpg",
             "words": [
@@ -1252,7 +1252,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 9,
+            "id": 10,
             "name": "Ting utendørs",
             "imageURL": "img/categories/outdoors.jpg",
             "words": [
@@ -1383,7 +1383,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 10,
+            "id": 11,
             "name": "Steder å dra til",
             "imageURL": "img/categories/playground.jpg",
             "words": [
@@ -1474,7 +1474,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 11,
+            "id": 12,
             "name": "Mennesker",
             "imageURL": "img/categories/doctor.jpg",
             "words": [
@@ -1625,7 +1625,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 12,
+            "id": 13,
             "name": "Leker og rutiner",
             "imageURL": "img/categories/bathe.jpg",
             "words": [
@@ -1732,7 +1732,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 13,
+            "id": 14,
             "name": "Verb",
             "imageURL": "img/categories/jump.jpg",
             "words": [
@@ -2171,7 +2171,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 14,
+            "id": 15,
             "name": "Beskrivende ord",
             "imageURL": "img/categories/describe.jpg",
             "words": [
@@ -2426,7 +2426,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 15,
+            "id": 16,
             "name": "Ord om tid",
             "imageURL": "img/categories/today.jpg",
             "words": [
@@ -2497,7 +2497,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 16,
+            "id": 17,
             "name": "Pronomen",
             "imageURL": "img/categories/pronouns.jpg",
             "words": [
@@ -2628,7 +2628,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 17,
+            "id": 18,
             "name": "Spørreord",
             "imageURL": "img/categories/ask.jpg",
             "words": [
@@ -2663,7 +2663,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 18,
+            "id": 19,
             "name": "Stedsangivelser",
             "imageURL": "img/categories/behind.jpg",
             "words": [
@@ -2834,7 +2834,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 19,
+            "id": 20,
             "name": "Mengdeord",
             "imageURL": "img/categories/few.jpg",
             "words": [
@@ -2929,7 +2929,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 20,
+            "id": 21,
             "name": "Hjelpeverb",
             "imageURL": "img/categories/talk.jpg",
             "words": [
@@ -3024,7 +3024,7 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 21,
+            "id": 22,
             "name": "Bindeord",
             "imageURL": "img/categories/talk.jpg",
             "words": [
