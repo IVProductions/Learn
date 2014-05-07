@@ -20,6 +20,7 @@ html, body {
 .main .categories {
     float:right;
     overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
     position: absolute;
     top: 0;
     left: 0%;
@@ -72,6 +73,7 @@ html, body {
 .main .background .listOfWords {
     position: relative;
     overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
     width: 90%;
     height: 90%;
     padding: 5%;
