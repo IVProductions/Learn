@@ -5,19 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1401a18-d68f-45ee-94ee-c1536ce4ee85" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Learning.xcodeproj/project.xcworkspace/xcuserdata/simonhordvik.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/platforms/ios/Learning.xcodeproj/project.xcworkspace/xcuserdata/simonhordvik.xcuserdatad/UserInterfaceState.xcuserstate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Learning.dep" afterPath="$PROJECT_DIR$/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Learning.dep" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/build-state.dat" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/build-state.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/build-state.dat" afterPath="$PROJECT_DIR$/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/build-state.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/app/partials/main.html" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/app/partials/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/app/partials/main.html" afterPath="$PROJECT_DIR$/platforms/ios/www/app/partials/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/partials/main.html" afterPath="$PROJECT_DIR$/www/app/partials/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/app/controllers/mainCtrl.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/app/controllers/mainCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/app/controllers/mainCtrl.js" afterPath="$PROJECT_DIR$/platforms/ios/www/app/controllers/mainCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/controllers/mainCtrl.js" afterPath="$PROJECT_DIR$/www/app/controllers/mainCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/css/style.css" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Learning.app/www/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/css/style.css" afterPath="$PROJECT_DIR$/platforms/ios/www/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/style.css" afterPath="$PROJECT_DIR$/www/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Learn.iws" />
@@ -84,7 +71,7 @@
       <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/app/partials/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="780">
+            <state vertical-scroll-proportion="-8.125" vertical-offset="180" max-vertical-offset="780">
               <caret line="25" column="81" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
               <folding />
             </state>
@@ -94,8 +81,8 @@
       <file leaf-file-name="mainCtrl.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/app/controllers/mainCtrl.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4359401" vertical-offset="2168" max-vertical-offset="4725">
-              <caret line="162" column="38" selection-start-line="162" selection-start-column="38" selection-end-line="162" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.38602328" vertical-offset="3728" max-vertical-offset="4725">
+              <caret line="264" column="39" selection-start-line="264" selection-start-column="39" selection-end-line="264" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -813,7 +800,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/app/partials/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="780">
+        <state vertical-scroll-proportion="-8.125" vertical-offset="180" max-vertical-offset="780">
           <caret line="25" column="81" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
           <folding />
         </state>
@@ -821,8 +808,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/app/controllers/mainCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4359401" vertical-offset="2168" max-vertical-offset="4725">
-          <caret line="162" column="38" selection-start-line="162" selection-start-column="38" selection-end-line="162" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.38602328" vertical-offset="3728" max-vertical-offset="4725">
+          <caret line="264" column="39" selection-start-line="264" selection-start-column="39" selection-end-line="264" selection-end-column="39" />
           <folding />
         </state>
       </provider>
