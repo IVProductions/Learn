@@ -115,7 +115,7 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
     var dragWord;
     var isDraggingGlobalWord = false;
     var dragCounter = 0;
-    var newParent;
+    var newParent = $("#partialBody");
     var indexOfSortable = -1;
 
     $scope.setDraggable = function() {

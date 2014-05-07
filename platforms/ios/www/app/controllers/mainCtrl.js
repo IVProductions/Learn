@@ -6,18 +6,20 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
 
     //$scope.sentencesFactory=sentencesFactory;
     //window.localStorage.clear();
-    $scope.sentences = sentencesFactory.sentences; //JSON.parse(window.localStorage.getItem("sentences"));
+    //$scope.sentences = sentencesFactory.sentences; //JSON.parse(window.localStorage.getItem("sentences"));
     $scope.categories = learnFactory.categories;
     $scope.currentCategory = $scope.categories[0];
     $scope.currentWord = $scope.categories[0].words[0];
+
+    $scope.sentences = [];
+
+    console.log("init");
+    console.log($scope.sentences);
     if (window.localStorage.getItem("sentences") != null) {
-        $scope.sentences = window.localStorage.getItem("sentences");
-        /*JSON.stringify($scope.sentences, function(key, val) {
-            if (key == '$$hashKey') {
-                return undefined;
-            }
-            return val;
-        })*/
+        $scope.sentences = JSON.parse(window.localStorage.getItem("sentences"));
+        for (var i = 0; i<$scope.sentences.length; i++){
+            delete $scope.sentences[i]["$$hashKey"];
+        }
     }
     console.log(window.localStorage.getItem("sentences"));
         $scope.changeCategory = function(id){
@@ -113,7 +115,7 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
     var dragWord;
     var isDraggingGlobalWord = false;
     var dragCounter = 0;
-    var newParent;
+    var newParent = $("#partialBody");
     var indexOfSortable = -1;
 
     $scope.setDraggable = function() {
@@ -278,6 +280,7 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
         console.log($scope.sentences);
         //$scope.sentences.push({"words":listOfWords});
         window.localStorage.setItem("sentences", JSON.stringify($scope.sentences));
+        console.log(window.localStorage.getItem("sentences"));
         //jsonStr = JSON.stringify(obj);
         //alert($scope.sentences);
     }
