@@ -9,7 +9,7 @@ html, body {
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background-color: lightgrey;
+    background-color: lightblue;
     /*
     background-image: url("../img/beach2.jpg");
     background-size: 100% 100%;
@@ -146,7 +146,7 @@ html, body {
     left: 14.9%;
     width: 75.2%;
     height: 18%;
-    background-color: grey;
+    background-color: cornflowerblue;
     z-index: 2;
 }
 
