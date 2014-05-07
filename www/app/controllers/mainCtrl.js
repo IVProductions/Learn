@@ -230,7 +230,7 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
         console.log("New Length will be: "+length);
         console.log("Length of input box: "+$(".inputBox").width());
         //return (length + 170);
-        return (length + 20);
+        return (length + 30);
     }
 
     $scope.setSortable = function() {

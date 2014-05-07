@@ -144,7 +144,7 @@ html, body {
     position: absolute;
     bottom: 0;
     left: 14.9%;
-    width: 75.2%;
+    width: 77.2%;
     height: 18%;
     background-color: grey;
     z-index: 2;
@@ -154,7 +154,7 @@ html, body {
     position: absolute;
     bottom: 0;
     right: 0;
-    width: 10%;
+    width: 8%;
     height: 18%;
     background-color: white;
     z-index: 2;
@@ -163,7 +163,7 @@ html, body {
 .main .play .playbtn {
     height: 33%;
     background-image: url("../img/play.png");
-    background-size: 70px 70px;
+    background-size: 50px 50px;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -171,14 +171,14 @@ html, body {
 .main .play .favbtn {
     height: 33%;
     background-image: url("../img/star.png");
-    background-size: 70px 70px;
+    background-size: 50px 50px;
     background-repeat: no-repeat;
     background-position: center;
 }
 .main .play .resetbtn {
     height: 33%;
     background-image: url("../img/clear.png");
-    background-size: 70px 70px;
+    background-size: 50px 50px;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -241,13 +241,13 @@ html, body {
 .categoryTitle {
     position: absolute;
     top: 1%;
-    left: 5.2%;
+    left: 5%;
     font-size: 30px;
     background-color: white;
     padding: 3px;
     padding-left: 5px;
     padding-right: 5px;
-    width: 74%;
+    width: 646px;
 }
 
 /*END DRAG N DROP*/
