@@ -250,6 +250,9 @@ html, body {
     width: 646px;
 }
 
+.star {
+    z-index: 2;
+}
 /*END DRAG N DROP*/
 
 
