@@ -303,7 +303,7 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
                 var $starAnim = $("<img>", {src: "img/star.png", class: "starAnim"+r+" star", height: "10", width: "10"});
                 $starAnim.css('position', 'absolute');
                 $starAnim.css('top', '300px');
-                $starAnim.css('left', '600px');
+                $starAnim.css('left', '500px');
                 $(".main").append($starAnim);
                 //$('.critAnim'+r).animate({percent: 200}, 500, function () {
                 //	$('.critAnim'+r).remove();
