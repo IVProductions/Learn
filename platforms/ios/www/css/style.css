@@ -104,6 +104,17 @@ html, body {
     width: 100%;
 }
 
+.deleteBtn {
+    width: 60px;
+    height: 40px;
+    line-height: 40px;
+    background-color: red;
+    float: left;
+    border-radius: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
 .main .background .listOfWords .word {
     position: relative;
     float:left;
