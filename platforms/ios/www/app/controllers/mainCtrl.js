@@ -294,6 +294,13 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
         }
     }
 
+    $scope.deleteFavorite = function(index) {
+        $scope.sentences = JSON.parse(window.localStorage.getItem("sentences"));
+        $scope.sentences.splice(index, 1);
+        window.localStorage.setItem("sentences", JSON.stringify($scope.sentences));
+        playAudio("audio/fast_zing.wav");
+    }
+
     function playAudio(audioPath) {
         // Play the audio file at audioPath
         var audio = new Media(audioPath,
