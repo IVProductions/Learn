@@ -514,8 +514,8 @@ t1398725987
 s2187
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Info.plist
-c00000000536BF4110000000000000A13
-t1399583761
+c00000000536D52A70000000000000A13
+t1399673511
 s2579
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Prefix.pch
@@ -815,11 +815,11 @@ t1396641408
 s45
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app
-t1399583767
+t1399673515
 s1054
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app.dSYM
-t1399583123
+t1399583767
 s102
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/CDVNotification.bundle
@@ -855,7 +855,7 @@ t1396641412
 s10394
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/Info.plist
-t1399583764
+t1399673513
 s1283
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/Learning
@@ -2277,7 +2277,7 @@ s5377140
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies22fd8e942b1cb941^13b7a2942b1cb941^---0#1#1#--18"Check dependencies36"6AF2D4A2-D9D2-4195-9590-BB7041A95845-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1d39ae298a1db941^0e84b8298a1db941^---0#1#1#--18"Check dependencies36"187078D5-D3EA-46AB-871C-6B16902FBD02-
 
 CCompileC build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/AppDelegate.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s421275922.584235
@@ -3577,14 +3577,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy bu
 b13F91F5F-D59B-46E0-9D76-186110BFEBE7
 
 CGenerateDSYMFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app.dSYM /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/Learning
-s421276567.368304
-e421276567.476051
+s421366315.656296
+e421366315.743544
 r1
 xGenerateDSYMFile
 x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app.dSYM
 x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/Learning
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Generate /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app.dSYM102"[1mGenerateDSYMFile[0m [1mbuild/emulator/Learning.app.dSYM[0m build/emulator/Learning.app/Learningf25d5e972b1cb941^adde79972b1cb941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app.dSYM/0000000000000000^1062"[1mGenerateDSYMFile[0m [1mbuild/emulator/Learning.app.dSYM[0m build/emulator/Learning.app/Learning    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/Learning -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app.dSYM36"9C35F8D8-6EFE-43E8-A547-514EA0322E62-
-bEFA7178A-2DAD-4CE8-8F1D-1E95C38CB976
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Generate /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app.dSYM102"[1mGenerateDSYMFile[0m [1mbuild/emulator/Learning.app.dSYM[0m build/emulator/Learning.app/Learningce1aa82b8a1db941^2959be2b8a1db941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app.dSYM/0000000000000000^1062"[1mGenerateDSYMFile[0m [1mbuild/emulator/Learning.app.dSYM[0m build/emulator/Learning.app/Learning    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/Learning -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app.dSYM36"07CDA392-08D4-4342-AF47-362001A8BDF9-
+bC5BC2F71-E0C6-4D44-B76C-81370FA94057
 
 CGenerateDSYMFile /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app.dSYM /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Learning
 s421203161.171282
@@ -3860,18 +3860,18 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy bu
 b8508A1CC-9884-4253-95D8-0D48DB8950E7
 
 CPhaseScriptExecution Copy\ www\ directory /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh
-s421276564.639460
-e421276567.359202
+s421366313.726274
+e421366315.644388
 r1
 xPhaseScriptExecution
 xCopy www directory
 x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh
 o
-oreal	0m2.679s
-ouser	0m0.883s
-osys	0m1.516s
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'142"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.shb490a4942b1cb941^5af35b972b1cb941^-42"real	0m2.679suser	0m0.883ssys	0m1.516s3(21%IDEActivityLogMessage2@14"real	0m2.679s-421276567#1#14#-0#-----2@14"user	0m0.883s-421276567#15#14#-0#-----2@13"sys	0m1.516s-421276567#29#13#-0#-----0#0#1#--366"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    /bin/sh -c /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh36"26089A01-7B89-44EA-AA4C-982A90C6F4EC-
-bEFA7178A-2DAD-4CE8-8F1D-1E95C38CB976
+oreal	0m1.893s
+ouser	0m0.704s
+osys	0m1.154s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'142"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh514cba298a1db941^38f6a42b8a1db941^-42"real	0m1.893suser	0m0.704ssys	0m1.154s3(21%IDEActivityLogMessage2@14"real	0m1.893s-421366315#1#14#-0#-----2@14"user	0m0.704s-421366315#15#14#-0#-----2@13"sys	0m1.154s-421366315#29#13#-0#-----0#0#1#--366"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    /bin/sh -c /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh36"525819DF-C366-4EB3-A950-FD1BD5CFDA86-
+bC5BC2F71-E0C6-4D44-B76C-81370FA94057
 
 CPhaseScriptExecution Copy\ www\ directory /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Script-304B58A110DAC018002A0835.sh
 s421203159.724417
@@ -3902,14 +3902,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run cus
 b78DC8D4F-3EDA-4B7C-AFCD-C4A321FFDCF5
 
 CProcessInfoPlistFile /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/Info.plist /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Info.plist
-s421276564.630393
-e421276564.637561
+s421366313.722056
+e421366313.725187
 r1
 xProcessInfoPlistFile
 x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/Info.plist
 x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Process /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Info.plist104"[1mProcessInfoPlistFile[0m build/emulator/Learning.app/Info.plist [1mLearning/Learning-Info.plist[0mbef9a1942b1cb941^2a39a3942b1cb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Info.plist0000000000000000^1155"[1mProcessInfoPlistFile[0m build/emulator/Learning.app/Info.plist [1mLearning/Learning-Info.plist[0m    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    builtin-infoPlistUtility /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Info.plist -genpkginfo /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/Info.plist36"3589D837-438C-4216-9691-1D141FE4212F-
-bEFA7178A-2DAD-4CE8-8F1D-1E95C38CB976
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Process /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Info.plist104"[1mProcessInfoPlistFile[0m build/emulator/Learning.app/Info.plist [1mLearning/Learning-Info.plist[0m6a30b9298a1db941^1ea6b9298a1db941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Info.plist0000000000000000^1155"[1mProcessInfoPlistFile[0m build/emulator/Learning.app/Info.plist [1mLearning/Learning-Info.plist[0m    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    builtin-infoPlistUtility /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/Learning/Learning-Info.plist -genpkginfo /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/Info.plist36"9541F649-75FD-4F52-95D8-A9C99F2CD32F-
+bC5BC2F71-E0C6-4D44-B76C-81370FA94057
 
 CProcessInfoPlistFile /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app/Info.plist /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/Learning-Info.plist
 s421203159.710030
@@ -4001,13 +4001,13 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precomp
 b1BD2FB76-C52C-4494-B4D6-C5A5EE33E7D7
 
 CTouch /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app
-s421276567.477482
-e421276567.483822
+s421366315.745231
+e421366315.751867
 r1
 xTouch
 x/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Touch /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app41"[1mTouch[0m build/emulator/Learning.appf4517a972b1cb941^05dc7b972b1cb941^---0#0#1#--824"[1mTouch[0m build/emulator/Learning.app    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /usr/bin/touch -c /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app36"44DC1C32-4A25-4FC5-8EC5-8B7559299C26-
-bEFA7178A-2DAD-4CE8-8F1D-1E95C38CB976
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Touch /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app41"[1mTouch[0m build/emulator/Learning.appf7e7be2b8a1db941^d17ac02b8a1db941^---0#0#1#--824"[1mTouch[0m build/emulator/Learning.app    cd /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@rails3.2.14/bin:/Users/Kristoffer/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/Kristoffer/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/Kristoffer/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk:/Users/Kristoffer/Progging/adt-bundle-mac-x86_64-20131030/sdk/tools/ant"    /usr/bin/touch -c /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app36"E44BBE2F-6F11-4B4F-8A8A-A311162A5640-
+bC5BC2F71-E0C6-4D44-B76C-81370FA94057
 
 CTouch /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/build/emulator/Learning.app
 s421203161.214370
