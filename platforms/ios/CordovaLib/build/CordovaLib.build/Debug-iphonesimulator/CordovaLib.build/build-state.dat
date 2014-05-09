@@ -311,88 +311,88 @@ t1396395503
 s838
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
-t1399583119
+t1399583704
 s61376
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
-t1399583119
+t1399583704
 s61364
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
-t1399583119
+t1399583704
 s27456
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
-t1399583118
+t1399583704
 s18248
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
-t1399583119
+t1399583704
 s10568
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
-t1399583119
+t1399583704
 s106436
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
-t1399583118
+t1399583704
 s57112
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
-t1399583118
+t1399583704
 s36632
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
-t1399583119
+t1399583704
 s9040
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
-t1399583119
+t1399583704
 s22600
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
-t1399583118
+t1399583704
 s68880
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
-t1399583119
+t1399583704
 s50760
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
-t1399583119
+t1399583704
 s163000
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
-t1399583119
+t1399583704
 s67892
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
-t1399583118
+t1399583704
 s42420
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
-c00000000536BF18D0000000000000CF3
-t1399583117
+c00000000536BF3D80000000000000CF3
+t1399583704
 s3315
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
-t1399583119
+t1399583704
 s7212
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
-t1399583118
+t1399583704
 s10908
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
-t1399583118
+t1399583704
 s17328
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
-t1399583118
+t1399583704
 s6772
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
-t1399583119
+t1399583704
 s9196
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/include/Cordova/CDV.h
@@ -496,8 +496,8 @@ t1396641406
 s1142
 
 N/Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/libCordova.a
-t1399492057
-s889688
+t1399583704
+s862904
 
 N/Users/Kristoffer/Progging/GitHub/Wanker/platforms/ios/CordovaLib/Classes/CDV.h
 c00000000000000000000000000000000
@@ -1782,11 +1782,7 @@ s3239184
 
 CCheck dependencies
 r0
-<<<<<<< HEAD
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesebfee50c291cb941^ae82400d291cb941^---0#1#1#--18"Check dependencies36"064FC3CB-17A3-49AB-82B4-DB87712D5507-
-=======
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies75b1a1d70c1bb941^9d2bb2d70c1bb941^---0#1#1#--18"Check dependencies36"3E571C11-0885-47B6-BB54-D09DAD376C0C-
->>>>>>> FETCH_HEAD
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies394642942b1cb941^ffe887942b1cb941^---0#1#1#--18"Check dependencies36"8D9A6067-57DD-4B70-9E92-24FC77098637-
 
 CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s421275919.225525
