@@ -4,6 +4,8 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
 
     $(".backgroundSentences").hide();
 
+    $scope.canDelete = false;
+
     //$scope.sentencesFactory=sentencesFactory;
     //window.localStorage.clear();
     //$scope.sentences = sentencesFactory.sentences; //JSON.parse(window.localStorage.getItem("sentences"));
@@ -42,6 +44,14 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
         $("#"+id).css("border-bottom", "4px solid red");
     }
 
+    $scope.letsDelete = function (){
+        if($scope.canDelete){
+            $scope.canDelete = false;
+        }
+        else {
+            $scope.canDelete = true;
+        }
+    }
     $scope.seeSentence = function(sentence){
         $("#items li").each(function(index, value) {
             value.remove();
@@ -265,24 +275,55 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
     }
 */
     $scope.setAsFavorite = function() {
-        var str = '{"words": [';
-        //var listOfWords = [];
-        $("#items li").each(function(index, value) {
-            var list = $(value).html().split("<br>");
-            var word = list[0];
-            var imageURL = list[1].split('"')[1];
-            str += '{"name": "'+word+'", "imageURL": "'+imageURL+'"},'
-        });
-        str = str.substring(0, str.length-1);
-        str += ']}';
-        var object = JSON.parse(str);
-        $scope.sentences.push(object);
-        console.log($scope.sentences);
-        //$scope.sentences.push({"words":listOfWords});
-        window.localStorage.setItem("sentences", JSON.stringify($scope.sentences));
-        console.log(window.localStorage.getItem("sentences"));
-        //jsonStr = JSON.stringify(obj);
-        //alert($scope.sentences);
+        if ($("#items li").size() != 0) {
+            var duplicate = false;
+            var newSentence = ""
+            $("#items li").each(function(index, value) {
+                var list = $(value).html().split("<br>");
+                newSentence += list[0];
+            });
+            var oldSentence = "";
+            for(var i = 0; i<$scope.sentences.length; i++){
+                for(var j = 0; j<$scope.sentences[i].words.length; j++){
+                    oldSentence += $scope.sentences[i].words[j].name;
+                }
+                if(newSentence == oldSentence){
+                    duplicate = true;
+                    break;
+                }
+                newSentence = "";
+            }
+            if(!duplicate){
+                var str = '{"words": [';
+                //var listOfWords = [];
+                $("#items li").each(function(index, value) {
+                    var list = $(value).html().split("<br>");
+                    var word = list[0];
+                    var imageURL = list[1].split('"')[1];
+                    str += '{"name": "'+word+'", "imageURL": "'+imageURL+'"},'
+                });
+                str = str.substring(0, str.length-1);
+                str += ']}';
+                var object = JSON.parse(str);
+                $scope.sentences.push(object);
+                //console.log($scope.sentences);
+                //$scope.sentences.push({"words":listOfWords});
+                window.localStorage.setItem("sentences", JSON.stringify($scope.sentences));
+                var r = Math.random().toString().substring(3,7);
+                var $starAnim = $("<img>", {src: "img/star.png", class: "starAnim"+r+" star", height: "10", width: "10"});
+                $starAnim.css('position', 'absolute');
+                $starAnim.css('top', '300px');
+                $starAnim.css('left', '500px');
+                $(".main").append($starAnim);
+                //$('.critAnim'+r).animate({percent: 200}, 500, function () {
+                //	$('.critAnim'+r).remove();
+                //});
+                $('.starAnim'+r).effect("scale", {percent:5000, origin:['middle','center']}, 300, function () {
+                    $('.starAnim'+r).remove();
+                    $(".star").remove();
+                });
+            }
+        }
     }
 
     $scope.removeSentence = function() {
@@ -295,6 +336,34 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
     }
 
     $scope.deleteFavorite = function(index) {
+
+        /*
+        $('<div class="modalt"></div>').appendTo('.main')
+            .html('<div><h6>Vil du slette denne setningen?</h6></div>')
+            .dialog({
+                modal: true,
+                title: 'Delete message',
+                zIndex: 10000,
+                autoOpen: true,
+                width: 'auto',
+                resizable: false,
+                buttons: {
+                    Yes: function () {
+                        // $(obj).removeAttr('onclick');
+                        // $(obj).parents('.Parent').remove();
+
+                        $(this).dialog("close");
+
+                    },
+                    No: function () {
+                        $(this).dialog("close");
+                    }
+                },
+                close: function (event, ui) {
+                    $(this).remove();
+                }
+            });
+        */
         $scope.sentences = JSON.parse(window.localStorage.getItem("sentences"));
         $scope.sentences.splice(index, 1);
         window.localStorage.setItem("sentences", JSON.stringify($scope.sentences));
