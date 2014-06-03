@@ -4841,7 +4841,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 15,
             "name": "Kroppsdeler",
-            "imageURL": "img/categories/bathe.jpg",
+            "imageURL": "img/body/leg.jpg",
             "words": [
                                 {
                     "name": "ankel",
