@@ -3,163 +3,163 @@ Learn.factory('learnFactory', function() {
     {
             "id": 1,
             "name": "Bokstaver og tall",
-            "imageURL": "img/categories/sounds.jpg",
+            "imageURL": "img/alphabet/alphabet.jpg",
             "words": [
                 {
                     "name": "0",
-                    "imageURL": "img/sound_effects/blood.jpg"
+                    "imageURL": "img/alphabet/zero.jpg"
                 },
                 {
                     "name": "1",
-                    "imageURL": "img/sound_effects/ewe.jpg"
+                    "imageURL": "img/alphabet/1.jpg"
                 },
                 {
                     "name": "2",
-                    "imageURL": "img/sound_effects/ring_school_bell.jpg"
+                    "imageURL": "img/alphabet/2.jpg"
                 },
                 {
                     "name": "3",
-                    "imageURL": "img/sound_effects/quack.jpg"
+                    "imageURL": "img/alphabet/3.jpg"
                 },
                 {
                     "name": "4",
-                    "imageURL": "img/sound_effects/English_bulldog.jpg"
+                    "imageURL": "img/alphabet/4.jpg"
                 },
                 {
                     "name": "5",
-                    "imageURL": "img/sound_effects/chicken.jpg"
+                    "imageURL": "img/alphabet/5.jpg"
                 },
                 {
                     "name": "6",
-                    "imageURL": "img/sound_effects/meow.jpg"
+                    "imageURL": "img/alphabet/6.jpg"
                 },
                 {
                     "name": "7",
-                    "imageURL": "img/sound_effects/moo.jpg"
+                    "imageURL": "img/alphabet/7.jpg"
                 },
                 {
                     "name": "8",
-                    "imageURL": "img/sound_effects/lick.jpg"
+                    "imageURL": "img/alphabet/8.jpg"
                 },
                 {
                     "name": "9",
-                    "imageURL": "img/sound_effects/surprised.jpg"
+                    "imageURL": "img/alphabet/9.jpg"
                 },
                 {
                     "name": "A",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/A.jpg"
                 },
                 {
                     "name": "B",
-                    "imageURL": "img/sound_effects/woof.jpg"
+                    "imageURL": "img/alphabet/B.jpg"
                 },
                 {
                     "name": "C",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/C.jpg"
                 },
                 {
                     "name": "D",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/D.jpg"
                 },
                 {
                     "name": "E",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/E.jpg"
                 },
                 {
                     "name": "F",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/F.jpg"
                 },
                 {
                     "name": "G",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/G.jpg"
                 },
                 {
                     "name": "H",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/H.jpg"
                 },
                 {
                     "name": "I",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/I.jpg"
                 },
                 {
                     "name": "J",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/J.jpg"
                 },
                 {
                     "name": "K",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/K.jpg"
                 },
                 {
                     "name": "L",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/L.jpg"
                 },
                 {
                     "name": "M",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/M.jpg"
                 },
                 {
                     "name": "N",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/N.jpg"
                 },
                 {
                     "name": "O",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/O.jpg"
                 },
                 {
                     "name": "P",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/P.jpg"
                 },
                 {
                     "name": "Q",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/Q.jpg"
                 },
                 {
                     "name": "R",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/R.jpg"
                 },
                 {
                     "name": "S",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/S.jpg"
                 },
                 {
                     "name": "T",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/T.jpg"
                 },
                 {
                     "name": "U",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/U.jpg"
                 },
                 {
                     "name": "V",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/V.jpg"
                 },
                 {
                     "name": "W",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/W.jpg"
                 },
                 {
                     "name": "X",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/X.jpg"
                 },
                 {
                     "name": "Y",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/Y.jpg"
                 },
                 {
                     "name": "Z",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/Z.jpg"
                 },
                 {
                     "name": "Æ",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/E.jpg"
                 },
                 {
                     "name": "Ø",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/O.jpg"
                 },
                 {
                     "name": "Å",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/alphabet/A.jpg"
                 }
             ]
         },
