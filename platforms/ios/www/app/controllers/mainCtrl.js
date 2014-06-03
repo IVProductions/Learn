@@ -195,16 +195,20 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
                         sortableWordImg.css({borderBottomLeftRadius: 13, borderBottomRightRadius: 13});
                         newParent.show();
                         $scope.setDroppable();
+                        $(".inputBox").css("background-color", "cornflowerblue");
                         playAudio("audio/bop_success.mp3")
                     }
                     else {
+                        $(".inputBox").css("background", "red")
+                        setTimeout(function () {
+                            $(".inputBox").css("background", "cornflowerblue");
+                        }, 700);
                         playAudio("audio/bop_negative.mp3");
                     }
                 }
                 isDraggingGlobalWord = false;
                 dragCounter = 0;
                 indexOfSortable = -1;
-                $(".inputBox").css("background-color", "cornflowerblue");
                 console.log(isDraggingGlobalWord);
             }
         });
@@ -216,7 +220,7 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
                 if (indexOfSortable != -1) {    //user drags word from sentence out of sentence box and drops it
                     $("#items li").eq(indexOfSortable).remove();
                     indexOfSortable = -1;
-                    playAudio("audio/fast_zing.wav");
+                    playAudio("audio/deleted_sentence.wav");
                 }
                 newParent.show();
                 isDraggingGlobalWord = false;
@@ -296,6 +300,7 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
                     oldSentence = "";
                 }
                 if(!duplicate){
+                    playAudio("audio/added_to_favorite.wav");
                     var str = '{"words": [';
                     //var listOfWords = [];
                     $("#items li").each(function(index, value) {
@@ -333,7 +338,7 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
             $("#items li").each(function(index, value) {
                 value.remove();
             });
-            playAudio("audio/fast_zing.wav");
+            playAudio("audio/deleted_sentence.wav");
         }
     }
 
@@ -341,7 +346,7 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
         $scope.sentences = JSON.parse(window.localStorage.getItem("sentences"));
         $scope.sentences.splice(index, 1);
         window.localStorage.setItem("sentences", JSON.stringify($scope.sentences));
-        playAudio("audio/fast_zing.wav");
+        playAudio("audio/deleted_sentence.wav");
     }
 
     function playAudio(audioPath) {

@@ -1786,7 +1786,7 @@ s3239184
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2ba533beb13db941^5f7958beb13db941^---0#1#1#--18"Check dependencies36"4D727EE7-A9B1-4D6E-A857-B46242A5CAAE-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb83c1a83b83db941^d4634783b83db941^---0#1#1#--18"Check dependencies36"36AE2538-62C3-422E-BB97-8B1BF67374E5-
 
 CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s421275919.225525
