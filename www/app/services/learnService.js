@@ -4169,17 +4169,8 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/categories/talk.jpg"
                 },
                 {
-<<<<<<< HEAD
-                    "name": "fjær",
-                    "imageURL": "img/house_items/"
-                },
-                {
-                    "name": "flagg",
-                    "imageURL": "img/outdoor/flag.jpg"
-=======
                     "name": "en annen",
                     "imageURL": "img/categories/talk.jpg"
->>>>>>> FETCH_HEAD
                 },
                 {
                     "name": "et",
@@ -4206,17 +4197,12 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/categories/talk.jpg"
                 },
                 {
-<<<<<<< HEAD
-                    "name": "pinne",
-                    "imageURL": "img/outdoor/stick.jpg"
-=======
                     "name": "litt",
                     "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "mange",
                     "imageURL": "img/categories/talk.jpg"
->>>>>>> FETCH_HEAD
                 },
                 {
                     "name": "mer",
@@ -4247,21 +4233,12 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/categories/talk.jpg"
                 },
                 {
-<<<<<<< HEAD
-                    "name": "måne",
-                    "imageURL": "img/outdoor/starry_night_sky.jpg"
-                },
-                {
-                    "name": "spade",
-                    "imageURL": "img/outdoor/shovel.jpg"
-=======
                     "name": "presis",
                     "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "riktig",
                     "imageURL": "img/categories/talk.jpg"
->>>>>>> FETCH_HEAD
                 },
                 {
                     "name": "full",
