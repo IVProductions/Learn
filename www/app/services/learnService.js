@@ -436,11 +436,11 @@ Learn.factory('learnFactory', function() {
                     "name": "Donald",
                     "imageURL": "img/persons/donald.jpg"
                 },
-                /*
                 {
-                    "name": "Grufalo",
-                    "imageURL": "img/persons/donald.jpg"
+                    "name": "Gruffalo",
+                    "imageURL": "img/persons/Gruffalo.jpg"
                 },
+                /*
                 {
                     "name": "Plonsters",
                     "imageURL": "img/persons/donald.jpg"
@@ -2610,7 +2610,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 8,
             "name": "Hvor",
-            "imageURL": "img/categories/clothes.jpg",
+            "imageURL": "img/places/city.jpg",
             "words": [
                 {
                     "name": "bensinstasjon",
@@ -2921,7 +2921,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 9,
             "name": "Dyr",
-            "imageURL": "img/categories/human_body.jpg",
+            "imageURL": "img/categories/farm_animals.jpg",
             "words": [
                 {
                     "name": "mark",
@@ -3096,88 +3096,40 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/animals/puppy.jpg"
                 },
                 {
-                    "name": "bjørn",
-                    "imageURL": "img/animals/puppy.jpg"
-                },
-                {
-                    "name": "ekorn",
-                    "imageURL": "img/animals/puppy.jpg"
-                },
-                {
-                    "name": "elefant",
-                    "imageURL": "img/animals/puppy.jpg"
-                },
-                {
-                    "name": "elg",
-                    "imageURL": "img/animals/puppy.jpg"
-                },
-                {
                     "name": "froskegg",
-                    "imageURL": "img/animals/puppy.jpg"
-                },
-                {
-                    "name": "gris",
-                    "imageURL": "img/animals/puppy.jpg"
+                    "imageURL": "img/animals/tadpoles.jpg"
                 },
                 {
                     "name": "hakkespett",
-                    "imageURL": "img/animals/puppy.jpg"
+                    "imageURL": "img/animals/woodpecker.jpg"
                 },
                 {
                     "name": "humle",
-                    "imageURL": "img/animals/puppy.jpg"
+                    "imageURL": "img/animals/Bee_Barry.jpg"
                 },
                 {
                     "name": "muldvarp",
-                    "imageURL": "img/animals/puppy.jpg"
-                },
-                {
-                    "name": "mus",
-                    "imageURL": "img/animals/puppy.jpg"
-                },
-                {
-                    "name": "mygg",
-                    "imageURL": "img/animals/puppy.jpg"
+                    "imageURL": "img/animals/mole.jpg"
                 },
                 {
                     "name": "nesehorn",
-                    "imageURL": "img/animals/puppy.jpg"
+                    "imageURL": "img/animals/rhinoceros.jpg"
                 },
                 {
                     "name": "pels",
-                    "imageURL": "img/animals/puppy.jpg"
-                },
-                {
-                    "name": "pingvin",
-                    "imageURL": "img/animals/puppy.jpg"
-                },
-                {
-                    "name": "tiger",
-                    "imageURL": "img/animals/puppy.jpg"
-                },
-                {
-                    "name": "løve",
-                    "imageURL": "img/animals/puppy.jpg"
+                    "imageURL": "img/animals/fur.jpg"
                 },
                 {
                     "name": "leopard",
-                    "imageURL": "img/animals/puppy.jpg"
-                },
-                {
-                    "name": "skilpadde",
-                    "imageURL": "img/animals/puppy.jpg"
+                    "imageURL": "img/animals/leopard.jpg"
                 },
                 {
                     "name": "snegle",
-                    "imageURL": "img/animals/puppy.jpg"
+                    "imageURL": "img/animals/snail.jpg"
                 },
                 {
                     "name": "spurv",
-                    "imageURL": "img/animals/puppy.jpg"
-                },
-                {
-                    "name": "ugle",
-                    "imageURL": "img/animals/puppy.jpg"
+                    "imageURL": "img/animals/sparrow.jpg"
                 },
                 {
                     "name": "veps",
@@ -3188,15 +3140,15 @@ Learn.factory('learnFactory', function() {
         {
             "id": 10,
             "name": "Følelser",
-            "imageURL": "img/categories/lamp.jpg",
+            "imageURL": "img/feelings/happy.jpg",
             "words": [
                 {
                     "name": "føler",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/feel.jpg"
                 },
                 {
                     "name": "elsker",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/love.jpg"
                 },
                 {
                     "name": "sur",
@@ -3204,131 +3156,123 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "glad i",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/love.jpg"
                 },
                 {
                     "name": "glad",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/happy.jpg"
                 },
                 {
                     "name": "lei",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/bored.jpg"
                 },
                 {
                     "name": "kjedelig",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/bored.jpg"
                 },
                 {
                     "name": "morsomt",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/funny.jpg"
                 },
                 {
                     "name": "hater",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/hate.jpg"
                 },
                 {
                     "name": "bekymret",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/worried.jpg"
                 },
                 {
                     "name": "lei seg",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/cry.jpg"
                 },
                 {
                     "name": "redd",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/scared.jpg"
                 },
                 {
                     "name": "angre",
-                    "imageURL": "img/describe/grumpy.jpg"
-                },
-                {
-                    "name": "glad i",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/sorry.jpg"
                 },
                 {
                     "name": "godt",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/good.jpg"
                 },
                 {
                     "name": "like",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/like.jpg"
                 },
                 {
                     "name": "mot",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/brave.jpg"
                 },
                 {
                     "name": "nysgjerrig",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/curious.jpg"
                 },
                 {
                     "name": "overasket",
-                    "imageURL": "img/describe/grumpy.jpg"
-                },
-                {
-                    "name": "sur",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/surprised.jpg"
                 },
                 {
                     "name": "tålmodig",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/bored.jpg"
                 },
                 {
                     "name": "ære",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/salute.jpg"
                 },
                 {
                     "name": "ærlighet",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/truth.jpg"
                 },
                 {
                     "name": "ønske",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/hope.jpg"
                 },
                 {
                     "name": "respekt",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/respect.jpg"
                 },
                 {
                     "name": "rolig",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/calm.jpg"
                 },
                 {
                     "name": "savne",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/miss.jpg"
                 },
                 {
                     "name": "sint",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/angry.jpg"
                 },
                 {
                     "name": "skummelt",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/scary.jpg"
                 },
                 {
                     "name": "stresset",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/sad.jpg"
                 },
                 {
                     "name": "trist",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/cry.jpg"
                 },
                 {
                     "name": "trygt",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/safe.jpg"
                 },
                 {
                     "name": "problem",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/problem.jpg"
                 },
                 {
                     "name": "tørst",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/thirsty.jpg"
                 },
                 {
                     "name": "modig",
-                    "imageURL": "img/describe/grumpy.jpg"
+                    "imageURL": "img/feelings/brave.jpg"
                 }
             ]
         },
