@@ -1436,7 +1436,7 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "tusj",
-                    "imageURL": "img/toys/bubbles.jpg"
+                    "imageURL": "img/toys/marker.jpg"
                 },
                 {
                     "name": "badering",
@@ -2168,27 +2168,27 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "buss",
-                    "imageURL": "img/vehicles/tractor.jpg"
+                    "imageURL": "img/vehicles/bus.jpg"
                 },
                 {
                     "name": "bil",
-                    "imageURL": "img/vehicles/tractor.jpg"
+                    "imageURL": "img/vehicles/car.jpg"
                 },
                 {
                     "name": "fly",
-                    "imageURL": "img/vehicles/tractor.jpg"
+                    "imageURL": "img/vehicles/plane.jpg"
                 },
                 {
                     "name": "seile",
-                    "imageURL": "img/vehicles/tractor.jpg"
+                    "imageURL": "img/vehicles/boat.jpg"
                 },
                 {
                     "name": "tog",
-                    "imageURL": "img/vehicles/tractor.jpg"
+                    "imageURL": "img/vehicles/bullet_train.jpg"
                 },
                 {
                     "name": "trikk",
-                    "imageURL": "img/vehicles/tractor.jpg"
+                    "imageURL": "img/vehicles/tram.jpg"
                 },
                 {
                     "name": "trehjulssykkel",
@@ -2499,11 +2499,11 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "skynde",
-                    "imageURL": "res/img/animals/cat.png"
+                    "imageURL": "img/verb/hurry.jpg"
                 },
                 {
                     "name": "skynde seg",
-                    "imageURL": "img/verb/affection.jpg"
+                    "imageURL": "img/verb/hurry.jpg"
                 },
                 {
                     "name": "slikke",
@@ -2631,359 +2631,343 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "prøve",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/try.jpg"
                 },
                 {
                     "name": "øve",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/practice.jpg"
                 },
                 {
                     "name": "ake",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/vehicles/sledding.jpg"
                 },
                 {
                     "name": "arbeide",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/work.jpg"
                 },
                 {
                     "name": "bade",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/outdoor/swimming_pool.jpg"
                 },
                 {
                     "name": "bake",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/bake.jpg"
                 },
                 {
                     "name": "banke",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/knock.jpg"
                 },
                 {
                     "name": "begynne",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/start.jpg"
                 },
                 {
                     "name": "beholde",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/keep.jpg"
                 },
                 {
                     "name": "bestemme",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/choose.jpg"
                 },
                 {
                     "name": "betale",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/pay.jpg"
                 },
                 {
                     "name": "bite",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/bite.jpg"
                 },
                 {
                     "name": "blinke",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/wink.jpg"
                 },
                 {
                     "name": "blåse",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/blow.jpg"
                 },
                 {
                     "name": "bo",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/live.jpg"
                 },
                 {
                     "name": "danse",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/dance.jpg"
                 },
                 {
                     "name": "disse",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/outdoor/swing.jpg"
                 },
                 {
                     "name": "drømme",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/dream.jpg"
                 },
                 {
                     "name": "dusje",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/shower.jpg"
                 },
                 {
                     "name": "erte",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/tease.jpg"
                 },
                 {
                     "name": "bli ertet",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/cry.jpg"
                 },
                 {
                     "name": "finne",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/find.jpg"
                 },
                 {
                     "name": "fiske",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/fish.jpg"
                 },
                 {
-                    "name": "forstår",
-                    "imageURL": "img/verb/hope.jpg"
+                    "name": "forstå",
+                    "imageURL": "img/verb/understand.jpg"
                 },
                 {
                     "name": "fryse",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/freezing.jpg"
                 },
                 {
                     "name": "fungere",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/works.jpg"
                 },
                 {
                     "name": "få",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/take.jpg"
                 },
                 {
                     "name": "gjemme",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/hide.jpg"
                 },
                 {
                     "name": "gjemsel",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/hide_and_seek.jpg"
                 },
                 {
                     "name": "gjøre",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/finished.jpg"
                 },
                 {
                     "name": "glemme",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/forget.jpg"
                 },
                 {
                     "name": "gymnastikk",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/gymnastics.jpg"
                 },
                 {
                     "name": "handle",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/shop.jpg"
                 },
                 {
                     "name": "hyle",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/scream.jpg"
                 },
                 {
                     "name": "kile",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/tickle.jpg"
                 },
                 {
                     "name": "kjefte",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/feelings/angry.jpg"
                 },
                 {
                     "name": "huske",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/forget.jpg"
                 },
                 {
                     "name": "hvile",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/sleep.jpg"
                 },
                 {
                     "name": "kjenne",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/feelings/feel.jpg"
                 },
                 {
                     "name": "klippe",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/what/haircut.jpg"
                 },
                 {
                     "name": "koke",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/boil.jpg"
                 },
                 {
                     "name": "kose",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/hug.jpg"
                 },
                 {
                     "name": "lage",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/make.jpg"
                 },
                 {
                     "name": "leke",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/playing.jpg"
                 },
                 {
                     "name": "lete",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/look.jpg"
                 },
                 {
                     "name": "lime",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/glue.jpg"
                 },
                 {
                     "name": "love",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/pledge.jpg"
                 },
                 {
                     "name": "lyve",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/lie.jpg"
                 },
                 {
                     "name": "låne",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/borrow.jpg"
                 },
                 {
                     "name": "mobbe",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/tease.jpg"
                 },
                 {
                     "name": "montere",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/fix.jpg"
                 },
                 {
                     "name": "mose",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/crush.jpg"
                 },
                 {
                     "name": "operere",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/what/operation.jpg"
                 },
                 {
                     "name": "passe",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/babysitter.jpg"
                 },
                 {
                     "name": "poste",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/mailing.jpg"
                 },
                 {
                     "name": "dyrke",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/grow.jpg"
                 },
                 {
                     "name": "prate",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/talk1.jpg"
                 },
                 {
                     "name": "pusse nesen",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/cold.jpg"
                 },
                 {
                     "name": "pusse tenner",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/brush.jpg"
                 },
                 {
                     "name": "reparere",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/fix.jpg"
                 },
                 {
                     "name": "rote",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/messy.jpg"
                 },
                 {
                     "name": "rydde",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/clean.jpg"
                 },
                 {
                     "name": "sitte",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/sit.jpg"
                 },
                 {
                     "name": "skifte",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/change.jpg"
                 },
                 {
                     "name": "skli",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/slide1.jpg"
                 },
                 {
                     "name": "snakke",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/talk1.jpg"
                 },
                 {
                     "name": "snekre",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/hammer.jpg"
                 },
                 {
                     "name": "det snør",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/outdoor/snow.jpg"
                 },
                 {
                     "name": "spille",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/play_basketball.jpg"
                 },
                 {
                     "name": "stresser",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/feelings/sad.jpg"
                 },
                 {
                     "name": "syk",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/sick.jpg"
                 },
                 {
                     "name": "synge",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/sing.jpg"
                 },
                 {
                     "name": "ta bilde",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/take_picture.jpg"
                 },
                 {
                     "name": "tegne",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/draw.jpg"
                 },
                 {
                     "name": "telle",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/counting.jpg"
                 },
                 {
                     "name": "tisse",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/pee.jpg"
                 },
                 {
                     "name": "tulle",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/tickle.jpg"
                 },
                 {
                     "name": "vaske",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/clean_bathtub.jpg"
                 },
                 {
                     "name": "vaske opp",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/dry_dishes.jpg"
                 },
                 {
                     "name": "vente",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/wait.jpg"
                 },
                 {
                     "name": "virke",
-                    "imageURL": "img/verb/hope.jpg"
-                },
-                {
-                    "name": "øve",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "jukse",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "hjelpe",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/help.jpg"
                 },
                 {
                     "name": "suge",
-                    "imageURL": "img/verb/hope.jpg"
-                },
-                {
-                    "name": "bære",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/suck.jpg"
                 },
                 {
                     "name": "pakke",
-                    "imageURL": "img/verb/hope.jpg"
-                },
-                {
-                    "name": "svømme",
-                    "imageURL": "img/verb/hope.jpg"
-                },
-                {
-                    "name": "smake",
-                    "imageURL": "img/verb/hope.jpg"
+                    "imageURL": "img/verb/pack.jpg"
                 },
                 {
                     "name": "åpne",
