@@ -440,12 +440,6 @@ Learn.factory('learnFactory', function() {
                     "name": "Gruffalo",
                     "imageURL": "img/persons/Gruffalo.jpg"
                 },
-                /*
-                {
-                    "name": "Plonsters",
-                    "imageURL": "img/persons/donald.jpg"
-                },
-                */
                 {
                     "name": "de",
                     "imageURL": "img/categories/talk.jpg"
@@ -4776,7 +4770,7 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "middag",
-                    "imageURL": "img/food/lunch.jpg"
+                    "imageURL": "img/food/dinner.jpg"
                 },
                 {
                     "name": "lunch",
