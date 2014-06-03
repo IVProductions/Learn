@@ -4531,7 +4531,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 14,
             "name": "Mat og drikke",
-            "imageURL": "img/categories/doctor.jpg",
+            "imageURL": "img/food/fruit.jpg",
             "words": [
                 {
                     "name": "brødskive",
@@ -4807,80 +4807,54 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "fiskekaker",
-                    "imageURL": "img/food/full.jpg"
-                },
-                {
-                    "name": "eple",
-                    "imageURL": "img/food/full.jpg"
+                    "imageURL": "img/food/fish_sticks.jpg"
                 },
                 {
                     "name": "kveldsmat",
-                    "imageURL": "img/food/full.jpg"
-                },
-                {
-                    "name": "leverpostei",
-                    "imageURL": "img/food/full.jpg"
+                    "imageURL": "img/food/lunch1.jpg"
                 },
                 {
                     "name": "middag",
-                    "imageURL": "img/food/full.jpg"
+                    "imageURL": "img/food/lunch.jpg"
                 },
                 {
                     "name": "lunch",
-                    "imageURL": "img/food/full.jpg"
+                    "imageURL": "img/food/lunch.jpg"
                 },
                 {
                     "name": "frokost",
-                    "imageURL": "img/food/full.jpg"
-                },
-                {
-                    "name": "ost",
-                    "imageURL": "img/food/full.jpg"
-                },
-                {
-                    "name": "potet",
-                    "imageURL": "img/food/full.jpg"
+                    "imageURL": "img/food/breakfast.jpg"
                 },
                 {
                     "name": "pære",
-                    "imageURL": "img/food/full.jpg"
+                    "imageURL": "img/food/pear.jpg"
                 },
                 {
                     "name": "rips",
-                    "imageURL": "img/food/full.jpg"
+                    "imageURL": "img/food/cranberries.jpg"
                 },
                 {
                     "name": "sopp",
-                    "imageURL": "img/food/full.jpg"
+                    "imageURL": "img/food/mushrooms.jpg"
                 },
                 {
                     "name": "sukker",
-                    "imageURL": "img/food/full.jpg"
-                },
-                {
-                    "name": "suppe",
-                    "imageURL": "img/food/full.jpg"
-                },
-                {
-                    "name": "syltetøy",
-                    "imageURL": "img/food/full.jpg"
+                    "imageURL": "img/food/sugar.jpg"
                 },
                 {
                     "name": "varm",
-                    "imageURL": "img/food/full.jpg"
+                    "imageURL": "img/food/warm_cider.jpg"
                 },
                 {
                     "name": "sulten",
-                    "imageURL": "img/food/full.jpg"
+                    "imageURL": "img/food/hungry.jpg"
                 },
-                {
-                    "name": "fisk",
-                    "imageURL": "img/food/full.jpg"
-                },
+                /*
                 {
                     "name": "flyndre",
                     "imageURL": "img/food/full.jpg"
                 },
+                */
                 {
                     "name": "yoghurt",
                     "imageURL": "img/food/yogurt.jpg"
@@ -4892,7 +4866,7 @@ Learn.factory('learnFactory', function() {
             "name": "Kroppsdeler",
             "imageURL": "img/categories/bathe.jpg",
             "words": [
-                {
+                                {
                     "name": "ankel",
                     "imageURL": "img/body/ankle.jpg"
                 },
@@ -4998,27 +4972,23 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "fortann",
-                    "imageURL": "img/body/tongue.jpg"
+                    "imageURL": "img/body/teethnew.jpg"
                 },
                 {
                     "name": "naken",
-                    "imageURL": "img/body/tongue.jpg"
-                },
-                {
-                    "name": "fortann",
-                    "imageURL": "img/body/tongue.jpg"
+                    "imageURL": "img/body/body.jpg"
                 },
                 {
                     "name": "tann",
-                    "imageURL": "img/body/tongue.jpg"
+                    "imageURL": "img/body/tooth.jpg"
                 },
                 {
                     "name": "varm",
-                    "imageURL": "img/body/tongue.jpg"
+                    "imageURL": "img/body/hot.jpg"
                 },
                 {
                     "name": "åpne",
-                    "imageURL": "img/body/tongue.jpg"
+                    "imageURL": "img/body/dry_mouth.jpg"
                 },
                 {
                     "name": "tå",
@@ -5031,10 +5001,12 @@ Learn.factory('learnFactory', function() {
             "name": "Mine tegn",
             "imageURL": "img/categories/jump.jpg",
             "words": [
+                /*
                 {
                     "name": "jobbe",
                     "imageURL": "img/verb/work.jpg"
                 }
+                */
             ]
         }
     ]
