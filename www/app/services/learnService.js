@@ -166,204 +166,286 @@ Learn.factory('learnFactory', function() {
         {
             "id": 2,
             "name": "Hvem",
-            "imageURL": "img/categories/sounds.jpg",
+            "imageURL": "img/persons/studentm.jpg",
             "words": [
                 {
                     "name": "Anna Kjerstina",
-                    "imageURL": "img/sound_effects/blood.jpg"
+                    "imageURL": "img/persons/studentf.jpg"
                 },
                 {
                     "name": "Stina Marie",
-                    "imageURL": "img/sound_effects/ewe.jpg"
+                    "imageURL": "img/persons/studentf.jpg"
                 },
                 {
                     "name": "Erik Andreas",
-                    "imageURL": "img/sound_effects/ring_school_bell.jpg"
+                    "imageURL": "img/persons/studentm.jpg"
                 },
                 {
                     "name": "Even Johannes",
-                    "imageURL": "img/sound_effects/quack.jpg"
+                    "imageURL": "img/persons/studentm.jpg"
                 },
                 {
                     "name": "Emma",
-                    "imageURL": "img/sound_effects/English_bulldog.jpg"
+                    "imageURL": "img/persons/studentf.jpg"
                 },
                 {
                     "name": "Ingri Emilie",
-                    "imageURL": "img/sound_effects/chicken.jpg"
+                    "imageURL": "img/persons/studentf.jpg"
                 },
                 {
                     "name": "Ingrid Christine",
-                    "imageURL": "img/sound_effects/meow.jpg"
+                    "imageURL": "img/persons/studentf.jpg"
                 },
                 {
                     "name": "Angelica Synnøve",
-                    "imageURL": "img/sound_effects/moo.jpg"
+                    "imageURL": "img/persons/studentf.jpg"
                 },
                 {
                     "name": "Håkon Ø",
-                    "imageURL": "img/sound_effects/lick.jpg"
+                    "imageURL": "img/persons/studentm.jpg"
                 },
                 {
                     "name": "Stian",
-                    "imageURL": "img/sound_effects/surprised.jpg"
+                    "imageURL": "img/persons/studentm.jpg"
                 },
                 {
                     "name": "Håkon L.",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/persons/studentm.jpg"
                 },
                 {
                     "name": "Kine",
-                    "imageURL": "img/sound_effects/woof.jpg"
+                    "imageURL": "img/persons/studentf.jpg"
                 },
                 {
                     "name": "Camilla",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/persons/studentf.jpg"
                 },
                 {
                     "name": "Amalie",
-                    "imageURL": "img/sound_effects/surprised.jpg"
+                    "imageURL": "img/persons/studentf.jpg"
                 },
                 {
                     "name": "Ingeborg",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/persons/studentf.jpg"
                 },
                 {
                     "name": "Ranja",
-                    "imageURL": "img/sound_effects/woof.jpg"
+                    "imageURL": "img/persons/studentf.jpg"
                 },
                 {
                     "name": "Yrja",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/persons/studentf.jpg"
                 },
                 {
                     "name": "Ranveig",
-                    "imageURL": "img/sound_effects/woof.jpg"
+                    "imageURL": "img/persons/studentf.jpg"
                 },
                 {
                     "name": "Even",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/persons/studentm.jpg"
                 },
                 {
                     "name": "Erik",
-                    "imageURL": "img/sound_effects/woof.jpg"
+                    "imageURL": "img/persons/studentm.jpg"
                 },
                 {
                     "name": "Mona",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/persons/teacherf.jpg"
                 },
                 {
                     "name": "Hilde",
-                    "imageURL": "img/sound_effects/woof.jpg"
+                    "imageURL": "img/persons/teacherf.jpg"
                 },
                 {
                     "name": "Lise",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/persons/teacherf.jpg"
                 },
                 {
                     "name": "Magnhild",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/persons/teacherf.jpg"
                 },
                 {
                     "name": "Kristin",
-                    "imageURL": "img/sound_effects/woof.jpg"
+                    "imageURL": "img/persons/teacherf.jpg"
                 },
                 {
                     "name": "Randi",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/persons/teacherf.jpg"
                 },
                 {
                     "name": "Torunn",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/persons/teacherf.jpg"
                 },
                 {
                     "name": "Sigrun",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/persons/teacherf.jpg"
                 },
                 {
                     "name": "Ina",
-                    "imageURL": "img/sound_effects/woof.jpg"
+                    "imageURL": "img/persons/teacherf.jpg"
                 },
                 {
                     "name": "Hilde F.",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/persons/teacherf.jpg"
                 },
                 {
                     "name": "Synnøve",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/persons/teacherf.jpg"
                 },
                 {
                     "name": "Berit",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/persons/teacherf.jpg"
                 },
                 {
                     "name": "Bertil",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/persons/teacherf.jpg"
                 },
                 {
                     "name": "Marthe",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/persons/teacherf.jpg"
                 },
                 {
                     "name": "Gjermund",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/people/father.jpg"
                 },
                 {
                     "name": "Ragnhild",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/people/mother.jpg"
                 },
                 {
                     "name": "Magne",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/people/uncle.jpg"
                 },
                 {
-                    "name": "Eldri",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "name": "Eldrid",
+                    "imageURL": "img/people/aunt.jpg"
                 },
                 {
                     "name": "Øystein",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/people/uncle.jpg"
                 },
                 {
                     "name": "Nora",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/people/aunt.jpg"
                 },
                 {
                     "name": "Simen",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/people/uncle.jpg"
                 },
                 {
                     "name": "May",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/people/aunt.jpg"
                 },
                 {
                     "name": "Ane",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/people/aunt.jpg"
                 },
                 {
                     "name": "Bjørg",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/people/grandmother.jpg"
                 },
                 {
                     "name": "Janike",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/people/grandmother.jpg"
                 },
                 {
                     "name": "Erik",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/people/grandfather.jpg"
                 },
                 {
                     "name": "Pål",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/people/grandfather.jpg"
                 },
                 {
                     "name": "Martin",
-                    "imageURL": "img/sound_effects/train.jpg"
+                   "imageURL": "img/persons/cousinm.jpg"
+                },
+                {
+                    "name": "Ylva",
+                   "imageURL": "img/persons/cousinf.jpg"
+                },
+                {
+                    "name": "Fey Elise",
+                   "imageURL": "img/persons/cousinf.jpg"
+                },
+                {
+                    "name": "Lars",
+                    "imageURL": "img/persons/man.jpg"
+                },
+                {
+                    "name": "Micke",
+                    "imageURL": "img/persons/man.jpg"
+                },
+                {
+                    "name": "Marius",
+                    "imageURL": "img/persons/man.jpg"
+                },
+                {
+                    "name": "Alex",
+                    "imageURL": "img/persons/man.jpg"
+                },
+                {
+                    "name": "Silje",
+                    "imageURL": "img/persons/woman.jpg"
+                },
+                {
+                    "name": "Espen",
+                    "imageURL": "img/persons/man.jpg"
+                },
+                {
+                    "name": "Lars Erik",
+                    "imageURL": "img/persons/man.jpg"
+                },
+                {
+                    "name": "Inga",
+                    "imageURL": "img/persons/womanb.jpg"
+                },
+                {
+                    "name": "Nicolay",
+                    "imageURL": "img/persons/boy.jpg"
+                },
+                {
+                    "name": "Thomas",
+                    "imageURL": "img/persons/boy.jpg"
                 },
                 {
                     "name": "Martin",
-                    "imageURL": "img/sound_effects/train.jpg"
+                    "imageURL": "img/persons/boy.jpg"
                 },
+                {
+                    "name": "Missy",
+                    "imageURL": "img/animals/cat.jpg"
+                },
+                {
+                    "name": "Max",
+                    "imageURL": "img/animals/cat.jpg"
+                },
+                {
+                    "name": "Langbein",
+                    "imageURL": "img/persons/Goofy.jpg"
+                },
+                {
+                    "name": "Snipp",
+                    "imageURL": "img/persons/chipmunk.jpg"
+                },
+                {
+                    "name": "Snapp",
+                    "imageURL": "img/persons/chipmunk.jpg"
+                },
+                {
+                    "name": "Donald",
+                    "imageURL": "img/persons/donald.jpg"
+                },
+                /*
+                {
+                    "name": "Grufalo",
+                    "imageURL": "img/persons/donald.jpg"
+                },
+                {
+                    "name": "Plonsters",
+                    "imageURL": "img/persons/donald.jpg"
+                },
+                */
                 {
                     "name": "de",
                     "imageURL": "img/categories/talk.jpg"
@@ -605,68 +687,44 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/people/friend.jpg"
                 },
                 {
-                    "name": "doktor",
-                    "imageURL": "img/people/friend.jpg"
-                },
-                {
-                    "name": "Donald",
-                    "imageURL": "img/people/friend.jpg"
-                },
-                {
                     "name": "kjæreste",
-                    "imageURL": "img/people/friend.jpg"
-                },
-                {
-                    "name": "lærer",
-                    "imageURL": "img/people/friend.jpg"
+                    "imageURL": "img/persons/girlfriend.jpg"
                 },
                 {
                     "name": "nabo",
-                    "imageURL": "img/people/friend.jpg"
+                    "imageURL": "img/persons/neighbor.jpg"
                 },
                 {
                     "name": "nisse",
-                    "imageURL": "img/people/friend.jpg"
+                    "imageURL": "img/persons/santa.jpg"
                 },
                 {
                     "name": "nissen",
-                    "imageURL": "img/people/friend.jpg"
-                },
-                {
-                    "name": "onkel",
-                    "imageURL": "img/people/friend.jpg"
+                    "imageURL": "img/persons/santa.jpg"
                 },
                 {
                     "name": "person",
-                    "imageURL": "img/people/friend.jpg"
-                },
-                {
-                    "name": "politi",
-                    "imageURL": "img/people/friend.jpg"
+                    "imageURL": "img/persons/man1.jpg"
                 },
                 {
                     "name": "sykepleie",
-                    "imageURL": "img/people/friend.jpg"
-                },
-                {
-                    "name": "tante",
-                    "imageURL": "img/people/friend.jpg"
+                    "imageURL": "img/people/nurse.jpg"
                 },
                 {
                     "name": "vi",
-                    "imageURL": "img/people/friend.jpg"
+                    "imageURL": "img/persons/us.jpg"
                 },
                 {
                     "name": "vi to",
-                    "imageURL": "img/people/friend.jpg"
+                    "imageURL": "img/persons/us.jpg"
                 },
                 {
                     "name": "gudmor",
-                    "imageURL": "img/people/friend.jpg"
+                    "imageURL": "img/people/mother.jpg"
                 },
                 {
                     "name": "gudfar",
-                    "imageURL": "img/people/friend.jpg"
+                    "imageURL": "img/people/father.jpg"
                 },
                 {
                     "name": "venninne",
