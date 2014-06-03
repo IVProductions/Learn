@@ -3279,7 +3279,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 11,
             "name": "Beskrivende ord",
-            "imageURL": "img/categories/furniture.jpg",
+            "imageURL": "img/categories/talk.jpg",
             "words": [
                 {
                     "name": "alle",
@@ -3754,194 +3754,150 @@ Learn.factory('learnFactory', function() {
         {
             "id": 12,
             "name": "Mengde ord",
-            "imageURL": "img/categories/outdoors.jpg",
+            "imageURL": "img/categories/talk.jpg",
             "words": [
                 {
-                    "name": "badebasseng",
-                    "imageURL": "img/outdoor/swimming_pool.jpg"
+                    "name": "alle",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "bakgård",
-                    "imageURL": "img/outdoor/patio.jpg"
+                    "name": "alt",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "blomst",
-                    "imageURL": "img/outdoor/flower.jpg"
+                    "name": "andre",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "fjell",
-                    "imageURL": "img/outdoor/mountain.jpg"
+                    "name": "den",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "flagg",
-                    "imageURL": "img/outdoor/flag.jpg"
+                    "name": "det",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "fortau",
-                    "imageURL": "img/outdoor/sidewalk.jpg"
+                    "name": "ei",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "gress",
-                    "imageURL": "img/outdoor/grass.jpg"
+                    "name": "en",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "gressklipper",
-                    "imageURL": "img/outdoor/mow.jpg"
+                    "name": "en annen",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "himmel",
-                    "imageURL": "img/outdoor/sky.jpg"
+                    "name": "et",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "huske",
-                    "imageURL": "img/outdoor/swing.jpg"
+                    "name": "hver",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "kjelke",
-                    "imageURL": "img/outdoor/sled.jpg"
-                },
-                {
-                    "name": "måne",
-                    "imageURL": "img/outdoor/starry_night_sky.jpg"
-                },
-                {
-                    "name": "pinne",
-                    "imageURL": "img/outdoor/stick.jpg"
-                },
-                {
-                    "name": "regn",
-                    "imageURL": "img/outdoor/freezing_rain.jpg"
-                },
-                {
-                    "name": "sandkasse",
-                    "imageURL": "img/outdoor/sandbox.jpg"
-                },
-                {
-                    "name": "sklie",
-                    "imageURL": "img/outdoor/slide.jpg"
-                },
-                {
-                    "name": "skyer",
-                    "imageURL": "img/outdoor/clouds.jpg"
-                },
-                {
-                    "name": "snø",
-                    "imageURL": "img/outdoor/snow.jpg"
-                },
-                {
-                    "name": "snømann",
-                    "imageURL": "img/outdoor/snowman.jpg"
-                },
-                {
-                    "name": "sol",
-                    "imageURL": "img/outdoor/Sun.jpg"
-                },
-                {
-                    "name": "spade",
-                    "imageURL": "img/outdoor/shovel.jpg"
-                },
-                {
-                    "name": "steiner",
-                    "imageURL": "img/outdoor/stones.jpg"
-                },
-                {
-                    "name": "stige",
-                    "imageURL": "img/outdoor/ladder.jpg"
-                },
-                {
-                    "name": "stjerner",
-                    "imageURL": "img/outdoor/stars.jpg"
-                },
-                {
-                    "name": "tak",
-                    "imageURL": "img/outdoor/roof.jpg"
-                },
-                {
-                    "name": "trampoline",
-                    "imageURL": "img/outdoor/trampoline.jpg"
-                },
-                {
-                    "name": "tre",
-                    "imageURL": "img/outdoor/tree.jpg"
-                },
-                {
-                    "name": "vann",
-                    "imageURL": "img/outdoor/water.jpg"
-                },
-                {
-                    "name": "vannslange",
-                    "imageURL": "img/outdoor/hose.jpg"
-                },
-                {
-                    "name": "vei",
-                    "imageURL": "img/outdoor/road.jpg"
-                },
-                {
-                    "name": "nøye",
-                    "imageURL": "img/outdoor/road.jpg"
-                },
-                {
-                    "name": "presis",
-                    "imageURL": "img/outdoor/road.jpg"
-                },
-                {
-                    "name": "riktig",
-                    "imageURL": "img/outdoor/road.jpg"
-                },
-                {
-                    "name": "samme",
-                    "imageURL": "img/outdoor/road.jpg"
-                },
-                {
-                    "name": "full",
-                    "imageURL": "img/outdoor/road.jpg"
-                },
-                {
-                    "name": "først",
-                    "imageURL": "img/outdoor/road.jpg"
-                },
-                {
-                    "name": "gjenta",
-                    "imageURL": "img/outdoor/road.jpg"
-                },
-                {
-                    "name": "halvparten",
-                    "imageURL": "img/outdoor/road.jpg"
-                },
-                {
-                    "name": "høy",
-                    "imageURL": "img/outdoor/road.jpg"
-                },
-                {
-                    "name": "igjen",
-                    "imageURL": "img/outdoor/road.jpg"
+                    "name": "hvert",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "ikke",
-                    "imageURL": "img/outdoor/road.jpg"
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "ingen",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "ingenting",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "litt",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "mange",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "mer",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "mye",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "noe",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "noen",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "også",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "samme",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "nøye",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "presis",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "riktig",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "full",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "først",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "gjenta",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "halvparten",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "høy",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "igjen",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "klart",
-                    "imageURL": "img/outdoor/road.jpg"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "minst",
-                    "imageURL": "img/outdoor/road.jpg"
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
                     "name": "plutselig",
-                    "imageURL": "img/outdoor/road.jpg"
-                },
-                {
-                    "name": "vind",
-                    "imageURL": "img/outdoor/wind.jpg"
+                    "imageURL": "img/categories/talk.jpg"
                 }
             ]
         },
         {
             "id": 13,
             "name": "Ord om tid",
-            "imageURL": "img/categories/playground.jpg",
+            "imageURL": "img/time/time.jpg",
             "words": [
                 {
                     "name": "dag",
@@ -4009,79 +3965,79 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "mandag",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/day.jpg"
                 },
                 {
                     "name": "tirsdag",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/day.jpg"
                 },
                 {
                     "name": "onsdag",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/day.jpg"
                 },
                 {
                     "name": "torsdag",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/day.jpg"
                 },
                 {
                     "name": "fredag",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/day.jpg"
                 },
                 {
                     "name": "lørdag",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/day.jpg"
                 },
                 {
                     "name": "søndag",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/day.jpg"
                 },
                 {
                     "name": "januar",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/month.jpg"
                 },
                 {
                     "name": "februar",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/month.jpg"
                 },
                 {
                     "name": "mars",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/month.jpg"
                 },
                 {
                     "name": "april",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/month.jpg"
                 },
                 {
                     "name": "mai",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/month.jpg"
                 },
                 {
                     "name": "juni",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/month.jpg"
                 },
                 {
                     "name": "juli",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/month.jpg"
                 },
                 {
                     "name": "august",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/month.jpg"
                 },
                 {
                     "name": "september",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/month.jpg"
                 },
                 {
                     "name": "oktober",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/month.jpg"
                 },
                 {
                     "name": "november",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/month.jpg"
                 },
                 {
                     "name": "desember",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/month.jpg"
                 },
                 {
                     "name": "etterpå",
@@ -4093,7 +4049,11 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "høst",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/fall.jpg"
+                },
+                {
+                    "name": "sommer",
+                    "imageURL": "img/time/summer.jpg"
                 },
                 {
                     "name": "lang",
@@ -4113,11 +4073,11 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "måned",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/month.jpg"
                 },
                 {
                     "name": "natt",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/night.jpg"
                 },
                 {
                     "name": "nå",
@@ -4145,15 +4105,15 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "vinter",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/winter.jpg"
                 },
                 {
                     "name": "vår",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/spring.jpg"
                 },
                 {
                     "name": "årstid",
-                    "imageURL": "img/time/time.jpg"
+                    "imageURL": "img/time/seasons.jpg"
                 },
                 {
                     "name": "klokken",
