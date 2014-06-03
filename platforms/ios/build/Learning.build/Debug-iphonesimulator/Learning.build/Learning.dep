@@ -1,5 +1,5 @@
 4b48dd6d715e125855c09fd4bb2e7c7a 460ad1ec82c24e8aba3a5f72284b6fd0 ffffffffffffffffffffffffffffffff 1054 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app
-00000000536d52a70000000000000a13 a400baa88e1df85b4f190036431b14d4 ffffffffffffffffffffffffffffffff 0 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/PkgInfo
+00000000536d53ca0000000000000a13 a400baa88e1df85b4f190036431b14d4 ffffffffffffffffffffffffffffffff 0 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/PkgInfo
 00000000532264050000000000000066 eedcc2b293a65aec524f4d3e18909acf ffffffffffffffffffffffffffffffff 102 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/CDVNotification.bundle
 00000000533b4def0000000000002dba 141a31100a59c82a5a04434a27a13f0a ffffffffffffffffffffffffffffffff 11706 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/icon-72@2x.png
 00000000533b4def0000000000003b9e 08b2599856b0b7b81458291b99d12270 ffffffffffffffffffffffffffffffff 15262 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/icon-76@2x.png
@@ -25,8 +25,8 @@
 00000000533b4def0000000000001350 2a5ed88ee3ea8f4f01abb9962d250deb ffffffffffffffffffffffffffffffff 4944 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/icon-72.png
 00000000533b4def0000000000001cf3 98c45f721ccd35280f2569cd1db3dc6f ffffffffffffffffffffffffffffffff 7411 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/icon-40@2x.png
 00000000533b4def0000000000001b71 c55f9150fdc3daab2505bb948ae4e247 ffffffffffffffffffffffffffffffff 7025 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/icon-76.png
-a6e79a6b0d497c2bf3b81b99b34ebc56 43b615f91323482ad6778c55ef2e2405 ffffffffffffffffffffffffffffffff 102 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app.dSYM
-00000000536d52a70000000000000a13 a400baa88e1df85b4f190036431b14d4 ffffffffffffffffffffffffffffffff 1283 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/Info.plist
+a6e79a6b0d497d46f3b81b99b34ebc56 43b615f91323482ad6778c55ef2e2405 ffffffffffffffffffffffffffffffff 102 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app.dSYM
+00000000536d53ca0000000000000a13 a400baa88e1df85b4f190036431b14d4 ffffffffffffffffffffffffffffffff 1283 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/Info.plist
 00000000000bb8ae00000000009d84c8 02e720c3d0493059bca11baff1749c1d ffffffffffffffffffffffffffffffff 506084 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/emulator/Learning.app/Learning
 b6a79b46772e162762304ea939b58e95 bf590fbbf6e92a570888a00b76d1a8da ffffffffffffffffffffffffffffffff 141300 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVSound.o
 b6a79b46772e162762304ea939b53fdc caa28b73de28ac92ff007b30c9d3b88f ffffffffffffffffffffffffffffffff 55172 /Users/Kristoffer/Progging/GitHub/Learn/platforms/ios/build/Learning.build/Debug-iphonesimulator/Learning.build/Objects-normal/i386/CDVAssetLibraryFilesystem.o
