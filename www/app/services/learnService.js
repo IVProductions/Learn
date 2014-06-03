@@ -735,7 +735,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 3,
             "name": "Spørre ord",
-            "imageURL": "img/categories/sounds.jpg",
+            "imageURL": "img/question/question.jpg",
             "words": [
                 {
                     "name": "hva",
@@ -806,7 +806,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 4,
             "name": "Bindeord",
-            "imageURL": "img/categories/farm_animals.jpg",
+            "imageURL": "img/categories/talk.jpg",
             "words": [
                 {
                     "name": "at",
@@ -885,7 +885,7 @@ Learn.factory('learnFactory', function() {
         {
             "id": 5,
             "name": "Hjelpeverb",
-            "imageURL": "img/categories/vehicles.jpg",
+            "imageURL": "img/categories/talk.jpg",
             "words": [
                 {
                     "name": "bli",
@@ -2858,31 +2858,27 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "Australia",
-                    "imageURL": "img/categories/talk.jpg"
+                    "imageURL": "img/where/Australia.jpg"
                 },
                 {
                     "name": "barnehage",
-                    "imageURL": "img/categories/talk.jpg"
+                    "imageURL": "img/where/school.jpg"
                 },
                 {
                     "name": "bibliotek",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "borte",
-                    "imageURL": "img/categories/talk.jpg"
+                    "imageURL": "img/where/reading_class.jpg"
                 },
                 {
                     "name": "hule",
-                    "imageURL": "img/categories/talk.jpg"
+                    "imageURL": "img/where/cave.jpg"
                 },
                 {
                     "name": "isbre",
-                    "imageURL": "img/categories/talk.jpg"
+                    "imageURL": "img/where/glacier.jpg"
                 },
                 {
                     "name": "kontor",
-                    "imageURL": "img/categories/talk.jpg"
+                    "imageURL": "img/where/work.jpg"
                 },
                 {
                     "name": "mellom",
@@ -2890,43 +2886,31 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "skole",
-                    "imageURL": "img/categories/talk.jpg"
+                    "imageURL": "img/where/school.jpg"
                 },
                 {
                     "name": "stortinget",
-                    "imageURL": "img/categories/talk.jpg"
+                    "imageURL": "img/where/Parlament.jpg"
                 },
                 {
                     "name": "stue",
-                    "imageURL": "img/categories/talk.jpg"
+                    "imageURL": "img/where/living_room.jpg"
                 },
                 {
                     "name": "sykehus",
-                    "imageURL": "img/categories/talk.jpg"
+                    "imageURL": "img/where/hospital.jpg"
                 },
                 {
                     "name": "tur",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "under",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "fest",
-                    "imageURL": "img/categories/talk.jpg"
+                    "imageURL": "img/where/hike.jpg"
                 },
                 {
                     "name": "bekk",
-                    "imageURL": "img/categories/talk.jpg"
+                    "imageURL": "img/where/stream.jpg"
                 },
                 {
                     "name": "besøk",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "skog",
-                    "imageURL": "img/categories/talk.jpg"
+                    "imageURL": "img/where/visitor.jpg"
                 },
                 {
                     "name": "vekk",
