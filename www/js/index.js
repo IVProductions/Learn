@@ -47,6 +47,7 @@ var lengthOfSentence = -1;
 var indexOfSentence = 0;
 var isReadingSentence = false;
 var buttonDisabled = false;
+var isReadingWord = false;
 
 //Methods being called from the native code (Objective-C) asynchronously:
 function highlightWord() {
@@ -65,6 +66,7 @@ function doneReadingWord() {
         isReadingSentence = false;
         buttonDisabled = false;
     }
+    isReadingWord = false;
 }
 
 /*END -- logic for highlighting sentences being read by TTS*/

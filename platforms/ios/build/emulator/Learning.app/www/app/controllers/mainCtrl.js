@@ -53,28 +53,30 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
         }
     }
     $scope.seeSentence = function(sentence){
-        $("#items li").each(function(index, value) {
-            value.remove();
-        });
-        for (var i = 0; i <sentence.words.length; i++){
-            var sortableWord = jQuery('<li/>', {
-                class: 'list',
-                text: sentence.words[i].name
-            }).click(function() {$scope.readWord($(this).html());}).appendTo($("#items"));
-            sortableWord.append('<br/>');
-            var sortableWordImg = jQuery('<img/>', {
-                src: sentence.words[i].imageURL,
-                width: "55px",
-                height: "55px"
-            }).appendTo(sortableWord);
-            sortableWordImg.css({borderBottomLeftRadius: 13, borderBottomRightRadius: 13});
+        if (buttonDisabled==false) {
+            $("#items li").each(function(index, value) {
+                value.remove();
+            });
+            for (var i = 0; i <sentence.words.length; i++){
+                var sortableWord = jQuery('<li/>', {
+                    class: 'list',
+                    text: sentence.words[i].name
+                }).click(function() {$scope.readWord($(this).html());}).appendTo($("#items"));
+                sortableWord.append('<br/>');
+                var sortableWordImg = jQuery('<img/>', {
+                    src: sentence.words[i].imageURL,
+                    width: "55px",
+                    height: "55px"
+                }).appendTo(sortableWord);
+                sortableWordImg.css({borderBottomLeftRadius: 13, borderBottomRightRadius: 13});
+            }
+            playAudio("audio/bop_success.mp3")
+            $scope.setDroppable();
+            isDraggingGlobalWord = false;
+            dragCounter = 0;
+            indexOfSortable = -1;
+            $(".inputBox").css("background-color", "cornflowerblue");
         }
-        playAudio("audio/bop_success.mp3")
-        $scope.setDroppable();
-        isDraggingGlobalWord = false;
-        dragCounter = 0;
-        indexOfSortable = -1;
-        $(".inputBox").css("background-color", "cornflowerblue");
     }
 
     $scope.redirect = function(path) {
@@ -85,20 +87,23 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
     /*DRAG N DROP FUNCTIONALITY  /  TTS FUNCTIONALITY*/
 
     $scope.readWord = function(word) {
-        if (buttonDisabled==false) {
+        if (buttonDisabled==false && isReadingWord==false) {
             var list = word.split("<br>");
             TTSPlugin.speak(list[0],function(){
+                isReadingWord = true;
             }, function(){
             });
+            isReadingWord = false;
         }
     }
 
     $scope.readWord2 = function(element) {
-        if (buttonDisabled==false) {
+        if (buttonDisabled==false && isReadingWord==false) {
             var list1 = element.split(">");
             var word = list1[1].split("<");
             console.log(word[0]);
             TTSPlugin.speak(word[0],function(){
+                isReadingWord = true;
             }, function(){
             });
         }
@@ -275,55 +280,57 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
     }
 */
     $scope.setAsFavorite = function() {
-        if ($("#items li").size() != 0) {
-            var duplicate = false;
-            var newSentence = ""
-            $("#items li").each(function(index, value) {
-                var list = $(value).html().split("<br>");
-                newSentence += list[0];
-            });
-            var oldSentence = "";
-            for(var i = 0; i<$scope.sentences.length; i++){
-                for(var j = 0; j<$scope.sentences[i].words.length; j++){
-                    oldSentence += $scope.sentences[i].words[j].name;
-                }
-                if(newSentence == oldSentence){
-                    duplicate = true;
-                    break;
-                }
-                newSentence = "";
-            }
-            if(!duplicate){
-                var str = '{"words": [';
-                //var listOfWords = [];
+            if ($("#items li").size() != 0) {
+                var duplicate = false;
+                var newSentence = "";
                 $("#items li").each(function(index, value) {
                     var list = $(value).html().split("<br>");
-                    var word = list[0];
-                    var imageURL = list[1].split('"')[1];
-                    str += '{"name": "'+word+'", "imageURL": "'+imageURL+'"},'
+                    newSentence += list[0];
                 });
-                str = str.substring(0, str.length-1);
-                str += ']}';
-                var object = JSON.parse(str);
-                $scope.sentences.push(object);
-                //console.log($scope.sentences);
-                //$scope.sentences.push({"words":listOfWords});
-                window.localStorage.setItem("sentences", JSON.stringify($scope.sentences));
-                var r = Math.random().toString().substring(3,7);
-                var $starAnim = $("<img>", {src: "img/star.png", class: "starAnim"+r+" star", height: "10", width: "10"});
-                $starAnim.css('position', 'absolute');
-                $starAnim.css('top', '300px');
-                $starAnim.css('left', '500px');
-                $(".main").append($starAnim);
-                //$('.critAnim'+r).animate({percent: 200}, 500, function () {
-                //	$('.critAnim'+r).remove();
-                //});
-                $('.starAnim'+r).effect("scale", {percent:5000, origin:['middle','center']}, 300, function () {
-                    $('.starAnim'+r).remove();
-                    $(".star").remove();
-                });
+                var oldSentence = "";
+                for(var i = 0; i<$scope.sentences.length; i++){   //for every sentence
+                    for(var j = 0; j<$scope.sentences[i].words.length; j++){  //for every word in sentence
+                        oldSentence += $scope.sentences[i].words[j].name;
+                    }
+                    console.log("Favorite sentence "+newSentence);
+                    console.log("Existing sentence "+oldSentence);
+                    if(newSentence == oldSentence){
+                        duplicate = true;
+                        break;
+                    }
+                    oldSentence = "";
+                }
+                if(!duplicate){
+                    var str = '{"words": [';
+                    //var listOfWords = [];
+                    $("#items li").each(function(index, value) {
+                        var list = $(value).html().split("<br>");
+                        var word = list[0];
+                        var imageURL = list[1].split('"')[1];
+                        str += '{"name": "'+word+'", "imageURL": "'+imageURL+'"},'
+                    });
+                    str = str.substring(0, str.length-1);
+                    str += ']}';
+                    var object = JSON.parse(str);
+                    $scope.sentences.push(object);
+                    //console.log($scope.sentences);
+                    //$scope.sentences.push({"words":listOfWords});
+                    window.localStorage.setItem("sentences", JSON.stringify($scope.sentences));
+                    var r = Math.random().toString().substring(3,7);
+                    var $starAnim = $("<img>", {src: "img/star.png", class: "starAnim"+r+" star", height: "10", width: "10"});
+                    $starAnim.css('position', 'absolute');
+                    $starAnim.css('top', '300px');
+                    $starAnim.css('left', '500px');
+                    $(".main").append($starAnim);
+                    //$('.critAnim'+r).animate({percent: 200}, 500, function () {
+                    //	$('.critAnim'+r).remove();
+                    //});
+                    $('.starAnim'+r).effect("scale", {percent:5000, origin:['middle','center']}, 300, function () {
+                        $('.starAnim'+r).remove();
+                        $(".star").remove();
+                    });
+                }
             }
-        }
     }
 
     $scope.removeSentence = function() {
@@ -336,34 +343,6 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
     }
 
     $scope.deleteFavorite = function(index) {
-
-        /*
-        $('<div class="modalt"></div>').appendTo('.main')
-            .html('<div><h6>Vil du slette denne setningen?</h6></div>')
-            .dialog({
-                modal: true,
-                title: 'Delete message',
-                zIndex: 10000,
-                autoOpen: true,
-                width: 'auto',
-                resizable: false,
-                buttons: {
-                    Yes: function () {
-                        // $(obj).removeAttr('onclick');
-                        // $(obj).parents('.Parent').remove();
-
-                        $(this).dialog("close");
-
-                    },
-                    No: function () {
-                        $(this).dialog("close");
-                    }
-                },
-                close: function (event, ui) {
-                    $(this).remove();
-                }
-            });
-        */
         $scope.sentences = JSON.parse(window.localStorage.getItem("sentences"));
         $scope.sentences.splice(index, 1);
         window.localStorage.setItem("sentences", JSON.stringify($scope.sentences));
