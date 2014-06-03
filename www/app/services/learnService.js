@@ -605,6 +605,70 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/people/friend.jpg"
                 },
                 {
+                    "name": "doktor",
+                    "imageURL": "img/people/friend.jpg"
+                },
+                {
+                    "name": "Donald",
+                    "imageURL": "img/people/friend.jpg"
+                },
+                {
+                    "name": "kjæreste",
+                    "imageURL": "img/people/friend.jpg"
+                },
+                {
+                    "name": "lærer",
+                    "imageURL": "img/people/friend.jpg"
+                },
+                {
+                    "name": "nabo",
+                    "imageURL": "img/people/friend.jpg"
+                },
+                {
+                    "name": "nisse",
+                    "imageURL": "img/people/friend.jpg"
+                },
+                {
+                    "name": "nissen",
+                    "imageURL": "img/people/friend.jpg"
+                },
+                {
+                    "name": "onkel",
+                    "imageURL": "img/people/friend.jpg"
+                },
+                {
+                    "name": "person",
+                    "imageURL": "img/people/friend.jpg"
+                },
+                {
+                    "name": "politi",
+                    "imageURL": "img/people/friend.jpg"
+                },
+                {
+                    "name": "sykepleie",
+                    "imageURL": "img/people/friend.jpg"
+                },
+                {
+                    "name": "tante",
+                    "imageURL": "img/people/friend.jpg"
+                },
+                {
+                    "name": "vi",
+                    "imageURL": "img/people/friend.jpg"
+                },
+                {
+                    "name": "vi to",
+                    "imageURL": "img/people/friend.jpg"
+                },
+                {
+                    "name": "gudmor",
+                    "imageURL": "img/people/friend.jpg"
+                },
+                {
+                    "name": "gudfar",
+                    "imageURL": "img/people/friend.jpg"
+                },
+                {
                     "name": "venninne",
                     "imageURL": "img/people/friends.jpg"
                 }
@@ -637,6 +701,42 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "hvorfor",
+                    "imageURL": "img/question/question.jpg"
+                },
+                {
+                    "name": "løsning",
+                    "imageURL": "img/question/question.jpg"
+                },
+                {
+                    "name": "fortelle",
+                    "imageURL": "img/question/question.jpg"
+                },
+                {
+                    "name": "har",
+                    "imageURL": "img/question/question.jpg"
+                },
+                {
+                    "name": "Kjerstina",
+                    "imageURL": "img/question/question.jpg"
+                },
+                {
+                    "name": "kanskje",
+                    "imageURL": "img/question/question.jpg"
+                },
+                {
+                    "name": "om igjen",
+                    "imageURL": "img/question/question.jpg"
+                },
+                {
+                    "name": "vet",
+                    "imageURL": "img/question/question.jpg"
+                },
+                {
+                    "name": "vil",
+                    "imageURL": "img/question/question.jpg"
+                },
+                {
+                    "name": "spørre",
                     "imageURL": "img/question/question.jpg"
                 },
                 {
@@ -680,6 +780,42 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "så",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "med",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "treffe",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "må",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "neste",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "på",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "samarbeid",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "sammen",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "venstre",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "takk",
                     "imageURL": "img/categories/talk.jpg"
                 },
                 {
@@ -775,6 +911,98 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "vil",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "bare",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "beklager",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "derfor",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "fordi",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "god natt",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "heter",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "ikke lyst",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "har lyst",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "kle av",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "kle på",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "konsentrere",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "opptatt",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "pause",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "prøve",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "samarbeide",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "skal",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "synes",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "tilbake",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "velge",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "vise",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "please",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "ønsker",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "uheldig",
                     "imageURL": "img/categories/talk.jpg"
                 },
                 {
@@ -1497,6 +1725,30 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/vehicles/tractor.jpg"
                 },
                 {
+                    "name": "buss",
+                    "imageURL": "img/vehicles/tractor.jpg"
+                },
+                {
+                    "name": "bil",
+                    "imageURL": "img/vehicles/tractor.jpg"
+                },
+                {
+                    "name": "fly",
+                    "imageURL": "img/vehicles/tractor.jpg"
+                },
+                {
+                    "name": "seile",
+                    "imageURL": "img/vehicles/tractor.jpg"
+                },
+                {
+                    "name": "tog",
+                    "imageURL": "img/vehicles/tractor.jpg"
+                },
+                {
+                    "name": "trikk",
+                    "imageURL": "img/vehicles/tractor.jpg"
+                },
+                {
                     "name": "trehjulssykkel",
                     "imageURL": "img/vehicles/tricycle.jpg"
                 }
@@ -1936,6 +2188,362 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/verb/hope.jpg"
                 },
                 {
+                    "name": "prøve",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "øve",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "ake",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "arbeide",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "bade",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "bake",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "banke",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "begynne",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "beholde",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "bestemme",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "betale",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "bite",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "blinke",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "blåse",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "bo",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "danse",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "disse",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "drømme",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "dusje",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "erte",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "bli ertet",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "finne",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "fiske",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "forstår",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "fryse",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "fungere",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "få",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "gjemme",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "gjemsel",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "gjøre",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "glemme",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "gymnastikk",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "handle",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "hyle",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "kile",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "kjefte",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "huske",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "hvile",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "kjenne",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "klippe",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "koke",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "kose",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "lage",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "leke",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "lete",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "lime",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "love",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "lyve",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "låne",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "mobbe",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "montere",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "mose",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "operere",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "passe",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "poste",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "dyrke",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "prate",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "pusse nesen",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "pusse tenner",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "reparere",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "rote",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "rydde",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "sitte",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "skifte",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "skli",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "snakke",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "snekre",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "det snør",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "spille",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "stresser",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "syk",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "synge",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "ta bilde",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "tegne",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "telle",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "tisse",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "tulle",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "vaske",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "vaske opp",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "vente",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "virke",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "øve",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "jukse",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "hjelpe",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "suge",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "bære",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "pakke",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "svømme",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
+                    "name": "smake",
+                    "imageURL": "img/verb/hope.jpg"
+                },
+                {
                     "name": "åpne",
                     "imageURL": "img/verb/remove.jpg"
                 }
@@ -2191,6 +2799,78 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/categories/talk.jpg"
                 },
                 {
+                    "name": "Australia",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "barnehage",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "bibliotek",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "borte",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "hule",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "isbre",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "kontor",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "mellom",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "skole",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "stortinget",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "stue",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "sykehus",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "tur",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "under",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "fest",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "bekk",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "besøk",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "skog",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
                     "name": "vekk",
                     "imageURL": "img/categories/talk.jpg"
                 }
@@ -2374,6 +3054,90 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/animals/puppy.jpg"
                 },
                 {
+                    "name": "bjørn",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "ekorn",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "elefant",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "elg",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "froskegg",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "gris",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "hakkespett",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "humle",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "muldvarp",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "mus",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "mygg",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "nesehorn",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "pels",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "pingvin",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "tiger",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "løve",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "leopard",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "skilpadde",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "snegle",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "spurv",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "ugle",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
                     "name": "veps",
                     "imageURL": "img/animals/wasp.jpg"
                 }
@@ -2430,6 +3194,94 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "redd",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "angre",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "glad i",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "godt",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "like",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "mot",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "nysgjerrig",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "overasket",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "sur",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "tålmodig",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "ære",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "ærlighet",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "ønske",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "respekt",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "rolig",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "savne",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "sint",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "skummelt",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "stresset",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "trist",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "trygt",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "problem",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "tørst",
                     "imageURL": "img/describe/grumpy.jpg"
                 },
                 {
@@ -2529,6 +3381,386 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "samme",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "eksplosjon",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "farge",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "aldri",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "alene",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "alltid",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "alt",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "alvorlig",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "ansvar",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "bedre",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "best",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "bety",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "dumt",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "dum",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "dyrt",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "død",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "fantastisk",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "farlig",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "fast",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "feber",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "feil",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "flint",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "flink",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "flott",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "forskjellig",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "frisk",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "giftig",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "gift",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "gøy",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "hard",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "heldigvis",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "hemmelighet",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "hurra",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "hyl",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "høyre",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "kjedelig",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "kulde",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "landskap",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "like",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "lille",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "lov",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "lur",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "merkelig",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "min",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "blå",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "ekkelt",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "missforståelse",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "modig",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "myk",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "ned",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "nesten",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "nettop",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "nok",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "ny",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "ond",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "ondskapsfull",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "perfekt",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "rar",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "rart",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "ren",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "rot",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "ryddig",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "sakte",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "sant",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "siste",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "skitten",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "skummel",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "slem",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "sliten",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "slutt",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "telt",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "tom",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "tørster",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "tålmodighet",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "varm",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "viktig",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "virker",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "våt",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "ærlig",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "ødelagt",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "åpen",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "åpning",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "mett",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "sulten",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "fort",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "kort",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "trygt",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "tørst",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "uheldig",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "rettferdighet",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "nøye",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "presis",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "riktig",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "samme",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "jukse",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "langt",
                     "imageURL": "img/categories/talk.jpg"
                 }
             ]
@@ -2656,6 +3888,62 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "vei",
+                    "imageURL": "img/outdoor/road.jpg"
+                },
+                {
+                    "name": "nøye",
+                    "imageURL": "img/outdoor/road.jpg"
+                },
+                {
+                    "name": "presis",
+                    "imageURL": "img/outdoor/road.jpg"
+                },
+                {
+                    "name": "riktig",
+                    "imageURL": "img/outdoor/road.jpg"
+                },
+                {
+                    "name": "samme",
+                    "imageURL": "img/outdoor/road.jpg"
+                },
+                {
+                    "name": "full",
+                    "imageURL": "img/outdoor/road.jpg"
+                },
+                {
+                    "name": "først",
+                    "imageURL": "img/outdoor/road.jpg"
+                },
+                {
+                    "name": "gjenta",
+                    "imageURL": "img/outdoor/road.jpg"
+                },
+                {
+                    "name": "halvparten",
+                    "imageURL": "img/outdoor/road.jpg"
+                },
+                {
+                    "name": "høy",
+                    "imageURL": "img/outdoor/road.jpg"
+                },
+                {
+                    "name": "igjen",
+                    "imageURL": "img/outdoor/road.jpg"
+                },
+                {
+                    "name": "ikke",
+                    "imageURL": "img/outdoor/road.jpg"
+                },
+                {
+                    "name": "klart",
+                    "imageURL": "img/outdoor/road.jpg"
+                },
+                {
+                    "name": "minst",
+                    "imageURL": "img/outdoor/road.jpg"
+                },
+                {
+                    "name": "plutselig",
                     "imageURL": "img/outdoor/road.jpg"
                 },
                 {
@@ -2807,6 +4095,78 @@ Learn.factory('learnFactory', function() {
                 },
                 {
                     "name": "desember",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "etterpå",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "helg",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "høst",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "lang",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "minutt",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "time",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "sekund",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "måned",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "natt",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "nå",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "sist",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "snart",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "stund",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "time",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "uke",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "vinter",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "vår",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "årstid",
                     "imageURL": "img/time/time.jpg"
                 },
                 {
@@ -3089,6 +4449,82 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/food/full.jpg"
                 },
                 {
+                    "name": "fiskekaker",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "eple",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "kveldsmat",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "leverpostei",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "middag",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "lunch",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "frokost",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "ost",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "potet",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "pære",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "rips",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "sopp",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "sukker",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "suppe",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "syltetøy",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "varm",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "sulten",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "fisk",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "flyndre",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
                     "name": "yoghurt",
                     "imageURL": "img/food/yogurt.jpg"
                 }
@@ -3204,9 +4640,33 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/body/tongue.jpg"
                 },
                 {
+                    "name": "fortann",
+                    "imageURL": "img/body/tongue.jpg"
+                },
+                {
+                    "name": "naken",
+                    "imageURL": "img/body/tongue.jpg"
+                },
+                {
+                    "name": "fortann",
+                    "imageURL": "img/body/tongue.jpg"
+                },
+                {
+                    "name": "tann",
+                    "imageURL": "img/body/tongue.jpg"
+                },
+                {
+                    "name": "varm",
+                    "imageURL": "img/body/tongue.jpg"
+                },
+                {
+                    "name": "åpne",
+                    "imageURL": "img/body/tongue.jpg"
+                },
+                {
                     "name": "tå",
                     "imageURL": "img/body/toenail.jpg"
-                }
+                } 
             ]
         },
         {
