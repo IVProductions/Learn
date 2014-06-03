@@ -789,6 +789,10 @@ Learn.factory('learnFactory', function() {
             "imageURL": "img/categories/toys.jpg",
             "words": [
                 {
+                    "name": "Advent",
+                    "imageURL": "img/what/advent.jpg"
+                },
+                {
                     "name": "ball",
                     "imageURL": "img/toys/ball.jpg"
                 },
@@ -809,6 +813,286 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/toys/blocks.jpg"
                 },
                 {
+                    "name": "datamaskin",
+                    "imageURL": "img/what/computer.jpg"
+                },
+                {
+                    "name": "juice",
+                    "imageURL": "img/food/orange_juice.jpg"
+                },
+                {
+                    "name": "måne",
+                    "imageURL": "img/outdoor/starry_night_sky.jpg"
+                },
+                {
+                    "name": "årer",
+                    "imageURL": "img/what/oars.jpg"
+                },
+                {
+                    "name": "vinger",
+                    "imageURL": "img/what/wing.jpg"
+                },
+                {
+                    "name": "ved",
+                    "imageURL": "img/what/wood.jpg"
+                },
+                {
+                    "name": "tegn",
+                    "imageURL": "img/what/sign_language.jpg"
+                },
+                {
+                    "name": "tale",
+                    "imageURL": "img/what/speech.jpg"
+                },
+                {
+                    "name": "stress",
+                    "imageURL": "img/what/stressed.jpg"
+                },
+                {
+                    "name": "spann",
+                    "imageURL": "img/house_items/bucket.jpg"
+                },
+                {
+                    "name": "snøskuter",
+                    "imageURL": "img/what/snowmobile.jpg"
+                },
+                {
+                    "name": "skøyter",
+                    "imageURL": "img/what/roller_skates.jpg"
+                },
+                {
+                    "name": "skog",
+                    "imageURL": "img/what/forest.jpg"
+                },
+                {
+                    "name": "ski",
+                    "imageURL": "img/what/ski.jpg"
+                },
+                {
+                    "name": "sang",
+                    "imageURL": "img/what/thump_song.jpg"
+                },
+                {
+                    "name": "rettferdighet",
+                    "imageURL": "img/what/fair.jpg"
+                },
+                {
+                    "name": "robot",
+                    "imageURL": "img/what/robot.jpg"
+                },
+                {
+                    "name": "reise",
+                    "imageURL": "img/what/travel.jpg"
+                },
+                {
+                    "name": "regel",
+                    "imageURL": "img/what/rule.jpg"
+                },
+                {
+                    "name": "premie",
+                    "imageURL": "img/what/gold_medal.jpg"
+                },
+                {
+                    "name": "post",
+                    "imageURL": "img/what/mail_carrier.jpg"
+                },
+                {
+                    "name": "operasjon",
+                    "imageURL": "img/what/operation.jpg"
+                },
+                {
+                    "name": "nøkkel",
+                    "imageURL": "img/what/key.jpg"
+                },
+                {
+                    "name": "nål",
+                    "imageURL": "img/what/needle.jpg"
+                },
+                {
+                    "name": "møte",
+                    "imageURL": "img/what/meeting.jpg"
+                },
+                {
+                    "name": "myr",
+                    "imageURL": "img/what/wetlands.jpg"
+                },
+                {
+                    "name": "musikk",
+                    "imageURL": "img/what/music.jpg"
+                },
+                {
+                    "name": "monster",
+                    "imageURL": "img/what/monster.jpg"
+                },
+                {
+                    "name": "lån",
+                    "imageURL": "img/what/loan.jpg"
+                },
+                {
+                    "name": "kø",
+                    "imageURL": "img/what/line.jpg"
+                },
+                {
+                    "name": "kort",
+                    "imageURL": "img/what/card.jpg"
+                },
+                {
+                    "name": "kopi",
+                    "imageURL": "img/what/copy.jpg"
+                },
+                {
+                    "name": "konfirmasjon",
+                    "imageURL": "img/what/confirmation.jpg"
+                },
+                {
+                    "name": "Kaptein Sabeltann",
+                    "imageURL": "img/what/pirate.jpg"
+                },
+                {
+                    "name": "Jul",
+                    "imageURL": "img/what/christmas.jpg"
+                },
+                {
+                    "name": "julenisse",
+                    "imageURL": "img/what/santa.jpg"
+                },
+                {
+                    "name": "juletre",
+                    "imageURL": "img/what/christmas_tree.jpg"
+                },
+                {
+                    "name": "kakao",
+                    "imageURL": "img/what/hot_chocolate.jpg"
+                },
+                {
+                    "name": "jorden",
+                    "imageURL": "img/what/earth.jpg"
+                },
+                {
+                    "name": "jord",
+                    "imageURL": "img/what/dirt.jpg"
+                },
+                {
+                    "name": "jakt",
+                    "imageURL": "img/what/hunter.jpg"
+                },
+                {
+                    "name": "is",
+                    "imageURL": "img/food/sundae.jpg"
+                },
+                {
+                    "name": "ishockey",
+                    "imageURL": "img/what/hockey.jpg"
+                },
+                {
+                    "name": "ishockeykølle",
+                    "imageURL": "img/what/hockey_stick.jpg"
+                },
+                {
+                    "name": "hjelm",
+                    "imageURL": "img/what/helmet.jpg"
+                },
+                {
+                    "name": "Gruffalo",
+                    "imageURL": "img/what/gruffalo.jpg"
+                },
+                {
+                    "name": "grus",
+                    "imageURL": "img/what/gravel.jpg"
+                },
+                {
+                    "name": "grill",
+                    "imageURL": "img/what/grill.jpg"
+                },
+                {
+                    "name": "grein",
+                    "imageURL": "img/what/branch.jpg"
+                },
+                {
+                    "name": "gravemaskin",
+                    "imageURL": "img/what/excavator.jpg"
+                },
+                {
+                    "name": "gebiss",
+                    "imageURL": "img/what/teeth.jpg"
+                },
+                {
+                    "name": "gardin",
+                    "imageURL": "img/what/curtains.jpg"
+                },
+                {
+                    "name": "garn",
+                    "imageURL": "img/what/yarn.jpg"
+                },
+                {
+                    "name": "godter",
+                    "imageURL": "img/food/candy.jpg"
+                },
+                {
+                    "name": "dataspill",
+                    "imageURL": "img/what/computer_game.jpg"
+                },
+                {
+                    "name": "spiker",
+                    "imageURL": "img/what/nail.jpg"
+                },
+                {
+                    "name": "fred",
+                    "imageURL": "img/what/peace.jpg"
+                },
+                {
+                    "name": "fystikk",
+                    "imageURL": "img/what/match.jpg"
+                },
+                {
+                    "name": "frisør",
+                    "imageURL": "img/what/haircut.jpg"
+                },
+                {
+                    "name": "film",
+                    "imageURL": "img/what/movie.jpg"
+                },
+                {
+                    "name": "ferie",
+                    "imageURL": "img/what/vacation.jpg"
+                },
+                {
+                    "name": "dikt",
+                    "imageURL": "img/what/poem.jpg"
+                },
+                {
+                    "name": "dråpe",
+                    "imageURL": "img/what/drops.jpg"
+                },
+                {
+                    "name": "gave",
+                    "imageURL": "img/toys/gift.jpg"
+                },
+                {
+                    "name": "gitar",
+                    "imageURL": "img/what/guitar.jpg"
+                },
+                {
+                    "name": "fantasi",
+                    "imageURL": "img/what/fantasy.jpg"
+                },
+                {
+                    "name": "edderkopp",
+                    "imageURL": "img/what/spider.jpg"
+                },
+                {
+                    "name": "elv",
+                    "imageURL": "img/what/stream.jpg"
+                },
+                {
+                    "name": "engel",
+                    "imageURL": "img/what/angel.jpg"
+                },
+                {
+                    "name": "eventyr",
+                    "imageURL": "img/toys/adventure.jpg"
+                },
+                {
                     "name": "dukke",
                     "imageURL": "img/toys/doll_baby.jpg"
                 },
@@ -817,12 +1101,12 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/toys/Legos.jpg"
                 },
                 {
-                    "name": "eventyr",
-                    "imageURL": "img/toys/adventure.jpg"
-                },
-                {
                     "name": "fargeblyant",
                     "imageURL": "img/toys/colored_pencils.jpg"
+                },
+                {
+                    "name": "fløyte",
+                    "imageURL": "img/what/whistle.jpg"
                 },
                 {
                     "name": "presang",
@@ -831,6 +1115,10 @@ Learn.factory('learnFactory', function() {
                 {
                     "name": "kritt",
                     "imageURL": "img/toys/chalkboard.jpg"
+                },
+                {
+                    "name": "gift",
+                    "imageURL": "img/what/marry.jpg"
                 },
                 {
                     "name": "leke",
@@ -865,12 +1153,56 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/toys/bubbles.jpg"
                 },
                 {
+                    "name": "badering",
+                    "imageURL": "img/what/swim_ring.jpg"
+                },
+                {
+                    "name": "batteri",
+                    "imageURL": "img/what/battery.jpg"
+                },
+                {
+                    "name": "bekk",
+                    "imageURL": "img/what/stream.jpg"
+                },
+                {
+                    "name": "Bestefar i Lomma",
+                    "imageURL": "img/what/grandpa.jpg"
+                },
+                {
+                    "name": "besøk",
+                    "imageURL": "img/what/visit.jpg"
+                },
+                {
                     "name": "bilde",
                     "imageURL": "img/house_items/picture.jpg"
                 },
                 {
+                    "name": "billett",
+                    "imageURL": "img/what/ticket.jpg"
+                },
+                {
+                    "name": "blad",
+                    "imageURL": "img/what/magazine.jpg"
+                },
+                {
+                    "name": "blod",
+                    "imageURL": "img/sound_effects/blood.jpg"
+                },
+                {
+                    "name": "blomst",
+                    "imageURL": "img/outdoor/flower.jpg"
+                },
+                {
                     "name": "boks",
                     "imageURL": "img/house_items/box.jpg"
+                },
+                {
+                    "name": "bolle",
+                    "imageURL": "img/what/cin_bun.jpg"
+                },
+                {
+                    "name": "bord",
+                    "imageURL": "img/room/table.jpg"
                 },
                 {
                     "name": "børste",
@@ -881,12 +1213,56 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/house_items/bucket.jpg"
                 },
                 {
+                    "name": "brannmann",
+                    "imageURL": "img/people/fireman.jpg"
+                },
+                {
                     "name": "brett",
                     "imageURL": "img/house_items/sheet.jpg"
                 },
                 {
                     "name": "briller",
                     "imageURL": "img/house_items/glasses.jpg"
+                },
+                {
+                    "name": "bru",
+                    "imageURL": "img/what/bridge.jpg"
+                },
+                {
+                    "name": "bråk",
+                    "imageURL": "img/what/noise.jpg"
+                },
+                {
+                    "name": "bukse",
+                    "imageURL": "img/clothing/jeans.jpg"
+                },
+                {
+                    "name": "fødselsdag",
+                    "imageURL": "img/what/birthday.jpg"
+                },
+                {
+                    "name": "bæsj",
+                    "imageURL": "img/what/poop.jpg"
+                },
+                {
+                    "name": "bøtte",
+                    "imageURL": "img/house_items/bucket.jpg"
+                },
+                {
+                    "name": "bål",
+                    "imageURL": "img/what/bonfire.jpg"
+                },
+                {
+                    "name": "båt",
+                    "imageURL": "img/vehicles/boat.jpg"
+                },
+                {
+                    "name": "dag",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "dam",
+                    "imageURL": "img/what/pond.jpg"
                 },
                 {
                     "name": "dopapir",
@@ -909,6 +1285,10 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/house_items/bottled_water.jpg"
                 },
                 {
+                    "name": "fest",
+                    "imageURL": "img/what/party.jpg"
+                },
+                {
                     "name": "gåbil",
                     "imageURL": "img/house_items/walker.jpg"
                 },
@@ -929,12 +1309,20 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/house_items/towel.jpg"
                 },
                 {
+                    "name": "iPad",
+                    "imageURL": "img/what/tablet.jpg"
+                },
+                {
                     "name": "kam",
                     "imageURL": "img/house_items/comb.jpg"
                 },
                 {
                     "name": "kamera",
                     "imageURL": "img/house_items/camera.jpg"
+                },
+                {
+                    "name": "Karsten",
+                    "imageURL": "img/what/man.jpg"
                 },
                 {
                     "name": "kasse",
@@ -995,6 +1383,10 @@ Learn.factory('learnFactory', function() {
                 {
                     "name": "penger",
                     "imageURL": "img/house_items/money.jpg"
+                },
+                {
+                    "name": "Petra",
+                    "imageURL": "img/what/woman.jpg"
                 },
                 {
                     "name": "plante",
@@ -1245,10 +1637,6 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/outdoor/sled.jpg"
                 },
                 {
-                    "name": "måne",
-                    "imageURL": "img/outdoor/starry_night_sky.jpg"
-                },
-                {
                     "name": "pinne",
                     "imageURL": "img/outdoor/stick.jpg"
                 },
@@ -1277,15 +1665,11 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/outdoor/snowman.jpg"
                 },
                 {
-                    "name": "sol",
-                    "imageURL": "img/outdoor/Sun.jpg"
-                },
-                {
                     "name": "spade",
                     "imageURL": "img/outdoor/shovel.jpg"
                 },
                 {
-                    "name": "steiner",
+                    "name": "stein",
                     "imageURL": "img/outdoor/stones.jpg"
                 },
                 {
@@ -2555,6 +2939,10 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/outdoor/mountain.jpg"
                 },
                 {
+                    "name": "fjær",
+                    "imageURL": "img/house_items/"
+                },
+                {
                     "name": "flagg",
                     "imageURL": "img/outdoor/flag.jpg"
                 },
@@ -2581,10 +2969,6 @@ Learn.factory('learnFactory', function() {
                 {
                     "name": "kjelke",
                     "imageURL": "img/outdoor/sled.jpg"
-                },
-                {
-                    "name": "måne",
-                    "imageURL": "img/outdoor/starry_night_sky.jpg"
                 },
                 {
                     "name": "pinne",
@@ -2619,12 +3003,12 @@ Learn.factory('learnFactory', function() {
                     "imageURL": "img/outdoor/Sun.jpg"
                 },
                 {
-                    "name": "spade",
-                    "imageURL": "img/outdoor/shovel.jpg"
+                    "name": "måne",
+                    "imageURL": "img/outdoor/starry_night_sky.jpg"
                 },
                 {
-                    "name": "steiner",
-                    "imageURL": "img/outdoor/stones.jpg"
+                    "name": "spade",
+                    "imageURL": "img/outdoor/shovel.jpg"
                 },
                 {
                     "name": "stige",
@@ -3039,6 +3423,10 @@ Learn.factory('learnFactory', function() {
                 {
                     "name": "salt",
                     "imageURL": "img/food/salt.jpg"
+                },
+                {
+                    "name": "pepper",
+                    "imageURL": "img/food/pepper.jpg"
                 },
                 {
                     "name": "saus",

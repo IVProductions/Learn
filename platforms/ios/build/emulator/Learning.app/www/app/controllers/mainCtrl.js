@@ -15,8 +15,6 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
 
     $scope.sentences = [];
 
-    console.log("init");
-    console.log($scope.sentences);
     if (window.localStorage.getItem("sentences") != null) {
         $scope.sentences = JSON.parse(window.localStorage.getItem("sentences"));
         for (var i = 0; i<$scope.sentences.length; i++){
@@ -135,18 +133,15 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
 
     $scope.setDraggable = function() {
         $(".draggable").draggable({
-            scroll: false,
-            containment: ".main",
+            scroll: false,          //disables scrolling while dragging a word
+            containment: ".main",   //makes sure you can only drag word around within the bounds of .main container
             drag: function(even,ui) {
-                console.log("Getting dragged");
                 dragCounter ++;
                 elementBeingDragged = $(this);
                 elementBeingDragged.css("z-index", 2);
                 parent = $(this).parent();
                 $scope.currentWord = parent.index();
-                console.log("Index of word being dragged: "+$scope.currentWord);
                 dragWord = $(this).find("span").html();
-                console.log(elementBeingDragged);
                 isDraggingGlobalWord = true;
                 if (dragCounter==1) {
                     newParent = jQuery('<div/>', {
@@ -157,7 +152,7 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
                         class: 'wordName',
                         text: dragWord
                     }).appendTo(newParent);
-                    $scope.setDraggable();
+                    $scope.setDraggable();  //recursively call setDraggable() to set newly created jquery elements draggable
                 }
             }
         });
@@ -214,8 +209,8 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
             }
         });
         $("html").droppable({
-            drop: function(even, ui) {          //user drags word from list of words and drops it before reaching sentence box
-                if (elementBeingDragged!=0) {
+            drop: function(even, ui) {
+                if (elementBeingDragged!=0) {   //user drags word from list of words and drops it before reaching sentence box
                     elementBeingDragged.remove();
                 }
                 if (indexOfSortable != -1) {    //user drags word from sentence out of sentence box and drops it
@@ -361,7 +356,7 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
                 console.log("playAudio():Audio Error: " + err);
             }
         );
-        // Play audio
+        // Play audio one time
         audio.play({numberOfLoops: 1});
     }
 }

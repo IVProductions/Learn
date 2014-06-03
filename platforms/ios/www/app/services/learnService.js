@@ -1,1483 +1,469 @@
 Learn.factory('learnFactory', function() {
     var categories = [
-        {
+    {
             "id": 1,
-            "name": "Lydeffekter",
+            "name": "Bokstaver og tall",
             "imageURL": "img/categories/sounds.jpg",
             "words": [
                 {
-                    "name": "au",
+                    "name": "0",
                     "imageURL": "img/sound_effects/blood.jpg"
                 },
                 {
-                    "name": "bææ",
+                    "name": "1",
                     "imageURL": "img/sound_effects/ewe.jpg"
                 },
                 {
-                    "name": "drrr",
+                    "name": "2",
                     "imageURL": "img/sound_effects/ring_school_bell.jpg"
                 },
                 {
-                    "name": "gakk gakk",
+                    "name": "3",
                     "imageURL": "img/sound_effects/quack.jpg"
                 },
                 {
-                    "name": "grr",
+                    "name": "4",
                     "imageURL": "img/sound_effects/English_bulldog.jpg"
                 },
                 {
-                    "name": "kykeliky",
+                    "name": "5",
                     "imageURL": "img/sound_effects/chicken.jpg"
                 },
                 {
-                    "name": "mjau",
+                    "name": "6",
                     "imageURL": "img/sound_effects/meow.jpg"
                 },
                 {
-                    "name": "mø",
+                    "name": "7",
                     "imageURL": "img/sound_effects/moo.jpg"
                 },
                 {
-                    "name": "nam-nam",
+                    "name": "8",
                     "imageURL": "img/sound_effects/lick.jpg"
                 },
                 {
-                    "name": "oi",
+                    "name": "9",
                     "imageURL": "img/sound_effects/surprised.jpg"
                 },
                 {
-                    "name": "tøff-tøff",
+                    "name": "A",
                     "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "voff voff",
+                    "name": "B",
                     "imageURL": "img/sound_effects/woof.jpg"
+                },
+                {
+                    "name": "C",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "D",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "E",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "F",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "G",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "H",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "I",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "J",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "K",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "L",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "M",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "N",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "O",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "P",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "Q",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "R",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "S",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "T",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "U",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "V",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "W",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "X",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "Y",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "Z",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "Æ",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "Ø",
+                    "imageURL": "img/sound_effects/train.jpg"
+                },
+                {
+                    "name": "Å",
+                    "imageURL": "img/sound_effects/train.jpg"
                 }
             ]
         },
         {
             "id": 2,
-            "name": "Dyr",
-            "imageURL": "img/categories/farm_animals.jpg",
+            "name": "Hvem",
+            "imageURL": "img/categories/sounds.jpg",
             "words": [
                 {
-                    "name": "mark",
-                    "imageURL": "img/animals/wiggle.jpg"
+                    "name": "Anna Kjerstina",
+                    "imageURL": "img/sound_effects/blood.jpg"
                 },
                 {
-                    "name": "and",
-                    "imageURL": "img/animals/duck.jpg"
+                    "name": "Stina Marie",
+                    "imageURL": "img/sound_effects/ewe.jpg"
                 },
                 {
-                    "name": "apekatt",
-                    "imageURL": "img/animals/baby_monkey.jpg"
+                    "name": "Erik Andreas",
+                    "imageURL": "img/sound_effects/ring_school_bell.jpg"
                 },
                 {
-                    "name": "bjørn",
-                    "imageURL": "img/animals/brown_bear.jpg"
+                    "name": "Even Johannes",
+                    "imageURL": "img/sound_effects/quack.jpg"
                 },
                 {
-                    "name": "dyr",
-                    "imageURL": "img/animals/animal.jpg"
+                    "name": "Emma",
+                    "imageURL": "img/sound_effects/English_bulldog.jpg"
                 },
                 {
-                    "name": "ekorn",
-                    "imageURL": "img/animals/squirrel.jpg"
+                    "name": "Ingri Emilie",
+                    "imageURL": "img/sound_effects/chicken.jpg"
                 },
                 {
-                    "name": "elefant",
-                    "imageURL": "img/animals/elephant.jpg"
+                    "name": "Ingrid Christine",
+                    "imageURL": "img/sound_effects/meow.jpg"
                 },
                 {
-                    "name": "elg",
-                    "imageURL": "img/animals/moose.jpg"
+                    "name": "Angelica Synnøve",
+                    "imageURL": "img/sound_effects/moo.jpg"
                 },
                 {
-                    "name": "esel",
-                    "imageURL": "img/animals/donkey.jpg"
+                    "name": "Håkon Ø",
+                    "imageURL": "img/sound_effects/lick.jpg"
                 },
                 {
-                    "name": "fisk",
-                    "imageURL": "img/animals/clownfish.jpg"
+                    "name": "Stian",
+                    "imageURL": "img/sound_effects/surprised.jpg"
                 },
                 {
-                    "name": "flue",
-                    "imageURL": "img/animals/flies.jpg"
+                    "name": "Håkon L.",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "frosk",
-                    "imageURL": "img/animals/frog.jpg"
+                    "name": "Kine",
+                    "imageURL": "img/sound_effects/woof.jpg"
                 },
                 {
-                    "name": "fugl",
-                    "imageURL": "img/animals/bird.jpg"
+                    "name": "Camilla",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "gås",
-                    "imageURL": "img/animals/goose.jpg"
+                    "name": "Amalie",
+                    "imageURL": "img/sound_effects/surprised.jpg"
                 },
                 {
-                    "name": "gris",
-                    "imageURL": "img/animals/pig.jpg"
+                    "name": "Ingeborg",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "hane",
-                    "imageURL": "img/animals/rooster.jpg"
+                    "name": "Ranja",
+                    "imageURL": "img/sound_effects/woof.jpg"
                 },
                 {
-                    "name": "hest",
-                    "imageURL": "img/animals/horse.jpg"
+                    "name": "Yrja",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "høne",
-                    "imageURL": "img/animals/chicken.jpg"
+                    "name": "Ranveig",
+                    "imageURL": "img/sound_effects/woof.jpg"
                 },
                 {
-                    "name": "hund",
-                    "imageURL": "img/animals/beagle.jpg"
+                    "name": "Even",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "kanin",
-                    "imageURL": "img/animals/rabbit.jpg"
+                    "name": "Erik",
+                    "imageURL": "img/sound_effects/woof.jpg"
                 },
                 {
-                    "name": "katt",
-                    "imageURL": "img/animals/cat.jpg"
+                    "name": "Mona",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "kattunge",
-                    "imageURL": "img/animals/kitten.jpg"
+                    "name": "Hilde",
+                    "imageURL": "img/sound_effects/woof.jpg"
                 },
                 {
-                    "name": "krokodille",
-                    "imageURL": "img/animals/crocodile.jpg"
+                    "name": "Lise",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "ku",
-                    "imageURL": "img/animals/cow.jpg"
+                    "name": "Magnhild",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "kylling",
-                    "imageURL": "img/animals/chick.jpg"
+                    "name": "Kristin",
+                    "imageURL": "img/sound_effects/woof.jpg"
                 },
                 {
-                    "name": "lam",
-                    "imageURL": "img/animals/lamb.jpg"
+                    "name": "Randi",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "lekebamse",
-                    "imageURL": "img/animals/Blush_Bear.jpg"
+                    "name": "Torunn",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "løve",
-                    "imageURL": "img/animals/lion.jpg"
+                    "name": "Sigrun",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "maur",
-                    "imageURL": "img/animals/black_ant.jpg"
+                    "name": "Ina",
+                    "imageURL": "img/sound_effects/woof.jpg"
                 },
                 {
-                    "name": "mus",
-                    "imageURL": "img/animals/mouse.jpg"
+                    "name": "Hilde F.",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "mygg",
-                    "imageURL": "img/animals/mosquito.jpg"
+                    "name": "Synnøve",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "pingvin",
-                    "imageURL": "img/animals/penguin.jpg"
+                    "name": "Berit",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "ponni",
-                    "imageURL": "img/animals/pony.jpg"
+                    "name": "Bertil",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "reinsdyr",
-                    "imageURL": "img/animals/reindeer.jpg"
+                    "name": "Marthe",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "sau",
-                    "imageURL": "img/animals/ewe.jpg"
+                    "name": "Gjermund",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "sebra",
-                    "imageURL": "img/animals/zebra.jpg"
+                    "name": "Ragnhild",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "sjiraff",
-                    "imageURL": "img/animals/giraffe.jpg"
+                    "name": "Magne",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "skilpadde",
-                    "imageURL": "img/animals/sea_turtle.jpg"
+                    "name": "Eldri",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "sommerfugl",
-                    "imageURL": "img/animals/butterfly.jpg"
+                    "name": "Øystein",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "tiger",
-                    "imageURL": "img/animals/tiger.jpg"
+                    "name": "Nora",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "ugle",
-                    "imageURL": "img/animals/owl.jpg"
+                    "name": "Simen",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "ulv",
-                    "imageURL": "img/animals/wolf.jpg"
+                    "name": "May",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "valp",
-                    "imageURL": "img/animals/puppy.jpg"
+                    "name": "Ane",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "veps",
-                    "imageURL": "img/animals/wasp.jpg"
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "name": "Kjøretøy",
-            "imageURL": "img/categories/vehicles.jpg",
-            "words": [
-                {
-                    "name": "akebrett",
-                    "imageURL": "img/vehicles/sledding.jpg"
-                },
-                {
-                    "name": "barnevogn",
-                    "imageURL": "img/vehicles/baby_doll_stroller.jpg"
-                },
-                {
-                    "name": "bil",
-                    "imageURL": "img/vehicles/car.jpg"
-                },
-                {
-                    "name": "brannbil",
-                    "imageURL": "img/vehicles/fire_truck.jpg"
-                },
-                {
-                    "name": "buss",
-                    "imageURL": "img/vehicles/bus.jpg"
-                },
-                {
-                    "name": "båt",
-                    "imageURL": "img/vehicles/boat.jpg"
-                },
-                {
-                    "name": "fly",
-                    "imageURL": "img/vehicles/Blue_Angel_plane.jpg"
-                },
-                {
-                    "name": "helikopter",
-                    "imageURL": "img/vehicles/helicopter.jpg"
-                },
-                {
-                    "name": "lastebil",
-                    "imageURL": "img/vehicles/truck.jpg"
-                },
-                {
-                    "name": "motorsykkel",
-                    "imageURL": "img/vehicles/motorbike.jpg"
-                },
-                {
-                    "name": "sykkel",
-                    "imageURL": "img/vehicles/bicycle.jpg"
-                },
-                {
-                    "name": "tog",
-                    "imageURL": "img/vehicles/bullet_train.jpg"
-                },
-                {
-                    "name": "traktor",
-                    "imageURL": "img/vehicles/tractor.jpg"
-                },
-                {
-                    "name": "trehjulssykkel",
-                    "imageURL": "img/vehicles/tricycle.jpg"
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "name": "Leker",
-            "imageURL": "img/categories/toys.jpg",
-            "words": [
-                {
-                    "name": "ball",
-                    "imageURL": "img/toys/ball.jpg"
-                },
-                {
-                    "name": "ballong",
-                    "imageURL": "img/toys/balloon.jpg"
-                },
-                {
-                    "name": "blyant",
-                    "imageURL": "img/toys/pencil.jpg"
-                },
-                {
-                    "name": "bok",
-                    "imageURL": "img/toys/book.jpg"
-                },
-                {
-                    "name": "klosser",
-                    "imageURL": "img/toys/blocks.jpg"
-                },
-                {
-                    "name": "dukke",
-                    "imageURL": "img/toys/doll_baby.jpg"
-                },
-                {
-                    "name": "lego",
-                    "imageURL": "img/toys/Legos.jpg"
-                },
-                {
-                    "name": "eventyr",
-                    "imageURL": "img/toys/adventure.jpg"
-                },
-                {
-                    "name": "fargeblyant",
-                    "imageURL": "img/toys/colored_pencils.jpg"
-                },
-                {
-                    "name": "presang",
-                    "imageURL": "img/toys/gift.jpg"
-                },
-                {
-                    "name": "kritt",
-                    "imageURL": "img/toys/chalkboard.jpg"
-                },
-                {
-                    "name": "leke",
-                    "imageURL": "img/toys/toy.jpg"
-                },
-                {
-                    "name": "lim",
-                    "imageURL": "img/toys/glue.jpg"
-                },
-                {
-                    "name": "penn",
-                    "imageURL": "img/toys/pen.jpg"
-                },
-                {
-                    "name": "plastilina",
-                    "imageURL": "img/toys/plastilina.jpg"
-                },
-                {
-                    "name": "puslespill",
-                    "imageURL": "img/toys/puzzle.jpg"
-                },
-                {
-                    "name": "spill",
-                    "imageURL": "img/toys/game.jpg"
-                },
-                {
-                    "name": "såpebobler",
-                    "imageURL": "img/toys/bubbles.jpg"
-                }
-            ]
-        },
-        {
-            "id": 5,
-            "name": "Mat og drikke",
-            "imageURL": "img/categories/apple_juice.jpg",
-            "words": [
-                {
-                    "name": "brødskive",
-                    "imageURL": "img/food/bread.jpg"
-                },
-                {
-                    "name": "agurk",
-                    "imageURL": "img/food/cucumber.jpg"
-                },
-                {
-                    "name": "appelsin",
-                    "imageURL": "img/food/orange.jpg"
-                },
-                {
-                    "name": "banan",
-                    "imageURL": "img/food/banana.jpg"
-                },
-                {
-                    "name": "boller",
-                    "imageURL": "img/food/cinnamon_bun.jpg"
-                },
-                {
-                    "name": "bønner",
-                    "imageURL": "img/food/baked_beans.jpg"
-                },
-                {
-                    "name": "brød",
-                    "imageURL": "img/food/bread1.jpg"
-                },
-                {
-                    "name": "brus",
-                    "imageURL": "img/food/orange_soda.jpg"
-                },
-                {
-                    "name": "cola",
-                    "imageURL": "img/food/Coke.jpg"
-                },
-                {
-                    "name": "corn flakes",
-                    "imageURL": "img/food/corn_flakes_cereal.jpg"
-                },
-                {
-                    "name": "dessert",
-                    "imageURL": "img/food/dessert.jpg"
-                },
-                {
-                    "name": "drikke",
-                    "imageURL": "img/food/drink1.jpg"
-                },
-                {
-                    "name": "druer",
-                    "imageURL": "img/food/grapes.jpg"
-                },
-                {
-                    "name": "egg",
-                    "imageURL": "img/food/egg.jpg"
-                },
-                {
-                    "name": "eple",
-                    "imageURL": "img/food/apple.jpg"
-                },
-                {
-                    "name": "erter",
-                    "imageURL": "img/food/peas.jpg"
-                },
-                {
-                    "name": "fisk",
-                    "imageURL": "img/food/salmon.jpg"
-                },
-                {
-                    "name": "frokostblanding",
-                    "imageURL": "img/food/cereal.jpg"
-                },
-                {
-                    "name": "frukt",
-                    "imageURL": "img/food/fruit.jpg"
-                },
-                {
-                    "name": "godteri",
-                    "imageURL": "img/food/candy.jpg"
-                },
-                {
-                    "name": "grøt",
-                    "imageURL": "img/food/porridge.jpg"
-                },
-                {
-                    "name": "gulrot",
-                    "imageURL": "img/food/carrot.jpg"
-                },
-                {
-                    "name": "hamburger",
-                    "imageURL": "img/food/hamburger.jpg"
-                },
-                {
-                    "name": "is",
-                    "imageURL": "img/food/sundae.jpg"
-                },
-                {
-                    "name": "jordbær",
-                    "imageURL": "img/food/strawberry.jpg"
-                },
-                {
-                    "name": "juice",
-                    "imageURL": "img/food/orange_juice.jpg"
-                },
-                {
-                    "name": "kaffe",
-                    "imageURL": "img/food/coffee.jpg"
-                },
-                {
-                    "name": "kake",
-                    "imageURL": "img/food/cake_candles.jpg"
-                },
-                {
-                    "name": "kjeks",
-                    "imageURL": "img/food/cookies.jpg"
-                },
-                {
-                    "name": "kjøtt",
-                    "imageURL": "img/food/meat.jpg"
-                },
-                {
-                    "name": "kjøttkaker",
-                    "imageURL": "img/food/meatballs.jpg"
-                },
-                {
-                    "name": "knekkebrød",
-                    "imageURL": "img/food/toaster_pastry.jpg"
-                },
-                {
-                    "name": "kylling",
-                    "imageURL": "img/food/chicken_drumstick.jpg"
-                },
-                {
-                    "name": "leverpostei",
-                    "imageURL": "img/food/liverwurst.jpg"
-                },
-                {
-                    "name": "mat",
-                    "imageURL": "img/food/food.jpg"
-                },
-                {
-                    "name": "matpakke",
-                    "imageURL": "img/food/lunch_box.jpg"
-                },
-                {
-                    "name": "melk",
-                    "imageURL": "img/food/milk.jpg"
-                },
-                {
-                    "name": "melon",
-                    "imageURL": "img/food/watermelon.jpg"
-                },
-                {
-                    "name": "nøtter",
-                    "imageURL": "img/food/nuts.jpg"
-                },
-                {
-                    "name": "Nugatti",
-                    "imageURL": "img/food/Nutella.jpg"
-                },
-                {
-                    "name": "ost",
-                    "imageURL": "img/food/Swiss_cheese.jpg"
-                },
-                {
-                    "name": "pannekake",
-                    "imageURL": "img/food/pancakes.jpg"
-                },
-                {
-                    "name": "pasta",
-                    "imageURL": "img/food/penne_pasta.jpg"
-                },
-                {
-                    "name": "pizza",
-                    "imageURL": "img/food/pizza.jpg"
-                },
-                {
-                    "name": "pølser",
-                    "imageURL": "img/food/hot_dog.jpg"
-                },
-                {
-                    "name": "pommes frites",
-                    "imageURL": "img/food/french_fries.jpg"
-                },
-                {
-                    "name": "popcorn",
-                    "imageURL": "img/food/popcorn.jpg"
-                },
-                {
-                    "name": "poteter",
-                    "imageURL": "img/food/potatoes.jpg"
-                },
-                {
-                    "name": "potetgull",
-                    "imageURL": "img/food/chips.jpg"
-                },
-                {
-                    "name": "ris",
-                    "imageURL": "img/food/rice.jpg"
-                },
-                {
-                    "name": "ristet brød",
-                    "imageURL": "img/food/put_in_toaster.jpg"
-                },
-                {
-                    "name": "rosiner",
-                    "imageURL": "img/food/raisins.jpg"
-                },
-                {
-                    "name": "saft",
-                    "imageURL": "img/food/drink.jpg"
-                },
-                {
-                    "name": "salami",
-                    "imageURL": "img/food/salami.jpg"
-                },
-                {
-                    "name": "salt",
-                    "imageURL": "img/food/salt.jpg"
-                },
-                {
-                    "name": "saus",
-                    "imageURL": "img/food/hot_sauce.jpg"
-                },
-                {
-                    "name": "sjokolade",
-                    "imageURL": "img/food/chocolate_bar.jpg"
-                },
-                {
-                    "name": "smør",
-                    "imageURL": "img/food/margarine.jpg"
-                },
-                {
-                    "name": "spagetti",
-                    "imageURL": "img/food/spaghetti_with_sauce.jpg"
-                },
-                {
-                    "name": "sukkertøy",
-                    "imageURL": "img/food/lollipops.jpg"
-                },
-                {
-                    "name": "suppe",
-                    "imageURL": "img/food/soup.jpg"
-                },
-                {
-                    "name": "syltetøy",
-                    "imageURL": "img/food/strawberry_jam.jpg"
-                },
-                {
-                    "name": "te",
-                    "imageURL": "img/food/tea.jpg"
-                },
-                {
-                    "name": "tran",
-                    "imageURL": "img/food/vegetable_oil.jpg"
-                },
-                {
-                    "name": "tyggegummi",
-                    "imageURL": "img/food/gum.jpg"
-                },
-                {
-                    "name": "vafler",
-                    "imageURL": "img/food/waffles.jpg"
-                },
-                {
-                    "name": "vann",
-                    "imageURL": "img/food/full.jpg"
-                },
-                {
-                    "name": "yoghurt",
-                    "imageURL": "img/food/yogurt.jpg"
-                }
-            ]
-        },
-        {
-            "id": 6,
-            "name": "Klær og tilbehør",
-            "imageURL": "img/categories/clothes.jpg",
-            "words": [
-                {
-                    "name": "belte",
-                    "imageURL": "img/clothing/belt.jpg"
-                },
-                {
-                    "name": "bleier",
-                    "imageURL": "img/clothing/diaper.jpg"
-                },
-                {
-                    "name": "bukse",
-                    "imageURL": "img/clothing/jeans.jpg"
-                },
-                {
-                    "name": "dress",
-                    "imageURL": "img/clothing/suit.jpg"
-                },
-                {
-                    "name": "genser",
-                    "imageURL": "img/clothing/sweater.jpg"
-                },
-                {
-                    "name": "glidelås",
-                    "imageURL": "img/clothing/zipper.jpg"
-                },
-                {
-                    "name": "halskjede",
-                    "imageURL": "img/clothing/necklace.jpg"
-                },
-                {
-                    "name": "hansker",
-                    "imageURL": "img/clothing/gloves.jpg"
-                },
-                {
-                    "name": "jakke",
-                    "imageURL": "img/clothing/jacket.jpg"
-                },
-                {
-                    "name": "joggesko",
-                    "imageURL": "img/clothing/running_shoes.jpg"
-                },
-                {
-                    "name": "kjole",
-                    "imageURL": "img/clothing/dress.jpg"
-                },
-                {
-                    "name": "knapper",
-                    "imageURL": "img/clothing/buttons.jpg"
-                },
-                {
-                    "name": "lue",
-                    "imageURL": "img/clothing/earflap_hat.jpg"
-                },
-                {
-                    "name": "pysjamas",
-                    "imageURL": "img/clothing/nightgown.jpg"
-                },
-                {
-                    "name": "regntøy",
-                    "imageURL": "img/clothing/raincoat.jpg"
-                },
-                {
-                    "name": "sandaler",
-                    "imageURL": "img/clothing/sandals.jpg"
-                },
-                {
-                    "name": "shorts",
-                    "imageURL": "img/clothing/shorts.jpg"
-                },
-                {
-                    "name": "skjerf",
-                    "imageURL": "img/clothing/scarf.jpg"
-                },
-                {
-                    "name": "skjorte",
-                    "imageURL": "img/clothing/shirt.jpg"
-                },
-                {
-                    "name": "sko",
-                    "imageURL": "img/clothing/tied_shoes.jpg"
-                },
-                {
-                    "name": "smekke",
-                    "imageURL": "img/clothing/bib.jpg"
-                },
-                {
-                    "name": "smokk",
-                    "imageURL": "img/clothing/pacifier.jpg"
-                },
-                {
-                    "name": "sokker",
-                    "imageURL": "img/clothing/socks.jpg"
-                },
-                {
-                    "name": "støvler",
-                    "imageURL": "img/clothing/rain_boots.jpg"
-                },
-                {
-                    "name": "strømpebukse",
-                    "imageURL": "img/clothing/pantyhose.jpg"
-                },
-                {
-                    "name": "strømper",
-                    "imageURL": "img/clothing/stockings.jpg"
-                },
-                {
-                    "name": "t-skjorte",
-                    "imageURL": "img/clothing/T-shirt.jpg"
-                },
-                {
-                    "name": "tøfler",
-                    "imageURL": "img/clothing/slippers.jpg"
-                },
-                {
-                    "name": "underbukse",
-                    "imageURL": "img/clothing/underwear.jpg"
-                },
-                {
-                    "name": "votter",
-                    "imageURL": "img/clothing/mittens.jpg"
-                }
-            ]
-        },
-        {
-            "id": 7,
-            "name": "Kroppsdeler",
-            "imageURL": "img/categories/human_body.jpg",
-            "words": [
-                {
-                    "name": "ankel",
-                    "imageURL": "img/body/ankle.jpg"
-                },
-                {
-                    "name": "ansikt",
-                    "imageURL": "img/body/face.jpg"
+                    "name": "Bjørg",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "arm",
-                    "imageURL": "img/body/arm.jpg"
+                    "name": "Janike",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "bein",
-                    "imageURL": "img/body/leg.jpg"
+                    "name": "Erik",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "finger",
-                    "imageURL": "img/body/finger.jpg"
+                    "name": "Pål",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "fot",
-                    "imageURL": "img/body/foot.jpg"
+                    "name": "Martin",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "hake",
-                    "imageURL": "img/body/chin.jpg"
+                    "name": "Martin",
+                    "imageURL": "img/sound_effects/train.jpg"
                 },
                 {
-                    "name": "hånd",
-                    "imageURL": "img/body/hand.jpg"
+                    "name": "de",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "hår",
-                    "imageURL": "img/body/hair.jpg"
+                    "name": "deg",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "hode",
-                    "imageURL": "img/body/head.jpg"
+                    "name": "dem",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "kinn",
-                    "imageURL": "img/body/cheeks.jpg"
+                    "name": "den",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "kne",
-                    "imageURL": "img/body/knee.jpg"
+                    "name": "denne",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "lepper",
-                    "imageURL": "img/body/lips.jpg"
+                    "name": "dere",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "mage",
-                    "imageURL": "img/body/stomach.jpg"
+                    "name": "deres",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "munn",
-                    "imageURL": "img/body/mouth.jpg"
+                    "name": "det",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "navle",
-                    "imageURL": "img/body/belly_button.jpg"
+                    "name": "dette",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "nese",
-                    "imageURL": "img/body/nose.jpg"
+                    "name": "din",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "øre",
-                    "imageURL": "img/body/ear.jpg"
+                    "name": "disse",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "øye",
-                    "imageURL": "img/body/eye.jpg"
+                    "name": "du",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "pupp",
-                    "imageURL": "img/body/breast.jpg"
+                    "name": "han",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "rumpe",
-                    "imageURL": "img/body/butt.jpg"
+                    "name": "hans",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "rygg",
-                    "imageURL": "img/body/back.jpg"
+                    "name": "hennes",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "skulder",
-                    "imageURL": "img/body/shoulder.jpg"
+                    "name": "hun",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "tenner",
-                    "imageURL": "img/body/teeth.jpg"
+                    "name": "hverandre",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "tiss",
-                    "imageURL": "img/body/penis.jpg"
+                    "name": "jeg",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "tunge",
-                    "imageURL": "img/body/tongue.jpg"
+                    "name": "meg",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "tå",
-                    "imageURL": "img/body/toenail.jpg"
-                }
-            ]
-        },
-        {
-            "id": 8,
-            "name": "Husgjenstander",
-            "imageURL": "img/categories/lamp.jpg",
-            "words": [
-                {
-                    "name": "bilde",
-                    "imageURL": "img/house_items/picture.jpg"
-                },
-                {
-                    "name": "boks",
-                    "imageURL": "img/house_items/box.jpg"
-                },
-                {
-                    "name": "børste",
-                    "imageURL": "img/house_items/hairbrush.jpg"
-                },
-                {
-                    "name": "bøtte",
-                    "imageURL": "img/house_items/bucket.jpg"
-                },
-                {
-                    "name": "brett",
-                    "imageURL": "img/house_items/sheet.jpg"
-                },
-                {
-                    "name": "briller",
-                    "imageURL": "img/house_items/glasses.jpg"
-                },
-                {
-                    "name": "dopapir",
-                    "imageURL": "img/house_items/toilet_paper.jpg"
-                },
-                {
-                    "name": "dyne",
-                    "imageURL": "img/house_items/blanket.jpg"
-                },
-                {
-                    "name": "eske",
-                    "imageURL": "img/house_items/container.jpg"
-                },
-                {
-                    "name": "fat",
-                    "imageURL": "img/house_items/paper_plate.jpg"
-                },
-                {
-                    "name": "flaske",
-                    "imageURL": "img/house_items/bottled_water.jpg"
-                },
-                {
-                    "name": "gåbil",
-                    "imageURL": "img/house_items/walker.jpg"
-                },
-                {
-                    "name": "gaffel",
-                    "imageURL": "img/house_items/fork.jpg"
-                },
-                {
-                    "name": "glass",
-                    "imageURL": "img/house_items/glass.jpg"
-                },
-                {
-                    "name": "hammer",
-                    "imageURL": "img/house_items/hammer.jpg"
-                },
-                {
-                    "name": "håndkle",
-                    "imageURL": "img/house_items/towel.jpg"
-                },
-                {
-                    "name": "kam",
-                    "imageURL": "img/house_items/comb.jpg"
-                },
-                {
-                    "name": "kamera",
-                    "imageURL": "img/house_items/camera.jpg"
-                },
-                {
-                    "name": "kasse",
-                    "imageURL": "img/house_items/case.jpg"
-                },
-                {
-                    "name": "kjøkkenrull",
-                    "imageURL": "img/house_items/paper_towels.jpg"
-                },
-                {
-                    "name": "klokke",
-                    "imageURL": "img/house_items/time.jpg"
-                },
-                {
-                    "name": "kniv",
-                    "imageURL": "img/house_items/knife.jpg"
-                },
-                {
-                    "name": "kopp",
-                    "imageURL": "img/house_items/cup.jpg"
-                },
-                {
-                    "name": "kost",
-                    "imageURL": "img/house_items/sweep.jpg"
-                },
-                {
-                    "name": "krukke",
-                    "imageURL": "img/house_items/urn.jpg"
-                },
-                {
-                    "name": "krus",
-                    "imageURL": "img/house_items/mug.jpg"
-                },
-                {
-                    "name": "lampe",
-                    "imageURL": "img/house_items/lamp.jpg"
-                },
-                {
-                    "name": "lommebok",
-                    "imageURL": "img/house_items/wallet.jpg"
-                },
-                {
-                    "name": "lys",
-                    "imageURL": "img/house_items/turn_on.jpg"
-                },
-                {
-                    "name": "medisin",
-                    "imageURL": "img/house_items/medicine.jpg"
-                },
-                {
-                    "name": "nøkler",
-                    "imageURL": "img/house_items/set_of_keys.jpg"
-                },
-                {
-                    "name": "papir",
-                    "imageURL": "img/house_items/paper.jpg"
-                },
-                {
-                    "name": "penger",
-                    "imageURL": "img/house_items/money.jpg"
-                },
-                {
-                    "name": "plante",
-                    "imageURL": "img/house_items/plant.jpg"
-                },
-                {
-                    "name": "pute",
-                    "imageURL": "img/house_items/pillow.jpg"
-                },
-                {
-                    "name": "radio",
-                    "imageURL": "img/house_items/radio.jpg"
-                },
-                {
-                    "name": "saks",
-                    "imageURL": "img/house_items/scissors.jpg"
-                },
-                {
-                    "name": "såpe",
-                    "imageURL": "img/house_items/soap_bar.jpg"
-                },
-                {
-                    "name": "sekk",
-                    "imageURL": "img/house_items/backpack.jpg"
-                },
-                {
-                    "name": "serviett",
-                    "imageURL": "img/house_items/napkin.jpg"
-                },
-                {
-                    "name": "skål",
-                    "imageURL": "img/house_items/bowl.jpg"
-                },
-                {
-                    "name": "skje",
-                    "imageURL": "img/house_items/spoon.jpg"
-                },
-                {
-                    "name": "søppel",
-                    "imageURL": "img/house_items/trash_bag.jpg"
-                },
-                {
-                    "name": "søppelbøtte",
-                    "imageURL": "img/house_items/trash_can.jpg"
-                },
-                {
-                    "name": "støvsuger",
-                    "imageURL": "img/house_items/vacuum_cleaner.jpg"
-                },
-                {
-                    "name": "tallerken",
-                    "imageURL": "img/house_items/Styrofoam_plate.jpg"
-                },
-                {
-                    "name": "tannbørste",
-                    "imageURL": "img/house_items/toothbrush.jpg"
-                },
-                {
-                    "name": "telefon",
-                    "imageURL": "img/house_items/cordless_phone.jpg"
-                },
-                {
-                    "name": "teppe",
-                    "imageURL": "img/house_items/red_carpet.jpg"
-                },
-                {
-                    "name": "veske",
-                    "imageURL": "img/house_items/purse.jpg"
-                }
-            ]
-        },
-        {
-            "id": 9,
-            "name": "Rom og møbler",
-            "imageURL": "img/categories/furniture.jpg",
-            "words": [
-                {
-                    "name": "bad",
-                    "imageURL": "img/room/public_bathroom.jpg"
-                },
-                {
-                    "name": "badekar",
-                    "imageURL": "img/room/bathroom.jpg"
-                },
-                {
-                    "name": "balkong",
-                    "imageURL": "img/room/balcony.jpg"
-                },
-                {
-                    "name": "barneseng",
-                    "imageURL": "img/room/crib.jpg"
-                },
-                {
-                    "name": "barnestol",
-                    "imageURL": "img/room/high_chair.jpg"
-                },
-                {
-                    "name": "bord",
-                    "imageURL": "img/room/table.jpg"
-                },
-                {
-                    "name": "do",
-                    "imageURL": "img/room/use_toilet.jpg"
-                },
-                {
-                    "name": "dør",
-                    "imageURL": "img/room/open_door.jpg"
-                },
-                {
-                    "name": "dusj",
-                    "imageURL": "img/room/shower.jpg"
-                },
-                {
-                    "name": "garasje",
-                    "imageURL": "img/room/garage.jpg"
-                },
-                {
-                    "name": "gyngestol",
-                    "imageURL": "img/room/rocking_chair.jpg"
-                },
-                {
-                    "name": "kjeller",
-                    "imageURL": "img/room/basement.jpg"
-                },
-                {
-                    "name": "kjøkken",
-                    "imageURL": "img/room/kitchen.jpg"
-                },
-                {
-                    "name": "kjøleskap",
-                    "imageURL": "img/room/refrigerator.jpg"
-                },
-                {
-                    "name": "komfyr",
-                    "imageURL": "img/room/heat.jpg"
+                    "name": "min",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "lekegrind",
-                    "imageURL": "img/room/sand_fence.jpg"
+                    "name": "oss",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "ovn",
-                    "imageURL": "img/room/oven.jpg"
+                    "name": "seg",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "PC",
-                    "imageURL": "img/room/computer.jpg"
+                    "name": "sin",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "potte",
-                    "imageURL": "img/room/pot.jpg"
+                    "name": "vår",
+                    "imageURL": "img/categories/talk.jpg"
                 },
                 {
-                    "name": "rom",
-                    "imageURL": "img/room/empty_room.jpg"
+                    "name": "vi",
+                    "imageURL": "img/categories/talk.jpg"
                 },
-                {
-                    "name": "seng",
-                    "imageURL": "img/room/bed.jpg"
-                },
-                {
-                    "name": "skap",
-                    "imageURL": "img/room/closet.jpg"
-                },
-                {
-                    "name": "skuff",
-                    "imageURL": "img/room/drawer.jpg"
-                },
-                {
-                    "name": "sofa",
-                    "imageURL": "img/room/chair.jpg"
-                },
-                {
-                    "name": "soverom",
-                    "imageURL": "img/room/bedroom.jpg"
-                },
-                {
-                    "name": "stol",
-                    "imageURL": "img/room/chair.jpg" 
-                },
-                {
-                    "name": "stue",
-                    "imageURL": "img/room/living_room.jpg"
-                },
-                {
-                    "name": "terrasse",
-                    "imageURL": "img/room/balcony.jpg"
-                },
-                {
-                    "name": "tørketrommel",
-                    "imageURL": "img/room/dryer.jpg"
-                },
-                {
-                    "name": "trapper",
-                    "imageURL": "img/room/step_up.jpg"
-                },
-                {
-                    "name": "TV",
-                    "imageURL": "img/room/flat_screen_television.jpg"
-                },
-                {
-                    "name": "vask",
-                    "imageURL": "img/room/bathroom_sink.jpg"
-                },
-                {
-                    "name": "vaskemaskin",
-                    "imageURL": "img/room/wash_clothes.jpg"
-                },
-                {
-                    "name": "vindu",
-                    "imageURL": "img/room/window.jpg"
-                }
-            ]
-        },
-        {
-            "id": 10,
-            "name": "Ting utendørs",
-            "imageURL": "img/categories/outdoors.jpg",
-            "words": [
-                {
-                    "name": "badebasseng",
-                    "imageURL": "img/outdoor/swimming_pool.jpg"
-                },
-                {
-                    "name": "bakgård",
-                    "imageURL": "img/outdoor/patio.jpg"
-                },
-                {
-                    "name": "blomst",
-                    "imageURL": "img/outdoor/flower.jpg"
-                },
-                {
-                    "name": "fjell",
-                    "imageURL": "img/outdoor/mountain.jpg"
-                },
-                {
-                    "name": "flagg",
-                    "imageURL": "img/outdoor/flag.jpg"
-                },
-                {
-                    "name": "fortau",
-                    "imageURL": "img/outdoor/sidewalk.jpg"
-                },
-                {
-                    "name": "gress",
-                    "imageURL": "img/outdoor/grass.jpg"
-                },
-                {
-                    "name": "gressklipper",
-                    "imageURL": "img/outdoor/mow.jpg"
-                },
-                {
-                    "name": "himmel",
-                    "imageURL": "img/outdoor/sky.jpg"
-                },
-                {
-                    "name": "huske",
-                    "imageURL": "img/outdoor/swing.jpg"
-                },
-                {
-                    "name": "kjelke",
-                    "imageURL": "img/outdoor/sled.jpg"
-                },
-                {
-                    "name": "måne",
-                    "imageURL": "img/outdoor/starry_night_sky.jpg"
-                },
-                {
-                    "name": "pinne",
-                    "imageURL": "img/outdoor/stick.jpg"
-                },
-                {
-                    "name": "regn",
-                    "imageURL": "img/outdoor/freezing_rain.jpg"
-                },
-                {
-                    "name": "sandkasse",
-                    "imageURL": "img/outdoor/sandbox.jpg"
-                },
-                {
-                    "name": "sklie",
-                    "imageURL": "img/outdoor/slide.jpg"
-                },
-                {
-                    "name": "skyer",
-                    "imageURL": "img/outdoor/clouds.jpg"
-                },
-                {
-                    "name": "snø",
-                    "imageURL": "img/outdoor/snow.jpg"
-                },
-                {
-                    "name": "snømann",
-                    "imageURL": "img/outdoor/snowman.jpg"
-                },
-                {
-                    "name": "sol",
-                    "imageURL": "img/outdoor/Sun.jpg"
-                },
-                {
-                    "name": "spade",
-                    "imageURL": "img/outdoor/shovel.jpg"
-                },
-                {
-                    "name": "steiner",
-                    "imageURL": "img/outdoor/stones.jpg"
-                },
-                {
-                    "name": "stige",
-                    "imageURL": "img/outdoor/ladder.jpg"
-                },
-                {
-                    "name": "stjerner",
-                    "imageURL": "img/outdoor/stars.jpg"
-                },
-                {
-                    "name": "tak",
-                    "imageURL": "img/outdoor/roof.jpg"
-                },
-                {
-                    "name": "trampoline",
-                    "imageURL": "img/outdoor/trampoline.jpg"
-                },
-                {
-                    "name": "tre",
-                    "imageURL": "img/outdoor/tree.jpg"
-                },
-                {
-                    "name": "vann",
-                    "imageURL": "img/outdoor/water.jpg"
-                },
-                {
-                    "name": "vannslange",
-                    "imageURL": "img/outdoor/hose.jpg"
-                },
-                {
-                    "name": "vei",
-                    "imageURL": "img/outdoor/road.jpg"
-                },
-                {
-                    "name": "vind",
-                    "imageURL": "img/outdoor/wind.jpg"
-                }
-            ]
-        },
-        {
-            "id": 11,
-            "name": "Steder å dra til",
-            "imageURL": "img/categories/playground.jpg",
-            "words": [
-                {
-                    "name": "bensinstasjon",
-                    "imageURL": "img/places/gas_station.jpg"
-                },
-                {
-                    "name": "bondegård",
-                    "imageURL": "img/places/farm.jpg"
-                },
-                {
-                    "name": "butikk",
-                    "imageURL": "img/places/store.jpg"
-                },
-                {
-                    "name": "byen",
-                    "imageURL": "img/places/city.jpg"
-                },
-                {
-                    "name": "campingplass",
-                    "imageURL": "img/places/camping.jpg"
-                },
-                {
-                    "name": "dyrehage",
-                    "imageURL": "img/places/zoo.jpg"
-                },
-                {
-                    "name": "fest",
-                    "imageURL": "img/places/street_party.jpg"
-                },
-                {
-                    "name": "hage",
-                    "imageURL": "img/places/backyard_birds.jpg"
-                },
-                {
-                    "name": "hjem",
-                    "imageURL": "img/places/home.jpg"
-                },
-                {
-                    "name": "hus",
-                    "imageURL": "img/places/home1.jpg"
-                },
-                {
-                    "name": "jobb",
-                    "imageURL": "img/places/work.jpg"
-                },
-                {
-                    "name": "kino",
-                    "imageURL": "img/places/movie_theater.jpg"
-                },
-                {
-                    "name": "kirke",
-                    "imageURL": "img/places/church.jpg"
-                },
-                {
-                    "name": "landet",
-                    "imageURL": "img/places/summer_camp.jpg"
-                },
-                {
-                    "name": "lekeplass",
-                    "imageURL": "img/places/playground.jpg"
-                },
-                {
-                    "name": "park",
-                    "imageURL": "img/places/park.jpg"
-                },
-                {
-                    "name": "sirkus",
-                    "imageURL": "img/places/circus.jpg"
-                },
-                {
-                    "name": "skogen",
-                    "imageURL": "img/places/forest.jpg"
-                },
-                {
-                    "name": "strand",
-                    "imageURL": "img/places/beach.jpg"
-                },
-                {
-                    "name": "svømmehall",
-                    "imageURL": "img/places/swimming_race.jpg"
-                },
-                {
-                    "name": "ut",
-                    "imageURL": "img/places/outside.jpg"
-                }
-            ]
-        },
-        {
-            "id": 12,
-            "name": "Mennesker",
-            "imageURL": "img/categories/doctor.jpg",
-            "words": [
                 {
                     "name": "baby",
                     "imageURL": "img/people/baby.jpg"
@@ -1625,116 +611,1285 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 13,
-            "name": "Leker og rutiner",
-            "imageURL": "img/categories/bathe.jpg",
+            "id": 3,
+            "name": "Spørre ord",
+            "imageURL": "img/categories/sounds.jpg",
             "words": [
                 {
-                    "name": "bade",
-                    "imageURL": "img/routines/bathe.jpg"
+                    "name": "hva",
+                    "imageURL": "img/question/question.jpg"
                 },
                 {
-                    "name": "frokost",
-                    "imageURL": "img/routines/breakfast.jpg"
+                    "name": "hvem",
+                    "imageURL": "img/question/question.jpg"
                 },
                 {
-                    "name": "gå på do",
-                    "imageURL": "img/routines/go_to_bathroom.jpg"
+                    "name": "hvilken",
+                    "imageURL": "img/question/question.jpg"
                 },
                 {
-                    "name": "god natt",
-                    "imageURL": "img/routines/Good_night.jpg"
+                    "name": "hvor",
+                    "imageURL": "img/question/question.jpg"
                 },
                 {
-                    "name": "ha det",
-                    "imageURL": "img/routines/Bye.jpg"
+                    "name": "hvordan",
+                    "imageURL": "img/question/question.jpg"
                 },
                 {
-                    "name": "hallo",
-                    "imageURL": "img/routines/Hi.jpg"
+                    "name": "hvorfor",
+                    "imageURL": "img/question/question.jpg"
                 },
                 {
-                    "name": "handle",
-                    "imageURL": "img/routines/shop.jpg"
-                },
-                {
-                    "name": "hei",
-                    "imageURL": "img/routines/Hi.jpg"
-                },
-                {
-                    "name": "hysj",
-                    "imageURL": "img/routines/hush.jpg"
-                },
-                {
-                    "name": "ikke",
-                    "imageURL": "img/routines/disagree.jpg"
-                },
-                {
-                    "name": "ja",
-                    "imageURL": "img/routines/agree.jpg"
-                },
-                {
-                    "name": "jo",
-                    "imageURL": "img/routines/agree.jpg"
-                },
-                {
-                    "name": "klappe kake",
-                    "imageURL": "img/routines/clap.jpg"
-                },
-                {
-                    "name": "kveldsmat",
-                    "imageURL": "img/routines/lunch.jpg"
-                },
-                {
-                    "name": "lunsj",
-                    "imageURL": "img/routines/lunch.jpg"
-                },
-                {
-                    "name": "middag",
-                    "imageURL": "img/routines/dinner.jpg"
-                },
-                {
-                    "name": "nei",
-                    "imageURL": "img/routines/disagree.jpg"
-                },
-                {
-                    "name": "ringe",
-                    "imageURL": "img/routines/call.jpg"
-                },
-                {
-                    "name": "snurre rundt",
-                    "imageURL": "img/routines/spinning_top.jpg"
-                },
-                {
-                    "name": "sovetid",
-                    "imageURL": "img/routines/sleep.jpg"
-                },
-                {
-                    "name": "sååå stor",
-                    "imageURL": "img/routines/big_arm_circles.jpg"
-                },
-                {
-                    "name": "takk",
-                    "imageURL": "img/routines/tnx.jpg"
-                },
-                {
-                    "name": "vær så snill",
-                    "imageURL": "img/routines/please.jpg"
-                },
-                {
-                    "name": "vent",
-                    "imageURL": "img/routines/wait.jpg"
-                },
-                {
-                    "name": "vil",
-                    "imageURL": "img/routines/want.jpg"
+                    "name": "når",
+                    "imageURL": "img/question/question.jpg"
                 }
             ]
         },
         {
-            "id": 14,
+            "id": 4,
+            "name": "Bindeord",
+            "imageURL": "img/categories/farm_animals.jpg",
+            "words": [
+                {
+                    "name": "at",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "eller",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "for",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "fordi",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "hvis",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "men",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "og",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "så",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "som",
+                    "imageURL": "img/categories/talk.jpg"
+                }
+            ]
+        },  
+        {
+            "id": 5,
+            "name": "Hjelpeverb",
+            "imageURL": "img/categories/vehicles.jpg",
+            "words": [
+                {
+                    "name": "bli",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "bør",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "burde",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "er",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "få",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "gjør",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "gjorde",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "gjøre",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "ha",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "hadde",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "har",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "kan",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "kunne",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "la",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "må",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "måtte",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "skal",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "skulle",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "være",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "var",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "vil",
+                    "imageURL": "img/categories/talk.jpg"
+                },
+                {
+                    "name": "ville",
+                    "imageURL": "img/categories/talk.jpg"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Hva",
+            "imageURL": "img/categories/toys.jpg",
+            "words": [
+                {
+                    "name": "Advent",
+                    "imageURL": "img/what/advent.jpg"
+                },
+                {
+                    "name": "ball",
+                    "imageURL": "img/toys/ball.jpg"
+                },
+                {
+                    "name": "ballong",
+                    "imageURL": "img/toys/balloon.jpg"
+                },
+                {
+                    "name": "blyant",
+                    "imageURL": "img/toys/pencil.jpg"
+                },
+                {
+                    "name": "bok",
+                    "imageURL": "img/toys/book.jpg"
+                },
+                {
+                    "name": "klosser",
+                    "imageURL": "img/toys/blocks.jpg"
+                },
+                {
+                    "name": "datamaskin",
+                    "imageURL": "img/what/computer.jpg"
+                },
+                {
+                    "name": "juice",
+                    "imageURL": "img/food/orange_juice.jpg"
+                },
+                {
+                    "name": "måne",
+                    "imageURL": "img/outdoor/starry_night_sky.jpg"
+                },
+                {
+                    "name": "årer",
+                    "imageURL": "img/what/oars.jpg"
+                },
+                {
+                    "name": "vinger",
+                    "imageURL": "img/what/wing.jpg"
+                },
+                {
+                    "name": "ved",
+                    "imageURL": "img/what/wood.jpg"
+                },
+                {
+                    "name": "tegn",
+                    "imageURL": "img/what/sign_language.jpg"
+                },
+                {
+                    "name": "tale",
+                    "imageURL": "img/what/speech.jpg"
+                },
+                {
+                    "name": "stress",
+                    "imageURL": "img/what/stressed.jpg"
+                },
+                {
+                    "name": "spann",
+                    "imageURL": "img/house_items/bucket.jpg"
+                },
+                {
+                    "name": "snøskuter",
+                    "imageURL": "img/what/snowmobile.jpg"
+                },
+                {
+                    "name": "skøyter",
+                    "imageURL": "img/what/roller_skates.jpg"
+                },
+                {
+                    "name": "skog",
+                    "imageURL": "img/what/forest.jpg"
+                },
+                {
+                    "name": "ski",
+                    "imageURL": "img/what/ski.jpg"
+                },
+                {
+                    "name": "sang",
+                    "imageURL": "img/what/thump_song.jpg"
+                },
+                {
+                    "name": "rettferdighet",
+                    "imageURL": "img/what/fair.jpg"
+                },
+                {
+                    "name": "robot",
+                    "imageURL": "img/what/robot.jpg"
+                },
+                {
+                    "name": "reise",
+                    "imageURL": "img/what/travel.jpg"
+                },
+                {
+                    "name": "regel",
+                    "imageURL": "img/what/rule.jpg"
+                },
+                {
+                    "name": "premie",
+                    "imageURL": "img/what/gold_medal.jpg"
+                },
+                {
+                    "name": "post",
+                    "imageURL": "img/what/mail_carrier.jpg"
+                },
+                {
+                    "name": "operasjon",
+                    "imageURL": "img/what/operation.jpg"
+                },
+                {
+                    "name": "nøkkel",
+                    "imageURL": "img/what/key.jpg"
+                },
+                {
+                    "name": "nål",
+                    "imageURL": "img/what/needle.jpg"
+                },
+                {
+                    "name": "møte",
+                    "imageURL": "img/what/meeting.jpg"
+                },
+                {
+                    "name": "myr",
+                    "imageURL": "img/what/wetlands.jpg"
+                },
+                {
+                    "name": "musikk",
+                    "imageURL": "img/what/music.jpg"
+                },
+                {
+                    "name": "monster",
+                    "imageURL": "img/what/monster.jpg"
+                },
+                {
+                    "name": "lån",
+                    "imageURL": "img/what/loan.jpg"
+                },
+                {
+                    "name": "kø",
+                    "imageURL": "img/what/line.jpg"
+                },
+                {
+                    "name": "kort",
+                    "imageURL": "img/what/card.jpg"
+                },
+                {
+                    "name": "kopi",
+                    "imageURL": "img/what/copy.jpg"
+                },
+                {
+                    "name": "konfirmasjon",
+                    "imageURL": "img/what/confirmation.jpg"
+                },
+                {
+                    "name": "Kaptein Sabeltann",
+                    "imageURL": "img/what/pirate.jpg"
+                },
+                {
+                    "name": "Jul",
+                    "imageURL": "img/what/christmas.jpg"
+                },
+                {
+                    "name": "julenisse",
+                    "imageURL": "img/what/santa.jpg"
+                },
+                {
+                    "name": "juletre",
+                    "imageURL": "img/what/christmas_tree.jpg"
+                },
+                {
+                    "name": "kakao",
+                    "imageURL": "img/what/hot_chocolate.jpg"
+                },
+                {
+                    "name": "jorden",
+                    "imageURL": "img/what/earth.jpg"
+                },
+                {
+                    "name": "jord",
+                    "imageURL": "img/what/dirt.jpg"
+                },
+                {
+                    "name": "jakt",
+                    "imageURL": "img/what/hunter.jpg"
+                },
+                {
+                    "name": "is",
+                    "imageURL": "img/food/sundae.jpg"
+                },
+                {
+                    "name": "ishockey",
+                    "imageURL": "img/what/hockey.jpg"
+                },
+                {
+                    "name": "ishockeykølle",
+                    "imageURL": "img/what/hockey_stick.jpg"
+                },
+                {
+                    "name": "hjelm",
+                    "imageURL": "img/what/helmet.jpg"
+                },
+                {
+                    "name": "Gruffalo-ungen",
+                    "imageURL": "img/what/gruffalo.jpg"
+                },
+                {
+                    "name": "grus",
+                    "imageURL": "img/what/gravel.jpg"
+                },
+                {
+                    "name": "grill",
+                    "imageURL": "img/what/grill.jpg"
+                },
+                {
+                    "name": "grein",
+                    "imageURL": "img/what/branch.jpg"
+                },
+                {
+                    "name": "gravemaskin",
+                    "imageURL": "img/what/excavator.jpg"
+                },
+                {
+                    "name": "gebiss",
+                    "imageURL": "img/what/teeth.jpg"
+                },
+                {
+                    "name": "gardin",
+                    "imageURL": "img/what/curtains.jpg"
+                },
+                {
+                    "name": "garn",
+                    "imageURL": "img/what/yarn.jpg"
+                },
+                {
+                    "name": "godter",
+                    "imageURL": "img/food/candy.jpg"
+                },
+                {
+                    "name": "dataspill",
+                    "imageURL": "img/what/computer_game.jpg"
+                },
+                {
+                    "name": "spiker",
+                    "imageURL": "img/what/nail.jpg"
+                },
+                {
+                    "name": "fred",
+                    "imageURL": "img/what/peace.jpg"
+                },
+                {
+                    "name": "fystikk",
+                    "imageURL": "img/what/match.jpg"
+                },
+                {
+                    "name": "frisør",
+                    "imageURL": "img/what/haircut.jpg"
+                },
+                {
+                    "name": "film",
+                    "imageURL": "img/what/movie.jpg"
+                },
+                {
+                    "name": "ferie",
+                    "imageURL": "img/what/vacation.jpg"
+                },
+                {
+                    "name": "dikt",
+                    "imageURL": "img/what/poem.jpg"
+                },
+                {
+                    "name": "dråpe",
+                    "imageURL": "img/what/drops.jpg"
+                },
+                {
+                    "name": "gave",
+                    "imageURL": "img/toys/gift.jpg"
+                },
+                {
+                    "name": "gitar",
+                    "imageURL": "img/what/guitar.jpg"
+                },
+                {
+                    "name": "fantasi",
+                    "imageURL": "img/what/fantasy.jpg"
+                },
+                {
+                    "name": "edderkopp",
+                    "imageURL": "img/what/spider.jpg"
+                },
+                {
+                    "name": "elv",
+                    "imageURL": "img/what/stream.jpg"
+                },
+                {
+                    "name": "engel",
+                    "imageURL": "img/what/angel.jpg"
+                },
+                {
+                    "name": "eventyr",
+                    "imageURL": "img/toys/adventure.jpg"
+                },
+                {
+                    "name": "dukke",
+                    "imageURL": "img/toys/doll_baby.jpg"
+                },
+                {
+                    "name": "lego",
+                    "imageURL": "img/toys/Legos.jpg"
+                },
+                {
+                    "name": "fargeblyant",
+                    "imageURL": "img/toys/colored_pencils.jpg"
+                },
+                {
+                    "name": "fløyte",
+                    "imageURL": "img/what/whistle.jpg"
+                },
+                {
+                    "name": "presang",
+                    "imageURL": "img/toys/gift.jpg"
+                },
+                {
+                    "name": "kritt",
+                    "imageURL": "img/toys/chalkboard.jpg"
+                },
+                {
+                    "name": "gift",
+                    "imageURL": "img/what/marry.jpg"
+                },
+                {
+                    "name": "leke",
+                    "imageURL": "img/toys/toy.jpg"
+                },
+                {
+                    "name": "lim",
+                    "imageURL": "img/toys/glue.jpg"
+                },
+                {
+                    "name": "penn",
+                    "imageURL": "img/toys/pen.jpg"
+                },
+                {
+                    "name": "plastilina",
+                    "imageURL": "img/toys/plastilina.jpg"
+                },
+                {
+                    "name": "puslespill",
+                    "imageURL": "img/toys/puzzle.jpg"
+                },
+                {
+                    "name": "spill",
+                    "imageURL": "img/toys/game.jpg"
+                },
+                {
+                    "name": "såpebobler",
+                    "imageURL": "img/toys/bubbles.jpg"
+                },
+                {
+                    "name": "tusj",
+                    "imageURL": "img/toys/bubbles.jpg"
+                },
+                {
+                    "name": "badering",
+                    "imageURL": "img/what/swim_ring.jpg"
+                },
+                {
+                    "name": "batteri",
+                    "imageURL": "img/what/battery.jpg"
+                },
+                {
+                    "name": "bekk",
+                    "imageURL": "img/what/stream.jpg"
+                },
+                {
+                    "name": "Bestefar i Lomma",
+                    "imageURL": "img/what/grandpa.jpg"
+                },
+                {
+                    "name": "besøk",
+                    "imageURL": "img/what/visit.jpg"
+                },
+                {
+                    "name": "bilde",
+                    "imageURL": "img/house_items/picture.jpg"
+                },
+                {
+                    "name": "billett",
+                    "imageURL": "img/what/ticket.jpg"
+                },
+                {
+                    "name": "blad",
+                    "imageURL": "img/what/magazine.jpg"
+                },
+                {
+                    "name": "blod",
+                    "imageURL": "img/sound_effects/blood.jpg"
+                },
+                {
+                    "name": "blomst",
+                    "imageURL": "img/outdoor/flower.jpg"
+                },
+                {
+                    "name": "boks",
+                    "imageURL": "img/house_items/box.jpg"
+                },
+                {
+                    "name": "bolle",
+                    "imageURL": "img/what/cin_bun.jpg"
+                },
+                {
+                    "name": "bord",
+                    "imageURL": "img/room/table.jpg"
+                },
+                {
+                    "name": "børste",
+                    "imageURL": "img/house_items/hairbrush.jpg"
+                },
+                {
+                    "name": "bøtte",
+                    "imageURL": "img/house_items/bucket.jpg"
+                },
+                {
+                    "name": "brannmann",
+                    "imageURL": "img/people/fireman.jpg"
+                },
+                {
+                    "name": "brett",
+                    "imageURL": "img/house_items/sheet.jpg"
+                },
+                {
+                    "name": "briller",
+                    "imageURL": "img/house_items/glasses.jpg"
+                },
+                {
+                    "name": "bru",
+                    "imageURL": "img/what/bridge.jpg"
+                },
+                {
+                    "name": "bråk",
+                    "imageURL": "img/what/noise.jpg"
+                },
+                {
+                    "name": "bukse",
+                    "imageURL": "img/clothing/jeans.jpg"
+                },
+                {
+                    "name": "fødselsdag",
+                    "imageURL": "img/what/birthday.jpg"
+                },
+                {
+                    "name": "bæsj",
+                    "imageURL": "img/what/poop.jpg"
+                },
+                {
+                    "name": "bøtte",
+                    "imageURL": "img/house_items/bucket.jpg"
+                },
+                {
+                    "name": "bål",
+                    "imageURL": "img/what/bonfire.jpg"
+                },
+                {
+                    "name": "båt",
+                    "imageURL": "img/vehicles/boat.jpg"
+                },
+                {
+                    "name": "dag",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "dam",
+                    "imageURL": "img/what/pond.jpg"
+                },
+                {
+                    "name": "dopapir",
+                    "imageURL": "img/house_items/toilet_paper.jpg"
+                },
+                {
+                    "name": "dyne",
+                    "imageURL": "img/house_items/blanket.jpg"
+                },
+                {
+                    "name": "eske",
+                    "imageURL": "img/house_items/container.jpg"
+                },
+                {
+                    "name": "fat",
+                    "imageURL": "img/house_items/paper_plate.jpg"
+                },
+                {
+                    "name": "flaske",
+                    "imageURL": "img/house_items/bottled_water.jpg"
+                },
+                {
+                    "name": "fest",
+                    "imageURL": "img/what/party.jpg"
+                },
+                {
+                    "name": "gåbil",
+                    "imageURL": "img/house_items/walker.jpg"
+                },
+                {
+                    "name": "gaffel",
+                    "imageURL": "img/house_items/fork.jpg"
+                },
+                {
+                    "name": "glass",
+                    "imageURL": "img/house_items/glass.jpg"
+                },
+                {
+                    "name": "hammer",
+                    "imageURL": "img/house_items/hammer.jpg"
+                },
+                {
+                    "name": "håndkle",
+                    "imageURL": "img/house_items/towel.jpg"
+                },
+                {
+                    "name": "iPad",
+                    "imageURL": "img/what/tablet.jpg"
+                },
+                {
+                    "name": "kam",
+                    "imageURL": "img/house_items/comb.jpg"
+                },
+                {
+                    "name": "kamera",
+                    "imageURL": "img/house_items/camera.jpg"
+                },
+                {
+                    "name": "Karsten",
+                    "imageURL": "img/what/man.jpg"
+                },
+                {
+                    "name": "kasse",
+                    "imageURL": "img/house_items/case.jpg"
+                },
+                {
+                    "name": "kjøkkenrull",
+                    "imageURL": "img/house_items/paper_towels.jpg"
+                },
+                {
+                    "name": "klokke",
+                    "imageURL": "img/house_items/time.jpg"
+                },
+                {
+                    "name": "kniv",
+                    "imageURL": "img/house_items/knife.jpg"
+                },
+                {
+                    "name": "kopp",
+                    "imageURL": "img/house_items/cup.jpg"
+                },
+                {
+                    "name": "kost",
+                    "imageURL": "img/house_items/sweep.jpg"
+                },
+                {
+                    "name": "krukke",
+                    "imageURL": "img/house_items/urn.jpg"
+                },
+                {
+                    "name": "krus",
+                    "imageURL": "img/house_items/mug.jpg"
+                },
+                {
+                    "name": "lampe",
+                    "imageURL": "img/house_items/lamp.jpg"
+                },
+                {
+                    "name": "lommebok",
+                    "imageURL": "img/house_items/wallet.jpg"
+                },
+                {
+                    "name": "lys",
+                    "imageURL": "img/house_items/turn_on.jpg"
+                },
+                {
+                    "name": "medisin",
+                    "imageURL": "img/house_items/medicine.jpg"
+                },
+                {
+                    "name": "nøkler",
+                    "imageURL": "img/house_items/set_of_keys.jpg"
+                },
+                {
+                    "name": "papir",
+                    "imageURL": "img/house_items/paper.jpg"
+                },
+                {
+                    "name": "penger",
+                    "imageURL": "img/house_items/money.jpg"
+                },
+                {
+                    "name": "Petra",
+                    "imageURL": "img/what/woman.jpg"
+                },
+                {
+                    "name": "plante",
+                    "imageURL": "img/house_items/plant.jpg"
+                },
+                {
+                    "name": "pute",
+                    "imageURL": "img/house_items/pillow.jpg"
+                },
+                {
+                    "name": "radio",
+                    "imageURL": "img/house_items/radio.jpg"
+                },
+                {
+                    "name": "saks",
+                    "imageURL": "img/house_items/scissors.jpg"
+                },
+                {
+                    "name": "såpe",
+                    "imageURL": "img/house_items/soap_bar.jpg"
+                },
+                {
+                    "name": "sekk",
+                    "imageURL": "img/house_items/backpack.jpg"
+                },
+                {
+                    "name": "serviett",
+                    "imageURL": "img/house_items/napkin.jpg"
+                },
+                {
+                    "name": "skål",
+                    "imageURL": "img/house_items/bowl.jpg"
+                },
+                {
+                    "name": "skje",
+                    "imageURL": "img/house_items/spoon.jpg"
+                },
+                {
+                    "name": "søppel",
+                    "imageURL": "img/house_items/trash_bag.jpg"
+                },
+                {
+                    "name": "søppelbøtte",
+                    "imageURL": "img/house_items/trash_can.jpg"
+                },
+                {
+                    "name": "støvsuger",
+                    "imageURL": "img/house_items/vacuum_cleaner.jpg"
+                },
+                {
+                    "name": "tallerken",
+                    "imageURL": "img/house_items/Styrofoam_plate.jpg"
+                },
+                {
+                    "name": "tannbørste",
+                    "imageURL": "img/house_items/toothbrush.jpg"
+                },
+                {
+                    "name": "telefon",
+                    "imageURL": "img/house_items/cordless_phone.jpg"
+                },
+                {
+                    "name": "teppe",
+                    "imageURL": "img/house_items/red_carpet.jpg"
+                },
+                {
+                    "name": "veske",
+                    "imageURL": "img/house_items/purse.jpg"
+                },
+                {
+                    "name": "bad",
+                    "imageURL": "img/room/public_bathroom.jpg"
+                },
+                {
+                    "name": "badekar",
+                    "imageURL": "img/room/bathroom.jpg"
+                },
+                {
+                    "name": "balkong",
+                    "imageURL": "img/room/balcony.jpg"
+                },
+                {
+                    "name": "barneseng",
+                    "imageURL": "img/room/crib.jpg"
+                },
+                {
+                    "name": "barnestol",
+                    "imageURL": "img/room/high_chair.jpg"
+                },
+                {
+                    "name": "bord",
+                    "imageURL": "img/room/table.jpg"
+                },
+                {
+                    "name": "do",
+                    "imageURL": "img/room/use_toilet.jpg"
+                },
+                {
+                    "name": "dør",
+                    "imageURL": "img/room/open_door.jpg"
+                },
+                {
+                    "name": "dusj",
+                    "imageURL": "img/room/shower.jpg"
+                },
+                {
+                    "name": "garasje",
+                    "imageURL": "img/room/garage.jpg"
+                },
+                {
+                    "name": "gyngestol",
+                    "imageURL": "img/room/rocking_chair.jpg"
+                },
+                {
+                    "name": "kjeller",
+                    "imageURL": "img/room/basement.jpg"
+                },
+                {
+                    "name": "kjøkken",
+                    "imageURL": "img/room/kitchen.jpg"
+                },
+                {
+                    "name": "kjøleskap",
+                    "imageURL": "img/room/refrigerator.jpg"
+                },
+                {
+                    "name": "komfyr",
+                    "imageURL": "img/room/heat.jpg"
+                },
+                {
+                    "name": "lekegrind",
+                    "imageURL": "img/room/sand_fence.jpg"
+                },
+                {
+                    "name": "ovn",
+                    "imageURL": "img/room/oven.jpg"
+                },
+                {
+                    "name": "PC",
+                    "imageURL": "img/room/computer.jpg"
+                },
+                {
+                    "name": "potte",
+                    "imageURL": "img/room/pot.jpg"
+                },
+                {
+                    "name": "rom",
+                    "imageURL": "img/room/empty_room.jpg"
+                },
+                {
+                    "name": "seng",
+                    "imageURL": "img/room/bed.jpg"
+                },
+                {
+                    "name": "skap",
+                    "imageURL": "img/room/closet.jpg"
+                },
+                {
+                    "name": "skuff",
+                    "imageURL": "img/room/drawer.jpg"
+                },
+                {
+                    "name": "sofa",
+                    "imageURL": "img/room/chair.jpg"
+                },
+                {
+                    "name": "soverom",
+                    "imageURL": "img/room/bedroom.jpg"
+                },
+                {
+                    "name": "stol",
+                    "imageURL": "img/room/chair.jpg" 
+                },
+                {
+                    "name": "stue",
+                    "imageURL": "img/room/living_room.jpg"
+                },
+                {
+                    "name": "terrasse",
+                    "imageURL": "img/room/balcony.jpg"
+                },
+                {
+                    "name": "tørketrommel",
+                    "imageURL": "img/room/dryer.jpg"
+                },
+                {
+                    "name": "trapper",
+                    "imageURL": "img/room/step_up.jpg"
+                },
+                {
+                    "name": "TV",
+                    "imageURL": "img/room/flat_screen_television.jpg"
+                },
+                {
+                    "name": "vask",
+                    "imageURL": "img/room/bathroom_sink.jpg"
+                },
+                {
+                    "name": "vaskemaskin",
+                    "imageURL": "img/room/wash_clothes.jpg"
+                },
+                {
+                    "name": "vindu",
+                    "imageURL": "img/room/window.jpg"
+                },
+                {
+                    "name": "badebasseng",
+                    "imageURL": "img/outdoor/swimming_pool.jpg"
+                },
+                {
+                    "name": "bakgård",
+                    "imageURL": "img/outdoor/patio.jpg"
+                },
+                {
+                    "name": "blomst",
+                    "imageURL": "img/outdoor/flower.jpg"
+                },
+                {
+                    "name": "fjell",
+                    "imageURL": "img/outdoor/mountain.jpg"
+                },
+                {
+                    "name": "flagg",
+                    "imageURL": "img/outdoor/flag.jpg"
+                },
+                {
+                    "name": "fortau",
+                    "imageURL": "img/outdoor/sidewalk.jpg"
+                },
+                {
+                    "name": "gress",
+                    "imageURL": "img/outdoor/grass.jpg"
+                },
+                {
+                    "name": "gressklipper",
+                    "imageURL": "img/outdoor/mow.jpg"
+                },
+                {
+                    "name": "himmel",
+                    "imageURL": "img/outdoor/sky.jpg"
+                },
+                {
+                    "name": "huske",
+                    "imageURL": "img/outdoor/swing.jpg"
+                },
+                {
+                    "name": "kjelke",
+                    "imageURL": "img/outdoor/sled.jpg"
+                },
+                {
+                    "name": "pinne",
+                    "imageURL": "img/outdoor/stick.jpg"
+                },
+                {
+                    "name": "regn",
+                    "imageURL": "img/outdoor/freezing_rain.jpg"
+                },
+                {
+                    "name": "sandkasse",
+                    "imageURL": "img/outdoor/sandbox.jpg"
+                },
+                {
+                    "name": "sklie",
+                    "imageURL": "img/outdoor/slide.jpg"
+                },
+                {
+                    "name": "skyer",
+                    "imageURL": "img/outdoor/clouds.jpg"
+                },
+                {
+                    "name": "snø",
+                    "imageURL": "img/outdoor/snow.jpg"
+                },
+                {
+                    "name": "snømann",
+                    "imageURL": "img/outdoor/snowman.jpg"
+                },
+                {
+                    "name": "spade",
+                    "imageURL": "img/outdoor/shovel.jpg"
+                },
+                {
+                    "name": "stein",
+                    "imageURL": "img/outdoor/stones.jpg"
+                },
+                {
+                    "name": "stige",
+                    "imageURL": "img/outdoor/ladder.jpg"
+                },
+                {
+                    "name": "stjerner",
+                    "imageURL": "img/outdoor/stars.jpg"
+                },
+                {
+                    "name": "tak",
+                    "imageURL": "img/outdoor/roof.jpg"
+                },
+                {
+                    "name": "trampoline",
+                    "imageURL": "img/outdoor/trampoline.jpg"
+                },
+                {
+                    "name": "tre",
+                    "imageURL": "img/outdoor/tree.jpg"
+                },
+                {
+                    "name": "vann",
+                    "imageURL": "img/outdoor/water.jpg"
+                },
+                {
+                    "name": "vannslange",
+                    "imageURL": "img/outdoor/hose.jpg"
+                },
+                {
+                    "name": "vei",
+                    "imageURL": "img/outdoor/road.jpg"
+                },
+                {
+                    "name": "vind",
+                    "imageURL": "img/outdoor/wind.jpg"
+                },
+                {
+                    "name": "belte",
+                    "imageURL": "img/clothing/belt.jpg"
+                },
+                {
+                    "name": "bleier",
+                    "imageURL": "img/clothing/diaper.jpg"
+                },
+                {
+                    "name": "bukse",
+                    "imageURL": "img/clothing/jeans.jpg"
+                },
+                {
+                    "name": "dress",
+                    "imageURL": "img/clothing/suit.jpg"
+                },
+                {
+                    "name": "genser",
+                    "imageURL": "img/clothing/sweater.jpg"
+                },
+                {
+                    "name": "glidelås",
+                    "imageURL": "img/clothing/zipper.jpg"
+                },
+                {
+                    "name": "halskjede",
+                    "imageURL": "img/clothing/necklace.jpg"
+                },
+                {
+                    "name": "hansker",
+                    "imageURL": "img/clothing/gloves.jpg"
+                },
+                {
+                    "name": "jakke",
+                    "imageURL": "img/clothing/jacket.jpg"
+                },
+                {
+                    "name": "joggesko",
+                    "imageURL": "img/clothing/running_shoes.jpg"
+                },
+                {
+                    "name": "kjole",
+                    "imageURL": "img/clothing/dress.jpg"
+                },
+                {
+                    "name": "knapper",
+                    "imageURL": "img/clothing/buttons.jpg"
+                },
+                {
+                    "name": "lue",
+                    "imageURL": "img/clothing/earflap_hat.jpg"
+                },
+                {
+                    "name": "pysjamas",
+                    "imageURL": "img/clothing/nightgown.jpg"
+                },
+                {
+                    "name": "regntøy",
+                    "imageURL": "img/clothing/raincoat.jpg"
+                },
+                {
+                    "name": "sandaler",
+                    "imageURL": "img/clothing/sandals.jpg"
+                },
+                {
+                    "name": "shorts",
+                    "imageURL": "img/clothing/shorts.jpg"
+                },
+                {
+                    "name": "skjerf",
+                    "imageURL": "img/clothing/scarf.jpg"
+                },
+                {
+                    "name": "skjorte",
+                    "imageURL": "img/clothing/shirt.jpg"
+                },
+                {
+                    "name": "sko",
+                    "imageURL": "img/clothing/tied_shoes.jpg"
+                },
+                {
+                    "name": "smekke",
+                    "imageURL": "img/clothing/bib.jpg"
+                },
+                {
+                    "name": "smokk",
+                    "imageURL": "img/clothing/pacifier.jpg"
+                },
+                {
+                    "name": "sokker",
+                    "imageURL": "img/clothing/socks.jpg"
+                },
+                {
+                    "name": "støvler",
+                    "imageURL": "img/clothing/rain_boots.jpg"
+                },
+                {
+                    "name": "strømpebukse",
+                    "imageURL": "img/clothing/pantyhose.jpg"
+                },
+                {
+                    "name": "strømper",
+                    "imageURL": "img/clothing/stockings.jpg"
+                },
+                {
+                    "name": "t-skjorte",
+                    "imageURL": "img/clothing/T-shirt.jpg"
+                },
+                {
+                    "name": "tøfler",
+                    "imageURL": "img/clothing/slippers.jpg"
+                },
+                {
+                    "name": "underbukse",
+                    "imageURL": "img/clothing/underwear.jpg"
+                },
+                {
+                    "name": "votter",
+                    "imageURL": "img/clothing/mittens.jpg"
+                },
+                {
+                    "name": "akebrett",
+                    "imageURL": "img/vehicles/sledding.jpg"
+                },
+                {
+                    "name": "barnevogn",
+                    "imageURL": "img/vehicles/baby_doll_stroller.jpg"
+                },
+                {
+                    "name": "bil",
+                    "imageURL": "img/vehicles/car.jpg"
+                },
+                {
+                    "name": "brannbil",
+                    "imageURL": "img/vehicles/fire_truck.jpg"
+                },
+                {
+                    "name": "buss",
+                    "imageURL": "img/vehicles/bus.jpg"
+                },
+                {
+                    "name": "båt",
+                    "imageURL": "img/vehicles/boat.jpg"
+                },
+                {
+                    "name": "fly",
+                    "imageURL": "img/vehicles/Blue_Angel_plane.jpg"
+                },
+                {
+                    "name": "helikopter",
+                    "imageURL": "img/vehicles/helicopter.jpg"
+                },
+                {
+                    "name": "lastebil",
+                    "imageURL": "img/vehicles/truck.jpg"
+                },
+                {
+                    "name": "motorsykkel",
+                    "imageURL": "img/vehicles/motorbike.jpg"
+                },
+                {
+                    "name": "sykkel",
+                    "imageURL": "img/vehicles/bicycle.jpg"
+                },
+                {
+                    "name": "tog",
+                    "imageURL": "img/vehicles/bullet_train.jpg"
+                },
+                {
+                    "name": "traktor",
+                    "imageURL": "img/vehicles/tractor.jpg"
+                },
+                {
+                    "name": "trehjulssykkel",
+                    "imageURL": "img/vehicles/tricycle.jpg"
+                }
+            ]
+        },
+        {
+            "id": 7,
             "name": "Verb",
-            "imageURL": "img/categories/jump.jpg",
+            "imageURL": "img/categories/apple_juice.jpg",
             "words": [
                 {
                     "name": "jobbe",
@@ -2171,502 +2326,94 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 15,
-            "name": "Beskrivende ord",
-            "imageURL": "img/categories/describe.jpg",
+            "id": 8,
+            "name": "Hvor",
+            "imageURL": "img/categories/clothes.jpg",
             "words": [
                 {
-                    "name": "bedre",
-                    "imageURL": "img/describe/better.jpg"
+                    "name": "bensinstasjon",
+                    "imageURL": "img/places/gas_station.jpg"
                 },
                 {
-                    "name": "blå",
-                    "imageURL": "img/describe/blue.jpg"
+                    "name": "bondegård",
+                    "imageURL": "img/places/farm.jpg"
                 },
                 {
-                    "name": "bløt",
-                    "imageURL": "img/describe/wet_hands.jpg"
+                    "name": "butikk",
+                    "imageURL": "img/places/store.jpg"
                 },
                 {
-                    "name": "borte",
-                    "imageURL": "img/describe/good.jpg"
+                    "name": "byen",
+                    "imageURL": "img/places/city.jpg"
                 },
                 {
-                    "name": "bra",
-                    "imageURL": "img/describe/good.jpg"
+                    "name": "campingplass",
+                    "imageURL": "img/places/camping.jpg"
                 },
                 {
-                    "name": "bråkete",
-                    "imageURL": "img/describe/noise.jpg"
+                    "name": "dyrehage",
+                    "imageURL": "img/places/zoo.jpg"
                 },
                 {
-                    "name": "brun",
-                    "imageURL": "img/describe/brown.jpg"
+                    "name": "fest",
+                    "imageURL": "img/places/street_party.jpg"
                 },
                 {
-                    "name": "dårlig",
-                    "imageURL": "img/describe/bad.jpg"
+                    "name": "hage",
+                    "imageURL": "img/places/backyard_birds.jpg"
                 },
                 {
-                    "name": "ekkelt",
-                    "imageURL": "img/describe/spoiled.jpg"
+                    "name": "hjem",
+                    "imageURL": "img/places/home.jpg"
                 },
                 {
-                    "name": "fin",
-                    "imageURL": "img/describe/beautiful.jpg"
+                    "name": "hus",
+                    "imageURL": "img/places/home1.jpg"
                 },
                 {
-                    "name": "forsiktig",
-                    "imageURL": "img/describe/protect.jpg"
+                    "name": "jobb",
+                    "imageURL": "img/places/work.jpg"
                 },
                 {
-                    "name": "først",
-                    "imageURL": "img/describe/first.jpg"
+                    "name": "kino",
+                    "imageURL": "img/places/movie_theater.jpg"
                 },
                 {
-                    "name": "fort",
-                    "imageURL": "img/describe/fast.jpg"
+                    "name": "kirke",
+                    "imageURL": "img/places/church.jpg"
                 },
                 {
-                    "name": "frekk",
-                    "imageURL": "img/describe/rude.jpg"
+                    "name": "landet",
+                    "imageURL": "img/places/summer_camp.jpg"
                 },
                 {
-                    "name": "full",
-                    "imageURL": "img/describe/full.jpg"
+                    "name": "lekeplass",
+                    "imageURL": "img/places/playground.jpg"
                 },
                 {
-                    "name": "gammel",
-                    "imageURL": "img/describe/old.jpg"
+                    "name": "park",
+                    "imageURL": "img/places/park.jpg"
                 },
                 {
-                    "name": "glad",
-                    "imageURL": "img/describe/excited.jpg"
+                    "name": "sirkus",
+                    "imageURL": "img/places/circus.jpg"
                 },
                 {
-                    "name": "god",
-                    "imageURL": "img/describe/tastes_good.jpg"
+                    "name": "skogen",
+                    "imageURL": "img/places/forest.jpg"
                 },
                 {
-                    "name": "grønn",
-                    "imageURL": "img/describe/green.jpg"
+                    "name": "strand",
+                    "imageURL": "img/places/beach.jpg"
                 },
                 {
-                    "name": "gul",
-                    "imageURL": "img/describe/yellow.jpg"
+                    "name": "svømmehall",
+                    "imageURL": "img/places/swimming_race.jpg"
                 },
                 {
-                    "name": "hard",
-                    "imageURL": "img/describe/hard.jpg"
+                    "name": "ut",
+                    "imageURL": "img/places/outside.jpg"
                 },
-                {
-                    "name": "høy",
-                    "imageURL": "img/describe/tall.jpg"
-                },
-                {
-                    "name": "hvit",
-                    "imageURL": "img/describe/white.jpg"
-                },
-                {
-                    "name": "kald",
-                    "imageURL": "img/describe/cold.jpg"
-                },
-                {
-                    "name": "klissete",
-                    "imageURL": "img/describe/sticky.jpg"
-                },
-                {
-                    "name": "lang",
-                    "imageURL": "img/describe/long.jpg"
-                },
-                {
-                    "name": "lei seg",
-                    "imageURL": "img/describe/cry.jpg"
-                },
-                {
-                    "name": "liten",
-                    "imageURL": "img/describe/small.jpg"
-                },
-                {
-                    "name": "mørkt",
-                    "imageURL": "img/describe/dark.jpg"
-                },
-                {
-                    "name": "ny",
-                    "imageURL": "img/describe/new.jpg"
-                },
-                {
-                    "name": "ødelagt",
-                    "imageURL": "img/describe/broken.jpg"
-                },
-                {
-                    "name": "oransje",
-                    "imageURL": "img/describe/orange.jpg"
-                },
-                {
-                    "name": "pen",
-                    "imageURL": "img/describe/beautiful.jpg"
-                },
-                {
-                    "name": "rar",
-                    "imageURL": "img/describe/crazy.jpg"
-                },
-                {
-                    "name": "redd",
-                    "imageURL": "img/describe/scared.jpg"
-                },
-                {
-                    "name": "rød",
-                    "imageURL": "img/describe/red.jpg"
-                },
-                {
-                    "name": "sen",
-                    "imageURL": "img/describe/late.jpg"
-                },
-                {
-                    "name": "sint",
-                    "imageURL": "img/describe/angry.jpg"
-                },
-                {
-                    "name": "sist",
-                    "imageURL": "img/describe/last.jpg"
-                },
-                {
-                    "name": "sitter fast",
-                    "imageURL": "img/describe/door_stuck.jpg"
-                },
-                {
-                    "name": "skitten",
-                    "imageURL": "img/describe/dirty.jpg"
-                },
-                {
-                    "name": "skjønn",
-                    "imageURL": "img/describe/beautiful.jpg"
-                },
-                {
-                    "name": "slem",
-                    "imageURL": "img/describe/naughty.jpg"
-                },
-                {
-                    "name": "snill",
-                    "imageURL": "img/describe/care.jpg"
-                },
-                {
-                    "name": "søt",
-                    "imageURL": "img/describe/sweet.jpg"
-                },
-                {
-                    "name": "søvnig",
-                    "imageURL": "img/describe/tired.jpg"
-                },
-                {
-                    "name": "stakkars",
-                    "imageURL": "img/describe/hurt.jpg"
-                },
-                {
-                    "name": "stille",
-                    "imageURL": "img/describe/quiet.jpg"
-                },
-                {
-                    "name": "stor",
-                    "imageURL": "img/describe/big.jpg"
-                },
-                {
-                    "name": "sulten",
-                    "imageURL": "img/describe/hungry.jpg"
-                },
-                {
-                    "name": "sur",
-                    "imageURL": "img/describe/grumpy.jpg"
-                },
-                {
-                    "name": "svart",
-                    "imageURL": "img/describe/black.jpg"
-                },
-                {
-                    "name": "syk",
-                    "imageURL": "img/describe/fever.jpg"
-                },
-                {
-                    "name": "tom",
-                    "imageURL": "img/describe/empty.jpg"
-                },
-                {
-                    "name": "tørr",
-                    "imageURL": "img/describe/dry_hair.jpg"
-                },
-                {
-                    "name": "tørst",
-                    "imageURL": "img/describe/thirsty.jpg"
-                },
-                {
-                    "name": "trøtt",
-                    "imageURL": "img/describe/tired.jpg"
-                },
-                {
-                    "name": "tung",
-                    "imageURL": "img/describe/hard2.jpg"
-                },
-                {
-                    "name": "våken",
-                    "imageURL": "img/describe/awake.jpg"
-                },
-                {
-                    "name": "varm",
-                    "imageURL": "img/describe/warm.jpg"
-                },
-                {
-                    "name": "våt",
-                    "imageURL": "img/describe/wet_hands.jpg"
-                },
-                {
-                    "name": "vondt",
-                    "imageURL": "img/describe/hurt2.jpg"
-                }
-            ]
-        },
-        {
-            "id": 16,
-            "name": "Ord om tid",
-            "imageURL": "img/categories/today.jpg",
-            "words": [
-                {
-                    "name": "dag",
-                    "imageURL": "img/time/time.jpg"
-                },
-                {
-                    "name": "etter",
-                    "imageURL": "img/time/time.jpg"
-                },
-                {
-                    "name": "ettermiddag",
-                    "imageURL": "img/time/time.jpg"
-                },
-                {
-                    "name": "etterpå",
-                    "imageURL": "img/time/time.jpg"
-                },
-                {
-                    "name": "før",
-                    "imageURL": "img/time/time.jpg"
-                },
-                {
-                    "name": "formiddag",
-                    "imageURL": "img/time/time.jpg"
-                },
-                {
-                    "name": "i dag",
-                    "imageURL": "img/time/time.jpg"
-                },
-                {
-                    "name": "i går",
-                    "imageURL": "img/time/time.jpg"
-                },
-                {
-                    "name": "i kveld",
-                    "imageURL": "img/time/time.jpg"
-                },
-                {
-                    "name": "i morgen",
-                    "imageURL": "img/time/time.jpg"
-                },
-                {
-                    "name": "kveld",
-                    "imageURL": "img/time/time.jpg"
-                },
-                {
-                    "name": "morgen",
-                    "imageURL": "img/time/time.jpg"
-                },
-                {
-                    "name": "nå",
-                    "imageURL": "img/time/time.jpg"
-                },
-                {
-                    "name": "natt",
-                    "imageURL": "img/time/time.jpg"
-                },
-                {
-                    "name": "senere",
-                    "imageURL": "img/time/time.jpg"
-                },
-                {
-                    "name": "tid",
-                    "imageURL": "img/time/time.jpg"
-                }
-            ]
-        },
-        {
-            "id": 17,
-            "name": "Pronomen",
-            "imageURL": "img/categories/pronouns.jpg",
-            "words": [
-                {
-                    "name": "de",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "deg",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "deg selv",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "dem",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "den",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "denne",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "dere",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "deres",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "det",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "dette",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "din",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "disse",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "du",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "ham",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "han",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "hans",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "henne",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "hennes",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "hun",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "hverandre",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "jeg",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "man",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "meg",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "meg selv",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "min",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "oss",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "seg",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "seg selv",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "sin",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "vår",
-                    "imageURL": "img/categories/talk.jpg"
-                },
-                {
-                    "name": "vi",
-                    "imageURL": "img/categories/talk.jpg"
-                }
-            ]
-        },
-        {
-            "id": 18,
-            "name": "Spørreord",
-            "imageURL": "img/categories/ask.jpg",
-            "words": [
-                {
-                    "name": "hva",
-                    "imageURL": "img/question/question.jpg"
-                },
-                {
-                    "name": "hvem",
-                    "imageURL": "img/question/question.jpg"
-                },
-                {
-                    "name": "hvilken",
-                    "imageURL": "img/question/question.jpg"
-                },
-                {
-                    "name": "hvor",
-                    "imageURL": "img/question/question.jpg"
-                },
-                {
-                    "name": "hvordan",
-                    "imageURL": "img/question/question.jpg"
-                },
-                {
-                    "name": "hvorfor",
-                    "imageURL": "img/question/question.jpg"
-                },
-                {
-                    "name": "når",
-                    "imageURL": "img/question/question.jpg"
-                }
-            ]
-        },
-        {
-            "id": 19,
-            "name": "Stedsangivelser",
-            "imageURL": "img/categories/behind.jpg",
-            "words": [
                 {
                     "name": "av",
                     "imageURL": "img/categories/talk.jpg"
@@ -2834,9 +2581,251 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 20,
-            "name": "Mengdeord",
-            "imageURL": "img/categories/few.jpg",
+            "id": 9,
+            "name": "Dyr",
+            "imageURL": "img/categories/human_body.jpg",
+            "words": [
+                {
+                    "name": "mark",
+                    "imageURL": "img/animals/wiggle.jpg"
+                },
+                {
+                    "name": "and",
+                    "imageURL": "img/animals/duck.jpg"
+                },
+                {
+                    "name": "apekatt",
+                    "imageURL": "img/animals/baby_monkey.jpg"
+                },
+                {
+                    "name": "bjørn",
+                    "imageURL": "img/animals/brown_bear.jpg"
+                },
+                {
+                    "name": "dyr",
+                    "imageURL": "img/animals/animal.jpg"
+                },
+                {
+                    "name": "ekorn",
+                    "imageURL": "img/animals/squirrel.jpg"
+                },
+                {
+                    "name": "elefant",
+                    "imageURL": "img/animals/elephant.jpg"
+                },
+                {
+                    "name": "elg",
+                    "imageURL": "img/animals/moose.jpg"
+                },
+                {
+                    "name": "esel",
+                    "imageURL": "img/animals/donkey.jpg"
+                },
+                {
+                    "name": "fisk",
+                    "imageURL": "img/animals/clownfish.jpg"
+                },
+                {
+                    "name": "flue",
+                    "imageURL": "img/animals/flies.jpg"
+                },
+                {
+                    "name": "frosk",
+                    "imageURL": "img/animals/frog.jpg"
+                },
+                {
+                    "name": "fugl",
+                    "imageURL": "img/animals/bird.jpg"
+                },
+                {
+                    "name": "gås",
+                    "imageURL": "img/animals/goose.jpg"
+                },
+                {
+                    "name": "gris",
+                    "imageURL": "img/animals/pig.jpg"
+                },
+                {
+                    "name": "hane",
+                    "imageURL": "img/animals/rooster.jpg"
+                },
+                {
+                    "name": "hest",
+                    "imageURL": "img/animals/horse.jpg"
+                },
+                {
+                    "name": "høne",
+                    "imageURL": "img/animals/chicken.jpg"
+                },
+                {
+                    "name": "hund",
+                    "imageURL": "img/animals/beagle.jpg"
+                },
+                {
+                    "name": "kanin",
+                    "imageURL": "img/animals/rabbit.jpg"
+                },
+                {
+                    "name": "katt",
+                    "imageURL": "img/animals/cat.jpg"
+                },
+                {
+                    "name": "kattunge",
+                    "imageURL": "img/animals/kitten.jpg"
+                },
+                {
+                    "name": "krokodille",
+                    "imageURL": "img/animals/crocodile.jpg"
+                },
+                {
+                    "name": "ku",
+                    "imageURL": "img/animals/cow.jpg"
+                },
+                {
+                    "name": "kylling",
+                    "imageURL": "img/animals/chick.jpg"
+                },
+                {
+                    "name": "lam",
+                    "imageURL": "img/animals/lamb.jpg"
+                },
+                {
+                    "name": "lekebamse",
+                    "imageURL": "img/animals/Blush_Bear.jpg"
+                },
+                {
+                    "name": "løve",
+                    "imageURL": "img/animals/lion.jpg"
+                },
+                {
+                    "name": "maur",
+                    "imageURL": "img/animals/black_ant.jpg"
+                },
+                {
+                    "name": "mus",
+                    "imageURL": "img/animals/mouse.jpg"
+                },
+                {
+                    "name": "mygg",
+                    "imageURL": "img/animals/mosquito.jpg"
+                },
+                {
+                    "name": "pingvin",
+                    "imageURL": "img/animals/penguin.jpg"
+                },
+                {
+                    "name": "ponni",
+                    "imageURL": "img/animals/pony.jpg"
+                },
+                {
+                    "name": "reinsdyr",
+                    "imageURL": "img/animals/reindeer.jpg"
+                },
+                {
+                    "name": "sau",
+                    "imageURL": "img/animals/ewe.jpg"
+                },
+                {
+                    "name": "sebra",
+                    "imageURL": "img/animals/zebra.jpg"
+                },
+                {
+                    "name": "sjiraff",
+                    "imageURL": "img/animals/giraffe.jpg"
+                },
+                {
+                    "name": "skilpadde",
+                    "imageURL": "img/animals/sea_turtle.jpg"
+                },
+                {
+                    "name": "sommerfugl",
+                    "imageURL": "img/animals/butterfly.jpg"
+                },
+                {
+                    "name": "tiger",
+                    "imageURL": "img/animals/tiger.jpg"
+                },
+                {
+                    "name": "ugle",
+                    "imageURL": "img/animals/owl.jpg"
+                },
+                {
+                    "name": "ulv",
+                    "imageURL": "img/animals/wolf.jpg"
+                },
+                {
+                    "name": "valp",
+                    "imageURL": "img/animals/puppy.jpg"
+                },
+                {
+                    "name": "veps",
+                    "imageURL": "img/animals/wasp.jpg"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Følelser",
+            "imageURL": "img/categories/lamp.jpg",
+            "words": [
+                {
+                    "name": "føler",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "elsker",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "sur",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "glad i",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "glad",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "lei",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "kjedelig",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "morsomt",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "hater",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "bekymret",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "lei seg",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "redd",
+                    "imageURL": "img/describe/grumpy.jpg"
+                },
+                {
+                    "name": "modig",
+                    "imageURL": "img/describe/grumpy.jpg"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Beskrivende ord",
+            "imageURL": "img/categories/furniture.jpg",
             "words": [
                 {
                     "name": "alle",
@@ -2929,140 +2918,693 @@ Learn.factory('learnFactory', function() {
             ]
         },
         {
-            "id": 21,
-            "name": "Hjelpeverb",
-            "imageURL": "img/categories/talk.jpg",
+            "id": 12,
+            "name": "Mengde ord",
+            "imageURL": "img/categories/outdoors.jpg",
             "words": [
                 {
-                    "name": "bli",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "badebasseng",
+                    "imageURL": "img/outdoor/swimming_pool.jpg"
                 },
                 {
-                    "name": "bør",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "bakgård",
+                    "imageURL": "img/outdoor/patio.jpg"
                 },
                 {
-                    "name": "burde",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "blomst",
+                    "imageURL": "img/outdoor/flower.jpg"
                 },
                 {
-                    "name": "er",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "fjell",
+                    "imageURL": "img/outdoor/mountain.jpg"
                 },
                 {
-                    "name": "få",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "fjær",
+                    "imageURL": "img/house_items/"
                 },
                 {
-                    "name": "gjør",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "flagg",
+                    "imageURL": "img/outdoor/flag.jpg"
                 },
                 {
-                    "name": "gjorde",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "fortau",
+                    "imageURL": "img/outdoor/sidewalk.jpg"
                 },
                 {
-                    "name": "gjøre",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "gress",
+                    "imageURL": "img/outdoor/grass.jpg"
                 },
                 {
-                    "name": "ha",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "gressklipper",
+                    "imageURL": "img/outdoor/mow.jpg"
                 },
                 {
-                    "name": "hadde",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "himmel",
+                    "imageURL": "img/outdoor/sky.jpg"
                 },
                 {
-                    "name": "har",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "huske",
+                    "imageURL": "img/outdoor/swing.jpg"
                 },
                 {
-                    "name": "kan",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "kjelke",
+                    "imageURL": "img/outdoor/sled.jpg"
                 },
                 {
-                    "name": "kunne",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "pinne",
+                    "imageURL": "img/outdoor/stick.jpg"
                 },
                 {
-                    "name": "la",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "regn",
+                    "imageURL": "img/outdoor/freezing_rain.jpg"
                 },
                 {
-                    "name": "må",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "sandkasse",
+                    "imageURL": "img/outdoor/sandbox.jpg"
                 },
                 {
-                    "name": "måtte",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "sklie",
+                    "imageURL": "img/outdoor/slide.jpg"
                 },
                 {
-                    "name": "skal",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "skyer",
+                    "imageURL": "img/outdoor/clouds.jpg"
                 },
                 {
-                    "name": "skulle",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "snø",
+                    "imageURL": "img/outdoor/snow.jpg"
                 },
                 {
-                    "name": "være",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "snømann",
+                    "imageURL": "img/outdoor/snowman.jpg"
                 },
                 {
-                    "name": "var",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "sol",
+                    "imageURL": "img/outdoor/Sun.jpg"
                 },
                 {
-                    "name": "vil",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "måne",
+                    "imageURL": "img/outdoor/starry_night_sky.jpg"
                 },
                 {
-                    "name": "ville",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "spade",
+                    "imageURL": "img/outdoor/shovel.jpg"
+                },
+                {
+                    "name": "stige",
+                    "imageURL": "img/outdoor/ladder.jpg"
+                },
+                {
+                    "name": "stjerner",
+                    "imageURL": "img/outdoor/stars.jpg"
+                },
+                {
+                    "name": "tak",
+                    "imageURL": "img/outdoor/roof.jpg"
+                },
+                {
+                    "name": "trampoline",
+                    "imageURL": "img/outdoor/trampoline.jpg"
+                },
+                {
+                    "name": "tre",
+                    "imageURL": "img/outdoor/tree.jpg"
+                },
+                {
+                    "name": "vann",
+                    "imageURL": "img/outdoor/water.jpg"
+                },
+                {
+                    "name": "vannslange",
+                    "imageURL": "img/outdoor/hose.jpg"
+                },
+                {
+                    "name": "vei",
+                    "imageURL": "img/outdoor/road.jpg"
+                },
+                {
+                    "name": "vind",
+                    "imageURL": "img/outdoor/wind.jpg"
                 }
             ]
         },
         {
-            "id": 22,
-            "name": "Bindeord",
-            "imageURL": "img/categories/talk.jpg",
+            "id": 13,
+            "name": "Ord om tid",
+            "imageURL": "img/categories/playground.jpg",
             "words": [
                 {
-                    "name": "at",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "dag",
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
-                    "name": "eller",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "etter",
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
-                    "name": "for",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "ettermiddag",
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
-                    "name": "fordi",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "etterpå",
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
-                    "name": "hvis",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "før",
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
-                    "name": "men",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "formiddag",
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
-                    "name": "og",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "i dag",
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
-                    "name": "så",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "i går",
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
-                    "name": "som",
-                    "imageURL": "img/categories/talk.jpg"
+                    "name": "i kveld",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "i morgen",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "kveld",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "morgen",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "nå",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "natt",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "senere",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "tid",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "mandag",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "tirsdag",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "onsdag",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "torsdag",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "fredag",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "lørdag",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "søndag",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "januar",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "februar",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "mars",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "april",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "mai",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "juni",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "juli",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "august",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "september",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "oktober",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "november",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "desember",
+                    "imageURL": "img/time/time.jpg"
+                },
+                {
+                    "name": "klokken",
+                    "imageURL": "img/time/time.jpg"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Mat og drikke",
+            "imageURL": "img/categories/doctor.jpg",
+            "words": [
+                {
+                    "name": "brødskive",
+                    "imageURL": "img/food/bread.jpg"
+                },
+                {
+                    "name": "agurk",
+                    "imageURL": "img/food/cucumber.jpg"
+                },
+                {
+                    "name": "appelsin",
+                    "imageURL": "img/food/orange.jpg"
+                },
+                {
+                    "name": "banan",
+                    "imageURL": "img/food/banana.jpg"
+                },
+                {
+                    "name": "boller",
+                    "imageURL": "img/food/cinnamon_bun.jpg"
+                },
+                {
+                    "name": "bønner",
+                    "imageURL": "img/food/baked_beans.jpg"
+                },
+                {
+                    "name": "brød",
+                    "imageURL": "img/food/bread1.jpg"
+                },
+                {
+                    "name": "brus",
+                    "imageURL": "img/food/orange_soda.jpg"
+                },
+                {
+                    "name": "cola",
+                    "imageURL": "img/food/Coke.jpg"
+                },
+                {
+                    "name": "corn flakes",
+                    "imageURL": "img/food/corn_flakes_cereal.jpg"
+                },
+                {
+                    "name": "dessert",
+                    "imageURL": "img/food/dessert.jpg"
+                },
+                {
+                    "name": "drikke",
+                    "imageURL": "img/food/drink1.jpg"
+                },
+                {
+                    "name": "druer",
+                    "imageURL": "img/food/grapes.jpg"
+                },
+                {
+                    "name": "egg",
+                    "imageURL": "img/food/egg.jpg"
+                },
+                {
+                    "name": "eple",
+                    "imageURL": "img/food/apple.jpg"
+                },
+                {
+                    "name": "erter",
+                    "imageURL": "img/food/peas.jpg"
+                },
+                {
+                    "name": "fisk",
+                    "imageURL": "img/food/salmon.jpg"
+                },
+                {
+                    "name": "frokostblanding",
+                    "imageURL": "img/food/cereal.jpg"
+                },
+                {
+                    "name": "frukt",
+                    "imageURL": "img/food/fruit.jpg"
+                },
+                {
+                    "name": "godteri",
+                    "imageURL": "img/food/candy.jpg"
+                },
+                {
+                    "name": "grøt",
+                    "imageURL": "img/food/porridge.jpg"
+                },
+                {
+                    "name": "gulrot",
+                    "imageURL": "img/food/carrot.jpg"
+                },
+                {
+                    "name": "hamburger",
+                    "imageURL": "img/food/hamburger.jpg"
+                },
+                {
+                    "name": "is",
+                    "imageURL": "img/food/sundae.jpg"
+                },
+                {
+                    "name": "jordbær",
+                    "imageURL": "img/food/strawberry.jpg"
+                },
+                {
+                    "name": "juice",
+                    "imageURL": "img/food/orange_juice.jpg"
+                },
+                {
+                    "name": "kaffe",
+                    "imageURL": "img/food/coffee.jpg"
+                },
+                {
+                    "name": "kake",
+                    "imageURL": "img/food/cake_candles.jpg"
+                },
+                {
+                    "name": "kjeks",
+                    "imageURL": "img/food/cookies.jpg"
+                },
+                {
+                    "name": "kjøtt",
+                    "imageURL": "img/food/meat.jpg"
+                },
+                {
+                    "name": "kjøttkaker",
+                    "imageURL": "img/food/meatballs.jpg"
+                },
+                {
+                    "name": "knekkebrød",
+                    "imageURL": "img/food/toaster_pastry.jpg"
+                },
+                {
+                    "name": "kylling",
+                    "imageURL": "img/food/chicken_drumstick.jpg"
+                },
+                {
+                    "name": "leverpostei",
+                    "imageURL": "img/food/liverwurst.jpg"
+                },
+                {
+                    "name": "mat",
+                    "imageURL": "img/food/food.jpg"
+                },
+                {
+                    "name": "matpakke",
+                    "imageURL": "img/food/lunch_box.jpg"
+                },
+                {
+                    "name": "melk",
+                    "imageURL": "img/food/milk.jpg"
+                },
+                {
+                    "name": "melon",
+                    "imageURL": "img/food/watermelon.jpg"
+                },
+                {
+                    "name": "nøtter",
+                    "imageURL": "img/food/nuts.jpg"
+                },
+                {
+                    "name": "Nugatti",
+                    "imageURL": "img/food/Nutella.jpg"
+                },
+                {
+                    "name": "ost",
+                    "imageURL": "img/food/Swiss_cheese.jpg"
+                },
+                {
+                    "name": "pannekake",
+                    "imageURL": "img/food/pancakes.jpg"
+                },
+                {
+                    "name": "pasta",
+                    "imageURL": "img/food/penne_pasta.jpg"
+                },
+                {
+                    "name": "pizza",
+                    "imageURL": "img/food/pizza.jpg"
+                },
+                {
+                    "name": "pølser",
+                    "imageURL": "img/food/hot_dog.jpg"
+                },
+                {
+                    "name": "pommes frites",
+                    "imageURL": "img/food/french_fries.jpg"
+                },
+                {
+                    "name": "popcorn",
+                    "imageURL": "img/food/popcorn.jpg"
+                },
+                {
+                    "name": "poteter",
+                    "imageURL": "img/food/potatoes.jpg"
+                },
+                {
+                    "name": "potetgull",
+                    "imageURL": "img/food/chips.jpg"
+                },
+                {
+                    "name": "ris",
+                    "imageURL": "img/food/rice.jpg"
+                },
+                {
+                    "name": "ristet brød",
+                    "imageURL": "img/food/put_in_toaster.jpg"
+                },
+                {
+                    "name": "rosiner",
+                    "imageURL": "img/food/raisins.jpg"
+                },
+                {
+                    "name": "saft",
+                    "imageURL": "img/food/drink.jpg"
+                },
+                {
+                    "name": "salami",
+                    "imageURL": "img/food/salami.jpg"
+                },
+                {
+                    "name": "salt",
+                    "imageURL": "img/food/salt.jpg"
+                },
+                {
+                    "name": "pepper",
+                    "imageURL": "img/food/pepper.jpg"
+                },
+                {
+                    "name": "saus",
+                    "imageURL": "img/food/hot_sauce.jpg"
+                },
+                {
+                    "name": "sjokolade",
+                    "imageURL": "img/food/chocolate_bar.jpg"
+                },
+                {
+                    "name": "smør",
+                    "imageURL": "img/food/margarine.jpg"
+                },
+                {
+                    "name": "spagetti",
+                    "imageURL": "img/food/spaghetti_with_sauce.jpg"
+                },
+                {
+                    "name": "sukkertøy",
+                    "imageURL": "img/food/lollipops.jpg"
+                },
+                {
+                    "name": "suppe",
+                    "imageURL": "img/food/soup.jpg"
+                },
+                {
+                    "name": "syltetøy",
+                    "imageURL": "img/food/strawberry_jam.jpg"
+                },
+                {
+                    "name": "te",
+                    "imageURL": "img/food/tea.jpg"
+                },
+                {
+                    "name": "tran",
+                    "imageURL": "img/food/vegetable_oil.jpg"
+                },
+                {
+                    "name": "tyggegummi",
+                    "imageURL": "img/food/gum.jpg"
+                },
+                {
+                    "name": "vafler",
+                    "imageURL": "img/food/waffles.jpg"
+                },
+                {
+                    "name": "vann",
+                    "imageURL": "img/food/full.jpg"
+                },
+                {
+                    "name": "yoghurt",
+                    "imageURL": "img/food/yogurt.jpg"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Kroppsdeler",
+            "imageURL": "img/categories/bathe.jpg",
+            "words": [
+                {
+                    "name": "ankel",
+                    "imageURL": "img/body/ankle.jpg"
+                },
+                {
+                    "name": "ansikt",
+                    "imageURL": "img/body/face.jpg"
+                },
+                {
+                    "name": "arm",
+                    "imageURL": "img/body/arm.jpg"
+                },
+                {
+                    "name": "bein",
+                    "imageURL": "img/body/leg.jpg"
+                },
+                {
+                    "name": "finger",
+                    "imageURL": "img/body/finger.jpg"
+                },
+                {
+                    "name": "fot",
+                    "imageURL": "img/body/foot.jpg"
+                },
+                {
+                    "name": "hake",
+                    "imageURL": "img/body/chin.jpg"
+                },
+                {
+                    "name": "hånd",
+                    "imageURL": "img/body/hand.jpg"
+                },
+                {
+                    "name": "hår",
+                    "imageURL": "img/body/hair.jpg"
+                },
+                {
+                    "name": "hode",
+                    "imageURL": "img/body/head.jpg"
+                },
+                {
+                    "name": "kinn",
+                    "imageURL": "img/body/cheeks.jpg"
+                },
+                {
+                    "name": "kne",
+                    "imageURL": "img/body/knee.jpg"
+                },
+                {
+                    "name": "lepper",
+                    "imageURL": "img/body/lips.jpg"
+                },
+                {
+                    "name": "mage",
+                    "imageURL": "img/body/stomach.jpg"
+                },
+                {
+                    "name": "munn",
+                    "imageURL": "img/body/mouth.jpg"
+                },
+                {
+                    "name": "navle",
+                    "imageURL": "img/body/belly_button.jpg"
+                },
+                {
+                    "name": "nese",
+                    "imageURL": "img/body/nose.jpg"
+                },
+                {
+                    "name": "øre",
+                    "imageURL": "img/body/ear.jpg"
+                },
+                {
+                    "name": "øye",
+                    "imageURL": "img/body/eye.jpg"
+                },
+                {
+                    "name": "pupp",
+                    "imageURL": "img/body/breast.jpg"
+                },
+                {
+                    "name": "rumpe",
+                    "imageURL": "img/body/butt.jpg"
+                },
+                {
+                    "name": "rygg",
+                    "imageURL": "img/body/back.jpg"
+                },
+                {
+                    "name": "skulder",
+                    "imageURL": "img/body/shoulder.jpg"
+                },
+                {
+                    "name": "tenner",
+                    "imageURL": "img/body/teeth.jpg"
+                },
+                {
+                    "name": "tiss",
+                    "imageURL": "img/body/penis.jpg"
+                },
+                {
+                    "name": "tunge",
+                    "imageURL": "img/body/tongue.jpg"
+                },
+                {
+                    "name": "tå",
+                    "imageURL": "img/body/toenail.jpg"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Mine tegn",
+            "imageURL": "img/categories/jump.jpg",
+            "words": [
+                {
+                    "name": "jobbe",
+                    "imageURL": "img/verb/work.jpg"
                 }
             ]
         }
