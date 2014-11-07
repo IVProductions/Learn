@@ -13,38 +13,33 @@
         <div class="listOfWords">
             <div class="categoryTitle">{{currentCategory.name}}</div>
             <div class="backgroundWords">
+                <div class="words">
                 <div class="word" ng-repeat="word in currentCategory.words" data-ng-init="setDraggable()" style="background-image: url('{{word.imageURL}}')">
                     <!--<img ng-src="{{word.imageURL}}" width="130" height="130" style="margin-top:20px">-->
                     <div class="draggable" ng-click="readWord2($event.srcElement.innerHTML)" style="position: absolute; z-index: 1">
                         <span class="wordName">{{word.name}}</span>
                     </div>
                 </div>
-            </div>
+                </div>            </div>
             <div class="backgroundSentences">
                 <div class="sentence" ng-repeat="sentence in sentences" ng-click="seeSentence(sentence)">
                     <div  class="wordInSentence" ng-repeat="word in sentence.words">
                             <img ng-src="{{word.imageURL}}" height="37" width="37">
                             <div class="wordText">{{word.name}}</div>
                     </div>
-                    <div class="deleteBtn" ng-show="canDelete" ng-click="deleteFavorite($index)">X</div>
+                    <div class="deleteBtn glyphicons bin" ng-show="canDelete" ng-click="deleteFavorite($index)"></div>
                 </div>
-                <img ng-src="img/clear.png" ng-click="letsDelete()" height="50" width="50" style="position: absolute; top: 10px; right: 180px;">
+                <div class="glyphicons bin" ng-click="letsDelete()"  style="position: absolute; top: 10px; right: 180px;">
             </div>
         </div>
-
-
-
     </div>
     <div class="inputBox" data-ng-init="setDroppable()">
         <ul id="items" data-ng-init="setSortable()"></ul>
     </div>
     <div class="play">
-        <div class="playbtn" ng-click="readSentence()"></div>
-        <div class="favbtn" ng-click="setAsFavorite()"></div>
-        <div class="resetbtn" ng-click="removeSentence()"></div>
+        <div class="action_button glyphicons volume_up" ng-click="readSentence()"></div>
+        <div class="action_button glyphicons star" ng-click="setAsFavorite()"></div>
+        <div class="action_button glyphicons bin" ng-click="removeSentence()"></div>
     </div>
-
-
-
 </div>
 

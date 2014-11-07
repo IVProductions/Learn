@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVConfigParser.m \
-  /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+  /Users/oeseth/Desktop/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVConfigParser.m \
+  /Users/oeseth/Desktop/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVConfigParser.h

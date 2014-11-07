@@ -12,6 +12,22 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
     $scope.categories = learnFactory.categories;
     $scope.currentCategory = $scope.categories[0];
     $scope.currentWord = $scope.categories[0].words[0];
+    var heightOfCurrentCategory = 0;
+
+    function getHeightOfCategory () {
+        for(var i = 0; i<$scope.currentCategory.words.length; i+=4){
+            heightOfCurrentCategory = heightOfCurrentCategory + 200;
+        }
+        heightOfCurrentCategory = heightOfCurrentCategory + 20;
+        $('.backgroundWords').css("height",heightOfCurrentCategory + "px");
+        heightOfCurrentCategory = 0;
+        console.log("HEIGHT:");
+        console.log(heightOfCurrentCategory);
+    }
+    getHeightOfCategory();
+
+
+
 
     $scope.sentences = [];
 
@@ -34,12 +50,11 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
             $scope.currentCategory = $scope.categories[id-1];
             $(".categoryTitle").html($scope.currentCategory.name);
         }
-        for (var i=0;i<$scope.categories.length;i++) {
-            //$("#"+i).css("background-color", "white");
-            $("#"+i).css("border-bottom", "4px solid lightblue");
+        for (var i=0;i<$scope.categories.length+1;i++) {
+            $("#"+i).css("border-color", "#cccccc");
         }
-        $("#"+(id-1)).css("border-bottom", "4px solid red");
-        $("#"+id).css("border-bottom", "4px solid red");
+        $("#"+id).css("border-color", "#FA6666");
+            getHeightOfCategory();
     }
 
     $scope.letsDelete = function (){
@@ -66,7 +81,8 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
                     width: "55px",
                     height: "55px"
                 }).appendTo(sortableWord);
-                sortableWordImg.css({borderBottomLeftRadius: 13, borderBottomRightRadius: 13});
+                sortableWordImg.css({borderRadius: 3});
+                sortableWordImg.css({marginTop: 10});
             }
             playAudio("audio/bop_success.mp3")
             $scope.setDroppable();
@@ -192,7 +208,8 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
                             width: "55px",
                             height: "55px"
                         }).appendTo(sortableWord);
-                        sortableWordImg.css({borderBottomLeftRadius: 13, borderBottomRightRadius: 13});
+                        sortableWordImg.css({borderRadius: 3});
+                        sortableWordImg.css({marginTop: 10});
                         newParent.show();
                         $scope.setDroppable();
                         $(".inputBox").css("background-color", "cornflowerblue");
@@ -317,7 +334,7 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
                     //$scope.sentences.push({"words":listOfWords});
                     window.localStorage.setItem("sentences", JSON.stringify($scope.sentences));
                     var r = Math.random().toString().substring(3,7);
-                    var $starAnim = $("<img>", {src: "img/star.png", class: "starAnim"+r+" star", height: "10", width: "10"});
+                    var $starAnim = $("<img>", {src: "img/star.png", class: "starAnim"+r+" star1", height: "10", width: "10"});
                     $starAnim.css('position', 'absolute');
                     $starAnim.css('top', '300px');
                     $starAnim.css('left', '500px');
@@ -327,7 +344,7 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
                     //});
                     $('.starAnim'+r).effect("scale", {percent:5000, origin:['middle','center']}, 300, function () {
                         $('.starAnim'+r).remove();
-                        $(".star").remove();
+                        $(".star1").remove();
                     });
                 }
             }

@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/Learning/main.m
+  /Users/oeseth/Desktop/GitHub/Learn/platforms/ios/Learning/main.m

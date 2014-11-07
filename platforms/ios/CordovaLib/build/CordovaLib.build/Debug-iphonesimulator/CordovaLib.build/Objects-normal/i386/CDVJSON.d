@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVJSON.m \
-  /Users/simonhordvik/Documents/Cordova_Apps/Learn/platforms/ios/CordovaLib/Classes/CDVJSON.h
+  /Users/oeseth/Desktop/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVJSON.m \
+  /Users/oeseth/Desktop/GitHub/Learn/platforms/ios/CordovaLib/Classes/CDVJSON.h
