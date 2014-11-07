@@ -661,7 +661,11 @@ Learn.factory('learnFactory', function() {
         },
         {
             "id": 6,
+<<<<<<< HEAD
             "name": "Klær",
+=======
+            "name": "Klær og tilbehør",
+>>>>>>> FETCH_HEAD
             "imageURL": "img/categories/clothes.jpg",
             "words": [
                 {
@@ -903,7 +907,11 @@ Learn.factory('learnFactory', function() {
         },
         {
             "id": 8,
+<<<<<<< HEAD
             "name": "Husgjenstander",
+=======
+            "name": "Små gjenstander i huset",
+>>>>>>> FETCH_HEAD
             "imageURL": "img/categories/lamp.jpg",
             "words": [
                 {
@@ -1110,7 +1118,11 @@ Learn.factory('learnFactory', function() {
         },
         {
             "id": 9,
+<<<<<<< HEAD
             "name": "Rom & møbler",
+=======
+            "name": "Rom og møbler",
+>>>>>>> FETCH_HEAD
             "imageURL": "img/categories/furniture.jpg",
             "words": [
                 {
@@ -1384,7 +1396,11 @@ Learn.factory('learnFactory', function() {
         },
         {
             "id": 11,
+<<<<<<< HEAD
             "name": "Steder",
+=======
+            "name": "Steder å dra til",
+>>>>>>> FETCH_HEAD
             "imageURL": "img/categories/playground.jpg",
             "words": [
                 {
@@ -1626,7 +1642,11 @@ Learn.factory('learnFactory', function() {
         },
         {
             "id": 13,
+<<<<<<< HEAD
             "name": "Rutiner",
+=======
+            "name": "Leker og rutiner",
+>>>>>>> FETCH_HEAD
             "imageURL": "img/categories/bathe.jpg",
             "words": [
                 {
@@ -2172,7 +2192,11 @@ Learn.factory('learnFactory', function() {
         },
         {
             "id": 15,
+<<<<<<< HEAD
             "name": "Beskrive",
+=======
+            "name": "Beskrivende ord",
+>>>>>>> FETCH_HEAD
             "imageURL": "img/categories/describe.jpg",
             "words": [
                 {
@@ -2664,7 +2688,11 @@ Learn.factory('learnFactory', function() {
         },
         {
             "id": 19,
+<<<<<<< HEAD
             "name": "Preposisjoner",
+=======
+            "name": "Preposisjoner og stedsangivelser",
+>>>>>>> FETCH_HEAD
             "imageURL": "img/categories/behind.jpg",
             "words": [
                 {

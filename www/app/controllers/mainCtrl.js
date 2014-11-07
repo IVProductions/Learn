@@ -124,17 +124,20 @@ function mainCtrl($scope, $location, sentencesFactory, learnFactory) {
     }
 
     $scope.readSentence = function() {
-        if (buttonDisabled==false) {
-            lengthOfSentence = $("#items li").size();
+        lengthOfSentence = $("#items li").size();
+        if (buttonDisabled==false && lengthOfSentence>0) {
+            var speechString = "";
             buttonDisabled = (lengthOfSentence>0) ? true: false;
             $("#items li").each(function(index, value) {
                 var list = $(value).html().split("<br>");
-                TTSPlugin.speak(list[0],function(){
-                    //success callback function
-                    isReadingSentence = true;
-                }, function(){
-                    //failure callback function
-                });
+                speechString += list[0]+";";
+            });
+            speechString = speechString.substring(0, speechString.length - 1);
+            TTSPlugin.speak(speechString,function(){
+                //success callback function
+                isReadingSentence = true;
+            }, function(){
+                //failure callback function
             });
         }
     }
