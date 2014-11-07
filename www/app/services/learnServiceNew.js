@@ -2432,67 +2432,67 @@ Learn.factory('learnFactory', function() {
             "words": [
                 {
                     "name": "dag",
-                    "imageURL": "res/img/time/time.jpg"
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
                     "name": "etter",
-                    "imageURL": "res/img/time/time.jpg"
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
                     "name": "ettermiddag",
-                    "imageURL": "res/img/time/time.jpg"
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
                     "name": "etterpå",
-                    "imageURL": "res/img/time/time.jpg"
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
                     "name": "før",
-                    "imageURL": "res/img/time/time.jpg"
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
                     "name": "formiddag",
-                    "imageURL": "res/img/time/time.jpg"
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
                     "name": "i dag",
-                    "imageURL": "res/img/time/time.jpg"
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
                     "name": "i går",
-                    "imageURL": "res/img/time/time.jpg"
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
                     "name": "i kveld",
-                    "imageURL": "res/img/time/time.jpg"
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
                     "name": "i morgen",
-                    "imageURL": "res/img/time/time.jpg"
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
                     "name": "kveld",
-                    "imageURL": "res/img/time/time.jpg"
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
                     "name": "morgen",
-                    "imageURL": "res/img/time/time.jpg"
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
                     "name": "nå",
-                    "imageURL": "res/img/time/time.jpg"
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
                     "name": "natt",
-                    "imageURL": "res/img/time/time.jpg"
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
                     "name": "senere",
-                    "imageURL": "res/img/time/time.jpg"
+                    "imageURL": "img/time/time.jpg"
                 },
                 {
                     "name": "tid",
-                    "imageURL": "res/img/time/time.jpg"
+                    "imageURL": "img/time/time.jpg"
                 }
             ]
         },
